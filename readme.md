@@ -4,9 +4,9 @@
 I'm a fourth-year Computer Science student passionate about software development and technology. I love turning ideas into reality through code and creating impactful solutions.
 
 ## 📊 GitHub Stats
-[![Nipun's GitHub stats](https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical)](https://github.com/nightfury3128)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury3128&layout=compact&theme=radical)](https://github.com/nightfury3128)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury3128&layout=compact&theme=radical&hide=html,css)
 
 ## 🛠️ Skills
 - Languages: Python, JavaScript, Java, C++
