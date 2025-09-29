@@ -1,0 +1,14 @@
+# How many events to show in your README
+max_lines: 10
+
+# Types of events to include
+events:
+  - PushEvent
+  - IssuesEvent
+  - PullRequestEvent
+  - PullRequestReviewEvent
+  - IssueCommentEvent
+  - WatchEvent       # stars
+  - ForkEvent
+  - ReleaseEvent
+  - CreateEvent
