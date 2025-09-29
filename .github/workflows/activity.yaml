@@ -1,18 +1,24 @@
-name: Update README with recent activity
+name: Recent Activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:      # Allow manual trigger
+    - cron: "0 * * * *"   # Runs every hour
+  workflow_dispatch:       # Manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
-  update-readme:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-      - name: Update README with activity
-        uses: jamesgeorge007/github-activity-readme@v0.3.6
+      - name: Update README with recent activity
+        uses: Readme-Workflows/recent-activity@v2.4.0
+        with:
+          GH_USERNAME: nightfury3128
+          COMMIT_MSG: "⚡ Update README with the recent activity"
+          MAX_LINES: 10
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
