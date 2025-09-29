@@ -3,7 +3,7 @@ name: Update README with recent activity
 on:
   schedule:
     - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:      # Allow manual trigger from Actions tab
+  workflow_dispatch:      # Allow manual trigger
 
 jobs:
   update-readme:
@@ -14,5 +14,5 @@ jobs:
 
       - name: Update README with activity
         uses: jamesgeorge007/github-activity-readme@v0.3.6
-        with:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
