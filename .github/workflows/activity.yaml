@@ -3,10 +3,7 @@ name: Recent Activity
 on:
   schedule:
     - cron: "0 * * * *"   # Runs every hour
-  workflow_dispatch:       # Manual trigger
-  push:
-    branches:
-      - main
+  workflow_dispatch:       # Allow manual trigger
 
 jobs:
   build:
@@ -18,7 +15,6 @@ jobs:
         uses: Readme-Workflows/recent-activity@v2.4.0
         with:
           GH_USERNAME: nightfury3128
-          COMMIT_MSG: "⚡ Update README with the recent activity"
-          MAX_LINES: 10
+          CONFIG_FILE: ".github/recent-activity.config.yml"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
