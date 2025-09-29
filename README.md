@@ -11,8 +11,8 @@ I'm a fourth-year Computer Science student passionate about software development
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nightfury3128&theme=radical)
 
 ## 📌 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## 🛠️ Skills
 - Languages: Python, JavaScript, Java, C++
