@@ -125,11 +125,30 @@
 
 ---
 
+## 🏆 Achievements & Contributions
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&cache_seconds=1800)
+
+### 🐍 Contribution Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-2. 📔 Created new repository [nightfury3128/webDev](https://github.com/nightfury3128/webDev)
+2. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+3. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+4. 📔 Created new repository [nightfury3128/webDev](https://github.com/nightfury3128/webDev)
 <!--RECENT_ACTIVITY:end-->
 
 ---
@@ -139,26 +158,27 @@
 <div align="center">
 
 <!--PSN_ACTIVITY:start-->
-🎮 **Currently/Recently Playing (PS5):**
-- F1® 24 🎮 | Progress: 8% | Last Played: 5 days ago
-- Marvel's Spider-Man Remastered 🕷️ | Progress: 53% | Last Played: 10 days ago
-- It Takes Two 🎮 | Progress: 21% | Last Played: 11 days ago
-- Stardew Valley 🎮 | Progress: 0% | Last Played: 25 days ago
-- Lies of P 🎮 | Progress: 2% | Last Played: 32 days ago
+## 🎮 Currently Playing
 
-🏆 **Recent Trophies:**
-- 🥉 **Bronze Trophy** - "Base Game" in F1® 24
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-- 🥉 **Bronze Trophy** - "Base Game" in It Takes Two
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
+<div align="center">
 
-💯 **Gaming Stats:**
-- Total Games: 50 | Completed: 12 | In Progress: 5
-- Trophy Count: 🏆 Total: 0 | 🥇 Gold: 0 | 🥈 Silver: 0 | 🥉 Bronze: 0
-- PSN Level: 🎯 Level 1 | Next Level: 3% progress
+<!--PSN_ACTIVITY:start-->
+🎮 **Currently Playing:**
+- F1® 24 🎮 | Last Played: 5 days ago
+- Marvel's Spider-Man Remastered 🕷️ | Last Played: 10 days ago
+- It Takes Two 🎮 | Last Played: 11 days ago
+- Stardew Valley 🎮 | Last Played: 25 days ago
+- Lies of P 🎮 | Last Played: 32 days ago
 
-*Last updated: October 2, 2025 at 2:09 PM UTC*
+*Last updated: October 2, 2025 at 2:20 PM UTC*
+<!--PSN_ACTIVITY:end-->
+
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
+<img src="https://img.shields.io/badge/PSN%20Level-1-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
+<img src="https://img.shields.io/badge/Trophies-0-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epic Games" />
+
+</div>
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
