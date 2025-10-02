@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more acquaintances you have, the less you know them. – Chinese Proverb"*
+### 💡 *"Your only limitations are those you set up in your mind or permit others to set up for you. – Og Mandino"*
 
-*Last updated: October 02, 2025 at 08:34 PM UTC*
+*Last updated: October 02, 2025 at 08:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
