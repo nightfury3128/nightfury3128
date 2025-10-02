@@ -17,73 +17,102 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate Random Quote
+      - name: Fetch Random Quote from API
         id: quote
         run: |
-          # Array of inspiring tech/programming quotes
-          quotes=(
-            "\"Code is like humor. When you have to explain it, it's bad.\" – Cory House"
-            "\"First, solve the problem. Then, write the code.\" – John Johnson"
-            "\"Experience is the name everyone gives to their mistakes.\" – Oscar Wilde"
-            "\"In order to be irreplaceable, one must always be different.\" – Coco Chanel"
-            "\"Java is to JavaScript what car is to Carpet.\" – Chris Heilmann"
-            "\"Knowledge is power.\" – Francis Bacon"
-            "\"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.\" – Dan Salomon"
-            "\"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.\" – Antoine de Saint-Exupery"
-            "\"Code never lies, comments sometimes do.\" – Ron Jeffries"
-            "\"Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.\" – Muhammad Waseem"
-            "\"If debugging is the process of removing software bugs, then programming must be the process of putting them in.\" – Edsger Dijkstra"
-            "\"Measuring programming progress by lines of code is like measuring aircraft building progress by weight.\" – Bill Gates"
-            "\"Talk is cheap. Show me the code.\" – Linus Torvalds"
-            "\"The best error message is the one that never shows up.\" – Thomas Fuchs"
-            "\"Simplicity is the ultimate sophistication.\" – Leonardo da Vinci"
-            "\"Make it work, make it right, make it fast.\" – Kent Beck"
-            "\"The most important property of a program is whether it accomplishes the intention of its user.\" – C.A.R. Hoare"
-            "\"Programming isn't about what you know; it's about what you can figure out.\" – Chris Pine"
-            "\"The only way to learn a new programming language is by writing programs in it.\" – Dennis Ritchie"
-            "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" – Martin Fowler"
-            "\"Programs must be written for people to read, and only incidentally for machines to execute.\" – Harold Abelson"
-            "\"Software is a great combination between artistry and engineering.\" – Bill Gates"
-            "\"The computer was born to solve problems that did not exist before.\" – Bill Gates"
-            "\"Innovation distinguishes between a leader and a follower.\" – Steve Jobs"
-            "\"Technology is best when it brings people together.\" – Matt Mullenweg"
-          )
+          # Try multiple quote APIs for reliability
           
-          # Get random quote
-          random_index=$((RANDOM % ${#quotes[@]}))
-          selected_quote="${quotes[$random_index]}"
+          # First try: Quotable API (programming/technology quotes)
+          if quote_data=$(curl -s "https://api.quotable.io/quotes/random?tags=technology,science,inspirational&limit=1"); then
+            quote_text=$(echo "$quote_data" | jq -r '.[0].content // .content')
+            quote_author=$(echo "$quote_data" | jq -r '.[0].author // .author')
+            
+            if [ "$quote_text" != "null" ] && [ "$quote_author" != "null" ]; then
+              selected_quote="$quote_text – $quote_author"
+              echo "✅ Got quote from Quotable API"
+            else
+              quote_data=""
+            fi
+          fi
+          
+          # Fallback: ZenQuotes API
+          if [ -z "$quote_data" ] || [ "$quote_text" = "null" ]; then
+            echo "🔄 Trying ZenQuotes API..."
+            if quote_response=$(curl -s "https://zenquotes.io/api/random"); then
+              quote_text=$(echo "$quote_response" | jq -r '.[0].q // empty')
+              quote_author=$(echo "$quote_response" | jq -r '.[0].a // empty')
+              
+              if [ -n "$quote_text" ] && [ -n "$quote_author" ] && [ "$quote_text" != "null" ]; then
+                selected_quote="$quote_text – $quote_author"
+                echo "✅ Got quote from ZenQuotes API"
+              fi
+            fi
+          fi
+          
+          # Final fallback: Hardcoded tech quotes
+          if [ -z "$selected_quote" ]; then
+            echo "🔄 Using fallback quotes..."
+            quotes=(
+              "Code is like humor. When you have to explain it, it's bad. – Cory House"
+              "First, solve the problem. Then, write the code. – John Johnson"
+              "Talk is cheap. Show me the code. – Linus Torvalds"
+              "The best error message is the one that never shows up. – Thomas Fuchs"
+              "Make it work, make it right, make it fast. – Kent Beck"
+              "Any fool can write code that a computer can understand. Good programmers write code that humans can understand. – Martin Fowler"
+              "Programs must be written for people to read, and only incidentally for machines to execute. – Harold Abelson"
+              "Innovation distinguishes between a leader and a follower. – Steve Jobs"
+              "Technology is best when it brings people together. – Matt Mullenweg"
+              "Simplicity is the ultimate sophistication. – Leonardo da Vinci"
+            )
+            
+            random_index=$((RANDOM % ${#quotes[@]}))
+            selected_quote="${quotes[$random_index]}"
+            echo "✅ Using fallback quote"
+          fi
           
           # Get current timestamp
           timestamp=$(date '+%B %d, %Y at %I:%M %p UTC')
           
           echo "quote=$selected_quote" >> $GITHUB_OUTPUT
           echo "timestamp=$timestamp" >> $GITHUB_OUTPUT
+          echo "🎯 Selected quote: $selected_quote"
 
       - name: Update README with new quote
         run: |
-          # Read the current README
-          readme_content=$(cat README.md)
-          
-          # Create the new quote section
-          new_quote_section="### 💡 *${{ steps.quote.outputs.quote }}*
+          # Create temp file with new quote content
+          cat > new_quote.md << EOF
+          ### 💡 *"${{ steps.quote.outputs.quote }}"*
 
-*Last updated: ${{ steps.quote.outputs.timestamp }}*"
+          *Last updated: ${{ steps.quote.outputs.timestamp }}*
+          EOF
           
-          # Use sed to replace the quote section
-          # Find the line with the quote and replace until the next section
-          sed -i.bak '/<!--DYNAMIC_QUOTE:start-->/,/<!--DYNAMIC_QUOTE:end-->/{
-            /<!--DYNAMIC_QUOTE:start-->/!{
-              /<!--DYNAMIC_QUOTE:end-->/!d
-            }
-          }' README.md
+          # Use Python for reliable text replacement
+          python3 << 'PYTHON_SCRIPT'
+          import re
           
-          # Insert the new quote
-          sed -i.bak '/<!--DYNAMIC_QUOTE:start-->/a\
-'"$new_quote_section"'
-' README.md
+          # Read current README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
           
-          # Clean up backup file
-          rm README.md.bak
+          # Read new quote content
+          with open('new_quote.md', 'r', encoding='utf-8') as f:
+              new_quote = f.read().strip()
+          
+          # Replace content between markers
+          pattern = r'(<!--DYNAMIC_QUOTE:start-->).*?(<!--DYNAMIC_QUOTE:end-->)'
+          replacement = r'\1\n' + new_quote + r'\n\2'
+          
+          updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+          
+          # Write back to README
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated_content)
+          
+          print("✅ README updated successfully")
+          PYTHON_SCRIPT
+          
+          # Clean up
+          rm -f new_quote.md
 
       - name: Commit changes
         run: |
