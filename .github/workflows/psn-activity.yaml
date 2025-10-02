@@ -304,13 +304,38 @@ jobs:
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.name "PlayStation Bot"
           git add README.md
           if git diff --staged --quiet; then
             echo "No PSN activity changes to commit"
           else
             git commit -m "🎮 Update PlayStation gaming activity [skip ci]"
-            git push
+            
+            # Handle potential push conflicts with retries
+            MAX_RETRIES=3
+            RETRY_COUNT=0
+            
+            while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+              if git push; then
+                echo "✅ Successfully pushed PSN activity update"
+                break
+              else
+                echo "⚠️ Push failed, attempting to pull and retry (attempt $((RETRY_COUNT + 1))/$MAX_RETRIES)"
+                RETRY_COUNT=$((RETRY_COUNT + 1))
+                
+                # Pull latest changes and rebase our commit
+                git pull --rebase origin main
+                
+                # If this is the last retry, fail
+                if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
+                  echo "❌ Failed to push after $MAX_RETRIES attempts"
+                  exit 1
+                fi
+                
+                # Wait a bit before retrying to avoid rapid succession
+                sleep 5
+              fi
+            done
           fi
 
       - name: Cleanup
