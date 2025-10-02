@@ -238,27 +238,31 @@ No activity tracked
 ### 🕹️ Recent Games & Trophies
 <!--PSN_ACTIVITY:start-->
 🎮 **Currently Playing:**
-- Spider-Man 2 🕷️ | Progress: 78% | Last Played: 2 days ago
-- FIFA 24 ⚽ | Progress: 45% | Last Played: 1 day ago
-- Call of Duty: Modern Warfare III 🔫 | Progress: 23% | Last Played: 3 days ago
+- F1® 24 🎮 | Progress: 8% | Last Played: 5 days ago
+- Marvel's Spider-Man Remastered 🕷️ | Progress: 53% | Last Played: 10 days ago
+- It Takes Two 🎮 | Progress: 21% | Last Played: 11 days ago
+- Stardew Valley 🎮 | Progress: 0% | Last Played: 25 days ago
+- Lies of P 🎮 | Progress: 2% | Last Played: 32 days ago
 
 🏆 **Recent Trophies:**
-- 🥇 **Gold Trophy** - "Web-Slinger Supreme" in Spider-Man 2
-- 🥈 **Silver Trophy** - "Goal Machine" in FIFA 24  
-- 🥉 **Bronze Trophy** - "First Blood" in Call of Duty: MW III
+- 🥉 **Bronze Trophy** - "Base Game" in F1® 24
+- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
+- 🥉 **Bronze Trophy** - "Base Game" in It Takes Two
+- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
+- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
 
 💯 **Gaming Stats:**
-- Total Games: 47 | Completed: 12 | In Progress: 8
-- Trophy Count: 🏆 Total: 1,247 | 🥇 Gold: 89 | 🥈 Silver: 234 | 🥉 Bronze: 924
-- PSN Level: 🎯 Level 142 | Next Level: 89% progress
+- Total Games: 50 | Completed: 12 | In Progress: 5
+- Trophy Count: 🏆 Total: 0 | 🥇 Gold: 0 | 🥈 Silver: 0 | 🥉 Bronze: 0
+- PSN Level: 🎯 Level 1 | Next Level: 71% progress
 
-*Last updated: October 2, 2025 at 12:00 PM UTC*
+*Last updated: October 2, 2025 at 1:57 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 ### 🎯 PlayStation Profile
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
-<img src="https://img.shields.io/badge/PSN%20Level-142-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
-<img src="https://img.shields.io/badge/Trophies-1247-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
+<img src="https://img.shields.io/badge/PSN%20Level-1-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
+<img src="https://img.shields.io/badge/Trophies-0-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
 
 </div>
 
