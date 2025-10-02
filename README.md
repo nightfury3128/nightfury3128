@@ -127,10 +127,10 @@
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-2. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-3. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-4. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+1. 💪 Opened PR [#3](https://github.com/nightfury3128/nightfury3128/pull/3) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+2. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+3. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+4. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
 5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
 <!--RECENT_ACTIVITY:end-->
 
