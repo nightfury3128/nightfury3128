@@ -127,10 +127,20 @@
   </tr>
 </table>
 
-### 📈 Repository Health
+### 📈 Repository Health & Git Stats
 ![GitHub last commit](https://img.shields.io/github/last-commit/nightfury3128/nightfury3128?style=for-the-badge&color=ff6b6b)
 ![GitHub repo size](https://img.shields.io/github/repo-size/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/nightfury3128/nightfury3128?style=for-the-badge&color=79ff97)
+
+### 🔀 Merge & Pull Request Stats
+![GitHub merged PRs](https://img.shields.io/github/issues-pr-closed/nightfury3128/nightfury3128?style=for-the-badge&color=9945ff&label=Merged%20PRs)
+![GitHub open PRs](https://img.shields.io/github/issues-pr/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff&label=Open%20PRs)
+![GitHub issues](https://img.shields.io/github/issues/nightfury3128/nightfury3128?style=for-the-badge&color=ff6b6b&label=Issues)
+
+### 🌟 Community Engagement
+![GitHub stars](https://img.shields.io/github/stars/nightfury3128?style=for-the-badge&color=ffd700&label=Total%20Stars)
+![GitHub forks](https://img.shields.io/github/forks/nightfury3128/nightfury3128?style=for-the-badge&color=79ff97&label=Forks)
+![GitHub watchers](https://img.shields.io/github/watchers/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff&label=Watchers)
 
 </div>
 
@@ -200,6 +210,25 @@ No activity tracked
 
 ### ⚡ Real-time Coding Stats
 <img src="https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Coding%20Activity&border_radius=10&cache_seconds=1800" alt="Coding Activity" />
+
+### 🔀 Git Workflow Statistics
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:nightfury3128+merge&label=Total%20Merges&query=$.total_count&style=for-the-badge&color=9945ff&logo=git" alt="Total Merges" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58a6ff&logo=github" alt="Public Repos" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Total%20Gists&query=$.public_gists&style=for-the-badge&color=79ff97&logo=github" alt="Total Gists" />
+    </td>
+  </tr>
+</table>
+
+### 📈 Advanced Git Metrics
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nightfury3128&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nightfury3128&theme=radical" width="49%" />
 
 </div>
 
