@@ -183,20 +183,6 @@
 - It Takes Two 🎮 | Progress: 21% | Last Played: 11 days ago
 - Stardew Valley 🎮 | Progress: 0% | Last Played: 25 days ago
 - Lies of P 🎮 | Progress: 2% | Last Played: 32 days ago
-
-🏆 **Recent Trophies:**
-- 🥉 **Bronze Trophy** - "Base Game" in F1® 24
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-- 🥉 **Bronze Trophy** - "Base Game" in It Takes Two
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-
-💯 **Gaming Stats:**
-- Total Games: 50 | Completed: 12 | In Progress: 5
-- Trophy Count: 🏆 Total: 0 | 🥇 Gold: 0 | 🥈 Silver: 0 | 🥉 Bronze: 0
-- PSN Level: 🎯 Level 1 | Next Level: 3% progress
-
-*Last updated: October 2, 2025 at 2:09 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 ### 🎯 PlayStation Profile
