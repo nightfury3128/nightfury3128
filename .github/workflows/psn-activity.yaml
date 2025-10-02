@@ -41,8 +41,7 @@ jobs:
               const psnAccessSecret = process.env.PSN_ACCESS;
               
               if (!psnAccessSecret) {
-                console.log('⚠️ PSN_ACCESS secret not configured, using sample data');
-                return generateSampleData();
+                throw new Error('PSN_ACCESS secret not configured');
               }
               
               // Parse the JSON secret
@@ -50,14 +49,12 @@ jobs:
               try {
                 npssoData = JSON.parse(psnAccessSecret);
               } catch (error) {
-                console.log('❌ Invalid PSN_ACCESS JSON format, using sample data');
-                return generateSampleData();
+                throw new Error('Invalid PSN_ACCESS JSON format');
               }
               
               const npssoToken = npssoData.npsso;
               if (!npssoToken) {
-                console.log('⚠️ No NPSSO token found in PSN_ACCESS, using sample data');
-                return generateSampleData();
+                throw new Error('No NPSSO token found in PSN_ACCESS secret');
               }
               
               console.log('� Using NPSSO token for authentication');
@@ -141,68 +138,10 @@ jobs:
               
             } catch (error) {
               console.log('❌ Error fetching PSN data:', error.message);
-              console.log('🔄 Falling back to sample data');
-              return generateSampleData();
+              throw error;
             }
           }
           
-          function generateSampleData() {
-            return {
-              profile: {
-                level: 142,
-                totalTrophies: 1247,
-                trophyBreakdown: {
-                  platinum: 12,
-                  gold: 89,
-                  silver: 234,
-                  bronze: 924
-                }
-              },
-              games: [
-                {
-                  name: "Spider-Man 2",
-                  platform: "PS5",
-                  progress: 78,
-                  lastPlayedDateTime: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toISOString(),
-                  earnedTrophies: { bronze: 15, silver: 8, gold: 3, platinum: 0 }
-                },
-                {
-                  name: "FIFA 24",
-                  platform: "PS5", 
-                  progress: 45,
-                  lastPlayedDateTime: new Date(Date.now() - 1 * 24 * 60 * 60 * 1000).toISOString(),
-                  earnedTrophies: { bronze: 12, silver: 5, gold: 1, platinum: 0 }
-                },
-                {
-                  name: "Call of Duty: Modern Warfare III",
-                  platform: "PS5",
-                  progress: 23,
-                  lastPlayedDateTime: new Date(Date.now() - 3 * 24 * 60 * 60 * 1000).toISOString(),
-                  earnedTrophies: { bronze: 8, silver: 2, gold: 0, platinum: 0 }
-                }
-              ],
-              recentTrophies: [
-                {
-                  gameName: "Spider-Man 2",
-                  groupName: "Web-Slinger Supreme",
-                  earnedTrophies: { gold: 1 },
-                  lastUpdated: new Date(Date.now() - 1 * 24 * 60 * 60 * 1000).toISOString()
-                },
-                {
-                  gameName: "FIFA 24",
-                  groupName: "Goal Machine", 
-                  earnedTrophies: { silver: 1 },
-                  lastUpdated: new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toISOString()
-                },
-                {
-                  gameName: "Call of Duty: Modern Warfare III",
-                  groupName: "First Blood",
-                  earnedTrophies: { bronze: 1 },
-                  lastUpdated: new Date(Date.now() - 3 * 24 * 60 * 60 * 1000).toISOString()
-                }
-              ]
-            };
-          }
           
           function formatTimeAgo(dateString) {
             const now = new Date();
@@ -293,22 +232,30 @@ jobs:
             console.log('EOF');
           }
           
-          main().catch(console.error);
+          main().catch(error => {
+            console.error('❌ PSN workflow failed:', error.message);
+            process.exit(1);
+          });
           EOF
           
           # Run the script and capture output
-          node fetch_psn_data.js > psn_output.txt 2>&1
+          if node fetch_psn_data.js > psn_output.txt 2>&1; then
+            echo "✅ PSN script executed successfully"
+          else
+            echo "❌ Failed to fetch PSN data"
+            cat psn_output.txt
+            exit 1
+          fi
           
           # Extract the output
           if grep -q "PSN_OUTPUT<<EOF" psn_output.txt; then
             sed -n '/PSN_OUTPUT<<EOF/,/EOF/p' psn_output.txt | sed '1d;$d' > psn_data.txt
+            echo "✅ PSN data extracted successfully"
           else
-            echo "🎮 **PlayStation data temporarily unavailable**" > psn_data.txt
-            echo "" >> psn_data.txt
-            echo "*Check back soon for gaming updates!*" >> psn_data.txt
+            echo "❌ No PSN data found in output"
+            cat psn_output.txt
+            exit 1
           fi
-          
-          echo "PSN data generated successfully"
 
       - name: Update README with PSN Data
         run: |
