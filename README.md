@@ -142,8 +142,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-### ⚡ Real-time Stats
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nightfury3128&theme=radical&border_radius=10&cache_seconds=1800" alt="WakaTime Stats" />
+### ⚡ Real-time Coding Stats
+<img src="https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Coding%20Activity&border_radius=10&cache_seconds=1800" alt="Coding Activity" />
 
 </div>
 
