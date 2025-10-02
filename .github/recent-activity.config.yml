@@ -1,5 +1,5 @@
 # How many events to show in your README
-max_lines: 10
+max_lines: 12
 
 # Types of events to include
 events:
@@ -12,3 +12,26 @@ events:
   - ForkEvent
   - ReleaseEvent
   - CreateEvent
+  - DeleteEvent
+  - PublicEvent
+  - MemberEvent
+
+# Custom messages for different event types
+messages:
+  PushEvent: "⬆️ Pushed {size} commit{s} to {repo}"
+  IssuesEvent: "❗ {action} issue {title} in {repo}"
+  PullRequestEvent: "🔀 {action} PR {title} in {repo}"
+  WatchEvent: "⭐ Starred {repo}"
+  ForkEvent: "🍴 Forked {repo}"
+  CreateEvent: "📦 Created {ref_type} {ref} in {repo}"
+  ReleaseEvent: "🚀 Published release {title} in {repo}"
+  IssueCommentEvent: "💬 Commented on issue {title} in {repo}"
+
+# Date format for timestamps
+date_format: "jS M Y, g:i A"
+
+# Disable URL shortening for better readability
+disable_url_shortening: true
+
+# Sort by created date (newest first)
+sort: "created"
