@@ -98,6 +98,7 @@
 ## 📌 Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [nightfury3128/webDev](https://github.com/nightfury3128/webDev)
 <!--RECENT_ACTIVITY:end-->
 
 <details>
