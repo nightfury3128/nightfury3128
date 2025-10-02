@@ -130,6 +130,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
 </picture>
 
+*Note: Snake game generates automatically every 12 hours. If not visible, it's currently being generated!*
+
+### 📈 Alternative Contribution Visualization
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
+
 </div>
 
 ---
