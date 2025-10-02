@@ -129,7 +129,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-2. 📔 Created new repository [nightfury3128/webDev](https://github.com/nightfury3128/webDev)
+2. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+3. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+4. 📔 Created new repository [nightfury3128/webDev](https://github.com/nightfury3128/webDev)
 <!--RECENT_ACTIVITY:end-->
 
 <details>
