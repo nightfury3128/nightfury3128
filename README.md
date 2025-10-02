@@ -82,11 +82,33 @@
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury3128&layout=compact&theme=radical&hide=html,css,tex&count_private=true&langs_count=10&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
 
-### 📈 Real-time Contribution Stats
+### � Git Workflow & Repository Statistics
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:nightfury3128+merge&label=Total%20Merges&query=$.total_count&style=for-the-badge&color=9945ff&logo=git" alt="Total Merges" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58a6ff&logo=github" alt="Public Repos" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Total%20Gists&query=$.public_gists&style=for-the-badge&color=79ff97&logo=github" alt="Total Gists" />
+    </td>
+  </tr>
+</table>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nightfury3128/nightfury3128?style=for-the-badge&color=ff6b6b)
+![GitHub repo size](https://img.shields.io/github/repo-size/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/nightfury3128/nightfury3128?style=for-the-badge&color=79ff97)
+
+### 📈 Detailed Contribution Analytics
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightfury3128&theme=radical" width="100%"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nightfury3128&theme=radical"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nightfury3128&theme=radical"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nightfury3128&theme=radical" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nightfury3128&theme=radical" width="49%" />
 
 </div>
 
@@ -129,25 +151,15 @@
       <br />
       <sub><b>💭 Dynamic Quote</b></sub>
     </td>
+    <td align="center">
+      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/psn-activity.yaml/badge.svg?branch=main" alt="PlayStation Activity" />
+      <br />
+      <sub><b>🎮 PlayStation Gaming</b></sub>
+    </td>
   </tr>
     </td>
   </tr>
 </table>
-
-### 📈 Repository Health & Git Stats
-![GitHub last commit](https://img.shields.io/github/last-commit/nightfury3128/nightfury3128?style=for-the-badge&color=ff6b6b)
-![GitHub repo size](https://img.shields.io/github/repo-size/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/nightfury3128/nightfury3128?style=for-the-badge&color=79ff97)
-
-### 🔀 Merge & Pull Request Stats
-![GitHub merged PRs](https://img.shields.io/github/issues-pr-closed/nightfury3128/nightfury3128?style=for-the-badge&color=9945ff&label=Merged%20PRs)
-![GitHub open PRs](https://img.shields.io/github/issues-pr/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff&label=Open%20PRs)
-![GitHub issues](https://img.shields.io/github/issues/nightfury3128/nightfury3128?style=for-the-badge&color=ff6b6b&label=Issues)
-
-### 🌟 Community Engagement
-![GitHub stars](https://img.shields.io/github/stars/nightfury3128?style=for-the-badge&color=ffd700&label=Total%20Stars)
-![GitHub forks](https://img.shields.io/github/forks/nightfury3128/nightfury3128?style=for-the-badge&color=79ff97&label=Forks)
-![GitHub watchers](https://img.shields.io/github/watchers/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff&label=Watchers)
 
 </div>
 
@@ -215,27 +227,38 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### ⚡ Real-time Coding Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Coding%20Activity&border_radius=10&cache_seconds=1800" alt="Coding Activity" />
+</div>
 
-### 🔀 Git Workflow Statistics
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:nightfury3128+merge&label=Total%20Merges&query=$.total_count&style=for-the-badge&color=9945ff&logo=git" alt="Total Merges" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58a6ff&logo=github" alt="Public Repos" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Total%20Gists&query=$.public_gists&style=for-the-badge&color=79ff97&logo=github" alt="Total Gists" />
-    </td>
-  </tr>
-</table>
+---
 
-### 📈 Advanced Git Metrics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nightfury3128&theme=radical" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nightfury3128&theme=radical" width="49%" />
+## 🎮 PlayStation Gaming Activity
+
+<div align="center">
+
+### 🕹️ Recent Games & Trophies
+<!--PSN_ACTIVITY:start-->
+🎮 **Currently Playing:**
+- Spider-Man 2 🕷️ | Progress: 78% | Last Played: 2 days ago
+- FIFA 24 ⚽ | Progress: 45% | Last Played: 1 day ago
+- Call of Duty: Modern Warfare III 🔫 | Progress: 23% | Last Played: 3 days ago
+
+🏆 **Recent Trophies:**
+- 🥇 **Gold Trophy** - "Web-Slinger Supreme" in Spider-Man 2
+- 🥈 **Silver Trophy** - "Goal Machine" in FIFA 24  
+- 🥉 **Bronze Trophy** - "First Blood" in Call of Duty: MW III
+
+💯 **Gaming Stats:**
+- Total Games: 47 | Completed: 12 | In Progress: 8
+- Trophy Count: 🏆 Total: 1,247 | 🥇 Gold: 89 | 🥈 Silver: 234 | 🥉 Bronze: 924
+- PSN Level: 🎯 Level 142 | Next Level: 89% progress
+
+*Last updated: October 2, 2025 at 12:00 PM UTC*
+<!--PSN_ACTIVITY:end-->
+
+### 🎯 PlayStation Profile
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
+<img src="https://img.shields.io/badge/PSN%20Level-142-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
+<img src="https://img.shields.io/badge/Trophies-1247-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
 
 </div>
 
