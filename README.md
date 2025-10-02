@@ -188,12 +188,12 @@
 <!--PSN_ACTIVITY:start-->
 🎮 **Currently Playing:**
 - F1® 24 🎮 | Last Played: 5 days ago
-- Marvel's Spider-Man Remastered 🕷️ | Last Played: 10 days ago
+- Marvel's Spider-Man Remastered 🕷️ | Last Played: 11 days ago
 - It Takes Two 🎮 | Last Played: 11 days ago
 - Stardew Valley 🎮 | Last Played: 25 days ago
 - Lies of P 🎮 | Last Played: 32 days ago
 
-*Last updated: October 2, 2025 at 2:20 PM UTC*
+*Last updated: October 2, 2025 at 3:34 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
