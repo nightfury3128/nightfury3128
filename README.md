@@ -134,51 +134,6 @@
 5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
 <!--RECENT_ACTIVITY:end-->
 
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&cache_seconds=1800)
-
-### 🐍 Contribution Snake Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&cache_seconds=1800)
-
-### 🐍 Contribution Snake Game
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📌 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-2. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-3. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-4. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-<!--RECENT_ACTIVITY:end-->
-
 ---
 
 ## 🎮 Currently Playing
