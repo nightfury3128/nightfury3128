@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are the average of the five people you spend most time with. – Jim Rohn"*
+### 💡 *"Perplexity is the beginning of knowledge. – Kahlil Gibran"*
 
-*Last updated: October 02, 2025 at 07:45 PM UTC*
+*Last updated: October 02, 2025 at 07:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
