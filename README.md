@@ -177,7 +177,7 @@
 
 ### 🕹️ Recent Games & Trophies
 <!--PSN_ACTIVITY:start-->
-🎮 **Currently Playing:**
+🎮 **Currently/Recently Playing:**
 - F1® 24 🎮 | Progress: 8% | Last Played: 5 days ago
 - Marvel's Spider-Man Remastered 🕷️ | Progress: 53% | Last Played: 10 days ago
 - It Takes Two 🎮 | Progress: 21% | Last Played: 11 days ago
@@ -194,7 +194,7 @@
 💯 **Gaming Stats:**
 - Total Games: 50 | Completed: 12 | In Progress: 5
 - Trophy Count: 🏆 Total: 0 | 🥇 Gold: 0 | 🥈 Silver: 0 | 🥉 Bronze: 0
-- PSN Level: 🎯 Level 1 | Next Level: 14% progress
+- PSN Level: 🎯 Level 1 | Next Level: 3% progress
 
 *Last updated: October 2, 2025 at 2:09 PM UTC*
 <!--PSN_ACTIVITY:end-->
