@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You may be disappointed if you fail, but you are doomed if you don't try.  – Beverly Sills"*
+### 💡 *"There is a wisdom of the head, and there is a wisdom of the heart. – Charles Dickens"*
 
-*Last updated: October 02, 2025 at 09:37 PM UTC*
+*Last updated: October 02, 2025 at 09:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
