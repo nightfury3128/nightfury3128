@@ -176,14 +176,14 @@
 <div align="center">
 
 <!--PSN_ACTIVITY:start-->
-🎮 **Currently/Recently Playing:**
-- F1® 24 �️ | Last Played: 5 days ago
+🎮 **Currently Playing:**
+- F1® 24 🎮 | Last Played: 5 days ago
 - Marvel's Spider-Man Remastered 🕷️ | Last Played: 10 days ago
-- It Takes Two 👫 | Last Played: 11 days ago
-- Stardew Valley � | Last Played: 25 days ago
+- It Takes Two 🎮 | Last Played: 11 days ago
+- Stardew Valley 🎮 | Last Played: 25 days ago
 - Lies of P 🎮 | Last Played: 32 days ago
 
-*Auto-updated every 4 hours*
+*Last updated: October 2, 2025 at 2:20 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 </div>
