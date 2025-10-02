@@ -107,6 +107,33 @@
 
 ---
 
+## 🏆 Achievements & Contributions
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&cache_seconds=1800)
+
+### 🐍 Contribution Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📌 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+2. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+3. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+4. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+<!--RECENT_ACTIVITY:end-->
+
 
 ## 🏆 Achievements & Contributions
 
@@ -145,19 +172,15 @@
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-2. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-3. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-4. 📔 Created new repository [nightfury3128/webDev](https://github.com/nightfury3128/webDev)
+1. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+2. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+3. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+4. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
 <!--RECENT_ACTIVITY:end-->
 
 ---
 
-## 🎮 Gaming Activity
-
-<div align="center">
-
-<!--PSN_ACTIVITY:start-->
 ## 🎮 Currently Playing
 
 <div align="center">
@@ -171,14 +194,6 @@
 - Lies of P 🎮 | Last Played: 32 days ago
 
 *Last updated: October 2, 2025 at 2:20 PM UTC*
-<!--PSN_ACTIVITY:end-->
-
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
-<img src="https://img.shields.io/badge/PSN%20Level-1-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
-<img src="https://img.shields.io/badge/Trophies-0-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
-<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epic Games" />
-
-</div>
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
@@ -205,9 +220,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't listen to the person who has the answers; listen to the person who has the questions. – Albert Einstein"*
+### 💡 *"You may be disappointed if you fail, but you are doomed if you don't try. – Beverly Sills"*
 
-*Last updated: October 02, 2025 at 02:11 PM UTC*
+*Last updated: October 02, 2025 at 02:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
