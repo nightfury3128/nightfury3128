@@ -124,6 +124,13 @@
       <br />
       <sub><b>⏱️ Coding Stats</b></sub>
     </td>
+    <td align="center">
+      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/dynamic-quote.yaml/badge.svg?branch=main" alt="Dynamic Quote" />
+      <br />
+      <sub><b>💭 Dynamic Quote</b></sub>
+    </td>
+  </tr>
+    </td>
   </tr>
 </table>
 
@@ -248,7 +255,11 @@ No activity tracked
 
 <div align="center">
   
+<!--DYNAMIC_QUOTE:start-->
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+*Last updated: October 2, 2025 at 12:00 PM UTC*
+<!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 

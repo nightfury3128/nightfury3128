@@ -1,0 +1,98 @@
+name: Dynamic Quote Update
+
+on:
+  schedule:
+    - cron: '*/2 * * * *'  # Runs every 2 minutes
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    name: Update Dynamic Quote
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate Random Quote
+        id: quote
+        run: |
+          # Array of inspiring tech/programming quotes
+          quotes=(
+            "\"Code is like humor. When you have to explain it, it's bad.\" – Cory House"
+            "\"First, solve the problem. Then, write the code.\" – John Johnson"
+            "\"Experience is the name everyone gives to their mistakes.\" – Oscar Wilde"
+            "\"In order to be irreplaceable, one must always be different.\" – Coco Chanel"
+            "\"Java is to JavaScript what car is to Carpet.\" – Chris Heilmann"
+            "\"Knowledge is power.\" – Francis Bacon"
+            "\"Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code.\" – Dan Salomon"
+            "\"Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.\" – Antoine de Saint-Exupery"
+            "\"Code never lies, comments sometimes do.\" – Ron Jeffries"
+            "\"Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.\" – Muhammad Waseem"
+            "\"If debugging is the process of removing software bugs, then programming must be the process of putting them in.\" – Edsger Dijkstra"
+            "\"Measuring programming progress by lines of code is like measuring aircraft building progress by weight.\" – Bill Gates"
+            "\"Talk is cheap. Show me the code.\" – Linus Torvalds"
+            "\"The best error message is the one that never shows up.\" – Thomas Fuchs"
+            "\"Simplicity is the ultimate sophistication.\" – Leonardo da Vinci"
+            "\"Make it work, make it right, make it fast.\" – Kent Beck"
+            "\"The most important property of a program is whether it accomplishes the intention of its user.\" – C.A.R. Hoare"
+            "\"Programming isn't about what you know; it's about what you can figure out.\" – Chris Pine"
+            "\"The only way to learn a new programming language is by writing programs in it.\" – Dennis Ritchie"
+            "\"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.\" – Martin Fowler"
+            "\"Programs must be written for people to read, and only incidentally for machines to execute.\" – Harold Abelson"
+            "\"Software is a great combination between artistry and engineering.\" – Bill Gates"
+            "\"The computer was born to solve problems that did not exist before.\" – Bill Gates"
+            "\"Innovation distinguishes between a leader and a follower.\" – Steve Jobs"
+            "\"Technology is best when it brings people together.\" – Matt Mullenweg"
+          )
+          
+          # Get random quote
+          random_index=$((RANDOM % ${#quotes[@]}))
+          selected_quote="${quotes[$random_index]}"
+          
+          # Get current timestamp
+          timestamp=$(date '+%B %d, %Y at %I:%M %p UTC')
+          
+          echo "quote=$selected_quote" >> $GITHUB_OUTPUT
+          echo "timestamp=$timestamp" >> $GITHUB_OUTPUT
+
+      - name: Update README with new quote
+        run: |
+          # Read the current README
+          readme_content=$(cat README.md)
+          
+          # Create the new quote section
+          new_quote_section="### 💡 *${{ steps.quote.outputs.quote }}*
+
+*Last updated: ${{ steps.quote.outputs.timestamp }}*"
+          
+          # Use sed to replace the quote section
+          # Find the line with the quote and replace until the next section
+          sed -i.bak '/<!--DYNAMIC_QUOTE:start-->/,/<!--DYNAMIC_QUOTE:end-->/{
+            /<!--DYNAMIC_QUOTE:start-->/!{
+              /<!--DYNAMIC_QUOTE:end-->/!d
+            }
+          }' README.md
+          
+          # Insert the new quote
+          sed -i.bak '/<!--DYNAMIC_QUOTE:start-->/a\
+'"$new_quote_section"'
+' README.md
+          
+          # Clean up backup file
+          rm README.md.bak
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "💭 Update dynamic quote [skip ci]"
+            git push
+          fi
