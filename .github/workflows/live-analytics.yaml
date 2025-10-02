@@ -1,0 +1,47 @@
+name: Live Analytics Update
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-live-stats:
+    runs-on: ubuntu-latest
+    name: Update Live Statistics
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Snake Game
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: nightfury3128
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated files
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update timestamp
+        run: |
+          echo "Last updated: $(date)" > last_update.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add last_update.txt
+          git diff --staged --quiet || git commit -m "📊 Update live stats timestamp [skip ci]"
+          git push

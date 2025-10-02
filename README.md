@@ -66,26 +66,30 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Analytics
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nightfury3128&theme=radical&border_radius=10" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nightfury3128&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury3128&layout=compact&theme=radical&hide=html,css,tex&count_private=true&langs_count=10&border_radius=10" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury3128&layout=compact&theme=radical&hide=html,css,tex&count_private=true&langs_count=10&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
+
+### 📈 Real-time Contribution Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightfury3128&theme=radical" width="100%"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nightfury3128&theme=radical"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nightfury3128&theme=radical"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Metrics
+## 📈 Live Contribution Metrics
 
 <div align="center">
-  
-![Metrics](github-metrics.svg)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
 
 </div>
 
@@ -113,20 +117,35 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Live GitHub Achievements
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&cache_seconds=1800)
+
+### 🐍 Contribution Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 💻 Weekly Development Breakdown
+## 💻 Live Coding Activity
 
+<div align="center">
+
+### 📊 This Week's Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+### ⚡ Real-time Stats
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nightfury3128&theme=radical&border_radius=10&cache_seconds=1800" alt="WakaTime Stats" />
+
+</div>
 
 ---
 
