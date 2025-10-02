@@ -279,9 +279,9 @@ No activity tracked
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever. – Alexandre Dumas"*
+### 💡 *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. – Epictetus"*
 
-*Last updated: October 02, 2025 at 01:54 PM UTC*
+*Last updated: October 02, 2025 at 01:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
