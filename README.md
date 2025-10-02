@@ -124,46 +124,6 @@
 
 ---
 
-## ⚡ Automation Status
-
-<div align="center">
-
-### 🤖 GitHub Actions Live Status
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/activity.yaml/badge.svg?branch=main" alt="Recent Activity" />
-      <br />
-      <sub><b>📊 Recent Activity</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/live-analytics.yaml/badge.svg?branch=main" alt="Snake Game" />
-      <br />
-      <sub><b>🐍 Snake Game</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/wakatime.yaml/badge.svg?branch=main" alt="WakaTime Stats" />
-      <br />
-      <sub><b>⏱️ Coding Stats</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/dynamic-quote.yaml/badge.svg?branch=main" alt="Dynamic Quote" />
-      <br />
-      <sub><b>💭 Dynamic Quote</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/psn-activity.yaml/badge.svg?branch=main" alt="PlayStation Activity" />
-      <br />
-      <sub><b>🎮 PlayStation Gaming</b></sub>
-    </td>
-  </tr>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 📌 Recent GitHub Activity
 
@@ -205,27 +165,6 @@
 
 ### 📈 Alternative Contribution Visualization
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
-
-</div>
-
----
-
-## 💻 Live Coding Activity
-
-<div align="center">
-
-### 📊 This Week's Development Breakdown
-<!--START_SECTION:waka-->
-
-```txt
-From: 25 September 2025 - To: 02 October 2025
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 </div>
 
