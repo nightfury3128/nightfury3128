@@ -11,6 +11,13 @@
   <img src="https://img.shields.io/github/followers/nightfury3128?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
+### 🔄 Live Workflow Status
+<p align="center">
+  <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/activity.yaml/badge.svg" alt="Recent Activity Status" />
+  <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/live-analytics.yaml/badge.svg" alt="Snake Game Status" />
+  <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/wakatime.yaml/badge.svg" alt="WakaTime Stats Status" />
+</p>
+
 </div>
 
 ---
@@ -90,6 +97,40 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
+
+</div>
+
+---
+
+## ⚡ Automation Status
+
+<div align="center">
+
+### 🤖 GitHub Actions Live Status
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/activity.yaml/badge.svg?branch=main" alt="Recent Activity" />
+      <br />
+      <sub><b>📊 Recent Activity</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/live-analytics.yaml/badge.svg?branch=main" alt="Snake Game" />
+      <br />
+      <sub><b>🐍 Snake Game</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/wakatime.yaml/badge.svg?branch=main" alt="WakaTime Stats" />
+      <br />
+      <sub><b>⏱️ Coding Stats</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 📈 Repository Health
+![GitHub last commit](https://img.shields.io/github/last-commit/nightfury3128/nightfury3128?style=for-the-badge&color=ff6b6b)
+![GitHub repo size](https://img.shields.io/github/repo-size/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/nightfury3128/nightfury3128?style=for-the-badge&color=79ff97)
 
 </div>
 
