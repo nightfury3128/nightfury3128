@@ -2,21 +2,13 @@
   
 # 👋 Hi there! I'm Nipun Chandra
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies!" alt="Typing SVG" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Software+Development+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nightfury3128&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nightfury3128?label=Followers&style=social" alt="GitHub Followers" />
-</p>
-
-### 🔄 Live Workflow Status
-<p align="center">
-  <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/activity.yaml/badge.svg" alt="Recent Activity Status" />
-  <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/live-analytics.yaml/badge.svg" alt="Snake Game Status" />
-  <img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/wakatime.yaml/badge.svg" alt="WakaTime Stats Status" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=nightfury3128&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/nightfury3128?label=Followers&style=social" alt="GitHub Followers" />
+<img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/activity.yaml/badge.svg" alt="Recent Activity Status" />
+<img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/live-analytics.yaml/badge.svg" alt="Snake Game Status" />
+<img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/wakatime.yaml/badge.svg" alt="WakaTime Stats Status" />
 
 </div>
 
@@ -44,36 +36,29 @@
 
 <div align="center">
 
-### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Live GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   
@@ -82,7 +67,13 @@
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury3128&layout=compact&theme=radical&hide=html,css,tex&count_private=true&langs_count=10&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
 
-### � Git Workflow & Repository Statistics
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
+
+<details>
+<summary>📈 Advanced Analytics & Metrics</summary>
+<br>
+
+### 🔧 Repository Statistics
 <table>
   <tr>
     <td align="center">
@@ -110,49 +101,13 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nightfury3128&theme=radical" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nightfury3128&theme=radical" width="49%" />
 
-</div>
-
----
-
-## 📈 Live Contribution Metrics
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
-
-</div>
-
----
-
-
-## 📌 Recent GitHub Activity
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-2. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-3. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-4. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-<!--RECENT_ACTIVITY:end-->
-
-<details>
-<summary>� More GitHub Analytics</summary>
-<br>
-
-<div align="center">
-
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightfury3128&theme=radical)
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nightfury3128&theme=radical"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nightfury3128&theme=radical"/>
-
-</div>
-
 </details>
 
+</div>
+
 ---
 
-## 🏆 Live GitHub Achievements
+## 🏆 Achievements & Contributions
 
 <div align="center">
   
@@ -165,12 +120,64 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
 </picture>
 
-*Note: Snake game generates automatically every 12 hours. If not visible, it's currently being generated!*
+</div>
 
-### 📈 Alternative Contribution Visualization
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
+---
+
+## 📌 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+2. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+3. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+4. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+<!--RECENT_ACTIVITY:end-->
+
+
+## 🏆 Achievements & Contributions
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&cache_seconds=1800)
+
+### 🐍 Contribution Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
+
+---
+
+## 🏆 Achievements & Contributions
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nightfury3128&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&cache_seconds=1800)
+
+### 🐍 Contribution Snake Game
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nightfury3128/nightfury3128/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 📌 Recent Activity
+
+<!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed 3 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+2. 🎉 Merged PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+3. 💪 Opened PR [#2](https://github.com/nightfury3128/nightfury3128/pull/2) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+4. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+<!--RECENT_ACTIVITY:end-->
 
 ---
 
@@ -188,6 +195,11 @@
 
 *Last updated: October 2, 2025 at 2:20 PM UTC*
 <!--PSN_ACTIVITY:end-->
+
+<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
+<img src="https://img.shields.io/badge/PSN%20Level-1-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
+<img src="https://img.shields.io/badge/Trophies-0-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
+<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epic Games" />
 
 </div>
 
