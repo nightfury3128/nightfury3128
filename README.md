@@ -256,7 +256,7 @@ No activity tracked
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is an essence of when you are fearless, you become more creative. – Gurbaksh Chahal"*
+### 💡 *"A man with outward courage dares to die: a man with inner courage dares to live. – Lao Tzu"*
 
 *Last updated: October 02, 2025 at 01:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
