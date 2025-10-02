@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Quality is more important than quantity. One home run is much better than two doubles. – Steve Jobs"*
+### 💡 *"Your only limitations are those you set up in your mind or permit others to set up for you. – Og Mandino"*
 
-*Last updated: October 02, 2025 at 04:49 PM UTC*
+*Last updated: October 02, 2025 at 04:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
