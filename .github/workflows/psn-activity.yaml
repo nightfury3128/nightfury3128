@@ -202,29 +202,9 @@ jobs:
             data.games.forEach(game => {
               const emoji = getGameEmoji(game.name);
               const timeAgo = formatTimeAgo(game.lastPlayedDateTime);
-              output += `- ${game.name} ${emoji} | Progress: ${game.progress}% | Last Played: ${timeAgo}\n`;
+              output += `- ${game.name} ${emoji} | Last Played: ${timeAgo}\n`;
             });
             
-            output += `\n🏆 **Recent Trophies:**\n`;
-            
-            data.recentTrophies.forEach(trophy => {
-              const trophyTypes = Object.keys(trophy.earnedTrophies || {});
-              const mainTrophyType = trophyTypes[0] || 'bronze';
-              const icon = getTrophyIcon(mainTrophyType);
-              const trophyName = mainTrophyType.charAt(0).toUpperCase() + mainTrophyType.slice(1);
-              
-              output += `- ${icon} **${trophyName} Trophy** - "${trophy.groupName}" in ${trophy.gameName}\n`;
-            });
-            
-            const totalTrophies = data.profile.totalTrophies;
-            const breakdown = data.profile.trophyBreakdown;
-            const level = data.profile.level;
-            const nextLevelProgress = Math.floor(Math.random() * 100); // Simulated
-            
-            output += `\n💯 **Gaming Stats:**\n`;
-            output += `- Total Games: ${data.games.length * 10} | Completed: ${Math.floor(data.games.length * 2.4)} | In Progress: ${data.games.length}\n`;
-            output += `- Trophy Count: 🏆 Total: ${totalTrophies} | 🥇 Gold: ${breakdown?.gold || 0} | 🥈 Silver: ${breakdown?.silver || 0} | 🥉 Bronze: ${breakdown?.bronze || 0}\n`;
-            output += `- PSN Level: 🎯 Level ${level} | Next Level: ${nextLevelProgress}% progress\n`;
             output += `\n*Last updated: ${timestamp}*`;
             
             console.log('PSN_OUTPUT<<EOF');

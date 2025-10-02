@@ -171,38 +171,20 @@
 
 ---
 
-## 🎮 PlayStation Gaming Activity
+## 🎮 Currently Playing
 
 <div align="center">
 
-### 🕹️ Recent Games & Trophies
 <!--PSN_ACTIVITY:start-->
 🎮 **Currently/Recently Playing:**
-- F1® 24 🎮 | Progress: 8% | Last Played: 5 days ago
-- Marvel's Spider-Man Remastered 🕷️ | Progress: 53% | Last Played: 10 days ago
-- It Takes Two 🎮 | Progress: 21% | Last Played: 11 days ago
-- Stardew Valley 🎮 | Progress: 0% | Last Played: 25 days ago
-- Lies of P 🎮 | Progress: 2% | Last Played: 32 days ago
+- F1® 24 �️ | Last Played: 5 days ago
+- Marvel's Spider-Man Remastered 🕷️ | Last Played: 10 days ago
+- It Takes Two 👫 | Last Played: 11 days ago
+- Stardew Valley � | Last Played: 25 days ago
+- Lies of P 🎮 | Last Played: 32 days ago
 
-🏆 **Recent Trophies:**
-- 🥉 **Bronze Trophy** - "Base Game" in F1® 24
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-- 🥉 **Bronze Trophy** - "Base Game" in It Takes Two
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-- 🥉 **Bronze Trophy** - "Base Game" in Marvel's Spider-Man Remastered
-
-💯 **Gaming Stats:**
-- Total Games: 50 | Completed: 12 | In Progress: 5
-- Trophy Count: 🏆 Total: 0 | 🥇 Gold: 0 | 🥈 Silver: 0 | 🥉 Bronze: 0
-- PSN Level: 🎯 Level 1 | Next Level: 3% progress
-
-*Last updated: October 2, 2025 at 2:09 PM UTC*
+*Auto-updated every 4 hours*
 <!--PSN_ACTIVITY:end-->
-
-### 🎯 PlayStation Profile
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
-<img src="https://img.shields.io/badge/PSN%20Level-1-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
-<img src="https://img.shields.io/badge/Trophies-0-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
 
 </div>
 
