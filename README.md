@@ -220,9 +220,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Character is the result of two things: mental attitude and the way we spend our time. – Elbert Hubbard"*
+### 💡 *"The journey, not the destination matters. – T.S. Eliot"*
 
-*Last updated: October 02, 2025 at 03:34 PM UTC*
+*Last updated: October 02, 2025 at 03:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
