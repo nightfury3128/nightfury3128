@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your only limitations are those you set up in your mind or permit others to set up for you. – Og Mandino"*
+### 💡 *"Life is from the inside out. When you shift on the inside, life shifts on the outside. – Kamal Ravikant"*
 
-*Last updated: October 02, 2025 at 08:45 PM UTC*
+*Last updated: October 02, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
