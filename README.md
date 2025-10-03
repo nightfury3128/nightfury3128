@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People tend to complicate their own lives, as if living weren't already complicated enough. – Carlos Ruiz Zafon"*
+### 💡 *"Life is really simple, but men insist on making it complicated.  – Confucius"*
 
-*Last updated: October 03, 2025 at 08:34 PM UTC*
+*Last updated: October 03, 2025 at 08:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
