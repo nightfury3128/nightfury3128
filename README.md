@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's the little things done consistently over time, straight from your heart, that have the greatest impact. – Unknown"*
+### 💡 *"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. – Nelson Mandela"*
 
-*Last updated: October 03, 2025 at 02:55 PM UTC*
+*Last updated: October 03, 2025 at 03:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
