@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. – Sydney Smith"*
+### 💡 *"When meditation is mastered, the mind is unwavering like the flame of a lamp in a windless place. – Bhagavad Gita"*
 
-*Last updated: October 03, 2025 at 04:56 AM UTC*
+*Last updated: October 03, 2025 at 05:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
