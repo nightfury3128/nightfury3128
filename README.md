@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If everyone is moving forward together, then success takes care of itself. – Henry Ford"*
+### 💡 *"Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment. – Celestine Chua"*
 
-*Last updated: October 03, 2025 at 07:45 PM UTC*
+*Last updated: October 03, 2025 at 07:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
