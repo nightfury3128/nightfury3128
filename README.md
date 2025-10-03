@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. – Thich Nhat Hanh"*
+### 💡 *"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. – Robert Kiyosaki"*
 
-*Last updated: October 03, 2025 at 07:24 PM UTC*
+*Last updated: October 03, 2025 at 07:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
