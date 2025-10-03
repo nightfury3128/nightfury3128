@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Most people dabble their way through life, never deciding to master anything in particular. – Tony Robbins"*
+### 💡 *"Show me a hero, and I'll write you a tragedy. – F. Scott Fitzgerald"*
 
-*Last updated: October 03, 2025 at 09:57 PM UTC*
+*Last updated: October 03, 2025 at 10:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
