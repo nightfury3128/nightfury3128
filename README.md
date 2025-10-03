@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are few reasons for telling the truth, but for lying the number is infinite. – Carlos Ruiz Zafon"*
+### 💡 *"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. – Thich Nhat Hanh"*
 
-*Last updated: October 03, 2025 at 07:13 PM UTC*
+*Last updated: October 03, 2025 at 07:24 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
