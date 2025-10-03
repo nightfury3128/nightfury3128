@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will. – James Allen"*
+### 💡 *"You will face many defeats in life, but never let yourself be defeated. – Maya Angelou"*
 
-*Last updated: October 03, 2025 at 05:44 PM UTC*
+*Last updated: October 03, 2025 at 05:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
