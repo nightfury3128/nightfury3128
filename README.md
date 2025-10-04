@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Identification with our mind causes thought to become compulsive. – Eckhart Tolle"*
+### 💡 *"Know yourself and you will win all battles. – Sun Tzu"*
 
-*Last updated: October 04, 2025 at 04:26 PM UTC*
+*Last updated: October 04, 2025 at 04:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
