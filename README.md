@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All men who have achieved great things have been great dreamers.  – Orison Swett Marden"*
+### 💡 *"Who wishes to fight must first count the cost. – Sun Tzu"*
 
-*Last updated: October 04, 2025 at 09:27 PM UTC*
+*Last updated: October 04, 2025 at 09:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
