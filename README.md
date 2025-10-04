@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Against the assault of laughter nothing can stand. – Mark Twain"*
+### 💡 *"Lust, anger and greed are the three gates to self-destructive hell. – Bhagavad Gita"*
 
-*Last updated: October 04, 2025 at 01:40 AM UTC*
+*Last updated: October 04, 2025 at 02:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
