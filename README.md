@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Disobedience is the true foundation of liberty. The obedient must be slaves. – Henry David Thoreau"*
+### 💡 *"The greatest deception men suffer is from their own opinions. – Leonardo da Vinci"*
 
-*Last updated: October 04, 2025 at 08:16 PM UTC*
+*Last updated: October 04, 2025 at 08:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
