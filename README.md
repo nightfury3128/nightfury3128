@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. – Criss Jami"*
+### 💡 *"You must either modify your dreams or magnify your skills. – Jim Rohn"*
 
-*Last updated: October 04, 2025 at 10:22 AM UTC*
+*Last updated: October 04, 2025 at 10:37 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
