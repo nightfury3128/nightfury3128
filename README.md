@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You must either modify your dreams or magnify your skills. – Jim Rohn"*
+### 💡 *"Have the fearless attitude of a hero and the loving heart of a child. – Soyen Shaku"*
 
-*Last updated: October 04, 2025 at 10:37 AM UTC*
+*Last updated: October 04, 2025 at 10:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
