@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are your best thing. – Toni Morrison"*
+### 💡 *"The scariest monsters are the ones that lurk within our souls. – Edgar Allan Poe"*
 
-*Last updated: October 04, 2025 at 11:14 PM UTC*
+*Last updated: October 04, 2025 at 11:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
