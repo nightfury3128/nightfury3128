@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen. – Wayne Dyer"*
+### 💡 *"Even if you're sure you can win, be careful that you can live with what you lose. – Gary Keller"*
 
-*Last updated: October 05, 2025 at 09:22 AM UTC*
+*Last updated: October 05, 2025 at 09:35 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
