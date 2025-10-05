@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You have power over your mind - not outside events. Realize this, and you will find strength. – Marcus Aurelius"*
+### 💡 *"There is little success where there is little laughter. – Andrew Carnegie"*
 
-*Last updated: October 05, 2025 at 05:28 PM UTC*
+*Last updated: October 05, 2025 at 05:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
