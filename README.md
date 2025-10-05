@@ -127,11 +127,11 @@
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-2. 🎉 Merged PR [#7](https://github.com/nightfury3128/nightfury3128/pull/7) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-3. 💪 Opened PR [#7](https://github.com/nightfury3128/nightfury3128/pull/7) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-4. ⬆️ Pushed 0 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-5. ⬆️ Pushed 1 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+1. ⬆️ Pushed 1 commit(s) to [nightfury3128/iphoneWebCam](https://github.com/nightfury3128/iphoneWebCam)
+2. ✌️ Released [Iphone Webcam](https://github.com/nightfury3128/iphoneWebCam/releases/tag/v2.0.0) in [nightfury3128/iphoneWebCam](https://github.com/nightfury3128/iphoneWebCam)
+3. ✌️ Released [iPhone Webcam v1.0.0 - Single File Release](https://github.com/nightfury3128/iphoneWebCam/releases/tag/v2.0.0) in [nightfury3128/iphoneWebCam](https://github.com/nightfury3128/iphoneWebCam)
+4. ⬆️ Pushed 1 commit(s) to [nightfury3128/iphoneWebCam](https://github.com/nightfury3128/iphoneWebCam)
+5. ⬆️ Pushed 1 commit(s) to [nightfury3128/iphoneWebCam](https://github.com/nightfury3128/iphoneWebCam)
 <!--RECENT_ACTIVITY:end-->
 
 ---
