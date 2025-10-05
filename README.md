@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Focus is a matter of deciding what things you're not going to do. – John Carmack"*
+### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
 
-*Last updated: October 05, 2025 at 06:22 AM UTC*
+*Last updated: October 05, 2025 at 06:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
