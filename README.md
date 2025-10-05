@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. – Bob Proctor"*
+### 💡 *"A change is brought about because ordinary people do extraordinary things. – Barack Obama"*
 
-*Last updated: October 05, 2025 at 10:44 PM UTC*
+*Last updated: October 05, 2025 at 10:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
