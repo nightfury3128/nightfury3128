@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are dark shadows on the earth, but its lights are stronger in the contrast. – Charles Dickens"*
+### 💡 *"Make failure your teacher, not your undertaker.   – Zig Ziglar"*
 
-*Last updated: October 05, 2025 at 08:44 PM UTC*
+*Last updated: October 05, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
