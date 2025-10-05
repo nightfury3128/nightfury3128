@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Who looks outside, dreams; who looks inside, awakes. – Lolly Daskal"*
+### 💡 *"Everyone must choose one of two pains: The pain of discipline or the pain of regret. – Jim Rohn"*
 
-*Last updated: October 05, 2025 at 02:44 PM UTC*
+*Last updated: October 05, 2025 at 02:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
