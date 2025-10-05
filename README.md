@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't Let Yesterday Take Up Too Much Of Today. – Will Rogers"*
+### 💡 *"Knowing is not enough, we must apply. Willing is not enough, we must do.   – Bruce Lee"*
 
-*Last updated: October 05, 2025 at 06:55 PM UTC*
+*Last updated: October 05, 2025 at 07:11 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
