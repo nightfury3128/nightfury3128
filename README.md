@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not allow your inner doubts to keep you from achieving what you can do. – Lolly Daskal"*
+### 💡 *"The art of being wise is knowing what to overlook. – William James"*
 
-*Last updated: October 05, 2025 at 11:37 PM UTC*
+*Last updated: October 05, 2025 at 11:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
