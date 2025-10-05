@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Go confidently in the direction of your dreams! Live the life you've imagined. – Henry David Thoreau"*
+### 💡 *"If you're afraid - don't do it, - if you're doing it - don't be afraid!  – Genghis Khan"*
 
-*Last updated: October 05, 2025 at 09:27 PM UTC*
+*Last updated: October 05, 2025 at 09:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
