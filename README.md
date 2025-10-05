@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am thankful to all those who said no. It's because of them, I did it myself.   – Wayne Dyer"*
+### 💡 *"Without education, we are in a horrible and deadly danger of taking educated people seriously. – Gilbert Chesterton"*
 
-*Last updated: October 05, 2025 at 03:58 PM UTC*
+*Last updated: October 05, 2025 at 04:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
