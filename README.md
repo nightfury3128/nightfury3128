@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time. – Og Mandino"*
+### 💡 *"Learn only how to avoid seeking for and attaching yourselves to anything. – Huang Po"*
 
-*Last updated: October 06, 2025 at 10:49 AM UTC*
+*Last updated: October 06, 2025 at 10:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
