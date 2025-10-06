@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Today is the oldest you've ever been, and the youngest you'll ever be again. – Eleanor Roosevelt"*
+### 💡 *"The only person you should try to be better than is the person you were yesterday. – Brian Tracy"*
 
-*Last updated: October 06, 2025 at 02:45 AM UTC*
+*Last updated: October 06, 2025 at 03:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
