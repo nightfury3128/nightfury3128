@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The secret of happiness is not in doing what you like but in liking what you have to do. – Sathya Sai Baba"*
+### 💡 *"Don't let anyone define you. You define yourself. – Billie Jean King"*
 
-*Last updated: October 06, 2025 at 03:48 AM UTC*
+*Last updated: October 06, 2025 at 03:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
