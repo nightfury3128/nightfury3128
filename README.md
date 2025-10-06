@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Would you rather live your life according to the approval of others or aligned with your truth and your dreams? – Robin Sharma"*
+### 💡 *"I am who I am today because of the choices I made yesterday. – Eleanor Roosevelt"*
 
-*Last updated: October 06, 2025 at 08:41 PM UTC*
+*Last updated: October 06, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
