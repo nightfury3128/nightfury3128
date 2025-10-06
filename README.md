@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We can't help everyone, but everyone can help someone. – Ronald Reagan"*
+### 💡 *"In life you need either inspiration or desperation. – Tony Robbins"*
 
-*Last updated: October 06, 2025 at 09:29 PM UTC*
+*Last updated: October 06, 2025 at 09:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
