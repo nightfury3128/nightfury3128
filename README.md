@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stop being a prisoner of your past. Become the architect of your future. – Robin Sharma"*
+### 💡 *"Your business is not to 'get somewhere' - it is to be here. – Dan Millman"*
 
-*Last updated: October 06, 2025 at 12:38 PM UTC*
+*Last updated: October 06, 2025 at 01:04 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
