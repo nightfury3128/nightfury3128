@@ -175,9 +175,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All men who have achieved great things have been great dreamers.  – Orison Swett Marden"*
+### 💡 *"Everyone wants to go to Heaven, but no one wants to die. – Robert Kiyosaki"*
 
-*Last updated: October 06, 2025 at 06:49 AM UTC*
+*Last updated: October 06, 2025 at 06:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
