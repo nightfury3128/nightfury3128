@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The degree of responsibility you take for your life determines how much change you can create in it. – Celestine Chua"*
+### 💡 *"Success is achieved and maintained by those who try and keep trying.  – W. Clement Stone"*
 
-*Last updated: October 07, 2025 at 10:21 PM UTC*
+*Last updated: October 07, 2025 at 10:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
