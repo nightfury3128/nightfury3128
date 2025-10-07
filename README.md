@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You may think I'm small, but I have a universe inside my mind. – Yoko Ono"*
+### 💡 *"Change yourself - you are in control. – Mahatma Gandhi"*
 
-*Last updated: October 07, 2025 at 02:27 PM UTC*
+*Last updated: October 07, 2025 at 02:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
