@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"For your life to be great, your faith must be bigger than your fear. – Robin Sharma"*
+### 💡 *"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs. – Zig Ziglar"*
 
-*Last updated: October 07, 2025 at 07:28 PM UTC*
+*Last updated: October 07, 2025 at 07:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
