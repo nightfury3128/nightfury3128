@@ -1,0 +1,139 @@
+name: F1 Championship Standings
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update-f1-standings:
+    runs-on: ubuntu-latest
+    name: Update F1 Standings
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch F1 Standings Data
+        id: f1_data
+        run: |
+          CURRENT_YEAR=$(date +%Y)
+          echo "🏎️ Fetching F1 $CURRENT_YEAR season data..."
+          
+          # Fetch current driver standings
+          DRIVER_STANDINGS=$(curl -s "https://ergast.com/api/f1/$CURRENT_YEAR/driverStandings.json")
+          
+          # Create F1 standings output
+          cat > f1_standings.js << 'EOF'
+          const fs = require('fs');
+          
+          const driverData = JSON.parse(process.argv[2]);
+          
+          function formatF1Standings() {
+            const season = driverData.MRData?.StandingsTable?.season || new Date().getFullYear();
+            const driverStandings = driverData.MRData?.StandingsTable?.StandingsLists?.[0]?.DriverStandings || [];
+            
+            let output = '| Pos | Driver | Team | Points |\n|-----|--------|------|--------|\n';
+            
+            driverStandings.slice(0, 5).forEach((driver) => {
+              const position = driver.position;
+              const name = `${driver.Driver.givenName} ${driver.Driver.familyName}`;
+              const team = driver.Constructors[0]?.name.replace(/\s+/g, ' ').trim() || 'Unknown';
+              const points = driver.points;
+              
+              let posIcon = '';
+              if (position === '1') posIcon = '🥇';
+              else if (position === '2') posIcon = '🥈';
+              else if (position === '3') posIcon = '🥉';
+              else posIcon = `**${position}**`;
+              
+              output += `| ${posIcon} | ${name} | ${team} | ${points} |\n`;
+            });
+            
+            const timestamp = new Date().toLocaleString('en-US', {
+              timeZone: 'UTC',
+              month: 'short',
+              day: 'numeric',
+              year: 'numeric',
+              hour: 'numeric',
+              minute: '2-digit',
+              hour12: true
+            }) + ' UTC';
+            
+            output += `\n*Updated: ${timestamp}*`;
+            
+            return output;
+          }
+          
+          const standings = formatF1Standings();
+          fs.writeFileSync('f1_output.txt', standings);
+          console.log('✅ F1 standings generated successfully');
+          EOF
+          
+          node f1_standings.js "$DRIVER_STANDINGS" || {
+            echo "❌ F1 API unavailable"
+            echo "| Pos | Driver | Team | Points |" > f1_output.txt
+            echo "|-----|--------|------|--------|" >> f1_output.txt
+            echo "| 🏎️ | F1 Data | Temporarily | Unavailable |" >> f1_output.txt
+            echo "" >> f1_output.txt
+            echo "*Check back soon for live standings*" >> f1_output.txt
+          }
+
+      - name: Update README with F1 Standings
+        run: |
+          python3 << 'PYTHON_SCRIPT'
+          import re
+          
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          with open('f1_output.txt', 'r', encoding='utf-8') as f:
+              f1_content = f.read().strip()
+          
+          pattern = r'(<!--F1_STANDINGS:start-->).*?(<!--F1_STANDINGS:end-->)'
+          replacement = r'\1\n' + f1_content + r'\n\2'
+          
+          updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
+          
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(updated_content)
+          
+          print("✅ F1 standings updated")
+          PYTHON_SCRIPT
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "F1 Bot"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No F1 changes to commit"
+          else
+            git commit -m "🏎️ Update F1 standings [skip ci]"
+            
+            MAX_RETRIES=3
+            RETRY_COUNT=0
+            
+            while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+              if git push; then
+                echo "✅ F1 update pushed"
+                break
+              else
+                echo "⚠️ Push failed, retrying..."
+                RETRY_COUNT=$((RETRY_COUNT + 1))
+                git pull --rebase origin main
+                if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
+                  echo "❌ Failed after $MAX_RETRIES attempts"
+                  exit 1
+                fi
+                sleep 3
+              fi
+            done
+          fi
+
+      - name: Cleanup
+        run: |
+          rm -f f1_standings.js f1_output.txt
