@@ -127,10 +127,10 @@
 - Ghost of Yōtei 🎮 | Last Played: today
 - F1® 24 🎮 | Last Played: 10 days ago
 - Marvel's Spider-Man Remastered 🕷️ | Last Played: 15 days ago
-- It Takes Two 🎮 | Last Played: 15 days ago
-- Stardew Valley 🎮 | Last Played: 29 days ago
+- It Takes Two 🎮 | Last Played: 16 days ago
+- Stardew Valley 🎮 | Last Played: 30 days ago
 
-*Last updated: October 7, 2025 at 1:46 AM UTC*
+*Last updated: October 7, 2025 at 4:27 AM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
