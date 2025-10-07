@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do it with passion, or not at all. – Rosa Nouchette Carey"*
+### 💡 *"Embody what you teach, and teach only what you have embodied. – Dan Millman"*
 
-*Last updated: October 07, 2025 at 05:14 PM UTC*
+*Last updated: October 07, 2025 at 05:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
