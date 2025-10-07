@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"From the errors of others, a wise man corrects his own. – Publilius Syrus"*
+### 💡 *"The degree of responsibility you take for your life determines how much change you can create in it. – Celestine Chua"*
 
-*Last updated: October 07, 2025 at 09:58 PM UTC*
+*Last updated: October 07, 2025 at 10:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
