@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is achieved and maintained by those who try and keep trying.  – W. Clement Stone"*
+### 💡 *"Fear is what stops you. Courage is what keeps you going. – Unknown"*
 
-*Last updated: October 07, 2025 at 10:38 PM UTC*
+*Last updated: October 07, 2025 at 10:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
