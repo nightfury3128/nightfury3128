@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Fear is what stops you. Courage is what keeps you going. – Unknown"*
+### 💡 *"For your life to be great, your faith must be bigger than your fear. – Robin Sharma"*
 
-*Last updated: October 07, 2025 at 10:48 PM UTC*
+*Last updated: October 07, 2025 at 10:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
