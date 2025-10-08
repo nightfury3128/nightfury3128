@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Anyone who has ever made anything of importance was disciplined. – Andrew Hendrixson"*
+### 💡 *"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. – Robert Greene"*
 
-*Last updated: October 08, 2025 at 08:27 PM UTC*
+*Last updated: October 08, 2025 at 08:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
