@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The ego wants comfort and certainty. The soul wants to live fully. – Maxime Lagace"*
+### 💡 *"Don't blame others. it won't make you a better person. – Lolly Daskal"*
 
-*Last updated: October 08, 2025 at 04:41 AM UTC*
+*Last updated: October 08, 2025 at 04:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
