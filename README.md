@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In spite of everything, I shall rise again. – Vincent van Gogh"*
+### 💡 *"Wherever you are, it's the place you need to be. – Maxime Lagace"*
 
-*Last updated: October 08, 2025 at 10:23 PM UTC*
+*Last updated: October 08, 2025 at 10:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
