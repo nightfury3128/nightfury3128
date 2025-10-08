@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If they wrote it to make money, don't read it. – Naval Ravikant"*
+### 💡 *"Take responsibility of your own happiness, never put it in other people's hands. – Roy T. Bennett"*
 
-*Last updated: October 08, 2025 at 04:26 PM UTC*
+*Last updated: October 08, 2025 at 04:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
