@@ -126,11 +126,11 @@
 🎮 **Currently Playing:**
 - Ghost of Yōtei 🎮 | Last Played: 2 days ago
 - F1® 24 🎮 | Last Played: 12 days ago
-- Marvel's Spider-Man Remastered 🕷️ | Last Played: 17 days ago
+- Marvel's Spider-Man Remastered 🕷️ | Last Played: 18 days ago
 - It Takes Two 🎮 | Last Played: 18 days ago
 - Stardew Valley 🎮 | Last Played: 32 days ago
 
-*Last updated: October 9, 2025 at 12:50 PM UTC*
+*Last updated: October 9, 2025 at 4:31 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
