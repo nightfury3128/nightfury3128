@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The healthiest response to life is joy. – Deepak Chopra"*
+### 💡 *"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive. – Maxime Lagace"*
 
-*Last updated: October 09, 2025 at 11:55 AM UTC*
+*Last updated: October 09, 2025 at 12:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
