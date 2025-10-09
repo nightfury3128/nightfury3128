@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A good system shortens the road to the goal.  – Orison Swett Marden"*
+### 💡 *"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. – T.S. Eliot"*
 
-*Last updated: October 09, 2025 at 10:45 AM UTC*
+*Last updated: October 09, 2025 at 10:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
