@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You don't have to be great to start, but you have to start to be great.   – Zig Ziglar"*
+### 💡 *"Enjoy life. There's plenty of time to be dead. – Hans Christian Andersen"*
 
-*Last updated: October 09, 2025 at 05:39 PM UTC*
+*Last updated: October 09, 2025 at 05:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
