@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Youth has no age. – Pablo Picasso"*
+### 💡 *"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. – Pema Chodron"*
 
-*Last updated: October 09, 2025 at 09:54 PM UTC*
+*Last updated: October 09, 2025 at 10:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
