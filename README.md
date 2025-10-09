@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The degree of responsibility you take for your life determines how much change you can create in it. – Celestine Chua"*
+### 💡 *"Each day your life grows a day shorter. Make every move count. – Ming-Dao Deng"*
 
-*Last updated: October 09, 2025 at 08:40 PM UTC*
+*Last updated: October 09, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
