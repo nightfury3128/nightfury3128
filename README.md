@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It does not matter how slowly you go so long as you do not stop. – Confucius"*
+### 💡 *"You don't have to be great to start, but you have to start to be great.   – Zig Ziglar"*
 
-*Last updated: October 09, 2025 at 05:23 PM UTC*
+*Last updated: October 09, 2025 at 05:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
