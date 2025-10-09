@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Why compare yourself with others? No one in the entire world can do a better job of being you than you. – Unknown"*
+### 💡 *"The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. – Winston Churchill"*
 
-*Last updated: October 09, 2025 at 11:40 PM UTC*
+*Last updated: October 09, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
