@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We can change our lives. We can do, have, and be exactly what we wish. – Tony Robbins"*
+### 💡 *"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. – Nelson Mandela"*
 
-*Last updated: October 09, 2025 at 09:39 AM UTC*
+*Last updated: October 09, 2025 at 09:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
