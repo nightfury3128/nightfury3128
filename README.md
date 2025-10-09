@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit. – Robin Sharma"*
+### 💡 *"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. – Charles Darwin"*
 
-*Last updated: October 09, 2025 at 08:24 AM UTC*
+*Last updated: October 09, 2025 at 08:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
