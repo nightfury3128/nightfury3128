@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything flows, nothing stands still. – Heraclitus"*
+### 💡 *"Don't blame others. it won't make you a better person. – Lolly Daskal"*
 
-*Last updated: October 10, 2025 at 03:24 AM UTC*
+*Last updated: October 10, 2025 at 03:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
