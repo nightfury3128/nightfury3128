@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. – Helen Keller"*
+### 💡 *"Don't look for meaning in the words. Listen to the silences. – Samuel Beckett"*
 
-*Last updated: October 10, 2025 at 11:39 AM UTC*
+*Last updated: October 10, 2025 at 11:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
