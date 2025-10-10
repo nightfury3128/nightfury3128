@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People are doing the best that they can from their own level of consciousness. – Deepak Chopra"*
+### 💡 *"Don't stop when you're tired. Stop when you're done. – Marilyn Monroe"*
 
-*Last updated: October 10, 2025 at 06:55 PM UTC*
+*Last updated: October 10, 2025 at 07:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
