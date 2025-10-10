@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you can change your mind, you can change your life. – William James"*
+### 💡 *"Fear is a natural reaction to moving closer to the truth. – Pema Chodron"*
 
-*Last updated: October 10, 2025 at 07:26 PM UTC*
+*Last updated: October 10, 2025 at 07:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
