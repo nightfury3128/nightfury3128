@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The less you respond to negative people, the more positive your life will become. – Paulo Coelho"*
+### 💡 *"Success is never final, failure is never fatal. It's courage that counts. – John Wooden"*
 
-*Last updated: October 10, 2025 at 02:17 PM UTC*
+*Last updated: October 10, 2025 at 02:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
