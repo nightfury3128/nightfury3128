@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Unless a man is master of his soul, all other kinds of mastery amount to little. – Theodore Roosevelt"*
+### 💡 *"The ego wants to go fast. The soul needs to go slow. – Maxime Lagace"*
 
-*Last updated: October 10, 2025 at 10:20 AM UTC*
+*Last updated: October 10, 2025 at 10:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
