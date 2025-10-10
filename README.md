@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you're not making mistakes, then you're not doing anything. – John Wooden"*
+### 💡 *"Convinced myself, I seek not to convince. – Edgar Allan Poe"*
 
-*Last updated: October 10, 2025 at 11:28 PM UTC*
+*Last updated: October 10, 2025 at 11:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
