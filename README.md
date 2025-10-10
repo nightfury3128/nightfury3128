@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It does not do to dwell on dreams and forget to live, remember that. – Albus Dumbledore"*
+### 💡 *"Like it or not, this moment is all we really have to work with. – Jon Kabat-Zinn"*
 
-*Last updated: October 10, 2025 at 10:44 PM UTC*
+*Last updated: October 10, 2025 at 10:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
