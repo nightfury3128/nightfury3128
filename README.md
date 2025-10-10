@@ -130,7 +130,7 @@
 - It Takes Two 🎮 | Last Played: 19 days ago
 - Stardew Valley 🎮 | Last Played: 33 days ago
 
-*Last updated: October 10, 2025 at 4:27 AM UTC*
+*Last updated: October 10, 2025 at 8:30 AM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
