@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You have within you right now, everything you need to deal with whatever the world can throw at you. – Brian Tracy"*
+### 💡 *"Change yourself - you are in control. – Mahatma Gandhi"*
 
-*Last updated: October 10, 2025 at 05:34 AM UTC*
+*Last updated: October 10, 2025 at 05:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
