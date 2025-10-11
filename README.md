@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything has beauty but not everyone sees it. – Confucius"*
+### 💡 *"Don't look for meaning in the words. Listen to the silences. – Samuel Beckett"*
 
-*Last updated: October 11, 2025 at 05:44 AM UTC*
+*Last updated: October 11, 2025 at 05:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
