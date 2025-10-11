@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Laziness may appear attractive, but work gives satisfaction. – Anne Frank"*
+### 💡 *"There's no coming to consciousness without pain – Carl Jung"*
 
-*Last updated: October 11, 2025 at 10:37 AM UTC*
+*Last updated: October 11, 2025 at 10:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
