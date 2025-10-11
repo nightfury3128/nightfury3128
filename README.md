@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't wait for the right opportunity: create it. – George Bernard Shaw"*
+### 💡 *"Until you make the unconscious conscious, it will direct your life and you will call it fate. – Carl Jung"*
 
-*Last updated: October 11, 2025 at 09:56 PM UTC*
+*Last updated: October 11, 2025 at 10:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
