@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Open your mind before your mouth. – Aristophanes"*
+### 💡 *"Thought is so cunning, so clever, that it distorts everything for its own convenience. – Jiddu Krishnamurti"*
 
-*Last updated: October 11, 2025 at 02:30 PM UTC*
+*Last updated: October 11, 2025 at 02:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
