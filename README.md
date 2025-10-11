@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Convinced myself, I seek not to convince. – Edgar Allan Poe"*
+### 💡 *"You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead? – Seneca"*
 
-*Last updated: October 11, 2025 at 02:43 AM UTC*
+*Last updated: October 11, 2025 at 03:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
