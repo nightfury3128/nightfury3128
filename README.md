@@ -110,10 +110,10 @@
 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [nightfury3128/Athera](https://github.com/nightfury3128/Athera)
-2. ⬆️ Pushed 1 commit(s) to [nightfury3128/OcuLens](https://github.com/nightfury3128/OcuLens)
-3. ⬆️ Pushed 2 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-4. 🎉 Merged PR [#8](https://github.com/nightfury3128/nightfury3128/pull/8) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
-5. 💪 Opened PR [#8](https://github.com/nightfury3128/nightfury3128/pull/8) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+2. ⬆️ Pushed 1 commit(s) to [nightfury3128/Athera](https://github.com/nightfury3128/Athera)
+3. ⬆️ Pushed 1 commit(s) to [nightfury3128/OcuLens](https://github.com/nightfury3128/OcuLens)
+4. ⬆️ Pushed 2 commit(s) to [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
+5. 🎉 Merged PR [#8](https://github.com/nightfury3128/nightfury3128/pull/8) in [nightfury3128/nightfury3128](https://github.com/nightfury3128/nightfury3128)
 <!--RECENT_ACTIVITY:end-->
 
 ---
