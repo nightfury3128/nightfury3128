@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The soul should always stand ajar, ready to welcome the ecstatic experience. – Emily Dickinson"*
+### 💡 *"Don't wait for the right opportunity: create it. – George Bernard Shaw"*
 
-*Last updated: October 11, 2025 at 09:47 PM UTC*
+*Last updated: October 11, 2025 at 09:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
