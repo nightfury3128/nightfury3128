@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What we dwell on is who we become. – Oprah Winfrey"*
+### 💡 *"Would you rather live your life according to the approval of others or aligned with your truth and your dreams? – Robin Sharma"*
 
-*Last updated: October 11, 2025 at 08:24 AM UTC*
+*Last updated: October 11, 2025 at 08:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
