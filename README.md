@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Remember the entrance to the sanctuary is inside you. – Rumi"*
+### 💡 *"A fear of weakness only strengthens weakness. – Criss Jami"*
 
-*Last updated: October 11, 2025 at 09:49 AM UTC*
+*Last updated: October 11, 2025 at 09:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
