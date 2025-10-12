@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never let the things you can't do stop you from doing what you can. – Ronald Reagan"*
+### 💡 *"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have. – Norman Vincent Peale"*
 
-*Last updated: October 12, 2025 at 06:22 AM UTC*
+*Last updated: October 12, 2025 at 06:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
