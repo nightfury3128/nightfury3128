@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The journey is what brings us happiness not the destination. – Dan Millman"*
+### 💡 *"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. – Dale Carnegie"*
 
-*Last updated: October 12, 2025 at 04:55 AM UTC*
+*Last updated: October 12, 2025 at 05:15 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
