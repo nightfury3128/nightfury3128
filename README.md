@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
+### 💡 *"The right thing to do and the hard thing to do are usually the same. – Steve Maraboli"*
 
-*Last updated: October 12, 2025 at 08:54 PM UTC*
+*Last updated: October 12, 2025 at 09:13 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
