@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't try to be young. Just open your mind. Stay interested in stuff. – Betty White"*
+### 💡 *"The more one judges, the less one loves. – Honore de Balzac"*
 
-*Last updated: October 12, 2025 at 11:16 AM UTC*
+*Last updated: October 12, 2025 at 11:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
