@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Show me a hero, and I'll write you a tragedy. – F. Scott Fitzgerald"*
+### 💡 *"Don't give up on your dreams, or your dreams will give up on you. – John Wooden"*
 
-*Last updated: October 12, 2025 at 07:38 AM UTC*
+*Last updated: October 12, 2025 at 07:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
