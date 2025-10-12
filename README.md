@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It takes a very long time to become young. – Pablo Picasso"*
+### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
 
-*Last updated: October 12, 2025 at 08:45 PM UTC*
+*Last updated: October 12, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
