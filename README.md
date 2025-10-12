@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We run to win, not just to be in the race.   – Vince Lombardi"*
+### 💡 *"Learn to use your emotions to think, not think with your emotions. – Robert Kiyosaki"*
 
-*Last updated: October 12, 2025 at 05:39 PM UTC*
+*Last updated: October 12, 2025 at 05:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
