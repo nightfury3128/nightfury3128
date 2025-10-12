@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. – Thich Nhat Hanh"*
+### 💡 *"The journey is what brings us happiness not the destination. – Dan Millman"*
 
-*Last updated: October 12, 2025 at 04:46 AM UTC*
+*Last updated: October 12, 2025 at 04:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
