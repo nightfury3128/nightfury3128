@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Shoot for the moon, because even if you miss, you'll land among the stars. – Les Brown"*
+### 💡 *"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. – John Wooden"*
 
-*Last updated: October 13, 2025 at 07:26 PM UTC*
+*Last updated: October 13, 2025 at 07:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
