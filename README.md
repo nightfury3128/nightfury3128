@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are ever the smartest person in the room, you are in the wrong room. – C. Sean McGee"*
+### 💡 *"When you know what you want, and you want it bad enough, you will find a way to get it. – Jim Rohn"*
 
-*Last updated: October 13, 2025 at 04:44 PM UTC*
+*Last updated: October 13, 2025 at 04:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
