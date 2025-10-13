@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Keep your dreams, you never know when you might need them. – Carlos Ruiz Zafon"*
+### 💡 *"If you are unable to find the truth right where you are, where else do you expect to find it? – Dogen"*
 
-*Last updated: October 13, 2025 at 07:17 AM UTC*
+*Last updated: October 13, 2025 at 07:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
