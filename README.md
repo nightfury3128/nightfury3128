@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence is contagious. So is lack of confidence. – Vince Lombardi"*
+### 💡 *"Success is not to be pursued, it is to be attracted by the person you become. – Jim Rohn"*
 
-*Last updated: October 13, 2025 at 10:54 PM UTC*
+*Last updated: October 13, 2025 at 11:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
