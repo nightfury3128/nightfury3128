@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People think about what they don't want and attract more of the same. – Unknown"*
+### 💡 *"Each time we don't say what we wanna say, we're dying. – Yoko Ono"*
 
-*Last updated: October 13, 2025 at 01:43 PM UTC*
+*Last updated: October 13, 2025 at 01:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
