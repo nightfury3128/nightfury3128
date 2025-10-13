@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Thoughts become things. If you see it in your mind, you will hold it in your hand. – Bob Proctor"*
+### 💡 *"Confidence is contagious. So is lack of confidence. – Vince Lombardi"*
 
-*Last updated: October 13, 2025 at 10:44 PM UTC*
+*Last updated: October 13, 2025 at 10:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
