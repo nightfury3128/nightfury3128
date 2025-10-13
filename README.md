@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass. – Unknown"*
+### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goal. – Henry Ford"*
 
-*Last updated: October 13, 2025 at 05:55 AM UTC*
+*Last updated: October 13, 2025 at 06:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
