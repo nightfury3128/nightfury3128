@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. – Carl Jung"*
+### 💡 *"I put my heart and soul into my work, and I have lost my mind in the process. – Vincent van Gogh"*
 
-*Last updated: October 13, 2025 at 09:54 PM UTC*
+*Last updated: October 13, 2025 at 10:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
