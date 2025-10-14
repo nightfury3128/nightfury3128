@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He that can have patience can have what he will. – Benjamin Franklin"*
+### 💡 *"Find something you love and do it better than everyone else. – Gurbaksh Chahal"*
 
-*Last updated: October 14, 2025 at 12:31 PM UTC*
+*Last updated: October 14, 2025 at 12:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
