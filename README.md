@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not fear failure but rather fear not trying. – Roy T. Bennett"*
+### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
 
-*Last updated: October 14, 2025 at 10:51 AM UTC*
+*Last updated: October 14, 2025 at 11:14 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
