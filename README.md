@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who wishes to be obeyed must know how to command. – Niccolo Machiavelli"*
+### 💡 *"The pen is the tongue of the mind.  – Miguel de Cervantes"*
 
-*Last updated: October 14, 2025 at 08:27 PM UTC*
+*Last updated: October 14, 2025 at 08:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
