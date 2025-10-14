@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The pen is the tongue of the mind.  – Miguel de Cervantes"*
+### 💡 *"It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. – Albus Dumbledore"*
 
-*Last updated: October 14, 2025 at 08:42 PM UTC*
+*Last updated: October 14, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
