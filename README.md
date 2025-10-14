@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Older men declare war. But it is youth that must fight and die. – Herbert Hoover"*
+### 💡 *"It is hard to fail, but it is worse never to have tried to succeed. – Theodore Roosevelt"*
 
-*Last updated: October 14, 2025 at 03:00 AM UTC*
+*Last updated: October 14, 2025 at 03:38 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
