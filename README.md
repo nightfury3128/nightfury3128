@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A good character is the best tombstone. Carve your name on hearts, not on marble. – Charles Spurgeon"*
+### 💡 *"Hold yourself responsible for a higher standard than anybody else expects of you. – Henry Ward Beecher"*
 
-*Last updated: October 14, 2025 at 01:30 PM UTC*
+*Last updated: October 14, 2025 at 01:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
