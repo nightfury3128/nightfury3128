@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can only be afraid of what you think you know. – Jiddu Krishnamurti"*
+### 💡 *"Knowing is not enough, we must apply. Willing is not enough, we must do. – Johann Wolfgang von Goethe"*
 
-*Last updated: October 14, 2025 at 09:49 PM UTC*
+*Last updated: October 14, 2025 at 09:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
