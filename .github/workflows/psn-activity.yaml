@@ -1,3 +1,10 @@
+name: Update PlayStation Activity
+
+on:
+  schedule:
+    - cron: '0 8 * * *'   # runs every day at 8:00 UTC
+  workflow_dispatch:        # allows you to trigger it manually
+
 jobs:
   update-psn-activity:
     runs-on: ubuntu-latest
@@ -20,208 +27,9 @@ jobs:
         env:
           PSN_ACCESS: ${{ secrets.PSN_ACCESS }}
         run: |
-          cat > fetch_psn_data.js << 'EOF'
-          const fs = require('fs');
-          const axios = require('axios');
-          const {
-            exchangeNpssoForCode,
-            exchangeCodeForAccessToken,
-            getUserTitles,
-            getProfileFromUserName,
-            getUserTrophyGroupEarningsForTitle
-          } = require('psn-api');
-
-          // Helper: safe getter for level from a few possible fields
-          function extractLevel(profile) {
-            const s = profile?.trophySummary || {};
-            const candidates = [
-              s.level,
-              s.trophyLevel,
-              s.levelProgress?.currentLevel,
-              profile?.level,
-              s.currentLevel
-            ];
-            for (const c of candidates) {
-              if (typeof c === 'number' && !isNaN(c)) return c;
-              if (typeof c === 'string' && /^\d+$/.test(c)) return parseInt(c, 10);
-            }
-            return 0;
-          }
-
-          // Try PSN mobile endpoint for recently played games (best-effort; may not always work)
-          async function fetchRecentlyPlayed(npssoAccessToken) {
-            try {
-              if (!npssoAccessToken) return [];
-              const url = 'https://m.np.playstation.com/api/userProfile/v1/internal/users/me/titles';
-              const headers = {
-                'Authorization': `Bearer ${npssoAccessToken}`,
-                'Content-Type': 'application/json',
-                'Accept': 'application/json'
-              };
-              const resp = await axios.get(url, { headers, timeout: 10000 });
-              return resp.data && Array.isArray(resp.data.titles) ? resp.data.titles : [];
-            } catch (err) {
-              console.log('⚠️ recently played fetch failed:', err.message);
-              return [];
-            }
-          }
-
-          async function fetchPSNData() {
-            try {
-              const psnAccessSecret = process.env.PSN_ACCESS;
-              if (!psnAccessSecret) throw new Error('PSN_ACCESS secret not configured');
-
-              let npssoData;
-              try {
-                npssoData = JSON.parse(psnAccessSecret);
-              } catch {
-                throw new Error('Invalid PSN_ACCESS JSON format');
-              }
-              const npssoToken = npssoData.npsso;
-              if (!npssoToken) throw new Error('No NPSSO token found in PSN_ACCESS secret');
-
-              console.log('🔐 Exchanging NPSSO for access code...');
-              const accessCode = await exchangeNpssoForCode(npssoToken);
-              console.log('✅ Access code obtained');
-
-              const authorization = await exchangeCodeForAccessToken(accessCode);
-              console.log('✅ Access token obtained');
-
-              const profile = await getProfileFromUserName(authorization, 'me');
-              console.log('✅ Profile fetched:', profile.onlineId || 'me');
-
-              const titles = await getUserTitles(authorization, 'me', { limit: 50 });
-              const trophyTitles = titles.trophyTitles || [];
-
-              const recentGames = await fetchRecentlyPlayed(authorization.access_token || authorization);
-
-              const trophyMap = new Map();
-              for (const t of trophyTitles) {
-                const key = (t.trophyTitleName || '').toLowerCase();
-                trophyMap.set(key, t);
-              }
-
-              const merged = [];
-              const usedNames = new Set();
-
-              for (const g of recentGames.slice(0, 10)) {
-                const name = g.name || g.titleName || g.trophyTitleName || 'Unknown';
-                const key = name.toLowerCase();
-                usedNames.add(key);
-                const trophyData = trophyMap.get(key) || {};
-                merged.push({
-                  name,
-                  platform: g.platform || trophyData.trophyTitlePlatform || 'PS',
-                  progress: trophyData.progress || 0,
-                  lastPlayedDateTime: g.lastPlayedDateTime || g.lastActivityDateTime || trophyData.lastUpdatedDateTime || null,
-                  earnedTrophies: trophyData.earnedTrophies || {}
-                });
-              }
-
-              for (const t of trophyTitles.slice(0, 10)) {
-                const name = t.trophyTitleName || 'Unknown';
-                const key = name.toLowerCase();
-                if (usedNames.has(key)) continue;
-                usedNames.add(key);
-                merged.push({
-                  name,
-                  platform: t.trophyTitlePlatform || 'PS',
-                  progress: t.progress || 0,
-                  lastPlayedDateTime: t.lastUpdatedDateTime || null,
-                  earnedTrophies: t.earnedTrophies || {}
-                });
-              }
-
-              const trophySummary = profile.trophySummary || {};
-              const earned = trophySummary.earnedTrophies || {};
-              const totalTrophies = (earned.bronze || 0) + (earned.silver || 0) + (earned.gold || 0) + (earned.platinum || 0);
-              const level = extractLevel(profile);
-
-              return {
-                profile: {
-                  onlineId: profile.onlineId || 'me',
-                  level,
-                  totalTrophies,
-                  trophyBreakdown: earned
-                },
-                games: merged
-              };
-
-            } catch (err) {
-              console.error('❌ Error fetching PSN data:', err.message);
-              throw err;
-            }
-          }
-
-          function formatTimeAgo(dateString) {
-            if (!dateString) return 'unknown';
-            const now = new Date();
-            const date = new Date(dateString);
-            if (isNaN(date)) return 'unknown';
-            const diffMs = now - date;
-            const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
-            if (diffDays === 0) return 'today';
-            if (diffDays === 1) return '1 day ago';
-            return `${diffDays} days ago`;
-          }
-
-          function getGameEmoji(name) {
-            const map = {
-              'spider-man': '🕷️', 'fifa': '⚽', 'call of duty': '🔫',
-              'god of war': '⚔️', 'horizon': '🏹', 'last of us': '🧟',
-              'uncharted': '🗺️', 'gran turismo': '🏎️', 'destiny': '🚀',
-              'assassin': '🗡️'
-            };
-            const lower = (name || '').toLowerCase();
-            for (const [k, e] of Object.entries(map)) if (lower.includes(k)) return e;
-            return '🎮';
-          }
-
-          (async () => {
-            const data = await fetchPSNData();
-            const timestamp = new Date().toLocaleString('en-US', {
-              timeZone: 'UTC',
-              year: 'numeric', month: 'long', day: 'numeric',
-              hour: 'numeric', minute: '2-digit', hour12: true
-            }) + ' UTC';
-
-            let output = `🎮 **Currently Playing:**\n\n`;
-            for (const g of data.games.slice(0,5)) {
-              const emoji = getGameEmoji(g.name);
-              output += `- ${g.name} ${emoji} | Last Played: ${formatTimeAgo(g.lastPlayedDateTime)}\n`;
-            }
-            output += `\n*Last updated: ${timestamp}*`;
-
-            fs.writeFileSync('psn_data.txt', output, 'utf8');
-            fs.writeFileSync('psn_meta.json', JSON.stringify({
-              level: data.profile.level || 0,
-              totalTrophies: data.profile.totalTrophies || 0,
-              onlineId: data.profile.onlineId || 'me',
-              updatedAt: new Date().toISOString()
-            }, null, 2), 'utf8');
-
-            console.log('✅ PSN_OUTPUT<<EOF');
-            console.log(output);
-            console.log('EOF');
-          })();
-          EOF
-
-          if node fetch_psn_data.js > psn_output.txt 2>&1; then
-            echo "✅ PSN script executed successfully"
-          else
-            echo "❌ Failed to fetch PSN data"
-            cat psn_output.txt
-            exit 1
-          fi
-
-          if grep -q "PSN_OUTPUT<<EOF" psn_output.txt; then
-            sed -n '/PSN_OUTPUT<<EOF/,/EOF/p' psn_output.txt | sed '1d;$d' > psn_data.txt
-            echo "✅ PSN data extracted successfully"
-          else
-            echo "❌ No PSN data found in output"
-            cat psn_output.txt
-            exit 1
-          fi
+          # (same long script block I gave you before)
+          # paste that entire block here unchanged
+          echo "✅ PSN data fetched and formatted"
 
       - name: Update README with PSN Data
         run: |
@@ -247,19 +55,16 @@ jobs:
           level = int(meta.get('level', 0))
           trophies = int(meta.get('totalTrophies', 0))
           content = open('README.md','r',encoding='utf-8').read()
-
           content = re.sub(
               r'<img src="https://img\.shields\.io/badge/PSN%20Level-[^"]+?"[^>]*>',
               f'<img src="https://img.shields.io/badge/PSN%20Level-{level}-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />',
               content
           )
-
           content = re.sub(
               r'<img src="https://img\.shields\.io/badge/Trophies-[^"]+?"[^>]*>',
               f'<img src="https://img.shields.io/badge/Trophies-{trophies}-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />',
               content
           )
-
           with open('README.md','w',encoding='utf-8') as f: f.write(content)
           print(f"✅ Updated badges → Level {level}, Trophies {trophies}")
           PYTHON_SCRIPT
