@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The soul without imagination is what an observatory would be without a telescope. – Henry Ward Beecher"*
+### 💡 *"A good character is the best tombstone. Carve your name on hearts, not on marble. – Charles Spurgeon"*
 
-*Last updated: October 14, 2025 at 12:56 PM UTC*
+*Last updated: October 14, 2025 at 01:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
