@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The world would go on even without you. Don't take yourself so seriously. – Norman Vincent Peale"*
+### 💡 *"Success is doing what you want to do, when you want, where you want, with whom you want, as much as you want. – Tony Robbins"*
 
-*Last updated: October 14, 2025 at 04:45 PM UTC*
+*Last updated: October 14, 2025 at 04:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
