@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Find something you love and do it better than everyone else. – Gurbaksh Chahal"*
+### 💡 *"The soul without imagination is what an observatory would be without a telescope. – Henry Ward Beecher"*
 
-*Last updated: October 14, 2025 at 12:35 PM UTC*
+*Last updated: October 14, 2025 at 12:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
