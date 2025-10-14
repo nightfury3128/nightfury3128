@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All life is a manifestation of the spirit, the manifestation of love. – Morihei Ueshiba"*
+### 💡 *"Do not fear failure but rather fear not trying. – Roy T. Bennett"*
 
-*Last updated: October 14, 2025 at 10:39 AM UTC*
+*Last updated: October 14, 2025 at 10:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
