@@ -1,14 +1,20 @@
-name: Update PlayStation Activity
+name: PlayStation Gaming Activity
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # runs every day at 8:00 UTC
-  workflow_dispatch:        # allows you to trigger it manually
+    - cron: '0 */4 * * *' # Runs every 4 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
 
 jobs:
   update-psn-activity:
     runs-on: ubuntu-latest
     name: Update PlayStation Gaming Activity
+
     steps:
       - uses: actions/checkout@v4
 
@@ -27,9 +33,186 @@ jobs:
         env:
           PSN_ACCESS: ${{ secrets.PSN_ACCESS }}
         run: |
-          # (same long script block I gave you before)
-          # paste that entire block here unchanged
-          echo "✅ PSN data fetched and formatted"
+          cat > fetch_psn_data.js << 'EOF'
+          const {
+            exchangeNpssoForCode,
+            exchangeCodeForAccessToken,
+            getUserTitles,
+            getProfileFromUserName,
+            getUserTrophyGroupEarningsForTitle
+          } = require('psn-api');
+
+          async function fetchPSNData() {
+            try {
+              const psnAccessSecret = process.env.PSN_ACCESS;
+              if (!psnAccessSecret) throw new Error('PSN_ACCESS secret not configured');
+              
+              let npssoData;
+              try {
+                npssoData = JSON.parse(psnAccessSecret);
+              } catch {
+                throw new Error('Invalid PSN_ACCESS JSON format');
+              }
+
+              const npssoToken = npssoData.npsso;
+              if (!npssoToken) throw new Error('No NPSSO token found in PSN_ACCESS secret');
+              console.log('🎮 Using NPSSO token for authentication');
+
+              const accessCode = await exchangeNpssoForCode(npssoToken);
+              console.log('✅ Got access code from NPSSO');
+
+              const authorization = await exchangeCodeForAccessToken(accessCode);
+              console.log('✅ Got access token');
+
+              const profile = await getProfileFromUserName(authorization, 'me');
+              console.log('✅ Got user profile:', profile.onlineId);
+
+              const titles = await getUserTitles(authorization, 'me', { limit: 10 });
+              console.log('✅ Got user titles:', titles.trophyTitles?.length || 0, 'games');
+
+              const gamesData = [];
+              const recentTrophies = [];
+
+              if (titles.trophyTitles) {
+                for (const title of titles.trophyTitles.slice(0, 5)) {
+                  gamesData.push({
+                    name: title.trophyTitleName,
+                    platform: title.trophyTitlePlatform,
+                    progress: title.progress || 0,
+                    lastPlayedDateTime: title.lastUpdatedDateTime,
+                    earnedTrophies: title.earnedTrophies
+                  });
+
+                  try {
+                    if (title.npCommunicationId) {
+                      const trophyGroups = await getUserTrophyGroupEarningsForTitle(
+                        authorization,
+                        'me',
+                        title.npCommunicationId,
+                        title.trophyTitlePlatform,
+                        { npServiceName: title.npServiceName }
+                      );
+                      if (trophyGroups.trophyGroups) {
+                        trophyGroups.trophyGroups.forEach(group => {
+                          if (group.lastUpdatedDateTime) {
+                            recentTrophies.push({
+                              gameName: title.trophyTitleName,
+                              groupName: group.trophyGroupName || 'Base Game',
+                              earnedTrophies: group.earnedTrophies,
+                              lastUpdated: group.lastUpdatedDateTime
+                            });
+                          }
+                        });
+                      }
+                    }
+                  } catch (error) {
+                    console.log(`⚠️ Could not fetch trophies for ${title.trophyTitleName}:`, error.message);
+                  }
+                }
+              }
+
+              return {
+                profile: {
+                  onlineId: profile.onlineId,
+                  level: profile.trophySummary?.level || 1,
+                  totalTrophies:
+                    (profile.trophySummary?.earnedTrophies?.bronze || 0) +
+                    (profile.trophySummary?.earnedTrophies?.silver || 0) +
+                    (profile.trophySummary?.earnedTrophies?.gold || 0) +
+                    (profile.trophySummary?.earnedTrophies?.platinum || 0),
+                  trophyBreakdown: profile.trophySummary?.earnedTrophies || {
+                    bronze: 0, silver: 0, gold: 0, platinum: 0
+                  }
+                },
+                games: gamesData,
+                recentTrophies: recentTrophies
+                  .sort((a, b) => new Date(b.lastUpdated) - new Date(a.lastUpdated))
+                  .slice(0, 5)
+              };
+            } catch (error) {
+              console.log('❌ Error fetching PSN data:', error.message);
+              throw error;
+            }
+          }
+
+          function formatTimeAgo(dateString) {
+            const now = new Date();
+            const date = new Date(dateString);
+            const diffMs = now - date;
+            const diffDays = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+            if (diffDays === 0) return 'today';
+            if (diffDays === 1) return '1 day ago';
+            return `${diffDays} days ago`;
+          }
+
+          function getGameEmoji(gameName) {
+            const gameEmojis = {
+              'spider-man': '🕷️',
+              'fifa': '⚽',
+              'call of duty': '🔫',
+              'god of war': '⚔️',
+              'horizon': '🏹',
+              'last of us': '🧟',
+              'uncharted': '🗺️',
+              'gran turismo': '🏎️',
+              'destiny': '🚀',
+              'assassin': '🗡️'
+            };
+            const lowerName = gameName.toLowerCase();
+            for (const [key, emoji] of Object.entries(gameEmojis)) {
+              if (lowerName.includes(key)) return emoji;
+            }
+            return '🎮';
+          }
+
+          async function main() {
+            const data = await fetchPSNData();
+            const timestamp = new Date().toLocaleString('en-US', {
+              timeZone: 'UTC',
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+              hour: 'numeric',
+              minute: '2-digit',
+              hour12: true
+            }) + ' UTC';
+
+            let output = '🎮 **Currently Playing:**\n';
+            data.games.forEach(game => {
+              const emoji = getGameEmoji(game.name);
+              const timeAgo = formatTimeAgo(game.lastPlayedDateTime);
+              output += `- ${game.name} ${emoji} | Last Played: ${timeAgo}\n`;
+            });
+
+            output += `\n*Last updated: ${timestamp}*`;
+
+            console.log('PSN_OUTPUT<<EOF');
+            console.log(output);
+            console.log('EOF');
+          }
+
+          main().catch(error => {
+            console.error('❌ PSN workflow failed:', error.message);
+            process.exit(1);
+          });
+          EOF
+
+          if node fetch_psn_data.js > psn_output.txt 2>&1; then
+            echo "✅ PSN script executed successfully"
+          else
+            echo "❌ Failed to fetch PSN data"
+            cat psn_output.txt
+            exit 1
+          fi
+
+          if grep -q "PSN_OUTPUT<<EOF" psn_output.txt; then
+            sed -n '/PSN_OUTPUT<<EOF/,/EOF/p' psn_output.txt | sed '1d;$d' > psn_data.txt
+            echo "✅ PSN data extracted successfully"
+          else
+            echo "❌ No PSN data found in output"
+            cat psn_output.txt
+            exit 1
+          fi
 
       - name: Update README with PSN Data
         run: |
@@ -41,32 +224,41 @@ jobs:
               psn_content = f.read().strip()
           pattern = r'(<!--PSN_ACTIVITY:start-->).*?(<!--PSN_ACTIVITY:end-->)'
           replacement = r'\1\n' + psn_content + r'\n\2'
-          updated = re.sub(pattern, replacement, content, flags=re.DOTALL)
+          updated_content = re.sub(pattern, replacement, content, flags=re.DOTALL)
           with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(updated)
-          print("✅ README updated with PSN data")
+              f.write(updated_content)
+          print("✅ PlayStation gaming activity updated successfully")
           PYTHON_SCRIPT
 
       - name: Update workflow status badge
         run: |
           python3 << 'PYTHON_SCRIPT'
-          import json, re
-          meta = json.load(open('psn_meta.json'))
-          level = int(meta.get('level', 0))
-          trophies = int(meta.get('totalTrophies', 0))
-          content = open('README.md','r',encoding='utf-8').read()
-          content = re.sub(
-              r'<img src="https://img\.shields\.io/badge/PSN%20Level-[^"]+?"[^>]*>',
-              f'<img src="https://img.shields.io/badge/PSN%20Level-{level}-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />',
-              content
-          )
-          content = re.sub(
-              r'<img src="https://img\.shields\.io/badge/Trophies-[^"]+?"[^>]*>',
-              f'<img src="https://img.shields.io/badge/Trophies-{trophies}-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />',
-              content
-          )
-          with open('README.md','w',encoding='utf-8') as f: f.write(content)
-          print(f"✅ Updated badges → Level {level}, Trophies {trophies}")
+          import re
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          level_match = re.search(r'PSN Level: 🎯 Level (\d+)', content)
+          trophy_match = re.search(r'🏆 Total: (\d+)', content)
+
+          if level_match and trophy_match:
+              level = level_match.group(1)
+              trophies = trophy_match.group(1)
+
+              content = re.sub(
+                  r'<img src="https://img\.shields\.io/badge/PSN%20Level-\d+-blue\?style=for-the-badge&logo=playstation" alt="PSN Level" />',
+                  f'<img src="https://img.shields.io/badge/PSN%20Level-{level}-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />',
+                  content
+              )
+              content = re.sub(
+                  r'<img src="https://img\.shields\.io/badge/Trophies-\d+-gold\?style=for-the-badge&logo=playstation" alt="Total Trophies" />',
+                  f'<img src="https://img.shields.io/badge/Trophies-{trophies}-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />',
+                  content
+              )
+
+              with open('README.md', 'w', encoding='utf-8') as f:
+                  f.write(content)
+
+              print("✅ PlayStation badges updated")
           PYTHON_SCRIPT
 
       - name: Commit changes
@@ -74,16 +266,31 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "PlayStation Bot"
           git add README.md
+
           if git diff --staged --quiet; then
-            echo "No PSN changes to commit"
+            echo "No PSN activity changes to commit"
           else
             git commit -m "🎮 Update PlayStation gaming activity [skip ci]"
-            for i in 1 2 3; do
-              git push && break || { echo "⚠️ Push failed, retrying ($i/3)"; git pull --rebase origin main; sleep 5; }
+            MAX_RETRIES=3
+            RETRY_COUNT=0
+            while [ $RETRY_COUNT -lt $MAX_RETRIES ]; do
+              if git push; then
+                echo "✅ Successfully pushed PSN activity update"
+                break
+              else
+                echo "⚠️ Push failed, attempting to pull and retry (attempt $((RETRY_COUNT + 1))/$MAX_RETRIES)"
+                RETRY_COUNT=$((RETRY_COUNT + 1))
+                git pull --rebase origin main
+                if [ $RETRY_COUNT -eq $MAX_RETRIES ]; then
+                  echo "❌ Failed to push after $MAX_RETRIES attempts"
+                  exit 1
+                fi
+                sleep 5
+              fi
             done
           fi
 
       - name: Cleanup
         run: |
-          rm -f fetch_psn_data.js psn_output.txt psn_data.txt psn_meta.json package.json package-lock.json
+          rm -f fetch_psn_data.js psn_output.txt psn_data.txt package.json package-lock.json
           rm -rf node_modules
