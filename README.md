@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Wherever you are, and whatever you do, be in love. – Rumi"*
+### 💡 *"I know of only one duty, and that is to love. – George Bernard Shaw"*
 
-*Last updated: October 15, 2025 at 10:19 AM UTC*
+*Last updated: October 15, 2025 at 10:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
