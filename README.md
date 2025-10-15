@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward. – Unknown"*
+### 💡 *"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. – Andrew Carnegie"*
 
-*Last updated: October 15, 2025 at 07:55 PM UTC*
+*Last updated: October 15, 2025 at 08:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
