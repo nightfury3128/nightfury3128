@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Tension is who you think you should be. Relaxation is who you are. – Chinese Proverb"*
+### 💡 *"You don't need anybody to tell you who you are or what you are. You are what you are! – John Lennon"*
 
-*Last updated: October 15, 2025 at 09:28 AM UTC*
+*Last updated: October 15, 2025 at 09:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
