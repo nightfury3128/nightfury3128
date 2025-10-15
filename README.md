@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Fear is what stops you. Courage is what keeps you going. – Unknown"*
+### 💡 *"Wherever you are, and whatever you do, be in love. – Rumi"*
 
-*Last updated: October 15, 2025 at 09:54 AM UTC*
+*Last updated: October 15, 2025 at 10:19 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
