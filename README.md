@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. – Robert Kiyosaki"*
+### 💡 *"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. – Les Brown"*
 
-*Last updated: October 15, 2025 at 06:49 AM UTC*
+*Last updated: October 15, 2025 at 06:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
