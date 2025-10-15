@@ -128,9 +128,9 @@
 - Ghost of Yōtei 🎮 | Last Played: 1 day ago
 - F1® 24 🎮 | Last Played: 18 days ago
 - Marvel's Spider-Man Remastered 🕷️ | Last Played: 23 days ago
-- It Takes Two 🎮 | Last Played: 23 days ago
+- It Takes Two 🎮 | Last Played: 24 days ago
 
-*Last updated: October 15, 2025 at 12:44 AM UTC*
+*Last updated: October 15, 2025 at 4:12 AM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
