@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You don't need anybody to tell you who you are or what you are. You are what you are! – John Lennon"*
+### 💡 *"Fear is what stops you. Courage is what keeps you going. – Unknown"*
 
-*Last updated: October 15, 2025 at 09:44 AM UTC*
+*Last updated: October 15, 2025 at 09:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
