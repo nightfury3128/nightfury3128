@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Wheels of justice grind slow but grind fine. – Sun Tzu"*
+### 💡 *"To forget the whole world is easy; to make the whole world forget you is hard. – Zhuangzi"*
 
-*Last updated: October 16, 2025 at 07:38 PM UTC*
+*Last updated: October 16, 2025 at 07:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
