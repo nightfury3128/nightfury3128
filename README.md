@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. – Kahlil Gibran"*
+### 💡 *"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. – Sathya Sai Baba"*
 
-*Last updated: October 16, 2025 at 07:48 AM UTC*
+*Last updated: October 16, 2025 at 07:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
