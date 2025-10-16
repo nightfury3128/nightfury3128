@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society. – Jiddu Krishnamurti"*
+### 💡 *"Supreme excellence consists of breaking the enemy's resistance without fighting. – Sun Tzu"*
 
-*Last updated: October 16, 2025 at 08:32 AM UTC*
+*Last updated: October 16, 2025 at 08:53 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
