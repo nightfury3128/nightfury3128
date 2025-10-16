@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The world doesn't always give you want, but it often gives you what you need. – Naval Ravikant"*
+### 💡 *"Fear is your worst enemy. Risk is your best friend. – Gurbaksh Chahal"*
 
-*Last updated: October 16, 2025 at 08:39 PM UTC*
+*Last updated: October 16, 2025 at 08:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
