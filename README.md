@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Knowing is not enough, we must apply. Willing is not enough, we must do.   – Bruce Lee"*
+### 💡 *"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. – Kahlil Gibran"*
 
-*Last updated: October 16, 2025 at 07:38 AM UTC*
+*Last updated: October 16, 2025 at 07:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
