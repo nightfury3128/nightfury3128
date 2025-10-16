@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Death is not sad; the sad thing is that most people don't really live at all. – Dan Millman"*
+### 💡 *"The world doesn't always give you want, but it often gives you what you need. – Naval Ravikant"*
 
-*Last updated: October 16, 2025 at 08:23 PM UTC*
+*Last updated: October 16, 2025 at 08:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
