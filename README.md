@@ -127,10 +127,10 @@
 - Ghost of Yōtei 🎮 | Last Played: today
 - Human Fall Flat 🎮 | Last Played: 1 day ago
 - F1® 24 🎮 | Last Played: 19 days ago
-- Marvel's Spider-Man Remastered 🕷️ | Last Played: 24 days ago
+- Marvel's Spider-Man Remastered 🕷️ | Last Played: 25 days ago
 - It Takes Two 🎮 | Last Played: 25 days ago
 
-*Last updated: October 16, 2025 at 12:19 PM UTC*
+*Last updated: October 16, 2025 at 4:12 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
