@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you make a choice, you change the future. – Deepak Chopra"*
+### 💡 *"There is little success where there is little laughter. – Andrew Carnegie"*
 
-*Last updated: October 16, 2025 at 11:38 PM UTC*
+*Last updated: October 16, 2025 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
