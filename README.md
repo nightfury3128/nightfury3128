@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is not final, failure is not fatal: it is the courage to continue that counts. – Winston Churchill"*
+### 💡 *"The idea of ourselves is our escape from the fact of what we really are. – Jiddu Krishnamurti"*
 
-*Last updated: October 17, 2025 at 04:50 PM UTC*
+*Last updated: October 17, 2025 at 05:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
