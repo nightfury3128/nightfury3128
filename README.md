@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are no shortcuts to any place worth going. – Beverly Sills"*
+### 💡 *"When we allow negative messages to fester in our head, they take on a life of their own. – Lolly Daskal"*
 
-*Last updated: October 17, 2025 at 08:39 PM UTC*
+*Last updated: October 17, 2025 at 08:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
