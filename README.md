@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The idea of ourselves is our escape from the fact of what we really are. – Jiddu Krishnamurti"*
+### 💡 *"Follow your heart, listen to your inner voice, stop caring about what others think. – Roy T. Bennett"*
 
-*Last updated: October 17, 2025 at 05:14 PM UTC*
+*Last updated: October 17, 2025 at 05:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
