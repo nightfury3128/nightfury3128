@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Make failure your teacher, not your undertaker.   – Zig Ziglar"*
+### 💡 *"When you are totally at peace with yourself, nothing can shake you. – Deepam Chaterjee"*
 
-*Last updated: October 17, 2025 at 05:33 AM UTC*
+*Last updated: October 17, 2025 at 05:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
