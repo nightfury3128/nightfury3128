@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. – Brian Tracy"*
+### 💡 *"Believe you can and you're halfway there. – Theodore Roosevelt"*
 
-*Last updated: October 17, 2025 at 05:54 AM UTC*
+*Last updated: October 17, 2025 at 06:25 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
