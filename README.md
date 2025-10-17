@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. – Sonia Ricotti"*
+### 💡 *"The whole of life, from the moment you are born to the moment you die, is a process of learning. – Jiddu Krishnamurti"*
 
-*Last updated: October 17, 2025 at 02:48 PM UTC*
+*Last updated: October 17, 2025 at 02:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
