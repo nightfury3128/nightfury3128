@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people. – Eleanor Roosevelt"*
+### 💡 *"If I cannot do great things. I can do small things in a great way. – Martin Luther King, Jr."*
 
-*Last updated: October 17, 2025 at 11:49 PM UTC*
+*Last updated: October 17, 2025 at 11:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
