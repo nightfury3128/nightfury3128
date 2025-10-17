@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It all depends on what you choose to believe. – Spencer Johnson"*
+### 💡 *"Where you are right now doesn't have to determine where you'll end up. – Barack Obama"*
 
-*Last updated: October 17, 2025 at 10:15 PM UTC*
+*Last updated: October 17, 2025 at 10:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
