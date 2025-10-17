@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What most people need to learn in life is how to love people and use things instead of using people and loving things. – Unknown"*
+### 💡 *"Don´t hesitate or allow yourself to make excuses. Just get out and do it. – Christopher McCandless"*
 
-*Last updated: October 17, 2025 at 10:49 AM UTC*
+*Last updated: October 17, 2025 at 10:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
