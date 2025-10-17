@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I was angered, for I had no shoes. Then I met a man who had no feet.  – Chinese Proverb"*
+### 💡 *"Don't let anyone define you. You define yourself. – Billie Jean King"*
 
-*Last updated: October 17, 2025 at 11:46 AM UTC*
+*Last updated: October 17, 2025 at 11:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
