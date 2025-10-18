@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am thankful to all who said no to me. It is because of them that I'm doing it myself. – Albert Einstein"*
+### 💡 *"It's much better to do good in a way that no one knows anything about it. – Leo Tolstoy"*
 
-*Last updated: October 18, 2025 at 07:46 PM UTC*
+*Last updated: October 18, 2025 at 07:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
