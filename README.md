@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Instead of thinking outside the box, get rid of the box. – Deepak Chopra"*
+### 💡 *"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. – Winston Churchill"*
 
-*Last updated: October 18, 2025 at 10:33 AM UTC*
+*Last updated: October 18, 2025 at 10:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
