@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You're braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"*
+### 💡 *"This is such a short and precious life that it's really important that you don't spend it being unhappy. – Naval Ravikant"*
 
-*Last updated: October 18, 2025 at 10:33 PM UTC*
+*Last updated: October 18, 2025 at 10:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
