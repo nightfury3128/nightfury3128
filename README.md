@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not regret the past. Look to the future. – Soyen Shaku"*
+### 💡 *"Success does not consist in never making mistakes but in never making the same one a second time. – George Bernard Shaw"*
 
-*Last updated: October 18, 2025 at 04:37 AM UTC*
+*Last updated: October 18, 2025 at 04:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
