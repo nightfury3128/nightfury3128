@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Most people fail in life because they major in minor things. – Tony Robbins"*
+### 💡 *"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners. – Nicolas Chamfort"*
 
-*Last updated: October 18, 2025 at 08:17 PM UTC*
+*Last updated: October 18, 2025 at 08:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
