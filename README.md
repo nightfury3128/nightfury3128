@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success does not consist in never making mistakes but in never making the same one a second time. – George Bernard Shaw"*
+### 💡 *"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. – Bob Proctor"*
 
-*Last updated: October 18, 2025 at 04:47 AM UTC*
+*Last updated: October 18, 2025 at 04:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
