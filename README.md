@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life without love is like a tree without blossoms or fruit. – Kahlil Gibran"*
+### 💡 *"Far more crucial than what we know or do not know is what we do not want to know. – Eric Hoffer"*
 
-*Last updated: October 18, 2025 at 02:31 PM UTC*
+*Last updated: October 18, 2025 at 02:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
