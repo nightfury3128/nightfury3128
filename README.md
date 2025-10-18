@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. – Sathya Sai Baba"*
+### 💡 *"Here is the test to find whether your mission on earth is finished. If you're alive, it isn't. – Richard Bach"*
 
-*Last updated: October 18, 2025 at 05:29 PM UTC*
+*Last updated: October 18, 2025 at 05:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
