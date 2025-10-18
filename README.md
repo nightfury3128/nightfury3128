@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A memory is a beautiful thing, it's almost a desire that you miss. – Gustave Flaubert"*
+### 💡 *"If someone betrays you once, it's their fault; if they betray you twice, it's your fault. – Eleanor Roosevelt"*
 
-*Last updated: October 18, 2025 at 07:28 AM UTC*
+*Last updated: October 18, 2025 at 07:38 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
