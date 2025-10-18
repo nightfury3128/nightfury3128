@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If I cannot do great things. I can do small things in a great way. – Martin Luther King, Jr."*
+### 💡 *"There is only one thing that makes a dream impossible to achieve: the fear of failure. – Paulo Coelho"*
 
-*Last updated: October 17, 2025 at 11:58 PM UTC*
+*Last updated: October 18, 2025 at 01:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
