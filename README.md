@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is either a daring adventure, or nothing. – Helen Keller"*
+### 💡 *"Courage is resistance to fear, mastery of fear - not absence of fear. – Mark Twain"*
 
-*Last updated: October 19, 2025 at 01:32 PM UTC*
+*Last updated: October 19, 2025 at 01:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
