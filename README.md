@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Words without actions are the assassins of idealism. – Herbert Hoover"*
+### 💡 *"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving. – Martin Luther King, Jr."*
 
-*Last updated: October 19, 2025 at 10:58 AM UTC*
+*Last updated: October 19, 2025 at 11:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
