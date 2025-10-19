@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. – Celestine Chua"*
+### 💡 *"My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time. – Steve Jobs"*
 
-*Last updated: October 19, 2025 at 05:16 AM UTC*
+*Last updated: October 19, 2025 at 05:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
