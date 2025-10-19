@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The past is history. It no longer exists, but you are keeping it alive in your mind through your thoughts.  Let it go. It is not serving you. – Sonia Ricotti"*
+### 💡 *"It's the little things done consistently over time, straight from your heart, that have the greatest impact. – Unknown"*
 
-*Last updated: October 19, 2025 at 11:30 PM UTC*
+*Last updated: October 19, 2025 at 11:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
