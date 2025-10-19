@@ -128,9 +128,9 @@
 - Stick Fight: The Game 🎮 | Last Played: today
 - Human Fall Flat 🎮 | Last Played: 4 days ago
 - F1® 24 🎮 | Last Played: 22 days ago
-- Marvel's Spider-Man Remastered 🕷️ | Last Played: 27 days ago
+- Marvel's Spider-Man Remastered 🕷️ | Last Played: 28 days ago
 
-*Last updated: October 19, 2025 at 12:16 PM UTC*
+*Last updated: October 19, 2025 at 4:09 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
