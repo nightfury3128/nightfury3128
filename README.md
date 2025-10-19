@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can have the mind or you can have the moment. – Naval Ravikant"*
+### 💡 *"Difficulties strengthen the mind, as labor does the body.   – Seneca"*
 
-*Last updated: October 19, 2025 at 04:22 AM UTC*
+*Last updated: October 19, 2025 at 04:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
