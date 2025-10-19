@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perplexity is the beginning of knowledge. – Kahlil Gibran"*
+### 💡 *"You are free, and that is why you are lost.  – Franz Kafka"*
 
-*Last updated: October 19, 2025 at 05:44 AM UTC*
+*Last updated: October 19, 2025 at 05:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
