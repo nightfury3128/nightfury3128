@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving. – Martin Luther King, Jr."*
+### 💡 *"What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature! – Charles Darwin"*
 
-*Last updated: October 19, 2025 at 11:17 AM UTC*
+*Last updated: October 19, 2025 at 11:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
