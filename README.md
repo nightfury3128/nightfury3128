@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I've always lived in the moment. – Yanni"*
+### 💡 *"Don't set your own goals by what other people make important. – Lolly Daskal"*
 
-*Last updated: October 19, 2025 at 10:57 PM UTC*
+*Last updated: October 19, 2025 at 11:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
