@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you're at the end of your rope, tie a knot and hold on. – Theodore Roosevelt"*
+### 💡 *"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. – Celestine Chua"*
 
-*Last updated: October 19, 2025 at 04:54 AM UTC*
+*Last updated: October 19, 2025 at 05:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
