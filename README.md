@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is getting what you want... Happiness is wanting what you get. – Dale Carnegie"*
+### 💡 *"There is only one thing that makes a dream impossible to achieve: the fear of failure. – Paulo Coelho"*
 
-*Last updated: October 19, 2025 at 03:59 PM UTC*
+*Last updated: October 19, 2025 at 04:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
