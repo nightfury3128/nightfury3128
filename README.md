@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. – Charles Darwin"*
+### 💡 *"Fear is a natural reaction to moving closer to the truth. – Pema Chodron"*
 
-*Last updated: October 20, 2025 at 04:22 PM UTC*
+*Last updated: October 20, 2025 at 04:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
