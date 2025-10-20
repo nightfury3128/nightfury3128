@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more rejection you get, the better you are, the more you've learned, the closer you are to your outcome. – Tony Robbins"*
+### 💡 *"A strong man overcomes an obstacle, a wise man goes the whole way. – Zen Proverb"*
 
-*Last updated: October 20, 2025 at 01:16 PM UTC*
+*Last updated: October 20, 2025 at 01:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
