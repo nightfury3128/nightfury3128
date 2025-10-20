@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We are all self-made, but only the successful will admit it. – Earl Nightingale"*
+### 💡 *"Your business is not to 'get somewhere' - it is to be here. – Dan Millman"*
 
-*Last updated: October 20, 2025 at 10:19 PM UTC*
+*Last updated: October 20, 2025 at 10:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
