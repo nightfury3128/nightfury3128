@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What is planted in each person's soul will sprout.   – Rumi"*
+### 💡 *"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting. – Bhagavad Gita"*
 
-*Last updated: October 20, 2025 at 07:14 PM UTC*
+*Last updated: October 20, 2025 at 07:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
