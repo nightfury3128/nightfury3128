@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Failure is the key to success; each mistake teaches us something. – Morihei Ueshiba"*
+### 💡 *"Beware of false knowledge, it is more dangerous than ignorance. – George Bernard Shaw"*
 
-*Last updated: October 20, 2025 at 09:47 PM UTC*
+*Last updated: October 20, 2025 at 09:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
