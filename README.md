@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is better to offer no excuse than a bad one.  – George Washington"*
+### 💡 *"Not how long, but how well you have lived is the main thing. – Seneca"*
 
-*Last updated: October 20, 2025 at 05:17 AM UTC*
+*Last updated: October 20, 2025 at 05:36 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
