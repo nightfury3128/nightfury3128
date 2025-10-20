@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Each day your life grows a day shorter. Make every move count. – Ming-Dao Deng"*
+### 💡 *"Awakening is possible only for those who seek it and want it. – G.I. Gurdjieff"*
 
-*Last updated: October 20, 2025 at 05:17 PM UTC*
+*Last updated: October 20, 2025 at 05:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
