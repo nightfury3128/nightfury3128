@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Would you rather learn to deal with the truth now than be forced to do so later on? – Celestine Chua"*
+### 💡 *"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. – Earl Nightingale"*
 
-*Last updated: October 20, 2025 at 09:24 AM UTC*
+*Last updated: October 20, 2025 at 09:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
