@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Unless you change how you are, you will always have what you got. – Jim Rohn"*
+### 💡 *"Every second you have on this planet is very precious and it's your responsibility that you're happy. – Naval Ravikant"*
 
-*Last updated: October 20, 2025 at 11:40 AM UTC*
+*Last updated: October 20, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
