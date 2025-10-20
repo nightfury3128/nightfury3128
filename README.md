@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When angry count to ten before you speak. If very angry, count to one hundred. – Thomas Jefferson"*
+### 💡 *"Would you rather learn to deal with the truth now than be forced to do so later on? – Celestine Chua"*
 
-*Last updated: October 20, 2025 at 08:56 AM UTC*
+*Last updated: October 20, 2025 at 09:24 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
