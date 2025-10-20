@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. – Alfred Adler"*
+### 💡 *"Life can be the scariest and most beautiful thing simultaneously. – Maxime Lagace"*
 
-*Last updated: October 20, 2025 at 09:23 PM UTC*
+*Last updated: October 20, 2025 at 09:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
