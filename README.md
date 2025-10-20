@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every second you have on this planet is very precious and it's your responsibility that you're happy. – Naval Ravikant"*
+### 💡 *"There is always room in your life for thinking bigger, pushing limits and imagining the impossible. – Tony Robbins"*
 
-*Last updated: October 20, 2025 at 11:54 AM UTC*
+*Last updated: October 20, 2025 at 12:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
