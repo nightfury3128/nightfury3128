@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A warrior does not give up what he loves, he finds the love in what he does. – Dan Millman"*
+### 💡 *"The divine is not something high above us. It is in heaven, it is in earth, it is inside us. – Morihei Ueshiba"*
 
-*Last updated: October 20, 2025 at 11:15 PM UTC*
+*Last updated: October 20, 2025 at 11:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
