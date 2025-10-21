@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The future is no more uncertain than the present. – Walt Whitman"*
+### 💡 *"What worries you, masters you. – John Locke"*
 
-*Last updated: October 21, 2025 at 10:54 AM UTC*
+*Last updated: October 21, 2025 at 11:14 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
