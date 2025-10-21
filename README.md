@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is not uncommon for people to spend their whole life waiting to start living. – Eckhart Tolle"*
+### 💡 *"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! – Tony Robbins"*
 
-*Last updated: October 21, 2025 at 06:49 AM UTC*
+*Last updated: October 21, 2025 at 06:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
