@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny. – James Allen"*
+### 💡 *"Failure is acceptable. Not trying is a whole different ball park. – Michael Jordan"*
 
-*Last updated: October 21, 2025 at 07:38 AM UTC*
+*Last updated: October 21, 2025 at 07:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
