@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The power of human thought grows exponentially with the number of minds that share that thought. – Dan Brown"*
+### 💡 *"Investing in yourself is the best investment you will ever make. – Robin Sharma"*
 
-*Last updated: October 21, 2025 at 10:37 PM UTC*
+*Last updated: October 21, 2025 at 10:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
