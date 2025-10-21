@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a question and how we live it is our answer. – Gary Keller"*
+### 💡 *"Get mad, then get over it. – Colin Powell"*
 
-*Last updated: October 21, 2025 at 11:37 PM UTC*
+*Last updated: October 21, 2025 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
