@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To be prepared is half the victory.  – Miguel de Cervantes"*
+### 💡 *"I wasn't brave, I just didn't have time to be scared. – Amelia Earhart"*
 
-*Last updated: October 21, 2025 at 05:35 PM UTC*
+*Last updated: October 21, 2025 at 05:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
