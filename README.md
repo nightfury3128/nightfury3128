@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Get mad, then get over it. – Colin Powell"*
+### 💡 *"Engage in those actions and thoughts that nurture the good qualities you want to have. – Paramahansa Yogananda"*
 
-*Last updated: October 21, 2025 at 11:47 PM UTC*
+*Last updated: October 21, 2025 at 11:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
