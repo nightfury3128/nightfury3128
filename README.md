@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We're kept from our goal not by obstacles, but by a clear path to a lesser goal. – Bhagavad Gita"*
+### 💡 *"A man should do his job so well that the living, the dead, and the unborn could do it no better. – Martin Luther King, Jr."*
 
-*Last updated: October 22, 2025 at 06:50 PM UTC*
+*Last updated: October 22, 2025 at 07:13 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
