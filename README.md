@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The great use of life is to spend it for something that will outlast it. – William James"*
+### 💡 *"Stop being a prisoner of your past. Become the architect of your future. – Robin Sharma"*
 
-*Last updated: October 22, 2025 at 07:38 PM UTC*
+*Last updated: October 22, 2025 at 07:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
