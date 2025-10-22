@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People don't care how much you know until they know how much you care. – Theodore Roosevelt"*
+### 💡 *"A thing must be loved before it is lovable. – Gilbert Chesterton"*
 
-*Last updated: October 22, 2025 at 03:36 PM UTC*
+*Last updated: October 22, 2025 at 03:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
