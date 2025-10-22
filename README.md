@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Attitude is a little thing that makes a big difference. – Winston Churchill"*
+### 💡 *"Success is never final, failure is never fatal. It's courage that counts. – John Wooden"*
 
-*Last updated: October 22, 2025 at 04:30 PM UTC*
+*Last updated: October 22, 2025 at 04:53 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
