@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Most people get ahead during the time that others waste. – Henry Ford"*
+### 💡 *"People don't care how much you know until they know how much you care. – Theodore Roosevelt"*
 
-*Last updated: October 22, 2025 at 03:17 PM UTC*
+*Last updated: October 22, 2025 at 03:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
