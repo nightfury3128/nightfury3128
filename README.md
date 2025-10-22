@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Genius is patience. – Isaac Newton"*
+### 💡 *"Your dream has to be bigger than your fear. – Steve Harvey"*
 
-*Last updated: October 22, 2025 at 04:00 AM UTC*
+*Last updated: October 22, 2025 at 04:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
