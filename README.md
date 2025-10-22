@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"At every moment where language can't go, that's your mind. – Bodhidharma"*
+### 💡 *"We're kept from our goal not by obstacles, but by a clear path to a lesser goal. – Bhagavad Gita"*
 
-*Last updated: October 22, 2025 at 06:26 PM UTC*
+*Last updated: October 22, 2025 at 06:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
