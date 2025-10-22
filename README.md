@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your dream has to be bigger than your fear. – Steve Harvey"*
+### 💡 *"Don't waste time on excuses. Just get it done. – Ralph Marston"*
 
-*Last updated: October 22, 2025 at 04:33 AM UTC*
+*Last updated: October 22, 2025 at 04:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
