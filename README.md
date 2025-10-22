@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone you meet is fighting a battle you know nothing about. Be kind. Always. – Robin Williams"*
+### 💡 *"The Art of Peace begins with you. – Morihei Ueshiba"*
 
-*Last updated: October 22, 2025 at 08:40 PM UTC*
+*Last updated: October 22, 2025 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
