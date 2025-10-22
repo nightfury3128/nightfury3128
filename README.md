@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. – T.S. Eliot"*
+### 💡 *"Attitude drives actions. Actions drive results. Results drive lifestyles. – Jim Rohn"*
 
-*Last updated: October 22, 2025 at 10:17 PM UTC*
+*Last updated: October 22, 2025 at 10:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
