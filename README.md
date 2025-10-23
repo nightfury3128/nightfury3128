@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Instead of worrying about what you cannot control, shift your energy to what you can create. – Roy T. Bennett"*
+### 💡 *"Would you rather live your life according to the approval of others or aligned with your truth and your dreams? – Robin Sharma"*
 
-*Last updated: October 23, 2025 at 08:46 PM UTC*
+*Last updated: October 23, 2025 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
