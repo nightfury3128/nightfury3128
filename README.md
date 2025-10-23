@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We are what we repeatedly do. Excellence, then, is not an act, but a habit. – Aristotle"*
+### 💡 *"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about. – Naval Ravikant"*
 
-*Last updated: October 23, 2025 at 06:59 AM UTC*
+*Last updated: October 23, 2025 at 07:25 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
