@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Many a man has failed because he had his wishbone where his backbone should have been. – Ronald Reagan"*
+### 💡 *"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. – John Wooden"*
 
-*Last updated: October 23, 2025 at 09:27 PM UTC*
+*Last updated: October 23, 2025 at 09:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
