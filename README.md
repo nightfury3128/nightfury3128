@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you quit once it becomes a habit. – Michael Jordan"*
+### 💡 *"Many a man has failed because he had his wishbone where his backbone should have been. – Ronald Reagan"*
 
-*Last updated: October 23, 2025 at 09:16 PM UTC*
+*Last updated: October 23, 2025 at 09:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
