@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never put off to tomorrow what you can do to-day. – Thomas Jefferson"*
+### 💡 *"Learn to sit back and observe, not everything needs a reaction. – Unknown"*
 
-*Last updated: October 23, 2025 at 11:45 PM UTC*
+*Last updated: October 23, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
