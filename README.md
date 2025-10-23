@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves. – Steve Maraboli"*
+### 💡 *"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. – Ralph Marston"*
 
-*Last updated: October 23, 2025 at 11:20 PM UTC*
+*Last updated: October 23, 2025 at 11:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
