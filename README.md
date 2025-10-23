@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your greatest asset is your earning ability. Your greatest resource is your time. – Brian Tracy"*
+### 💡 *"Instead of worrying about what you cannot control, shift your energy to what you can create. – Roy T. Bennett"*
 
-*Last updated: October 23, 2025 at 08:36 PM UTC*
+*Last updated: October 23, 2025 at 08:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
