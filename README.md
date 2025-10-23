@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Would you rather live your life according to the approval of others or aligned with your truth and your dreams? – Robin Sharma"*
+### 💡 *"If you quit once it becomes a habit. – Michael Jordan"*
 
-*Last updated: October 23, 2025 at 08:55 PM UTC*
+*Last updated: October 23, 2025 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
