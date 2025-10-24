@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Through discipline comes freedom. – Aristotle"*
+### 💡 *"Everyone must choose one of two pains: The pain of discipline or the pain of regret. – Jim Rohn"*
 
-*Last updated: October 24, 2025 at 09:40 PM UTC*
+*Last updated: October 24, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
