@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A little progress each day adds up to big results. – Unknown"*
+### 💡 *"If you can change your mind, you can change your life. – William James"*
 
-*Last updated: October 24, 2025 at 09:14 PM UTC*
+*Last updated: October 24, 2025 at 09:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
