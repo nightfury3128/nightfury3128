@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. – Tony Robbins"*
+### 💡 *"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. – John Lennon"*
 
-*Last updated: October 24, 2025 at 04:28 PM UTC*
+*Last updated: October 24, 2025 at 04:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
