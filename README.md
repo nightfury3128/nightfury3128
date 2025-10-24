@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The weak can never forgive. Forgiveness is the attribute of the strong. – Mahatma Gandhi"*
+### 💡 *"Growth comes at the point of resistance. – Josh Waitzkin"*
 
-*Last updated: October 24, 2025 at 03:18 PM UTC*
+*Last updated: October 24, 2025 at 03:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
