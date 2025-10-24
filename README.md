@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Turn your face to the sun, as flowers know how to do. – Ming-Dao Deng"*
+### 💡 *"As mortals, we're ruled by conditions, not by ourselves. – Bodhidharma"*
 
-*Last updated: October 24, 2025 at 06:24 AM UTC*
+*Last updated: October 24, 2025 at 06:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
