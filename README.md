@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. – Kahlil Gibran"*
+### 💡 *"The more perfect a person is on the outside, the more demons they have on the inside. – Sigmund Freud"*
 
-*Last updated: October 24, 2025 at 10:54 PM UTC*
+*Last updated: October 24, 2025 at 11:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
