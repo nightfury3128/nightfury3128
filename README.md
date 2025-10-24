@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Great minds are always feared by lesser minds. – Dan Brown"*
+### 💡 *"For your life to be great, your faith must be bigger than your fear. – Robin Sharma"*
 
-*Last updated: October 24, 2025 at 05:34 AM UTC*
+*Last updated: October 24, 2025 at 05:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
