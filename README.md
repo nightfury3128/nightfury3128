@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Show me a hero, and I'll write you a tragedy. – F. Scott Fitzgerald"*
+### 💡 *"Do your duty and a little more and the future will take care of itself. – Andrew Carnegie"*
 
-*Last updated: October 24, 2025 at 06:50 PM UTC*
+*Last updated: October 24, 2025 at 07:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
