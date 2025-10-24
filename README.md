@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"For your life to be great, your faith must be bigger than your fear. – Robin Sharma"*
+### 💡 *"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. – Gabor Mate"*
 
-*Last updated: October 24, 2025 at 05:44 AM UTC*
+*Last updated: October 24, 2025 at 05:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
