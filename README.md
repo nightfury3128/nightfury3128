@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Find something you love and do it better than everyone else. – Gurbaksh Chahal"*
+### 💡 *"I'm not afraid of death, but I'm in no hurry to die. – Stephen Hawking"*
 
-*Last updated: October 24, 2025 at 07:47 AM UTC*
+*Last updated: October 24, 2025 at 07:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
