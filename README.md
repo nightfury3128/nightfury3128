@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A hut full of laughter is richer than a palace full of sadness. – Zen Proverb"*
+### 💡 *"Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy. – Wayne Gretzky"*
 
-*Last updated: October 24, 2025 at 01:18 PM UTC*
+*Last updated: October 24, 2025 at 01:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
