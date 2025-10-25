@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Those who are enlightened never stop forging themselves. – Morihei Ueshiba"*
+### 💡 *"Life is about choice. You can choose to be a victim or anything else you like to be. – Celestine Chua"*
 
-*Last updated: October 25, 2025 at 07:12 PM UTC*
+*Last updated: October 25, 2025 at 07:26 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
