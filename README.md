@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. – Kamal Ravikant"*
+### 💡 *"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down. – Socrates"*
 
-*Last updated: October 25, 2025 at 09:54 AM UTC*
+*Last updated: October 25, 2025 at 10:15 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
