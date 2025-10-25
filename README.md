@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Numbing the pain for a while will make it worse when you finally feel it. – Albus Dumbledore"*
+### 💡 *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. – Kamal Ravikant"*
 
-*Last updated: October 25, 2025 at 09:40 AM UTC*
+*Last updated: October 25, 2025 at 09:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
