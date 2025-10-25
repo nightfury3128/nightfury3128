@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is liking yourself, liking what you do, and liking how you do it. – Maya Angelou"*
+### 💡 *"You cannot always control what goes on outside. But you can always control what goes on inside.  – Wayne Dyer"*
 
-*Last updated: October 25, 2025 at 11:12 AM UTC*
+*Last updated: October 25, 2025 at 11:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
