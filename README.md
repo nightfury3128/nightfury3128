@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you stop questioning, you stop learning. – Lolly Daskal"*
+### 💡 *"We all give up great expectations along the way. – Carlos Ruiz Zafon"*
 
-*Last updated: October 25, 2025 at 11:16 PM UTC*
+*Last updated: October 25, 2025 at 11:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
