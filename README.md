@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do what you feel in your heart to be right - for you'll be criticized anyway. – Eleanor Roosevelt"*
+### 💡 *"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. – Kamal Ravikant"*
 
-*Last updated: October 25, 2025 at 03:29 PM UTC*
+*Last updated: October 25, 2025 at 03:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
