@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. – Carl Jung"*
+### 💡 *"I don't pretend to know everything; I just only speak on matters I know I'll win. – Criss Jami"*
 
-*Last updated: October 25, 2025 at 02:40 AM UTC*
+*Last updated: October 25, 2025 at 03:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
