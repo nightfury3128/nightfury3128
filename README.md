@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. – Steve Jobs"*
+### 💡 *"There is always risk, so learn to manage risk instead of avoiding it. – Robert Kiyosaki"*
 
-*Last updated: October 25, 2025 at 11:49 PM UTC*
+*Last updated: October 25, 2025 at 11:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
