@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Opportunity is missed by most people because it is dressed in overalls and looks like work. – Thomas Edison"*
+### 💡 *"Who wishes to fight must first count the cost. – Sun Tzu"*
 
-*Last updated: October 25, 2025 at 07:58 AM UTC*
+*Last updated: October 25, 2025 at 08:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
