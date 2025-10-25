@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't change your mind just because people are offended; change your mind if you're wrong. – Criss Jami"*
+### 💡 *"Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. – J.R.R. Tolkien"*
 
-*Last updated: October 25, 2025 at 06:22 AM UTC*
+*Last updated: October 25, 2025 at 06:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
