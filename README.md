@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The wisdom of life consists in the elimination of the nonessentials. – Lin Yutang"*
+### 💡 *"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! – Tony Robbins"*
 
-*Last updated: October 25, 2025 at 05:32 AM UTC*
+*Last updated: October 25, 2025 at 05:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
