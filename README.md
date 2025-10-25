@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Quiet people have the loudest minds. – Stephen King"*
+### 💡 *"Know yourself and you will win all battles. – Sun Tzu"*
 
-*Last updated: October 25, 2025 at 08:38 PM UTC*
+*Last updated: October 25, 2025 at 08:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
