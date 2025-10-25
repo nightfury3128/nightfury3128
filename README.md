@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! – Tony Robbins"*
+### 💡 *"It is better to learn late than never. – Publilius Syrus"*
 
-*Last updated: October 25, 2025 at 05:44 AM UTC*
+*Last updated: October 25, 2025 at 05:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
