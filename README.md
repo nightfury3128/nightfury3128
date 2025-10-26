@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The secret of happiness is not in doing what you like but in liking what you have to do. – Sathya Sai Baba"*
+### 💡 *"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. – Carl Jung"*
 
-*Last updated: October 26, 2025 at 09:44 PM UTC*
+*Last updated: October 26, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
