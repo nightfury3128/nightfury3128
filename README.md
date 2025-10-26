@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You make your own luck if you stay at it long enough. – Naval Ravikant"*
+### 💡 *"Words have no power to impress the mind without the exquisite horror of their reality. – Edgar Allan Poe"*
 
-*Last updated: October 26, 2025 at 03:41 PM UTC*
+*Last updated: October 26, 2025 at 03:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
