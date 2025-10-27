@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today. – Steve Maraboli"*
+### 💡 *"It is not titles that honour men, but men that honour titles. – Niccolo Machiavelli"*
 
-*Last updated: October 27, 2025 at 05:15 PM UTC*
+*Last updated: October 27, 2025 at 05:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
