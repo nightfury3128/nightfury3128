@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties. – Harry S. Truman"*
+### 💡 *"The truth is not for all men, but for those who seek it. – Ayn Rand"*
 
-*Last updated: October 27, 2025 at 11:44 AM UTC*
+*Last updated: October 27, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
