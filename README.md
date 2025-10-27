@@ -128,9 +128,9 @@
 - F1® 24 🎮 | Last Played: today
 - Ghost of Yōtei 🎮 | Last Played: today
 - Stick Fight: The Game 🎮 | Last Played: 8 days ago
-- Human Fall Flat 🎮 | Last Played: 11 days ago
+- Human Fall Flat 🎮 | Last Played: 12 days ago
 
-*Last updated: October 26, 2025 at 8:10 PM UTC*
+*Last updated: October 27, 2025 at 12:51 AM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
