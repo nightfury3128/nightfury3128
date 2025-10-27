@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everybody needs a passion. That's what keeps life interesting. – Betty White"*
+### 💡 *"If what you're doing is not your passion, you have nothing to lose. – Celestine Chua"*
 
-*Last updated: October 27, 2025 at 05:45 PM UTC*
+*Last updated: October 27, 2025 at 05:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
