@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. – Josh Waitzkin"*
+### 💡 *"Lack of emotion causes lack of progress and lack of motivation. – Tony Robbins"*
 
-*Last updated: October 27, 2025 at 02:22 PM UTC*
+*Last updated: October 27, 2025 at 02:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
