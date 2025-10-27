@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If what you're doing is not your passion, you have nothing to lose. – Celestine Chua"*
+### 💡 *"If you can't imagine it, you can't have it. – Toni Morrison"*
 
-*Last updated: October 27, 2025 at 05:54 PM UTC*
+*Last updated: October 27, 2025 at 06:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
