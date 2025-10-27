@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Good things aren't supposed to just fall into your lap. – Audrey Hepburn"*
+### 💡 *"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously. – Naval Ravikant"*
 
-*Last updated: October 27, 2025 at 01:19 PM UTC*
+*Last updated: October 27, 2025 at 01:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
