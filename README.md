@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is far easier to start something than it is to finish it. – Amelia Earhart"*
+### 💡 *"My guiding principle is this: Guilt is never to be doubted.  – Franz Kafka"*
 
-*Last updated: October 28, 2025 at 11:29 AM UTC*
+*Last updated: October 28, 2025 at 11:40 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
