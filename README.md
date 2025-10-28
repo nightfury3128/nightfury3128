@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. – Jim Rohn"*
+### 💡 *"Unless someone truly has the power to say no, they never truly have the power to say yes. – Dan Millman"*
 
-*Last updated: October 28, 2025 at 01:17 AM UTC*
+*Last updated: October 28, 2025 at 02:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
