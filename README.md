@@ -126,11 +126,11 @@
 🎮 **Currently Playing:**
 - The Last of Us™ Part II Remastered 🧟 | Last Played: 1 day ago
 - F1® 24 🎮 | Last Played: 1 day ago
-- Ghost of Yōtei 🎮 | Last Played: 1 day ago
+- Ghost of Yōtei 🎮 | Last Played: 2 days ago
 - Stick Fight: The Game 🎮 | Last Played: 9 days ago
 - Human Fall Flat 🎮 | Last Played: 13 days ago
 
-*Last updated: October 28, 2025 at 12:19 PM UTC*
+*Last updated: October 28, 2025 at 4:12 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
