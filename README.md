@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Those who cannot change their minds cannot change anything. – George Bernard Shaw"*
+### 💡 *"He will win who knows when to fight and when not to fight. – Sun Tzu"*
 
-*Last updated: October 28, 2025 at 01:55 PM UTC*
+*Last updated: October 28, 2025 at 02:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
