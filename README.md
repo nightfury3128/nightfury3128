@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What is planted in each person's soul will sprout.   – Rumi"*
+### 💡 *"Do not take life too seriously. You will never get out of it alive. – Elbert Hubbard"*
 
-*Last updated: October 28, 2025 at 05:57 PM UTC*
+*Last updated: October 28, 2025 at 06:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
