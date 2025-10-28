@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone has the right to make his own decisions, but none has the right to force his decision on others. – Ayn Rand"*
+### 💡 *"When you repeat a mistake, it is not a mistake anymore: it is a decision. – Paulo Coelho"*
 
-*Last updated: October 28, 2025 at 10:19 AM UTC*
+*Last updated: October 28, 2025 at 10:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
