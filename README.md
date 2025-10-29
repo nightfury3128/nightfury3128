@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can only be afraid of what you think you know. – Jiddu Krishnamurti"*
+### 💡 *"Believe that life is worth living and your belief will help create the fact. – William James"*
 
-*Last updated: October 29, 2025 at 04:57 AM UTC*
+*Last updated: October 29, 2025 at 05:23 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
