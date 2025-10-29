@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some. – Charles Dickens"*
+### 💡 *"You can only be afraid of what you think you know. – Jiddu Krishnamurti"*
 
-*Last updated: October 29, 2025 at 07:58 PM UTC*
+*Last updated: October 29, 2025 at 08:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
