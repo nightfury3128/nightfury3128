@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We live only now. Everything else is either passed or is unknown. – Marcus Aurelius"*
+### 💡 *"If you don't break your ropes while you're alive, do you think ghosts will do it after? – Kabir"*
 
-*Last updated: October 29, 2025 at 07:13 PM UTC*
+*Last updated: October 29, 2025 at 07:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
