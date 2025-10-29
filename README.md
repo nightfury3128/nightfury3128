@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Respect other people's feelings. It might mean nothing to you, but it could mean everything to them. – Roy T. Bennett"*
+### 💡 *"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. – Jim Rohn"*
 
-*Last updated: October 29, 2025 at 11:17 PM UTC*
+*Last updated: October 29, 2025 at 11:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
