@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The way to love anything is to realize that it may be lost. – Gilbert Chesterton"*
+### 💡 *"To love means loving the unlovable. – Gilbert Chesterton"*
 
-*Last updated: October 29, 2025 at 08:44 PM UTC*
+*Last updated: October 29, 2025 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
