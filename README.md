@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is good at any age, but the sooner you find it, the longer you will enjoy it. – Napoleon Hill"*
+### 💡 *"It's easier to lose than to win.   – Wayne Gretzky"*
 
-*Last updated: October 29, 2025 at 07:39 PM UTC*
+*Last updated: October 29, 2025 at 07:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
