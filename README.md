@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. – Norman Vincent Peale"*
+### 💡 *"The way out is in. – Thich Nhat Hanh"*
 
-*Last updated: October 29, 2025 at 09:42 AM UTC*
+*Last updated: October 29, 2025 at 09:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
