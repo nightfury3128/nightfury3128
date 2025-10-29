@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Any fool can paint a picture, but it takes a wise man to be able to sell it. – Samuel Butler"*
+### 💡 *"If you try to micromanage yourself all you're going to do is make yourself miserable. – Naval Ravikant"*
 
-*Last updated: October 29, 2025 at 05:36 PM UTC*
+*Last updated: October 29, 2025 at 05:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
