@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is not as important how we start, but how we finish. – Joyce Meyer"*
+### 💡 *"You can only be afraid of what you think you know. – Jiddu Krishnamurti"*
 
-*Last updated: October 29, 2025 at 04:46 AM UTC*
+*Last updated: October 29, 2025 at 04:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
