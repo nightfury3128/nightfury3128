@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Courage Is a Love Affair with the Unknown – Osho"*
+### 💡 *"You are not what you think you are, You are not what others think you are, You are what you think others think you are. – Unknown"*
 
-*Last updated: October 30, 2025 at 06:58 PM UTC*
+*Last updated: October 30, 2025 at 07:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
