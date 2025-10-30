@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking. – Steve Jobs"*
+### 💡 *"Awakening is possible only for those who seek it and want it. – G.I. Gurdjieff"*
 
-*Last updated: October 30, 2025 at 05:00 PM UTC*
+*Last updated: October 30, 2025 at 05:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
