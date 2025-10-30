@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. – Barack Obama"*
+### 💡 *"None but ourselves can free our minds. – Bob Marley"*
 
-*Last updated: October 30, 2025 at 01:44 PM UTC*
+*Last updated: October 30, 2025 at 01:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
