@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The meaning of life is to find your gift. The purpose of life is to give it away. – Pablo Picasso"*
+### 💡 *"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. – Barack Obama"*
 
-*Last updated: October 30, 2025 at 01:18 PM UTC*
+*Last updated: October 30, 2025 at 01:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
