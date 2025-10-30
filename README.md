@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. – Sun Tzu"*
+### 💡 *"Never let the things you can't do stop you from doing what you can. – Ronald Reagan"*
 
-*Last updated: October 30, 2025 at 11:41 AM UTC*
+*Last updated: October 30, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
