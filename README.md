@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In order to control myself I must first accept myself by going with and not against my nature. – Bruce Lee"*
+### 💡 *"Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. – Rumi"*
 
-*Last updated: October 30, 2025 at 04:47 AM UTC*
+*Last updated: October 30, 2025 at 04:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
