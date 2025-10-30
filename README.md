@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Man's character is his fate. – Heraclitus"*
+### 💡 *"Most people fail in life because they major in minor things. – Tony Robbins"*
 
-*Last updated: October 30, 2025 at 11:15 PM UTC*
+*Last updated: October 30, 2025 at 11:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
