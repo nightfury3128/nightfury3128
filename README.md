@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be approximately right rather than exactly wrong. – John Tukey"*
+### 💡 *"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. – Sun Tzu"*
 
-*Last updated: October 30, 2025 at 11:29 AM UTC*
+*Last updated: October 30, 2025 at 11:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
