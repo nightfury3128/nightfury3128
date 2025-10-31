@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can never get enough of what you don't need to make you happy. – Eric Hoffer"*
+### 💡 *"Where the willingness is great, the difficulties cannot be great. – Niccolo Machiavelli"*
 
-*Last updated: October 31, 2025 at 07:57 PM UTC*
+*Last updated: October 31, 2025 at 08:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
