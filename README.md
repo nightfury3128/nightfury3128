@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Winners never quit and quitters never win. – Vince Lombardi"*
+### 💡 *"Giving is living. If you stop wanting to give, there's nothing more to live for. – Audrey Hepburn"*
 
-*Last updated: October 31, 2025 at 06:26 AM UTC*
+*Last updated: October 31, 2025 at 06:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
