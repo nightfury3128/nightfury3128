@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Sometimes letting things go is an act of far greater power than defending or hanging on. – Eckhart Tolle"*
+### 💡 *"It is your attitude, not your aptitude, that determines your altitude. – Zig Ziglar"*
 
-*Last updated: October 31, 2025 at 11:39 PM UTC*
+*Last updated: October 31, 2025 at 11:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
