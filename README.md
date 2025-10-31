@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The secret of change is to focus all your energy not on fighting the old, but on building the new. – Dan Millman"*
+### 💡 *"I am not what happened to me, I am what I choose to become. – Carl Jung"*
 
-*Last updated: October 31, 2025 at 08:49 PM UTC*
+*Last updated: October 31, 2025 at 08:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
