@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you genuinely want something, don't wait for it - teach yourself. – Gurbaksh Chahal"*
+### 💡 *"Watch what you say, and whatever you say, practice it. – Soyen Shaku"*
 
-*Last updated: October 31, 2025 at 09:40 AM UTC*
+*Last updated: October 31, 2025 at 09:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
