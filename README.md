@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone wants to go to Heaven, but no one wants to die. – Robert Kiyosaki"*
+### 💡 *"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to. – Kahlil Gibran"*
 
-*Last updated: October 31, 2025 at 11:14 AM UTC*
+*Last updated: October 31, 2025 at 11:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
