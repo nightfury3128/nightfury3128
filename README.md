@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"New beginnings are disguised as painful endings. – Lao Tzu"*
+### 💡 *"The degree of responsibility you take for your life determines how much change you can create in it. – Celestine Chua"*
 
-*Last updated: November 01, 2025 at 04:46 AM UTC*
+*Last updated: November 01, 2025 at 04:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
