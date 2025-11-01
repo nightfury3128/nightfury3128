@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No tree, it is said, can grow to heaven unless its roots reach down to hell. – Carl Jung"*
+### 💡 *"There is only one thing that makes a dream impossible to achieve: the fear of failure. – Paulo Coelho"*
 
-*Last updated: November 01, 2025 at 04:54 PM UTC*
+*Last updated: November 01, 2025 at 05:12 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
