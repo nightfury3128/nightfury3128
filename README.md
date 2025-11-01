@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Knowledge isn't power until it is applied. – Dale Carnegie"*
+### 💡 *"Leadership is solving problems – Colin Powell"*
 
-*Last updated: November 01, 2025 at 11:47 AM UTC*
+*Last updated: November 01, 2025 at 11:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
