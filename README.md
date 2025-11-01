@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't let the behavior of others destroy your inner peace. – Dalai Lama"*
+### 💡 *"To bear trials with a calm mind robs misfortune of its strength and burden. – Seneca"*
 
-*Last updated: November 01, 2025 at 07:48 AM UTC*
+*Last updated: November 01, 2025 at 07:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
