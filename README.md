@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"*
+### 💡 *"It's very strange that the people you love are often the people you're most cruel to. – Kenneth Branagh"*
 
-*Last updated: November 01, 2025 at 10:18 PM UTC*
+*Last updated: November 01, 2025 at 10:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
