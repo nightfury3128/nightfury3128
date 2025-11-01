@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed. – Deepak Chopra"*
+### 💡 *"A leader is one who knows the way, goes the way, and shows the way. – Unknown"*
 
-*Last updated: November 01, 2025 at 05:49 PM UTC*
+*Last updated: November 01, 2025 at 05:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
