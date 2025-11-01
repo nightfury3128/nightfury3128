@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't let your failures define you. You have to let your failures teach you. – Barack Obama"*
+### 💡 *"Knowledge isn't power until it is applied. – Dale Carnegie"*
 
-*Last updated: November 01, 2025 at 11:37 AM UTC*
+*Last updated: November 01, 2025 at 11:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
