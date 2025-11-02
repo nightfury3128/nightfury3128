@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The dead receive more flowers than the living because regret is stronger than gratitude. – Anne Frank"*
+### 💡 *"Pleasure is always derived from something outside you, whereas joy arises from within.  – Eckhart Tolle"*
 
-*Last updated: November 02, 2025 at 07:24 PM UTC*
+*Last updated: November 02, 2025 at 07:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
