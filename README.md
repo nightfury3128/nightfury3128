@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Only by attracting the best people will you accomplish great deeds. – Colin Powell"*
+### 💡 *"The question isn't who is going to let me; it's who is going to stop me. – Ayn Rand"*
 
-*Last updated: November 02, 2025 at 10:47 PM UTC*
+*Last updated: November 02, 2025 at 10:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
