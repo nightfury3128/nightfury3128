@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People will forget what you said, people will forget what you did, but people will never forget how you made them feel. – Maya Angelou"*
+### 💡 *"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it. – Gurbaksh Chahal"*
 
-*Last updated: November 02, 2025 at 01:02 PM UTC*
+*Last updated: November 02, 2025 at 01:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
