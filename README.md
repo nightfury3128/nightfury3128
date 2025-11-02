@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We will act consistently with our view of who we truly are, whether that view is accurate or not. – Tony Robbins"*
+### 💡 *"Only by attracting the best people will you accomplish great deeds. – Colin Powell"*
 
-*Last updated: November 02, 2025 at 10:38 PM UTC*
+*Last updated: November 02, 2025 at 10:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
