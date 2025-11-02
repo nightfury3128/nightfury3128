@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The art of being wise is knowing what to overlook. – William James"*
+### 💡 *"Pleasure is always derived from something outside you, whereas joy arises from within.  – Eckhart Tolle"*
 
-*Last updated: November 02, 2025 at 03:54 PM UTC*
+*Last updated: November 02, 2025 at 04:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
