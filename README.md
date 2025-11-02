@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you genuinely want something, don't wait for it - teach yourself. – Gurbaksh Chahal"*
+### 💡 *"Always show more kindness than seems necessary because the person receiving it needs it more than you will ever know. – Colin Powell"*
 
-*Last updated: November 02, 2025 at 11:56 AM UTC*
+*Last updated: November 02, 2025 at 12:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
