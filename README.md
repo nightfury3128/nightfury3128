@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your happiness is what truly matters most. Do what you have to do in order to be happy. – Brian Tracy"*
+### 💡 *"We must accept finite disappointment, but never lose infinite hope. – Martin Luther King, Jr."*
 
-*Last updated: November 02, 2025 at 08:17 PM UTC*
+*Last updated: November 02, 2025 at 08:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
