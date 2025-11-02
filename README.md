@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Small men think they are small; great men never know they are great.  – Chinese Proverb"*
+### 💡 *"If you genuinely want something, don't wait for it - teach yourself. – Gurbaksh Chahal"*
 
-*Last updated: November 02, 2025 at 11:46 AM UTC*
+*Last updated: November 02, 2025 at 11:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
