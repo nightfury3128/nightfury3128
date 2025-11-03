@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence is the greatest friend. – Lao Tzu"*
+### 💡 *"The road to success and the road to failure are almost exactly the same. – Colin R. Davis"*
 
-*Last updated: November 03, 2025 at 06:46 PM UTC*
+*Last updated: November 03, 2025 at 06:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
