@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can easily judge the character of a man by how he treats those who can do nothing for him. – Johann Wolfgang von Goethe"*
+### 💡 *"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua"*
 
-*Last updated: November 03, 2025 at 09:44 PM UTC*
+*Last updated: November 03, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
