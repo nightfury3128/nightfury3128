@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is a difference between giving directions and giving direction. – Simon Sinek"*
+### 💡 *"The most important thing in communication is to hear what isn't being said. – Peter Drucker"*
 
-*Last updated: November 03, 2025 at 07:17 AM UTC*
+*Last updated: November 03, 2025 at 07:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
