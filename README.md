@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Opportunities don't often come along. So, when they do, you have to grab them. – Audrey Hepburn"*
+### 💡 *"Confidence is contagious. So is lack of confidence. – Vince Lombardi"*
 
-*Last updated: November 04, 2025 at 03:59 AM UTC*
+*Last updated: November 04, 2025 at 04:31 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
