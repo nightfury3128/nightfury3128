@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is not the knowing that is difficult, but the doing.  – Chinese Proverb"*
+### 💡 *"It doesn't matter how slow you go, as long as you don't stop. – Confucius"*
 
-*Last updated: November 04, 2025 at 11:47 AM UTC*
+*Last updated: November 04, 2025 at 11:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
