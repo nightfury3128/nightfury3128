@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Believe that life is worth living and your belief will help create the fact. – William James"*
+### 💡 *"We are what we repeatedly do. Excellence, then, is not an act, but a habit. – Aristotle"*
 
-*Last updated: November 05, 2025 at 03:37 PM UTC*
+*Last updated: November 05, 2025 at 03:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
