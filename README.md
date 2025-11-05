@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Money poisons you when you've got it, and starves you when you haven't. – D. H. Lawrence"*
+### 💡 *"If you can't, you must. If you must, you can. – Tony Robbins"*
 
-*Last updated: November 05, 2025 at 02:56 PM UTC*
+*Last updated: November 05, 2025 at 03:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
