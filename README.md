@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. – Roy T. Bennett"*
+### 💡 *"What you are afraid of is never as bad as what you imagine. The fear you let build up in your mind is worse than the situation that actually exists. – Spencer Johnson"*
 
-*Last updated: November 05, 2025 at 06:49 PM UTC*
+*Last updated: November 05, 2025 at 06:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
