@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you can't, you must. If you must, you can. – Tony Robbins"*
+### 💡 *"Believe that life is worth living and your belief will help create the fact. – William James"*
 
-*Last updated: November 05, 2025 at 03:19 PM UTC*
+*Last updated: November 05, 2025 at 03:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
