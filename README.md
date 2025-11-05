@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Motivation gets you going and habit gets you there.   – Zig Ziglar"*
+### 💡 *"If you want to be successful, you have to jump, there's no way around it. – Steve Harvey"*
 
-*Last updated: November 05, 2025 at 09:44 PM UTC*
+*Last updated: November 05, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
