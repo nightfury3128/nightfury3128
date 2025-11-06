@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. – Arnold Schwarzenegger"*
+### 💡 *"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day! – Og Mandino"*
 
-*Last updated: November 06, 2025 at 08:24 AM UTC*
+*Last updated: November 06, 2025 at 08:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
