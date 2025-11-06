@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is a difference between giving directions and giving direction. – Simon Sinek"*
+### 💡 *"You have to keep breaking your heart until it opens. – Rumi"*
 
-*Last updated: November 06, 2025 at 11:17 PM UTC*
+*Last updated: November 06, 2025 at 11:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
