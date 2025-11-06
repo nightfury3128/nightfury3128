@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People spend too much time doing and not enough time thinking about what they should be doing. – Naval Ravikant"*
+### 💡 *"There is no excuse for not trying. – Barack Obama"*
 
-*Last updated: November 06, 2025 at 09:30 AM UTC*
+*Last updated: November 06, 2025 at 09:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
