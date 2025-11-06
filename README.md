@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone you meet is fighting a battle you know nothing about. Be kind. Always. – Robin Williams"*
+### 💡 *"Everyone can rise above their circumstances and achieve success if they are dedicated to and passionate about what they do. – Nelson Mandela"*
 
-*Last updated: November 06, 2025 at 01:56 PM UTC*
+*Last updated: November 06, 2025 at 02:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
