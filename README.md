@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You don't have to control your thoughts; you just have to stop letting them control you. – Dan Millman"*
+### 💡 *"You do not read a book for the book's sake, but for your own. – Earl Nightingale"*
 
-*Last updated: November 07, 2025 at 02:27 PM UTC*
+*Last updated: November 07, 2025 at 02:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
