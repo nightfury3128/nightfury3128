@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Dream big. Start small. But most of all, start. – Simon Sinek"*
+### 💡 *"Our greatest glory is not in never falling, but in rising every time we fall.  – Confucius"*
 
-*Last updated: November 07, 2025 at 07:39 PM UTC*
+*Last updated: November 07, 2025 at 07:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
