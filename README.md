@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything has its beauty, but not everyone sees it.  – Confucius"*
+### 💡 *"If you don't like something change it. If you can't change it, change your attitude about it. Don't complain. – Maya Angelou"*
 
-*Last updated: November 07, 2025 at 11:30 PM UTC*
+*Last updated: November 07, 2025 at 11:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
