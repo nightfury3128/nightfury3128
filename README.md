@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are free, and that is why you are lost.  – Franz Kafka"*
+### 💡 *"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! – Tony Robbins"*
 
-*Last updated: November 07, 2025 at 09:54 PM UTC*
+*Last updated: November 07, 2025 at 10:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
