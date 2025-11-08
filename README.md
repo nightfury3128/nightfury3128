@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You purchase pain with all that joy can give and die of nothing but a rage to live. – Alexander Pope"*
+### 💡 *"Let the beauty of what you love be what you do. – Rumi"*
 
-*Last updated: November 08, 2025 at 10:17 AM UTC*
+*Last updated: November 08, 2025 at 10:36 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
