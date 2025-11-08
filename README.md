@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. – Earl Nightingale"*
+### 💡 *"Optimism is the one quality more associated with success and happiness than any other. – Brian Tracy"*
 
-*Last updated: November 08, 2025 at 05:54 PM UTC*
+*Last updated: November 08, 2025 at 06:22 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
