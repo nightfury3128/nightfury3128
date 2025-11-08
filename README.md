@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you judge another, you do not define them, you define yourself – Wayne Dyer"*
+### 💡 *"Focus is a matter of deciding what things you're not going to do. – John Carmack"*
 
-*Last updated: November 08, 2025 at 11:47 AM UTC*
+*Last updated: November 08, 2025 at 11:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
