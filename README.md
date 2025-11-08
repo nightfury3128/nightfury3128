@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Follow your heart, listen to your inner voice, stop caring about what others think. – Roy T. Bennett"*
+### 💡 *"He who wishes to be obeyed must know how to command. – Niccolo Machiavelli"*
 
-*Last updated: November 08, 2025 at 10:54 AM UTC*
+*Last updated: November 08, 2025 at 11:13 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
