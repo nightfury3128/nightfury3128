@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You will have bad times, but they will always wake you up to the stuff you weren't paying attention to. – Robin Williams"*
+### 💡 *"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. – Earl Nightingale"*
 
-*Last updated: November 08, 2025 at 05:44 PM UTC*
+*Last updated: November 08, 2025 at 05:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
