@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"20 percent of your activities will account for 80 percent of your results. – Brian Tracy"*
+### 💡 *"Leadership is solving problems – Colin Powell"*
 
-*Last updated: November 08, 2025 at 03:44 PM UTC*
+*Last updated: November 08, 2025 at 03:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
