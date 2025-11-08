@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Worry is a waste of emotional reserve. – Ayn Rand"*
+### 💡 *"Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? – Eckhart Tolle"*
 
-*Last updated: November 08, 2025 at 01:03 PM UTC*
+*Last updated: November 08, 2025 at 01:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
