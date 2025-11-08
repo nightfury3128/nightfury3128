@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Leadership is solving problems – Colin Powell"*
+### 💡 *"The only defense against the world is a thorough knowledge of it. – John Locke"*
 
-*Last updated: November 08, 2025 at 03:54 PM UTC*
+*Last updated: November 08, 2025 at 04:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
