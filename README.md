@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perseverance and spirit have done wonders in all ages.  – George Washington"*
+### 💡 *"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. – Ralph Marston"*
 
-*Last updated: November 09, 2025 at 10:34 AM UTC*
+*Last updated: November 09, 2025 at 10:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
