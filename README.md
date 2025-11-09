@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your home is where your thoughts find peace. – Zen Proverb"*
+### 💡 *"Remember the entrance to the sanctuary is inside you. – Rumi"*
 
-*Last updated: November 09, 2025 at 03:15 PM UTC*
+*Last updated: November 09, 2025 at 03:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
