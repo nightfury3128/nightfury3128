@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You cannot change your destination overnight but you can change your direction overnight. – Jim Rohn"*
+### 💡 *"Before you embark on a journey of revenge, dig two graves.  – Confucius"*
 
-*Last updated: November 09, 2025 at 07:15 AM UTC*
+*Last updated: November 09, 2025 at 07:29 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
