@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When the world pushes you to your knees, you're in the perfect position to pray. – Rumi"*
+### 💡 *"Greatness comes from living with purpose and passion. – Ralph Marston"*
 
-*Last updated: November 09, 2025 at 08:54 PM UTC*
+*Last updated: November 09, 2025 at 09:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
