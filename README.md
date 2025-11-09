@@ -125,12 +125,12 @@
 <!--PSN_ACTIVITY:start-->
 🎮 **Currently Playing:**
 - Dispatch 🎮 | Last Played: 1 day ago
-- The Last of Us™ Part II Remastered 🧟 | Last Played: 13 days ago
-- F1® 24 🎮 | Last Played: 13 days ago
+- The Last of Us™ Part II Remastered 🧟 | Last Played: 14 days ago
+- F1® 24 🎮 | Last Played: 14 days ago
 - Ghost of Yōtei 🎮 | Last Played: 14 days ago
-- Stick Fight: The Game 🎮 | Last Played: 21 days ago
+- Stick Fight: The Game 🎮 | Last Played: 22 days ago
 
-*Last updated: November 9, 2025 at 4:10 PM UTC*
+*Last updated: November 9, 2025 at 8:09 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
