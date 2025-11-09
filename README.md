@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything around us is made up of energy. To attract positive things in your life, start by giving off positive energy. – Celestine Chua"*
+### 💡 *"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to. – Kahlil Gibran"*
 
-*Last updated: November 09, 2025 at 02:31 PM UTC*
+*Last updated: November 09, 2025 at 02:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
