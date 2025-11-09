@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Insanity: doing the same thing over and over again and expecting different results. – Albert Einstein"*
+### 💡 *"Never feel shame for trying and failing, for he who has never failed is he who has never tried. – Og Mandino"*
 
-*Last updated: November 09, 2025 at 09:39 PM UTC*
+*Last updated: November 09, 2025 at 09:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
