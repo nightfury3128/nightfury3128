@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined. – Deepak Chopra"*
+### 💡 *"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. – Og Mandino"*
 
-*Last updated: November 09, 2025 at 11:37 AM UTC*
+*Last updated: November 09, 2025 at 11:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
