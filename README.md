@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your very silence shows you agree. – Euripides"*
+### 💡 *"Creativity is intelligence having fun. – Albert Einstein"*
 
-*Last updated: November 10, 2025 at 11:37 PM UTC*
+*Last updated: November 10, 2025 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
