@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. – A.A. Milne"*
+### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goal. – Henry Ford"*
 
-*Last updated: November 10, 2025 at 09:32 PM UTC*
+*Last updated: November 10, 2025 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
