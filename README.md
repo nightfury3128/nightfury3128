@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. – James Cameron"*
+### 💡 *"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us. – Socrates"*
 
-*Last updated: November 10, 2025 at 09:54 PM UTC*
+*Last updated: November 10, 2025 at 10:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
