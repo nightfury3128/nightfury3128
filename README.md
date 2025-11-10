@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goal. – Henry Ford"*
+### 💡 *"Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. – James Cameron"*
 
-*Last updated: November 10, 2025 at 09:45 PM UTC*
+*Last updated: November 10, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
