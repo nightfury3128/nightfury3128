@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never feel shame for trying and failing, for he who has never failed is he who has never tried. – Og Mandino"*
+### 💡 *"You're braver than you believe, and stronger than you seem, and smarter than you think. – A.A. Milne"*
 
-*Last updated: November 10, 2025 at 05:29 PM UTC*
+*Last updated: November 10, 2025 at 05:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
