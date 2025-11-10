@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never regret your past. Rather, embrace it as the teacher that it is. – Robin Sharma"*
+### 💡 *"Your world is a living expression of how you are using and have used your mind. – Earl Nightingale"*
 
-*Last updated: November 10, 2025 at 07:33 AM UTC*
+*Last updated: November 10, 2025 at 07:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
