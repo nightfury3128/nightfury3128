@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We are all different. Don't judge, understand instead. – Roy T. Bennett"*
+### 💡 *"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. – Andrew Carnegie"*
 
-*Last updated: November 10, 2025 at 10:32 AM UTC*
+*Last updated: November 10, 2025 at 10:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
