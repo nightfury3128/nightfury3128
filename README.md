@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Correct what you can. Learn from what you can't. – Toni Morrison"*
+### 💡 *"Never feel shame for trying and failing, for he who has never failed is he who has never tried. – Og Mandino"*
 
-*Last updated: November 10, 2025 at 05:00 PM UTC*
+*Last updated: November 10, 2025 at 05:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
