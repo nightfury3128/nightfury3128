@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only thing more frustrating than slanderers is those foolish enough to listen to them. – Criss Jami"*
+### 💡 *"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua"*
 
-*Last updated: November 10, 2025 at 10:58 PM UTC*
+*Last updated: November 10, 2025 at 11:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
