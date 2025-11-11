@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Change happens when the pain of holding on becomes greater than the fear of letting go. – Spencer Johnson"*
+### 💡 *"When you judge others, you do not define them, you define yourself. – Earl Nightingale"*
 
-*Last updated: November 11, 2025 at 04:48 PM UTC*
+*Last updated: November 11, 2025 at 04:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
