@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone must choose one of two pains: The pain of discipline or the pain of regret. – Jim Rohn"*
+### 💡 *"I must also have a dark side if I am to be whole. – Carl Jung"*
 
-*Last updated: November 11, 2025 at 11:20 AM UTC*
+*Last updated: November 11, 2025 at 11:38 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
