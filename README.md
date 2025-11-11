@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is like underwear, should be changed twice a day.   – Ray Bradbury"*
+### 💡 *"Failure will never overtake me if my determination to succeed is strong enough. – Og Mandino"*
 
-*Last updated: November 11, 2025 at 08:48 PM UTC*
+*Last updated: November 11, 2025 at 08:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
