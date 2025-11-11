@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We cannot change anything unless we accept it. – Carl Jung"*
+### 💡 *"Poetry is written with tears, fiction with blood, and history with invisible ink. – Carlos Ruiz Zafon"*
 
-*Last updated: November 11, 2025 at 01:22 PM UTC*
+*Last updated: November 11, 2025 at 01:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
