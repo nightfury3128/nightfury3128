@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The quicker you let go of old cheese, the sooner you find new cheese. – Spencer Johnson"*
+### 💡 *"Everyone must choose one of two pains: The pain of discipline or the pain of regret. – Jim Rohn"*
 
-*Last updated: November 11, 2025 at 10:57 AM UTC*
+*Last updated: November 11, 2025 at 11:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
