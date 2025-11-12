@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To a mind that is still, the entire universe surrenders. – Zhuangzi"*
+### 💡 *"Time doesn't heal emotional pain, you need to learn how to let go. – Roy T. Bennett"*
 
-*Last updated: November 12, 2025 at 10:17 PM UTC*
+*Last updated: November 12, 2025 at 10:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
