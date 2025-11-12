@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Adventure is not outside man; it is within. – George Eliot"*
+### 💡 *"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain. – Kabir"*
 
-*Last updated: November 12, 2025 at 12:37 PM UTC*
+*Last updated: November 12, 2025 at 01:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
