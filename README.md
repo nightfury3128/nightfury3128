@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you know what you want, and you want it bad enough, you will find a way to get it. – Jim Rohn"*
+### 💡 *"Life doesn't get easier or more forgiving, we get stronger and more resilient. – Steve Maraboli"*
 
-*Last updated: November 12, 2025 at 02:27 PM UTC*
+*Last updated: November 12, 2025 at 02:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
