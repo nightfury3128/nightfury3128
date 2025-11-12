@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The best thing to hold onto in life is each other. – Audrey Hepburn"*
+### 💡 *"It's the unknown we fear when we look upon death and darkness, nothing more. – Albus Dumbledore"*
 
-*Last updated: November 12, 2025 at 10:54 PM UTC*
+*Last updated: November 12, 2025 at 11:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
