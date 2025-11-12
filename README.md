@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be - don't try to become  – Osho"*
+### 💡 *"Excellence is not a skill. It is an attitude.  – Ralph Marston"*
 
-*Last updated: November 12, 2025 at 11:45 AM UTC*
+*Last updated: November 12, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
