@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Winners never quit and quitters never win. – Vince Lombardi"*
+### 💡 *"Never stand begging for that which you have the power to earn. – Miguel de Cervantes"*
 
-*Last updated: November 12, 2025 at 11:32 PM UTC*
+*Last updated: November 12, 2025 at 11:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
