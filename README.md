@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want peace, accept. If you want suffering, expect. – Maxime Lagace"*
+### 💡 *"There is no excuse for not trying. – Barack Obama"*
 
-*Last updated: November 12, 2025 at 04:52 PM UTC*
+*Last updated: November 12, 2025 at 05:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
