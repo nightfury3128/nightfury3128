@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's easier to go down a hill than up it but the view is much better at the top. – Henry Ward Beecher"*
+### 💡 *"Nourish the mind like you would your body. The mind cannot survive on junk food. – Brian Tracy"*
 
-*Last updated: November 12, 2025 at 06:49 PM UTC*
+*Last updated: November 12, 2025 at 06:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
