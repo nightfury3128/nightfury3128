@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You must find the place inside yourself where nothing is impossible. – Deepak Chopra"*
+### 💡 *"Whether you think you can or think you can't – you are right. – Henry Ford"*
 
-*Last updated: November 12, 2025 at 04:49 AM UTC*
+*Last updated: November 12, 2025 at 04:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
