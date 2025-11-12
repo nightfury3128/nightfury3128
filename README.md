@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no excuse for not trying. – Barack Obama"*
+### 💡 *"The divine is not something high above us. It is in heaven, it is in earth, it is inside us. – Morihei Ueshiba"*
 
-*Last updated: November 12, 2025 at 05:17 PM UTC*
+*Last updated: November 12, 2025 at 05:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
