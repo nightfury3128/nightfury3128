@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's the unknown we fear when we look upon death and darkness, nothing more. – Albus Dumbledore"*
+### 💡 *"Winners never quit and quitters never win. – Vince Lombardi"*
 
-*Last updated: November 12, 2025 at 11:16 PM UTC*
+*Last updated: November 12, 2025 at 11:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
