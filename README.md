@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A man sees in the world what he carries in his heart. – Johann Wolfgang von Goethe"*
+### 💡 *"If you want peace, accept. If you want suffering, expect. – Maxime Lagace"*
 
-*Last updated: November 12, 2025 at 04:29 PM UTC*
+*Last updated: November 12, 2025 at 04:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
