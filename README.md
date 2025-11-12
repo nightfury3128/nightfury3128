@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you focus on results and finding shortcuts, you'll get impatient. If you focus on the process and doing the right thing, you'll be unstoppable. – Maxime Lagace"*
+### 💡 *"A man should do his job so well that the living, the dead, and the unborn could do it no better. – Martin Luther King, Jr."*
 
-*Last updated: November 12, 2025 at 03:43 AM UTC*
+*Last updated: November 12, 2025 at 04:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
