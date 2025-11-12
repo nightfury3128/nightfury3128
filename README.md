@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain. – Kabir"*
+### 💡 *"Too many of us are not living our dreams because we are living our fears. – Les Brown"*
 
-*Last updated: November 12, 2025 at 01:20 PM UTC*
+*Last updated: November 12, 2025 at 01:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
