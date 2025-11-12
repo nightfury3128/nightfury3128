@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be the silent watcher of your thoughts and behavior. You are beneath the thinker. – Eckhart Tolle"*
+### 💡 *"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero. – Kabir"*
 
-*Last updated: November 12, 2025 at 09:16 PM UTC*
+*Last updated: November 12, 2025 at 09:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
