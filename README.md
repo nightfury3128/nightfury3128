@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Chase your passion, not your pension.  – Denis Waitley"*
+### 💡 *"Meditate. It won't be fun but it will surface what you need to deal with. – Naval Ravikant"*
 
-*Last updated: November 13, 2025 at 06:53 PM UTC*
+*Last updated: November 13, 2025 at 07:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
