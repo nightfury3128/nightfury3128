@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Tall oaks grow from little acorns. – Andrew Carnegie"*
+### 💡 *"I am who I am today because of the choices I made yesterday. – Eleanor Roosevelt"*
 
-*Last updated: November 13, 2025 at 11:17 PM UTC*
+*Last updated: November 13, 2025 at 11:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
