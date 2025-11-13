@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am who I am today because of the choices I made yesterday. – Eleanor Roosevelt"*
+### 💡 *"Do not look upon this world with fear and loathing. Bravely face whatever the gods offer. – Morihei Ueshiba"*
 
-*Last updated: November 13, 2025 at 11:31 PM UTC*
+*Last updated: November 13, 2025 at 11:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
