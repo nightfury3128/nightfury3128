@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. – Criss Jami"*
+### 💡 *"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. – Albus Dumbledore"*
 
-*Last updated: November 13, 2025 at 02:40 PM UTC*
+*Last updated: November 13, 2025 at 03:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
