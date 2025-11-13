@@ -157,9 +157,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Surround yourself only with people who are going to take you higher. – Oprah Winfrey"*
+### 💡 *"There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will. – Epictetus"*
 
-*Last updated: November 13, 2025 at 01:20 PM UTC*
+*Last updated: November 13, 2025 at 01:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
