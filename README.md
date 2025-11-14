@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you know what you want, and you want it bad enough, you will find a way to get it. – Jim Rohn"*
+### 💡 *"There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return. – Nelson Mandela"*
 
-*Last updated: November 14, 2025 at 03:49 PM UTC*
+*Last updated: November 14, 2025 at 03:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
