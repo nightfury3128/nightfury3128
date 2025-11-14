@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your heart is the size of an ocean. Go find yourself in its hidden depths. – Rumi"*
+### 💡 *"Find your Light; They can't love you if they can't see you. – Bette Midler"*
 
-*Last updated: November 14, 2025 at 09:54 AM UTC*
+*Last updated: November 14, 2025 at 10:19 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
