@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. – Seungsahn"*
+### 💡 *"Let the beauty of what you love be what you do. – Rumi"*
 
-*Last updated: November 14, 2025 at 07:17 AM UTC*
+*Last updated: November 14, 2025 at 07:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
