@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment. – Ralph Waldo Emerson"*
+### 💡 *"Do your duty and a little more and the future will take care of itself. – Andrew Carnegie"*
 
-*Last updated: November 14, 2025 at 09:28 AM UTC*
+*Last updated: November 14, 2025 at 09:43 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
