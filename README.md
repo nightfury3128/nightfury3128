@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Others can stop you temporarily - you are the only one who can do it permanently. – Zig Ziglar"*
+### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goals. – Sydney Smith"*
 
-*Last updated: November 14, 2025 at 04:01 AM UTC*
+*Last updated: November 14, 2025 at 04:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
