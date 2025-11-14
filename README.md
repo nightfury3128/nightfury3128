@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You miss 100% of the shots you don't take. – Wayne Gretzky"*
+### 💡 *"I don't walk away from things that I think are unfinished. – Arnold Schwarzenegger"*
 
-*Last updated: November 14, 2025 at 11:31 PM UTC*
+*Last updated: November 14, 2025 at 11:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
