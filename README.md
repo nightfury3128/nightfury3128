@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goals. – Sydney Smith"*
+### 💡 *"Take into account that great love and great achievements involve great risk. – Dalai Lama"*
 
-*Last updated: November 14, 2025 at 04:34 AM UTC*
+*Last updated: November 14, 2025 at 04:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
