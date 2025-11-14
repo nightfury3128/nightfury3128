@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I alone cannot change the world, but I can cast a stone across the waters to create many ripples. – Mother Teresa"*
+### 💡 *"It matters not what someone is born, but what they grow to be. – Albus Dumbledore"*
 
-*Last updated: November 14, 2025 at 10:55 PM UTC*
+*Last updated: November 14, 2025 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
