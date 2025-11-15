@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen. – Wayne Dyer"*
+### 💡 *"The ego wants comfort and certainty. The soul wants to live fully. – Maxime Lagace"*
 
-*Last updated: November 15, 2025 at 02:14 PM UTC*
+*Last updated: November 15, 2025 at 02:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
