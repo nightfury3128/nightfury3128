@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. – Dogen"*
+### 💡 *"You don't get in life what you want; you get in life what you are. – Les Brown"*
 
-*Last updated: November 15, 2025 at 05:34 AM UTC*
+*Last updated: November 15, 2025 at 05:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
