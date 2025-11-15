@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Problems remain as problems because people are busy defending them rather than finding solutions. – Celestine Chua"*
+### 💡 *"Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. – Dogen"*
 
-*Last updated: November 15, 2025 at 05:16 AM UTC*
+*Last updated: November 15, 2025 at 05:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
