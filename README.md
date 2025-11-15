@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Care about what other people think and you will always be their prisoner. – Lao Tzu"*
+### 💡 *"If the misery of the poor be caused not by the laws of nature, but by our institutions, great is our sin. – Charles Darwin"*
 
-*Last updated: November 15, 2025 at 07:12 PM UTC*
+*Last updated: November 15, 2025 at 07:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
