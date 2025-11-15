@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You have power over your mind - not outside events. Realize this, and you will find strength. – Marcus Aurelius"*
+### 💡 *"Darkness is the absence of light. – Kamal Ravikant"*
 
-*Last updated: November 15, 2025 at 05:46 PM UTC*
+*Last updated: November 15, 2025 at 05:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
