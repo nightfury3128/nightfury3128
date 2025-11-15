@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Silence is a source of great strength. – Lao Tzu"*
+### 💡 *"Confidence is like a dragon where, for every head cut off, two more heads grow back. – Criss Jami"*
 
-*Last updated: November 15, 2025 at 04:49 PM UTC*
+*Last updated: November 15, 2025 at 04:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
