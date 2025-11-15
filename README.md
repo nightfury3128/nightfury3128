@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. – Richard Bach"*
+### 💡 *"Before preparing to improve the world, first look around your own home three times.  – Chinese Proverb"*
 
-*Last updated: November 15, 2025 at 09:22 AM UTC*
+*Last updated: November 15, 2025 at 09:37 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
