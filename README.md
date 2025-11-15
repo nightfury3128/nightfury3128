@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Remember, today is the tomorrow you worried about yesterday. – Dale Carnegie"*
+### 💡 *"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. – Ronald Reagan"*
 
-*Last updated: November 15, 2025 at 11:30 PM UTC*
+*Last updated: November 15, 2025 at 11:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
