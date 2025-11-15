@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Fishing is much more than fish. – Herbert Hoover"*
+### 💡 *"You don't get in life what you want; you get in life what you are. – Les Brown"*
 
-*Last updated: November 15, 2025 at 03:44 PM UTC*
+*Last updated: November 15, 2025 at 03:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
