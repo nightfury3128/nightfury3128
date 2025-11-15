@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you change what you believe, you change what you do. – Spencer Johnson"*
+### 💡 *"Only those who will risk going too far can possibly find out how far one can go. – T.S. Eliot"*
 
-*Last updated: November 15, 2025 at 10:56 PM UTC*
+*Last updated: November 15, 2025 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
