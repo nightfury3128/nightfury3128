@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only way to make sense out of change is to plunge into it, move with it, and join the dance. – Alan Watts"*
+### 💡 *"If you're afraid to die, you're afraid to live. You can't have one without the other. – Rita Mae Brown"*
 
-*Last updated: November 15, 2025 at 09:49 PM UTC*
+*Last updated: November 15, 2025 at 09:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
