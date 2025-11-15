@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You may delay, but time will not. – Benjamin Franklin"*
+### 💡 *"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. – Andrew Carnegie"*
 
-*Last updated: November 15, 2025 at 08:33 PM UTC*
+*Last updated: November 15, 2025 at 08:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
