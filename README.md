@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you're afraid to die, you're afraid to live. You can't have one without the other. – Rita Mae Brown"*
+### 💡 *"It does not do to dwell on dreams and forget to live, remember that. – Albus Dumbledore"*
 
-*Last updated: November 15, 2025 at 09:58 PM UTC*
+*Last updated: November 15, 2025 at 10:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
