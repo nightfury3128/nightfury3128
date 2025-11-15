@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I was wise enough to never grow up while fooling most people into believing I had.  – Margaret Mead"*
+### 💡 *"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen. – Wayne Dyer"*
 
-*Last updated: November 15, 2025 at 01:54 PM UTC*
+*Last updated: November 15, 2025 at 02:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
