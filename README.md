@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. – Kamal Ravikant"*
+### 💡 *"Learn from the mistakes of others. You can't live long enough to make them all yourself. – Eleanor Roosevelt"*
 
-*Last updated: November 15, 2025 at 07:36 PM UTC*
+*Last updated: November 15, 2025 at 07:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
