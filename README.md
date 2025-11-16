@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To create more positive results in your life, replace 'if only' with 'next time'. – Celestine Chua"*
+### 💡 *"Beauty is not in the face; beauty is a light in the heart. – Kahlil Gibran"*
 
-*Last updated: November 16, 2025 at 07:38 PM UTC*
+*Last updated: November 16, 2025 at 07:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
