@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet. – Thich Nhat Hanh"*
+### 💡 *"If someone betrays you once, it's their fault; if they betray you twice, it's your fault. – Eleanor Roosevelt"*
 
-*Last updated: November 16, 2025 at 05:13 PM UTC*
+*Last updated: November 16, 2025 at 05:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
