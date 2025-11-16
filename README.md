@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Older men declare war. But it is youth that must fight and die. – Herbert Hoover"*
+### 💡 *"Our greatest glory is not in never falling, but in rising every time we fall.  – Confucius"*
 
-*Last updated: November 16, 2025 at 07:36 AM UTC*
+*Last updated: November 16, 2025 at 07:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
