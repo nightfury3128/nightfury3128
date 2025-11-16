@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Talk to someone about themselves and they'll listen for hours. – Dale Carnegie"*
+### 💡 *"If there's a definition of freedom, I think it's this: living life on your terms. – Kamal Ravikant"*
 
-*Last updated: November 16, 2025 at 06:45 PM UTC*
+*Last updated: November 16, 2025 at 06:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
