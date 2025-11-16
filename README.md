@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be royal in your own fashion: act like a king to be treated like one. – Robert Greene"*
+### 💡 *"Older men declare war. But it is youth that must fight and die. – Herbert Hoover"*
 
-*Last updated: November 16, 2025 at 07:20 AM UTC*
+*Last updated: November 16, 2025 at 07:36 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
