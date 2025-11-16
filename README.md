@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. – Robert Greene"*
+### 💡 *"Success is getting what you want, happiness is wanting what you get. – W.P. Kinsella"*
 
-*Last updated: November 16, 2025 at 10:36 AM UTC*
+*Last updated: November 16, 2025 at 10:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
