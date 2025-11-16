@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The future belongs to those who learn more skills and combine them in creative ways. – Robert Greene"*
+### 💡 *"You do not read a book for the book's sake, but for your own. – Earl Nightingale"*
 
-*Last updated: November 16, 2025 at 09:46 PM UTC*
+*Last updated: November 16, 2025 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
