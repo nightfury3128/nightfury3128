@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Make improvements, not excuses. Seek respect, not attention. – Roy T. Bennett"*
+### 💡 *"Don't bother people for help without first trying to solve the problem yourself. – Colin Powell"*
 
-*Last updated: November 16, 2025 at 10:16 PM UTC*
+*Last updated: November 16, 2025 at 10:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
