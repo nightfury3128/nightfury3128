@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Leaders think and talk about solutions. Followers think and talk about the problems. – Brian Tracy"*
+### 💡 *"Don't blame others. it won't make you a better person. – Lolly Daskal"*
 
-*Last updated: November 16, 2025 at 01:13 PM UTC*
+*Last updated: November 16, 2025 at 01:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
