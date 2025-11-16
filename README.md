@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The biggest room in the world is the room for improvement. – Unknown"*
+### 💡 *"To create more positive results in your life, replace 'if only' with 'next time'. – Celestine Chua"*
 
-*Last updated: November 16, 2025 at 07:26 PM UTC*
+*Last updated: November 16, 2025 at 07:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
