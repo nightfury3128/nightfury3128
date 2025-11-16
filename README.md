@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You do not read a book for the book's sake, but for your own. – Earl Nightingale"*
+### 💡 *"Make improvements, not excuses. Seek respect, not attention. – Roy T. Bennett"*
 
-*Last updated: November 16, 2025 at 09:55 PM UTC*
+*Last updated: November 16, 2025 at 10:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
