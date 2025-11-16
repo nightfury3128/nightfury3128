@@ -128,7 +128,7 @@
 - Ghost of Yōtei 🎮 | Last Played: 20 days ago
 - Stick Fight: The Game 🎮 | Last Played: 28 days ago
 
-*Last updated: November 15, 2025 at 8:09 PM UTC*
+*Last updated: November 16, 2025 at 12:51 AM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
