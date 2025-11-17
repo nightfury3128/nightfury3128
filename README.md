@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Much learning does not teach understanding. – Heraclitus"*
+### 💡 *"Learn the rules like a pro, so you can break them like an artist. – Pablo Picasso"*
 
-*Last updated: November 17, 2025 at 09:38 PM UTC*
+*Last updated: November 17, 2025 at 09:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
