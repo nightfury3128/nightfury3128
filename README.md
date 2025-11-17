@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Short cuts make long delays. – J.R.R. Tolkien"*
+### 💡 *"Much learning does not teach understanding. – Heraclitus"*
 
-*Last updated: November 17, 2025 at 09:25 PM UTC*
+*Last updated: November 17, 2025 at 09:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
