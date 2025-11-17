@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday. – Jonathan Swift"*
+### 💡 *"Failure is the key to success; each mistake teaches us something. – Morihei Ueshiba"*
 
-*Last updated: November 17, 2025 at 11:31 AM UTC*
+*Last updated: November 17, 2025 at 11:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
