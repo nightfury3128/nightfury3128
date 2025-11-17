@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If I have seen further than others, it is by standing upon the shoulders of giants. – Isaac Newton"*
+### 💡 *"Stop being a prisoner of your past. Become the architect of your future. – Robin Sharma"*
 
-*Last updated: November 17, 2025 at 05:48 PM UTC*
+*Last updated: November 17, 2025 at 05:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
