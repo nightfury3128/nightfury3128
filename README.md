@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You came empty handed, and you will leave empty handed. – Bhagavad Gita"*
+### 💡 *"He who is untrue to his own cause cannot command the respect of others. – Albert Einstein"*
 
-*Last updated: November 17, 2025 at 06:41 AM UTC*
+*Last updated: November 17, 2025 at 06:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
