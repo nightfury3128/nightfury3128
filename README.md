@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everybody has talent, but ability takes hard work. – Michael Jordan"*
+### 💡 *"Everyone must choose one of two pains: The pain of discipline or the pain of regret. – Jim Rohn"*
 
-*Last updated: November 17, 2025 at 04:55 AM UTC*
+*Last updated: November 17, 2025 at 05:19 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
