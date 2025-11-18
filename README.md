@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can, you should, and if you're brave enough to start, you will. – Stephen King"*
+### 💡 *"Giving is living. If you stop wanting to give, there's nothing more to live for. – Audrey Hepburn"*
 
-*Last updated: November 18, 2025 at 11:38 AM UTC*
+*Last updated: November 18, 2025 at 11:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
