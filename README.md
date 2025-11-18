@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations. – Wayne Gretzky"*
+### 💡 *"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is. – Eckhart Tolle"*
 
-*Last updated: November 18, 2025 at 11:35 PM UTC*
+*Last updated: November 18, 2025 at 11:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
