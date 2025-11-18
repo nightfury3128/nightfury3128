@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The best way to find yourself is to lose yourself in the service of others. – Mahatma Gandhi"*
+### 💡 *"Fear of death is fear of the Unknown. – Adi Da Samraj"*
 
-*Last updated: November 18, 2025 at 07:15 PM UTC*
+*Last updated: November 18, 2025 at 07:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
