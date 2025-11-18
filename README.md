@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do good by stealth, and blush to find it fame. – Alexander Pope"*
+### 💡 *"Disobedience is the true foundation of liberty. The obedient must be slaves. – Henry David Thoreau"*
 
-*Last updated: November 18, 2025 at 10:28 AM UTC*
+*Last updated: November 18, 2025 at 10:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
