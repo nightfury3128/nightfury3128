@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Shoot for the moon. Even if you miss, you'll land among the stars. – Norman Vincent Peale"*
+### 💡 *"The heart wants what it wants - or else it does not care. – Emily Dickinson"*
 
-*Last updated: November 18, 2025 at 03:44 PM UTC*
+*Last updated: November 18, 2025 at 03:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
