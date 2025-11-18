@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Fear of death is fear of the Unknown. – Adi Da Samraj"*
+### 💡 *"Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day! – Og Mandino"*
 
-*Last updated: November 18, 2025 at 07:28 PM UTC*
+*Last updated: November 18, 2025 at 07:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
