@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more you are focused on time - past and future - the more you miss the Now, the most precious thing there is. – Eckhart Tolle"*
+### 💡 *"We learn to walk by falling down. If we never fell down, we would never walk. – Robert Kiyosaki"*
 
-*Last updated: November 18, 2025 at 11:44 PM UTC*
+*Last updated: November 18, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
