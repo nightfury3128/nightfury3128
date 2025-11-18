@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I would rather be a little nobody, then to be an evil somebody. – Abraham Lincoln"*
+### 💡 *"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations. – Wayne Gretzky"*
 
-*Last updated: November 18, 2025 at 11:21 PM UTC*
+*Last updated: November 18, 2025 at 11:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
