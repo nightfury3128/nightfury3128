@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Disobedience is the true foundation of liberty. The obedient must be slaves. – Henry David Thoreau"*
+### 💡 *"Don't be afraid to give up the good to go for the great. – John D. Rockefeller"*
 
-*Last updated: November 18, 2025 at 10:48 AM UTC*
+*Last updated: November 18, 2025 at 10:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
