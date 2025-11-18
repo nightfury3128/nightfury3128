@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better. – Spencer Johnson"*
+### 💡 *"Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. – Peter Drucker"*
 
-*Last updated: November 18, 2025 at 10:37 PM UTC*
+*Last updated: November 18, 2025 at 10:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
