@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want work well done, select a busy man; the other kind has no time. – Elbert Hubbard"*
+### 💡 *"Confidence is like a dragon where, for every head cut off, two more heads grow back. – Criss Jami"*
 
-*Last updated: November 18, 2025 at 07:59 PM UTC*
+*Last updated: November 18, 2025 at 09:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
