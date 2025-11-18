@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"On the other side of the clouds is a bright blue sky. – Unknown"*
+### 💡 *"Not how long, but how well you have lived is the main thing. – Seneca"*
 
-*Last updated: November 18, 2025 at 05:58 PM UTC*
+*Last updated: November 18, 2025 at 06:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
