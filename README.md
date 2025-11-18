@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stop wasting time looking at someone else's reality while doing nothing about yours. – Steve Harvey"*
+### 💡 *"To bear trials with a calm mind robs misfortune of its strength and burden. – Seneca"*
 
-*Last updated: November 18, 2025 at 08:24 AM UTC*
+*Last updated: November 18, 2025 at 08:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
