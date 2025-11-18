@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"*
+### 💡 *"I would rather be a little nobody, then to be an evil somebody. – Abraham Lincoln"*
 
-*Last updated: November 18, 2025 at 10:57 PM UTC*
+*Last updated: November 18, 2025 at 11:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
