@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The roots of education are bitter, but the fruit is sweet. – Aristotle"*
+### 💡 *"The best way to find yourself is to lose yourself in the service of others. – Mahatma Gandhi"*
 
-*Last updated: November 18, 2025 at 06:55 PM UTC*
+*Last updated: November 18, 2025 at 07:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
