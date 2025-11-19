@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Raise your words, not voice. It is rain that grows flowers, not thunder. – Rumi"*
+### 💡 *"Where you are right now doesn't have to determine where you'll end up. – Barack Obama"*
 
-*Last updated: November 19, 2025 at 09:28 PM UTC*
+*Last updated: November 19, 2025 at 09:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
