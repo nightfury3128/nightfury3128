@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's your road, and yours alone, others may walk it with you, but no one can walk it for you. – Rumi"*
+### 💡 *"We are what we repeatedly do. Excellence, then, is not an act, but a habit. – Aristotle"*
 
-*Last updated: November 19, 2025 at 10:55 AM UTC*
+*Last updated: November 19, 2025 at 11:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
