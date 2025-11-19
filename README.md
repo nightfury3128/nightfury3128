@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Know your gifts and share them. – Les Brown"*
+### 💡 *"The question isn't who is going to let me; it's who is going to stop me. – Ayn Rand"*
 
-*Last updated: November 19, 2025 at 10:35 PM UTC*
+*Last updated: November 19, 2025 at 10:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
