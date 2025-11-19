@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. – Lao Tzu"*
+### 💡 *"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. – Alfred Adler"*
 
-*Last updated: November 19, 2025 at 07:17 AM UTC*
+*Last updated: November 19, 2025 at 07:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
