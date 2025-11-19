@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Knowing yourself is the beginning of all wisdom. – Aristotle"*
+### 💡 *"Creative people are often found either disagreeable or intimidating by mediocrities. – Criss Jami"*
 
-*Last updated: November 19, 2025 at 11:31 PM UTC*
+*Last updated: November 19, 2025 at 11:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
