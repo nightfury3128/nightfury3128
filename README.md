@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are far from the enemy, make him believe you are near. – Sun Tzu"*
+### 💡 *"Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task. – William James"*
 
-*Last updated: November 19, 2025 at 07:20 PM UTC*
+*Last updated: November 19, 2025 at 07:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
