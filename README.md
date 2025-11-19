@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Real loss is only possible when you love something more than you love yourself. – Robin Williams"*
+### 💡 *"It's your road, and yours alone, others may walk it with you, but no one can walk it for you. – Rumi"*
 
-*Last updated: November 19, 2025 at 10:45 AM UTC*
+*Last updated: November 19, 2025 at 10:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
