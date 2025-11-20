@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't let them drag you down by rumors. Just go with what you believe in. – Michael Jordan"*
+### 💡 *"An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold. – Chinese Proverb"*
 
-*Last updated: November 20, 2025 at 10:19 AM UTC*
+*Last updated: November 20, 2025 at 10:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
