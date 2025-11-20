@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Human happiness and moral duty are inseparably connected.  – George Washington"*
+### 💡 *"The quieter you become, the more you are able to hear. – Rumi"*
 
-*Last updated: November 20, 2025 at 09:44 PM UTC*
+*Last updated: November 20, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
