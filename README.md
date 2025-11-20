@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Smile, breathe and go slowly. – Thich Nhat Hanh"*
+### 💡 *"Behind every beautiful thing, there's some kind of pain. – Bob Dylan"*
 
-*Last updated: November 20, 2025 at 11:31 PM UTC*
+*Last updated: November 20, 2025 at 11:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
