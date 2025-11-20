@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. – Gurbaksh Chahal"*
+### 💡 *"We may not be able to stop evil in the world, but how we treat one another is entirely up to us. – Barack Obama"*
 
-*Last updated: November 20, 2025 at 08:24 AM UTC*
+*Last updated: November 20, 2025 at 08:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
