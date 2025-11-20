@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Work as though you would live forever, and live as though you would die today. Go another mile. – Og Mandino"*
+### 💡 *"Fear is stupid. So are regrets. – Marilyn Monroe"*
 
-*Last updated: November 20, 2025 at 03:35 AM UTC*
+*Last updated: November 20, 2025 at 03:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
