@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Help others and give something back. – Arnold Schwarzenegger"*
+### 💡 *"No one can compete with you on being you. Most of life is a search for who and what needs you the most. – Naval Ravikant"*
 
-*Last updated: November 20, 2025 at 01:19 AM UTC*
+*Last updated: November 20, 2025 at 02:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
