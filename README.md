@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Doubt is an uncomfortable condition, but certainty is a ridiculous one. – Voltaire"*
+### 💡 *"Words have no power to impress the mind without the exquisite horror of their reality. – Edgar Allan Poe"*
 
-*Last updated: November 20, 2025 at 11:44 AM UTC*
+*Last updated: November 20, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
