@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No one can compete with you on being you. Most of life is a search for who and what needs you the most. – Naval Ravikant"*
+### 💡 *"Work as though you would live forever, and live as though you would die today. Go another mile. – Og Mandino"*
 
-*Last updated: November 20, 2025 at 02:49 AM UTC*
+*Last updated: November 20, 2025 at 03:35 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
