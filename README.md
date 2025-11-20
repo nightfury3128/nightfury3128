@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's better to dance than to march through life. – Yoko Ono"*
+### 💡 *"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. – Dr. Seuss"*
 
-*Last updated: November 20, 2025 at 07:32 AM UTC*
+*Last updated: November 20, 2025 at 07:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
