@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be happy now, without reason - or you never will be at all. – Dan Millman"*
+### 💡 *"I know of only one duty, and that is to love. – George Bernard Shaw"*
 
-*Last updated: November 20, 2025 at 10:32 PM UTC*
+*Last updated: November 20, 2025 at 10:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
