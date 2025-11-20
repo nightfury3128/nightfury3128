@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future. – Deepak Chopra"*
+### 💡 *"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. – Gurbaksh Chahal"*
 
-*Last updated: November 20, 2025 at 07:54 AM UTC*
+*Last updated: November 20, 2025 at 08:24 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
