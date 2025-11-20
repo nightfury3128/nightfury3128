@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive. – Maxime Lagace"*
+### 💡 *"Information changes your mind. Action changes your circumstances. – Jack Butcher"*
 
-*Last updated: November 20, 2025 at 05:54 PM UTC*
+*Last updated: November 20, 2025 at 06:26 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
