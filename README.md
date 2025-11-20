@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. – Dr. Seuss"*
+### 💡 *"Every time you are tempted to react in the same old way, ask if you want to be a prisoner of the past or a pioneer of the future. – Deepak Chopra"*
 
-*Last updated: November 20, 2025 at 07:44 AM UTC*
+*Last updated: November 20, 2025 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
