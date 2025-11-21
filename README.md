@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We all give up great expectations along the way. – Carlos Ruiz Zafon"*
+### 💡 *"The quality of your commitments will determine the course of your life. – Ralph Marston"*
 
-*Last updated: November 21, 2025 at 03:31 PM UTC*
+*Last updated: November 21, 2025 at 03:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
