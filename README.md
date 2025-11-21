@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We may not be able to stop evil in the world, but how we treat one another is entirely up to us. – Barack Obama"*
+### 💡 *"Success on the outside means nothing unless you also have success within. – Robin Sharma"*
 
-*Last updated: November 21, 2025 at 10:36 PM UTC*
+*Last updated: November 21, 2025 at 10:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
