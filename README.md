@@ -155,9 +155,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Through discipline comes freedom. – Aristotle"*
+### 💡 *"Success is never final; failure is never fatal. – Conrad Hilton"*
 
-*Last updated: November 20, 2025 at 11:54 PM UTC*
+*Last updated: November 21, 2025 at 01:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
