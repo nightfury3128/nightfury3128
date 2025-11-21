@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves. – Steve Maraboli"*
+### 💡 *"In the End, we will remember not the words of our enemies, but the silence of our friends. – Martin Luther King, Jr."*
 
-*Last updated: November 21, 2025 at 10:40 AM UTC*
+*Last updated: November 21, 2025 at 10:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
