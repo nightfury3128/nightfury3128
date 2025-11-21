@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To find yourself, think for yourself. – Socrates"*
+### 💡 *"Changing minds is harder than finding people who already agree. – Jack Butcher"*
 
-*Last updated: November 21, 2025 at 06:24 PM UTC*
+*Last updated: November 21, 2025 at 06:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
