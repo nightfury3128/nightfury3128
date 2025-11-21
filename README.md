@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success on the outside means nothing unless you also have success within. – Robin Sharma"*
+### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
 
-*Last updated: November 21, 2025 at 10:46 PM UTC*
+*Last updated: November 21, 2025 at 10:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
