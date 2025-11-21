@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It matters not what someone is born, but what they grow to be. – Albus Dumbledore"*
+### 💡 *"As soon as you trust yourself, you will know how to live. – Johann Wolfgang von Goethe"*
 
-*Last updated: November 21, 2025 at 04:27 AM UTC*
+*Last updated: November 21, 2025 at 04:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
