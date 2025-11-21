@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Difficult roads often lead to beautiful destinations. – Unknown"*
+### 💡 *"Sometimes, the only way to evolve is to open ourselves fully. – Kamal Ravikant"*
 
-*Last updated: November 21, 2025 at 11:14 AM UTC*
+*Last updated: November 21, 2025 at 11:29 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
