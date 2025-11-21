@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"As soon as you trust yourself, you will know how to live. – Johann Wolfgang von Goethe"*
+### 💡 *"If you run you stand a chance of losing, but if you don't run you've already lost. – Barack Obama"*
 
-*Last updated: November 21, 2025 at 04:45 AM UTC*
+*Last updated: November 21, 2025 at 04:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
