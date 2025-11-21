@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The quality of your commitments will determine the course of your life. – Ralph Marston"*
+### 💡 *"Where your talents and the needs of the world cross, there lies your vocation. – Aristotle"*
 
-*Last updated: November 21, 2025 at 03:44 PM UTC*
+*Last updated: November 21, 2025 at 03:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
