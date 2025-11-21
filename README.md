@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Discipline yourself, and others won't need to. – John Wooden"*
+### 💡 *"The power to make and break habits and learning how to do that is really important. – Naval Ravikant"*
 
-*Last updated: November 21, 2025 at 07:34 AM UTC*
+*Last updated: November 21, 2025 at 07:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
