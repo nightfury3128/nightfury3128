@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
+### 💡 *"The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now! – Tony Robbins"*
 
-*Last updated: November 21, 2025 at 10:55 PM UTC*
+*Last updated: November 21, 2025 at 11:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
