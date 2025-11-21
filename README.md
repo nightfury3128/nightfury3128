@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. – Alfred Adler"*
+### 💡 *"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. – Criss Jami"*
 
-*Last updated: November 21, 2025 at 08:48 AM UTC*
+*Last updated: November 21, 2025 at 08:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
