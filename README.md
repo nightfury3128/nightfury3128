@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not look for approval except for the consciousness of doing your best. – Andrew Carnegie"*
+### 💡 *"A dream doesn't become reality through magic it takes sweat, determination and hard work. – Colin Powell"*
 
-*Last updated: November 21, 2025 at 02:49 AM UTC*
+*Last updated: November 21, 2025 at 03:36 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
