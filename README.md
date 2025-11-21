@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The real meditation is how you live your life. – Jon Kabat-Zinn"*
+### 💡 *"We may not be able to stop evil in the world, but how we treat one another is entirely up to us. – Barack Obama"*
 
-*Last updated: November 21, 2025 at 10:17 PM UTC*
+*Last updated: November 21, 2025 at 10:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
