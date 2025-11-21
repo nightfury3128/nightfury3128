@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rest in reason; move in passion. – Kahlil Gibran"*
+### 💡 *"Live life as though nobody is watching, and express yourself as though everyone is listening. – Nelson Mandela"*
 
-*Last updated: November 21, 2025 at 05:39 AM UTC*
+*Last updated: November 21, 2025 at 05:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
