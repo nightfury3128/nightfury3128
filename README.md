@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The person who never made a mistake never tried anything new. – Albert Einstein"*
+### 💡 *"Discipline yourself, and others won't need to. – John Wooden"*
 
-*Last updated: November 21, 2025 at 07:17 AM UTC*
+*Last updated: November 21, 2025 at 07:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
