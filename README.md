@@ -124,10 +124,10 @@
 - Dispatch 🎮 | Last Played: 8 days ago
 - The Last of Us™ Part II Remastered 🧟 | Last Played: 10 days ago
 - F1® 24 🎮 | Last Played: 25 days ago
-- Ghost of Yōtei 🎮 | Last Played: 25 days ago
+- Ghost of Yōtei 🎮 | Last Played: 26 days ago
 - Stick Fight: The Game 🎮 | Last Played: 33 days ago
 
-*Last updated: November 21, 2025 at 12:18 PM UTC*
+*Last updated: November 21, 2025 at 4:12 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
