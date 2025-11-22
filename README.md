@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. – George Bernard Shaw"*
+### 💡 *"If you can't, you must. If you must, you can. – Tony Robbins"*
 
-*Last updated: November 22, 2025 at 08:58 PM UTC*
+*Last updated: November 22, 2025 at 09:22 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
