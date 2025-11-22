@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you are able to employ your will always for constructive purposes, you become the controller of your destiny. – Paramahansa Yogananda"*
+### 💡 *"Perfectionism is simply putting a limit on your future. – John Eliot"*
 
-*Last updated: November 22, 2025 at 09:55 PM UTC*
+*Last updated: November 22, 2025 at 10:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
