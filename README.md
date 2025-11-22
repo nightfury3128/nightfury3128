@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Even if you persuade me, you won't persuade me. – Aristophanes"*
+### 💡 *"We are what we repeatedly do. Excellence, then, is not an act, but a habit. – Aristotle"*
 
-*Last updated: November 22, 2025 at 09:36 PM UTC*
+*Last updated: November 22, 2025 at 09:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
