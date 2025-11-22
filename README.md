@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way. – Robert Kiyosaki"*
+### 💡 *"A mountain never yields to the wind no matter how strong it is. – Zen Proverb"*
 
-*Last updated: November 22, 2025 at 10:45 PM UTC*
+*Last updated: November 22, 2025 at 10:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
