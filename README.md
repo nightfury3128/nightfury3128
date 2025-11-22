@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you can't, you must. If you must, you can. – Tony Robbins"*
+### 💡 *"Even if you persuade me, you won't persuade me. – Aristophanes"*
 
-*Last updated: November 22, 2025 at 09:22 PM UTC*
+*Last updated: November 22, 2025 at 09:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
