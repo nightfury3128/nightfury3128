@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a question and how we live it is our answer. – Gary Keller"*
+### 💡 *"We're kept from our goal not by obstacles, but by a clear path to a lesser goal. – Bhagavad Gita"*
 
-*Last updated: November 22, 2025 at 06:45 PM UTC*
+*Last updated: November 22, 2025 at 06:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
