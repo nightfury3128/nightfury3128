@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Quality is more important than quantity. One home run is much better than two doubles. – Steve Jobs"*
+### 💡 *"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. – George Bernard Shaw"*
 
-*Last updated: November 22, 2025 at 08:49 PM UTC*
+*Last updated: November 22, 2025 at 08:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
