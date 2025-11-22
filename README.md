@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When it comes to mastering a skill, time is the magic ingredient. – Robert Greene"*
+### 💡 *"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. – A.A. Milne"*
 
-*Last updated: November 22, 2025 at 10:49 AM UTC*
+*Last updated: November 22, 2025 at 10:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
