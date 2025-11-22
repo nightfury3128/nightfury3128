@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's easier to go down a hill than up it but the view is much better at the top. – Henry Ward Beecher"*
+### 💡 *"Unless someone truly has the power to say no, they never truly have the power to say yes. – Dan Millman"*
 
-*Last updated: November 22, 2025 at 02:44 PM UTC*
+*Last updated: November 22, 2025 at 02:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
