@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Music is like creating an emotional painting. The sounds are the colors. – Yanni"*
+### 💡 *"You can never get enough of what you don't need to make you happy. – Eric Hoffer"*
 
-*Last updated: November 22, 2025 at 09:47 AM UTC*
+*Last updated: November 22, 2025 at 09:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
