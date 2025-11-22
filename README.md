@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you genuinely want something, don't wait for it - teach yourself. – Gurbaksh Chahal"*
+### 💡 *"Knowing is not enough, we must apply. Willing is not enough, we must do. – Johann Wolfgang von Goethe"*
 
-*Last updated: November 22, 2025 at 08:25 PM UTC*
+*Last updated: November 22, 2025 at 08:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
