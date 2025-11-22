@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perfectionism is simply putting a limit on your future. – John Eliot"*
+### 💡 *"If you're waiting until you feel talented enough to make it, you'll never make it. – Criss Jami"*
 
-*Last updated: November 22, 2025 at 10:16 PM UTC*
+*Last updated: November 22, 2025 at 10:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
