@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you're waiting until you feel talented enough to make it, you'll never make it. – Criss Jami"*
+### 💡 *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way. – Robert Kiyosaki"*
 
-*Last updated: November 22, 2025 at 10:34 PM UTC*
+*Last updated: November 22, 2025 at 10:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
