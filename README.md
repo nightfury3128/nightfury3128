@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything. – Paramahansa Yogananda"*
+### 💡 *"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. – A.A. Milne"*
 
-*Last updated: November 22, 2025 at 09:25 AM UTC*
+*Last updated: November 22, 2025 at 09:37 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
