@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't stay in your corner of the Forest waiting for others to come to you. You have to go to them sometimes. – A.A. Milne"*
+### 💡 *"When you're the only sane person, you look like the only insane person. – Criss Jami"*
 
-*Last updated: November 22, 2025 at 10:58 AM UTC*
+*Last updated: November 22, 2025 at 11:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
