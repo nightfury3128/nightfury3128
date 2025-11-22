@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can never get enough of what you don't need to make you happy. – Eric Hoffer"*
+### 💡 *"Do not fear failure but rather fear not trying. – Roy T. Bennett"*
 
-*Last updated: November 22, 2025 at 09:56 AM UTC*
+*Last updated: November 22, 2025 at 10:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
