@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Study logic and math, because once you've mastered them, you won't fear any book. – Naval Ravikant"*
+### 💡 *"Life is a question and how we live it is our answer. – Gary Keller"*
 
-*Last updated: November 22, 2025 at 06:23 PM UTC*
+*Last updated: November 22, 2025 at 06:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
