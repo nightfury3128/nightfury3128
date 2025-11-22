@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We are what we repeatedly do. Excellence, then, is not an act, but a habit. – Aristotle"*
+### 💡 *"When you are able to employ your will always for constructive purposes, you become the controller of your destiny. – Paramahansa Yogananda"*
 
-*Last updated: November 22, 2025 at 09:46 PM UTC*
+*Last updated: November 22, 2025 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
