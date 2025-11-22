@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is startling to realize how much unbelief is necessary to make belief possible. – Eric Hoffer"*
+### 💡 *"Study logic and math, because once you've mastered them, you won't fear any book. – Naval Ravikant"*
 
-*Last updated: November 22, 2025 at 05:54 PM UTC*
+*Last updated: November 22, 2025 at 06:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
