@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It doesn't matter what you do, only how well you do it. – Dan Millman"*
+### 💡 *"Too many of us are not living our dreams because we are living our fears. – Les Brown"*
 
-*Last updated: November 22, 2025 at 11:54 PM UTC*
+*Last updated: November 23, 2025 at 01:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
