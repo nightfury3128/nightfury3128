@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is good at any age, but the sooner you find it, the longer you will enjoy it. – Napoleon Hill"*
+### 💡 *"The four P's to success are pressure, persistence, perseverance, and prayer. – Steve Harvey"*
 
-*Last updated: November 23, 2025 at 03:30 PM UTC*
+*Last updated: November 23, 2025 at 03:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
