@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can never get enough of what you don't need to make you happy. – Eric Hoffer"*
+### 💡 *"As mortals, we're ruled by conditions, not by ourselves. – Bodhidharma"*
 
-*Last updated: November 23, 2025 at 04:05 AM UTC*
+*Last updated: November 23, 2025 at 04:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
