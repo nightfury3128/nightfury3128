@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A fool sees himself as another, but a wise man sees others as himself. – Dogen"*
+### 💡 *"The soul is neither born, and nor does it die. – Bhagavad Gita"*
 
-*Last updated: November 23, 2025 at 09:44 PM UTC*
+*Last updated: November 23, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
