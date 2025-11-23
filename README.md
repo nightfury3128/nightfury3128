@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Fear is your worst enemy. Risk is your best friend. – Gurbaksh Chahal"*
+### 💡 *"Give me six hours to chop down a tree and I will spend the first four sharpening the axe. – Abraham Lincoln"*
 
-*Last updated: November 23, 2025 at 05:44 PM UTC*
+*Last updated: November 23, 2025 at 05:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
