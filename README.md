@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Arise, slay thy enemies, enjoy a prosperous kingdom. – Bhagavad Gita"*
+### 💡 *"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. – Buddha"*
 
-*Last updated: November 23, 2025 at 11:57 AM UTC*
+*Last updated: November 23, 2025 at 12:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
