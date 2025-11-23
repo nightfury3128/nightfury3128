@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. – Roy T. Bennett"*
+### 💡 *"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. – Albus Dumbledore"*
 
-*Last updated: November 23, 2025 at 11:38 AM UTC*
+*Last updated: November 23, 2025 at 11:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
