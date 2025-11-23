@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. – Albus Dumbledore"*
+### 💡 *"Arise, slay thy enemies, enjoy a prosperous kingdom. – Bhagavad Gita"*
 
-*Last updated: November 23, 2025 at 11:48 AM UTC*
+*Last updated: November 23, 2025 at 11:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
