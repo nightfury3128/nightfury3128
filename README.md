@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't set your own goals by what other people make important. – Lolly Daskal"*
+### 💡 *"Worry is a waste of emotional reserve. – Ayn Rand"*
 
-*Last updated: November 23, 2025 at 08:43 AM UTC*
+*Last updated: November 23, 2025 at 08:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
