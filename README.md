@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is better to disappoint people with the truth than to appease them with a lie. – Simon Sinek"*
+### 💡 *"There are no shortcuts to any place worth going. – Beverly Sills"*
 
-*Last updated: November 23, 2025 at 07:14 PM UTC*
+*Last updated: November 23, 2025 at 07:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
