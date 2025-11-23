@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are no shortcuts to any place worth going. – Beverly Sills"*
+### 💡 *"We are all self-made, but only the successful will admit it. – Earl Nightingale"*
 
-*Last updated: November 23, 2025 at 07:27 PM UTC*
+*Last updated: November 23, 2025 at 07:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
