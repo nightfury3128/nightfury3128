@@ -121,13 +121,13 @@
 
 <!--PSN_ACTIVITY:start-->
 🎮 **Currently Playing:**
-- Hollow Knight 🎮 | Last Played: 1 day ago
-- Dispatch 🎮 | Last Played: 10 days ago
-- The Last of Us™ Part II Remastered 🧟 | Last Played: 12 days ago
+- Hollow Knight 🎮 | Last Played: 2 days ago
+- Dispatch 🎮 | Last Played: 11 days ago
+- The Last of Us™ Part II Remastered 🧟 | Last Played: 13 days ago
 - F1® 24 🎮 | Last Played: 28 days ago
 - Ghost of Yōtei 🎮 | Last Played: 28 days ago
 
-*Last updated: November 24, 2025 at 12:51 AM UTC*
+*Last updated: November 24, 2025 at 4:24 AM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
