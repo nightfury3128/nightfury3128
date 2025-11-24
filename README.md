@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Only by attracting the best people will you accomplish great deeds. – Colin Powell"*
+### 💡 *"It is in changing that we find purpose. – Heraclitus"*
 
-*Last updated: November 24, 2025 at 02:40 PM UTC*
+*Last updated: November 24, 2025 at 02:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
