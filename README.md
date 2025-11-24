@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life can only be understood backwards; but it must be lived forwards. – Soren Kierkegaard"*
+### 💡 *"Decide what your truth is. Then live it. – Kamal Ravikant"*
 
-*Last updated: November 24, 2025 at 03:23 PM UTC*
+*Last updated: November 24, 2025 at 03:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
