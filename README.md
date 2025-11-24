@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence is what you have before you understand the problem. – Woody Allen"*
+### 💡 *"You are what you believe in. You become that which you believe you can become. – Bhagavad Gita"*
 
-*Last updated: November 24, 2025 at 10:56 PM UTC*
+*Last updated: November 24, 2025 at 11:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
