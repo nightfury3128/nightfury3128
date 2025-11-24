@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Positive thinking can be contagious. Being surrounded by winners helps you develop into a winner. – Arnold Schwarzenegger"*
+### 💡 *"Be the silent watcher of your thoughts and behavior. You are beneath the thinker. – Eckhart Tolle"*
 
-*Last updated: November 24, 2025 at 06:40 PM UTC*
+*Last updated: November 24, 2025 at 06:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
