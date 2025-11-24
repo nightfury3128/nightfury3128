@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No need to hurry. No need to sparkle. No need to be anybody but oneself. – Virginia Woolf"*
+### 💡 *"No matter who you are, we're creatures of habit. The better your habits are, the better they will be in pressure situations. – Wayne Gretzky"*
 
-*Last updated: November 24, 2025 at 09:54 AM UTC*
+*Last updated: November 24, 2025 at 10:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
