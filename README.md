@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Heal the past, live the present, dream the future. – Mary Engelbreit"*
+### 💡 *"Your chances of success in any undertaking can always be measured by your belief in yourself. – Robert Collier"*
 
-*Last updated: November 24, 2025 at 10:46 AM UTC*
+*Last updated: November 24, 2025 at 10:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
