@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We must not sit down and wait for miracles. Up and be going! – John Eliot"*
+### 💡 *"If you can't, you must. If you must, you can. – Tony Robbins"*
 
-*Last updated: November 24, 2025 at 09:16 PM UTC*
+*Last updated: November 24, 2025 at 09:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
