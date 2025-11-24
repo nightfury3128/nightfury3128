@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Decide what your truth is. Then live it. – Kamal Ravikant"*
+### 💡 *"Nothing will work unless you do. – Maya Angelou"*
 
-*Last updated: November 24, 2025 at 03:43 PM UTC*
+*Last updated: November 24, 2025 at 03:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
