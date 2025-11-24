@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are what you believe in. You become that which you believe you can become. – Bhagavad Gita"*
+### 💡 *"Every day do something that will inch you closer to a better tomorrow. – Unknown"*
 
-*Last updated: November 24, 2025 at 11:19 PM UTC*
+*Last updated: November 24, 2025 at 11:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
