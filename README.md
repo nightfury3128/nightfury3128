@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Being wrong opens us up to the possibility of change. – Mark Manson"*
+### 💡 *"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. – Thich Nhat Hanh"*
 
-*Last updated: November 25, 2025 at 07:19 PM UTC*
+*Last updated: November 25, 2025 at 07:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
