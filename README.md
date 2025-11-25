@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be afraid to see what you see. – Ronald Reagan"*
+### 💡 *"What you resist, persists. – Carl Jung"*
 
-*Last updated: November 25, 2025 at 09:16 PM UTC*
+*Last updated: November 25, 2025 at 09:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
