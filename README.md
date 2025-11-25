@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. – Albus Dumbledore"*
+### 💡 *"Small men think they are small; great men never know they are great.  – Chinese Proverb"*
 
-*Last updated: November 25, 2025 at 11:38 AM UTC*
+*Last updated: November 25, 2025 at 11:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
