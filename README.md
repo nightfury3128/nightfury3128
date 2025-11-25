@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What you resist, persists. – Carl Jung"*
+### 💡 *"Help others achieve their dreams and you will achieve yours. – Les Brown"*
 
-*Last updated: November 25, 2025 at 09:32 PM UTC*
+*Last updated: November 25, 2025 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
