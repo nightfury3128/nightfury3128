@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Discipline yourself, and others won't need to. – John Wooden"*
+### 💡 *"As you love yourself, life loves you back. – Kamal Ravikant"*
 
-*Last updated: November 25, 2025 at 10:38 PM UTC*
+*Last updated: November 25, 2025 at 10:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
