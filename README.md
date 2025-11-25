@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The fastest way to change is to laugh at your own folly. – Spencer Johnson"*
+### 💡 *"You are not what you think you are, You are not what others think you are, You are what you think others think you are. – Unknown"*
 
-*Last updated: November 25, 2025 at 01:52 PM UTC*
+*Last updated: November 25, 2025 at 02:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
