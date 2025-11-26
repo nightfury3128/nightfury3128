@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We're kept from our goal not by obstacles, but by a clear path to a lesser goal. – Bhagavad Gita"*
+### 💡 *"The only way to make sense out of change is to plunge into it, move with it, and join the dance. – Alan Watts"*
 
-*Last updated: November 26, 2025 at 09:30 PM UTC*
+*Last updated: November 26, 2025 at 09:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
