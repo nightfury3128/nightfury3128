@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who knows, does not speak. He who speaks, does not know. – Lao Tzu"*
+### 💡 *"If you want peace, you won't get it with violence. – John Lennon"*
 
-*Last updated: November 26, 2025 at 10:17 PM UTC*
+*Last updated: November 26, 2025 at 10:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
