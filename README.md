@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you. – Norman Vincent Peale"*
+### 💡 *"Better to have, and not need, than to need, and not have. – Franz Kafka"*
 
-*Last updated: November 26, 2025 at 02:19 PM UTC*
+*Last updated: November 26, 2025 at 02:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
