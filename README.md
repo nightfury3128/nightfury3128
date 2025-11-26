@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No one can compete with you on being you. Most of life is a search for who and what needs you the most. – Naval Ravikant"*
+### 💡 *"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you. – Norman Vincent Peale"*
 
-*Last updated: November 26, 2025 at 01:50 PM UTC*
+*Last updated: November 26, 2025 at 02:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
