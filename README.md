@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. – Albert Einstein"*
+### 💡 *"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart. – Roy T. Bennett"*
 
-*Last updated: November 26, 2025 at 05:54 AM UTC*
+*Last updated: November 26, 2025 at 06:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
