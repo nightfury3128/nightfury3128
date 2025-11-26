@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The successful warrior is the average man, with laser-like focus. – Bruce Lee"*
+### 💡 *"Focused, hard work is the real key to success. – John Carmack"*
 
-*Last updated: November 26, 2025 at 07:48 PM UTC*
+*Last updated: November 26, 2025 at 07:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
