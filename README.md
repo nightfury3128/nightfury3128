@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass. – Unknown"*
+### 💡 *"Don't let the noise of others' opinions drown out your own inner voice. – Steve Jobs"*
 
-*Last updated: November 26, 2025 at 03:49 PM UTC*
+*Last updated: November 26, 2025 at 03:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
