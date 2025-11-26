@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's not whether you get knocked down, its whether you get back up. – Vince Lombardi"*
+### 💡 *"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. – Albus Dumbledore"*
 
-*Last updated: November 26, 2025 at 11:45 PM UTC*
+*Last updated: November 26, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
