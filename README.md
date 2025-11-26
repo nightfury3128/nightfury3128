@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Silence is the great teacher and to learn its lessons you must pay attention to it. – Deepak Chopra"*
+### 💡 *"No one can compete with you on being you. Most of life is a search for who and what needs you the most. – Naval Ravikant"*
 
-*Last updated: November 26, 2025 at 01:22 PM UTC*
+*Last updated: November 26, 2025 at 01:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
