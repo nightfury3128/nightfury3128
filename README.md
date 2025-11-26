@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"One must be deeply aware of the impermanence of the world. – Dogen"*
+### 💡 *"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. – William James"*
 
-*Last updated: November 26, 2025 at 02:55 PM UTC*
+*Last updated: November 26, 2025 at 03:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
