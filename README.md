@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I've always lived in the moment. – Yanni"*
+### 💡 *"The fear of death is more to be feared, than death itself. – Publilius Syrus"*
 
-*Last updated: November 26, 2025 at 11:32 AM UTC*
+*Last updated: November 26, 2025 at 11:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
