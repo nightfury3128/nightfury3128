@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What have you done today to make someone else happy? – Deepam Chaterjee"*
+### 💡 *"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes. – Voltaire"*
 
-*Last updated: November 26, 2025 at 05:35 PM UTC*
+*Last updated: November 26, 2025 at 05:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
