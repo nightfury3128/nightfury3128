@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Focused, hard work is the real key to success. – John Carmack"*
+### 💡 *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way. – Robert Kiyosaki"*
 
-*Last updated: November 26, 2025 at 07:58 PM UTC*
+*Last updated: November 26, 2025 at 08:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
