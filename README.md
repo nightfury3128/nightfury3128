@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What we dwell on is who we become. – Oprah Winfrey"*
+### 💡 *"You can't let your failures define you. You have to let your failures teach you. – Barack Obama"*
 
-*Last updated: November 25, 2025 at 11:57 PM UTC*
+*Last updated: November 26, 2025 at 01:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
