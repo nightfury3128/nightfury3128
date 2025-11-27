@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you. – Norman Vincent Peale"*
+### 💡 *"When at last you are come to the ocean of happiness, do not go back thirsty. – Kabir"*
 
-*Last updated: November 27, 2025 at 05:14 PM UTC*
+*Last updated: November 27, 2025 at 05:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
