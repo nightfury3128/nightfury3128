@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  – Herodotus"*
+### 💡 *"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. – Steve Maraboli"*
 
-*Last updated: November 27, 2025 at 04:50 AM UTC*
+*Last updated: November 27, 2025 at 05:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
