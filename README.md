@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I think self-awareness is probably the most important thing towards being a champion.  – Billie Jean King"*
+### 💡 *"A man who acquires the ability to take full possession of his own mind may take possession of anything else to which he is justly entitled. – Andrew Carnegie"*
 
-*Last updated: November 27, 2025 at 09:20 AM UTC*
+*Last updated: November 27, 2025 at 09:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
