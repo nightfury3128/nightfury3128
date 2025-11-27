@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. – Ralph Marston"*
+### 💡 *"Heaven is right where you are standing. – Morihei Ueshiba"*
 
-*Last updated: November 27, 2025 at 07:49 PM UTC*
+*Last updated: November 27, 2025 at 07:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
