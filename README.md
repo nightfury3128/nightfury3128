@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't Let Yesterday Take Up Too Much Of Today. – Will Rogers"*
+### 💡 *"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. – Peter Drucker"*
 
-*Last updated: November 27, 2025 at 03:19 PM UTC*
+*Last updated: November 27, 2025 at 03:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
