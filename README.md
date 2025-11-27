@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your life does not get better by chance, it gets better by change. – Jim Rohn"*
+### 💡 *"Everyone you admire was once a beginner. – Jack Butcher"*
 
-*Last updated: November 27, 2025 at 11:31 PM UTC*
+*Last updated: November 27, 2025 at 11:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
