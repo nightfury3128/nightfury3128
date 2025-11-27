@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Try to be a rainbow in someone's cloud. – Maya Angelou"*
+### 💡 *"One is never afraid of the unknown; one is afraid of the known coming to an end. – Jiddu Krishnamurti"*
 
-*Last updated: November 27, 2025 at 05:54 PM UTC*
+*Last updated: November 27, 2025 at 06:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
