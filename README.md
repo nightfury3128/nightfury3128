@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The goal is not to show how great you are to others, but how vulnerable you are to yourself. – Maxime Lagace"*
+### 💡 *"Without education, we are in a horrible and deadly danger of taking educated people seriously. – Gilbert Chesterton"*
 
-*Last updated: November 27, 2025 at 08:49 PM UTC*
+*Last updated: November 27, 2025 at 08:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
