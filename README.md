@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Quiet people have the loudest minds. – Stephen Hawking"*
+### 💡 *"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart. – Roy T. Bennett"*
 
-*Last updated: November 27, 2025 at 07:18 AM UTC*
+*Last updated: November 27, 2025 at 07:35 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
