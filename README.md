@@ -127,7 +127,7 @@
 - The Last of Us™ Part II Remastered 🧟 | Last Played: 15 days ago
 - F1® 24 🎮 | Last Played: 31 days ago
 
-*Last updated: November 26, 2025 at 8:11 PM UTC*
+*Last updated: November 27, 2025 at 12:46 AM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
