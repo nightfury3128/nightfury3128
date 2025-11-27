@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Hope and fear come from feeling that we lack something; they come from a sense of poverty. – Pema Chodron"*
+### 💡 *"The goal is not to show how great you are to others, but how vulnerable you are to yourself. – Maxime Lagace"*
 
-*Last updated: November 27, 2025 at 08:39 PM UTC*
+*Last updated: November 27, 2025 at 08:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
