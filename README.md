@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The difference between winning and losing is most often not quitting. – Walt Disney"*
+### 💡 *"Decide upon your major definite purpose in life and then organize all your activities around it. – Brian Tracy"*
 
-*Last updated: November 28, 2025 at 03:18 PM UTC*
+*Last updated: November 28, 2025 at 03:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
