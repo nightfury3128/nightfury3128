@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Continuous effort - not strength or intelligence - is the key to unlocking our potential. – Winston Churchill"*
+### 💡 *"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold. – Elon Musk"*
 
-*Last updated: November 28, 2025 at 10:54 AM UTC*
+*Last updated: November 28, 2025 at 11:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
