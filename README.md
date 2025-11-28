@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is not meant to be easy my child, but take courage: it can be delightful. – George Bernard Shaw"*
+### 💡 *"True it is, we only hate those whom we do not know. – Andrew Carnegie"*
 
-*Last updated: November 28, 2025 at 05:55 AM UTC*
+*Last updated: November 28, 2025 at 06:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
