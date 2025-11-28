@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. – Winston Churchill"*
+### 💡 *"Continuous effort - not strength or intelligence - is the key to unlocking our potential. – Winston Churchill"*
 
-*Last updated: November 28, 2025 at 10:44 AM UTC*
+*Last updated: November 28, 2025 at 10:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
