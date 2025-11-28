@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold. – Elon Musk"*
+### 💡 *"Because a thing seems difficult for you, do not think it impossible. – Marcus Aurelius"*
 
-*Last updated: November 28, 2025 at 11:16 AM UTC*
+*Last updated: November 28, 2025 at 11:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
