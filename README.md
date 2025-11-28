@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You may be one person in this world, but to one person you may mean the world. – Unknown"*
+### 💡 *"You have power over your mind - not outside events. Realize this, and you will find strength. – Marcus Aurelius"*
 
-*Last updated: November 28, 2025 at 04:46 PM UTC*
+*Last updated: November 28, 2025 at 04:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
