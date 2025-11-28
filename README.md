@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Before you embark on a journey of revenge, dig two graves.  – Confucius"*
+### 💡 *"Do not pray for an easy life, pray for the strength to endure a difficult one.   – Bruce Lee"*
 
-*Last updated: November 28, 2025 at 04:59 AM UTC*
+*Last updated: November 28, 2025 at 05:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
