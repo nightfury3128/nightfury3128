@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Love the life you live, live the life you love. – Bob Marley"*
+### 💡 *"Concentrated power has always been the enemy of liberty. – Ronald Reagan"*
 
-*Last updated: November 28, 2025 at 08:27 PM UTC*
+*Last updated: November 28, 2025 at 08:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
