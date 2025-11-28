@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only thing we have to fear is fear itself. – Franklin D. Roosevelt"*
+### 💡 *"All leaders are readers. – Jim Rohn"*
 
-*Last updated: November 28, 2025 at 11:44 AM UTC*
+*Last updated: November 28, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
