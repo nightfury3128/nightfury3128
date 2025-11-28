@@ -154,9 +154,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return. – Deepak Chopra"*
+### 💡 *"Anxiety is the dizziness of freedom. – Soren Kierkegaard"*
 
-*Last updated: November 28, 2025 at 07:34 AM UTC*
+*Last updated: November 28, 2025 at 07:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
