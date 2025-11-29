@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You don't get in life what you want; you get in life what you are. – Les Brown"*
+### 💡 *"Become the kind of leader that people would follow voluntarily, even if you had no title or position. – Brian Tracy"*
 
-*Last updated: November 29, 2025 at 10:17 AM UTC*
+*Last updated: November 29, 2025 at 10:37 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
