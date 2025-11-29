@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you stop questioning, you stop learning. – Lolly Daskal"*
+### 💡 *"Success on the outside means nothing unless you also have success within. – Robin Sharma"*
 
-*Last updated: November 29, 2025 at 09:44 PM UTC*
+*Last updated: November 29, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
