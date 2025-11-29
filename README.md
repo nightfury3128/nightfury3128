@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We tend to live up to our expectations. – Earl Nightingale"*
+### 💡 *"Only I can change my life. No one can do it for me. – Carol Burnett"*
 
-*Last updated: November 29, 2025 at 05:38 AM UTC*
+*Last updated: November 29, 2025 at 05:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
