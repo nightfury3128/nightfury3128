@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no significance in life without struggle. – Lolly Daskal"*
+### 💡 *"If you try, you might get exactly what you want. If you don't, you don't. – Unknown"*
 
-*Last updated: November 29, 2025 at 08:41 PM UTC*
+*Last updated: November 29, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
