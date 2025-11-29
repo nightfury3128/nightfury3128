@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. – Dale Carnegie"*
+### 💡 *"Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  – Herodotus"*
 
-*Last updated: November 29, 2025 at 11:54 AM UTC*
+*Last updated: November 29, 2025 at 12:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
