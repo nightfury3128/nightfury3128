@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Turn off your mind, relax, and float downstream. – John Lennon"*
+### 💡 *"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. – Dale Carnegie"*
 
-*Last updated: November 29, 2025 at 11:40 AM UTC*
+*Last updated: November 29, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
