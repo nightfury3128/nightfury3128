@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What you seek is seeking you. – Rumi"*
+### 💡 *"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success. – Mark Manson"*
 
-*Last updated: November 29, 2025 at 05:54 PM UTC*
+*Last updated: November 29, 2025 at 06:24 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
