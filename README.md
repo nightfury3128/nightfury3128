@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To lose your temper is only useful once a year. – Colin R. Davis"*
+### 💡 *"A rational person can find peace by cultivating indifference to things outside of their control. – Naval Ravikant"*
 
-*Last updated: November 29, 2025 at 01:19 AM UTC*
+*Last updated: November 29, 2025 at 02:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
