@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Only I can change my life. No one can do it for me. – Carol Burnett"*
+### 💡 *"Winners don't Quit. That's why they Win. – Unknown"*
 
-*Last updated: November 29, 2025 at 05:48 AM UTC*
+*Last updated: November 29, 2025 at 05:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
