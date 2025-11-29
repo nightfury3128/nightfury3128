@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. – Gilbert Chesterton"*
+### 💡 *"Do what you can, with what you have, where you are. – Theodore Roosevelt"*
 
-*Last updated: November 29, 2025 at 04:29 AM UTC*
+*Last updated: November 29, 2025 at 04:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
