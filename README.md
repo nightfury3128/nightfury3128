@@ -120,13 +120,13 @@
 
 <!--PSN_ACTIVITY:start-->
 🎮 **Currently Playing:**
-- Ghost of Yōtei 🎮 | Last Played: today
+- Ghost of Yōtei 🎮 | Last Played: 1 day ago
 - Fall Guys 🎮 | Last Played: 2 days ago
 - Hollow Knight 🎮 | Last Played: 7 days ago
 - Dispatch 🎮 | Last Played: 16 days ago
 - The Last of Us™ Part II Remastered 🧟 | Last Played: 18 days ago
 
-*Last updated: November 29, 2025 at 4:10 PM UTC*
+*Last updated: November 29, 2025 at 8:10 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
