@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't let the silly little dramas of each day get you down. For you are here to do great things. – Ralph Marston"*
+### 💡 *"It is during our darkest moments that we must focus to see the light. – Aristotle"*
 
-*Last updated: November 29, 2025 at 10:35 PM UTC*
+*Last updated: November 29, 2025 at 10:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
