@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I was angered, for I had no shoes. Then I met a man who had no feet.  – Chinese Proverb"*
+### 💡 *"What you seek is seeking you. – Rumi"*
 
-*Last updated: November 29, 2025 at 05:44 PM UTC*
+*Last updated: November 29, 2025 at 05:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
