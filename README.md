@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. – Sathya Sai Baba"*
+### 💡 *"The hard path is often the right one. The river teaches more than the shore. – Maxime Lagace"*
 
-*Last updated: November 30, 2025 at 09:15 PM UTC*
+*Last updated: November 30, 2025 at 09:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
