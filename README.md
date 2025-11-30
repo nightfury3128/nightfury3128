@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Words used to attract the dull of wit are not to be relied on. – Huang Po"*
+### 💡 *"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. – John Wooden"*
 
-*Last updated: November 30, 2025 at 09:37 AM UTC*
+*Last updated: November 30, 2025 at 09:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
