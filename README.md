@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. – Lao Tzu"*
+### 💡 *"A heart is not judged by how much you love, but by how much you are loved by others. – Judy Garland"*
 
-*Last updated: November 30, 2025 at 07:28 PM UTC*
+*Last updated: November 30, 2025 at 07:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
