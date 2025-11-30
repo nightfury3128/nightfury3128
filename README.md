@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A heart is not judged by how much you love, but by how much you are loved by others. – Judy Garland"*
+### 💡 *"Who you are is defined by what you're willing to struggle for. – Mark Manson"*
 
-*Last updated: November 30, 2025 at 07:39 PM UTC*
+*Last updated: November 30, 2025 at 07:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
