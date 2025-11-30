@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. – John Wooden"*
+### 💡 *"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting. – Bhagavad Gita"*
 
-*Last updated: November 30, 2025 at 09:47 AM UTC*
+*Last updated: November 30, 2025 at 09:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
