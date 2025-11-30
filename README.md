@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Great minds discuss ideas. Average minds discuss events. Small minds discuss people. – Eleanor Roosevelt"*
+### 💡 *"From a certain point onward there is no longer any turning back. That is the point that must be reached. – Franz Kafka"*
 
-*Last updated: November 30, 2025 at 03:31 PM UTC*
+*Last updated: November 30, 2025 at 03:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
