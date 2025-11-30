@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Doubt is an uncomfortable condition, but certainty is a ridiculous one. – Voltaire"*
+### 💡 *"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you. – Jeffrey Gitomer"*
 
-*Last updated: November 30, 2025 at 11:18 PM UTC*
+*Last updated: November 30, 2025 at 11:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
