@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The future depends on what you do today.  – Mahatma Gandhi"*
+### 💡 *"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. – Lao Tzu"*
 
-*Last updated: November 30, 2025 at 07:16 PM UTC*
+*Last updated: November 30, 2025 at 07:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
