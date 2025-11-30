@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only person you should try to be better than is the person you were yesterday. – Brian Tracy"*
+### 💡 *"The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar"*
 
-*Last updated: November 30, 2025 at 05:54 AM UTC*
+*Last updated: November 30, 2025 at 06:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
