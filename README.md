@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Who you are is defined by what you're willing to struggle for. – Mark Manson"*
+### 💡 *"A lot of people have gone further than they thought they could because someone else thought they could. – Zig Ziglar"*
 
-*Last updated: November 30, 2025 at 07:49 PM UTC*
+*Last updated: November 30, 2025 at 07:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
