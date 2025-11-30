@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success in any endeavor depends on the degree to which it is an expression of your true self.  – Ralph Marston"*
+### 💡 *"When you know what you want, and you want it bad enough, you will find a way to get it. – Jim Rohn"*
 
-*Last updated: November 30, 2025 at 09:44 PM UTC*
+*Last updated: November 30, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
