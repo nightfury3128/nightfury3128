@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If there's a definition of freedom, I think it's this: living life on your terms. – Kamal Ravikant"*
+### 💡 *"We've got to live, no matter how many skies have fallen. – D. H. Lawrence"*
 
-*Last updated: December 01, 2025 at 03:29 PM UTC*
+*Last updated: December 01, 2025 at 03:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
