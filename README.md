@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Sorrow is how we learn to love. – Rita Mae Brown"*
+### 💡 *"You drown not by falling into a river, but by staying submerged in it. – Paulo Coelho"*
 
-*Last updated: December 01, 2025 at 08:18 PM UTC*
+*Last updated: December 01, 2025 at 08:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
