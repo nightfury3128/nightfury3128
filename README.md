@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We can't help everyone, but everyone can help someone. – Ronald Reagan"*
+### 💡 *"Your best life will not be found in comfort. It will be found in fighting for what you believe in. – Maxime Lagace"*
 
-*Last updated: December 01, 2025 at 09:49 AM UTC*
+*Last updated: December 01, 2025 at 09:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
