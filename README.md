@@ -126,7 +126,7 @@
 - Dispatch 🎮 | Last Played: 18 days ago
 - The Last of Us™ Part II Remastered 🧟 | Last Played: 20 days ago
 
-*Last updated: December 1, 2025 at 8:16 AM UTC*
+*Last updated: December 1, 2025 at 12:20 PM UTC*
 <!--PSN_ACTIVITY:end-->
 
 <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
