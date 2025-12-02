@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"With self-discipline, almost anything is possible. – Theodore Roosevelt"*
+### 💡 *"Success is within the reach of just about everyone. – Lolly Daskal"*
 
-*Last updated: December 02, 2025 at 08:26 AM UTC*
+*Last updated: December 02, 2025 at 08:53 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
