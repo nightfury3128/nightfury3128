@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Today I begin a new life. I will greet this day with love in my heart. – Og Mandino"*
+### 💡 *"You'll get more from being a peacemaker than a warrior. – Arnold Schwarzenegger"*
 
-*Last updated: December 02, 2025 at 03:29 PM UTC*
+*Last updated: December 02, 2025 at 03:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
