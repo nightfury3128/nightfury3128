@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't wish it were easier, wish you were better. – Jim Rohn"*
+### 💡 *"Make no small plans for they have no power to stir the soul. – Niccolo Machiavelli"*
 
-*Last updated: December 02, 2025 at 09:47 PM UTC*
+*Last updated: December 02, 2025 at 09:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
