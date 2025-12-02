@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. – George Bernard Shaw"*
+### 💡 *"We may not be able to stop evil in the world, but how we treat one another is entirely up to us. – Barack Obama"*
 
-*Last updated: December 02, 2025 at 11:17 AM UTC*
+*Last updated: December 02, 2025 at 11:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
