@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You'll get more from being a peacemaker than a warrior. – Arnold Schwarzenegger"*
+### 💡 *"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more.  – Nikola Tesla"*
 
-*Last updated: December 02, 2025 at 03:48 PM UTC*
+*Last updated: December 02, 2025 at 03:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
