@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't make someone feel good about themselves until you feel good about yourself. – Robin Sharma"*
+### 💡 *"Exceptional thinkers ignore their critics and go about their business making history. – John Eliot"*
 
-*Last updated: December 02, 2025 at 09:26 PM UTC*
+*Last updated: December 02, 2025 at 09:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
