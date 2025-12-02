@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"With the new day comes new strength and new thoughts. – Eleanor Roosevelt"*
+### 💡 *"Selfishness and greed, individual or national, cause most of our troubles. – Harry S. Truman"*
 
-*Last updated: December 02, 2025 at 10:47 PM UTC*
+*Last updated: December 02, 2025 at 10:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
