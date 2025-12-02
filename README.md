@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No great discovery was ever made without a bold guess.  – Isaac Newton"*
+### 💡 *"Closing your eyes and listening to silence is self-care. – Maxime Lagace"*
 
-*Last updated: December 02, 2025 at 11:48 PM UTC*
+*Last updated: December 02, 2025 at 11:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
