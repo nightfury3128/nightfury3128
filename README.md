@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We may not be able to stop evil in the world, but how we treat one another is entirely up to us. – Barack Obama"*
+### 💡 *"Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. – Colin Powell"*
 
-*Last updated: December 02, 2025 at 11:33 AM UTC*
+*Last updated: December 02, 2025 at 11:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
