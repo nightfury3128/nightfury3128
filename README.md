@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't settle, and don't struggle. – Naval Ravikant"*
+### 💡 *"You're always free to change your mind and choose a different future, or a different past. – Richard Bach"*
 
-*Last updated: December 03, 2025 at 07:54 PM UTC*
+*Last updated: December 03, 2025 at 08:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
