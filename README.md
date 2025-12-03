@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul. – Marcus Aurelius"*
+### 💡 *"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua"*
 
-*Last updated: December 03, 2025 at 10:48 AM UTC*
+*Last updated: December 03, 2025 at 10:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
