@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua"*
+### 💡 *"Anxiety is the dizziness of freedom. – Soren Kierkegaard"*
 
-*Last updated: December 03, 2025 at 10:57 AM UTC*
+*Last updated: December 03, 2025 at 11:22 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
