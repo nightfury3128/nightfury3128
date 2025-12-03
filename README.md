@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The heart wants what it wants. There's no logic.  – Woody Allen"*
+### 💡 *"Remember the entrance to the sanctuary is inside you. – Rumi"*
 
-*Last updated: December 03, 2025 at 07:54 AM UTC*
+*Last updated: December 03, 2025 at 08:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
