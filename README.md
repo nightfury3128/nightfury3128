@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We will act consistently with our view of who we truly are, whether that view is accurate or not. – Tony Robbins"*
+### 💡 *"Find something you love and do it better than everyone else. – Gurbaksh Chahal"*
 
-*Last updated: December 03, 2025 at 02:30 PM UTC*
+*Last updated: December 03, 2025 at 02:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
