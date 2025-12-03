@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't concern yourself with the money. Be of service. Build. Work. Dream. Create. – Earl Nightingale"*
+### 💡 *"What you become is far more important than what you get. – Jim Rohn"*
 
-*Last updated: December 03, 2025 at 09:22 AM UTC*
+*Last updated: December 03, 2025 at 09:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
