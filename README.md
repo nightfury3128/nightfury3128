@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Closing your eyes and listening to silence is self-care. – Maxime Lagace"*
+### 💡 *"Never regret your past. Rather, embrace it as the teacher that it is. – Robin Sharma"*
 
-*Last updated: December 02, 2025 at 11:57 PM UTC*
+*Last updated: December 03, 2025 at 01:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
