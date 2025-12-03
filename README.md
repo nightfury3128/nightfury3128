@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"An un-examined life is not worth living. – Socrates"*
+### 💡 *"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. – Seungsahn"*
 
-*Last updated: December 03, 2025 at 11:39 AM UTC*
+*Last updated: December 03, 2025 at 11:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
