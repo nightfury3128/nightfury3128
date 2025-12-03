@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Get busy living, or get busy dying. – Stephen King"*
+### 💡 *"Stop acting so small. You are the universe in ecstatic motion. – Rumi"*
 
-*Last updated: December 03, 2025 at 05:17 AM UTC*
+*Last updated: December 03, 2025 at 05:38 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
