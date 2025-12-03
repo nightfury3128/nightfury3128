@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience. – Eleanor Roosevelt"*
+### 💡 *"Everyone you meet is fighting a battle you know nothing about. Be kind. Always. – Robin Williams"*
 
-*Last updated: December 03, 2025 at 10:18 PM UTC*
+*Last updated: December 03, 2025 at 10:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
