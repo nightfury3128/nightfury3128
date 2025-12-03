@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Keep others in suspense, cultivate an air of unpredictability. – Robert Greene"*
+### 💡 *"Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy. – Ralph Marston"*
 
-*Last updated: December 03, 2025 at 07:32 PM UTC*
+*Last updated: December 03, 2025 at 07:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
