@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Remember the entrance to the sanctuary is inside you. – Rumi"*
+### 💡 *"You cannot always control what goes on outside. But you can always control what goes on inside.  – Wayne Dyer"*
 
-*Last updated: December 03, 2025 at 08:26 AM UTC*
+*Last updated: December 03, 2025 at 08:52 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
