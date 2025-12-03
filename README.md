@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Give more than you think you can, trusting that you are richer than you think. – Jon Kabat-Zinn"*
+### 💡 *"The greatest deception men suffer is from their own opinions. – Leonardo da Vinci"*
 
-*Last updated: December 03, 2025 at 05:20 PM UTC*
+*Last updated: December 03, 2025 at 05:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
