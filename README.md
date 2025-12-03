@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Follow your heart, listen to your inner voice, stop caring about what others think. – Roy T. Bennett"*
+### 💡 *"The only limits in your life are those that you set yourself. – Celestine Chua"*
 
-*Last updated: December 03, 2025 at 11:58 AM UTC*
+*Last updated: December 03, 2025 at 12:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
