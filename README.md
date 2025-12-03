@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Anxiety is the dizziness of freedom. – Soren Kierkegaard"*
+### 💡 *"An un-examined life is not worth living. – Socrates"*
 
-*Last updated: December 03, 2025 at 11:22 AM UTC*
+*Last updated: December 03, 2025 at 11:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
