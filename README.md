@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Give more than you think you can, trusting that you are richer than you think. – Jon Kabat-Zinn"*
+### 💡 *"Your mind is infinite, it's your doubts that are limiting. – Robert Kiyosaki"*
 
-*Last updated: December 03, 2025 at 08:56 PM UTC*
+*Last updated: December 03, 2025 at 09:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
