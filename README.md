@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Learn to use your emotions to think, not think with your emotions. – Robert Kiyosaki"*
+### 💡 *"Where the willingness is great, the difficulties cannot be great. – Niccolo Machiavelli"*
 
-*Last updated: December 04, 2025 at 01:00 PM UTC*
+*Last updated: December 04, 2025 at 01:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
