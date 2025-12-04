@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nothing brings down walls as surely as acceptance. – Deepak Chopra"*
+### 💡 *"Excellence is not a skill. It is an attitude.  – Ralph Marston"*
 
-*Last updated: December 04, 2025 at 05:39 AM UTC*
+*Last updated: December 04, 2025 at 05:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
