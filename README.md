@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
+### 💡 *"Educating the mind without educating the heart is no education at all. – Aristotle"*
 
-*Last updated: December 04, 2025 at 11:46 PM UTC*
+*Last updated: December 04, 2025 at 11:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
