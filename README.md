@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Identification with our mind causes thought to become compulsive. – Eckhart Tolle"*
+### 💡 *"Show me a hero, and I'll write you a tragedy. – F. Scott Fitzgerald"*
 
-*Last updated: December 03, 2025 at 11:55 PM UTC*
+*Last updated: December 04, 2025 at 01:23 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
