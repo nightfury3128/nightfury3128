@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be afraid of enemies who attack you. Be afraid of the friends who flatter you. – Dale Carnegie"*
+### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
 
-*Last updated: December 04, 2025 at 11:33 PM UTC*
+*Last updated: December 04, 2025 at 11:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
