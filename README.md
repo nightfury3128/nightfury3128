@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Resentment or grudges do no harm to the person against whom you hold these feelings but every day and every night of your life, they are eating at you. – Norman Vincent Peale"*
+### 💡 *"People who avoid failure also avoid success. – Robert Kiyosaki"*
 
-*Last updated: December 04, 2025 at 07:19 AM UTC*
+*Last updated: December 04, 2025 at 07:37 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
