@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rest in reason; move in passion. – Kahlil Gibran"*
+### 💡 *"Music is like creating an emotional painting. The sounds are the colors. – Yanni"*
 
-*Last updated: December 05, 2025 at 05:48 PM UTC*
+*Last updated: December 05, 2025 at 05:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
