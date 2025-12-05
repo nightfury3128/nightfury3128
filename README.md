@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone you admire was once a beginner. – Jack Butcher"*
+### 💡 *"Genius is patience. – Isaac Newton"*
 
-*Last updated: December 05, 2025 at 03:08 AM UTC*
+*Last updated: December 05, 2025 at 03:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
