@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. – Kahlil Gibran"*
+### 💡 *"Never spend your money before you have earned it. – Thomas Jefferson"*
 
-*Last updated: December 05, 2025 at 07:46 AM UTC*
+*Last updated: December 05, 2025 at 07:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
