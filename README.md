@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No man is happy who does not think himself so. – Norman Vincent Peale"*
+### 💡 *"Our view of the world is truly shaped by what we decide to hear. – William James"*
 
-*Last updated: December 05, 2025 at 10:17 PM UTC*
+*Last updated: December 05, 2025 at 10:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
