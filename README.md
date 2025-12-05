@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People who have goals succeed because they know where they're going. It's that simple. – Earl Nightingale"*
+### 💡 *"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness. – Steve Maraboli"*
 
-*Last updated: December 05, 2025 at 09:16 PM UTC*
+*Last updated: December 05, 2025 at 09:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
