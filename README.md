@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perpetual optimism is a force multiplier. – Colin Powell"*
+### 💡 *"Success and failure come and go, but don't let them define you. It's who you are that matters. – Kamal Ravikant"*
 
-*Last updated: December 06, 2025 at 03:16 PM UTC*
+*Last updated: December 06, 2025 at 03:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
