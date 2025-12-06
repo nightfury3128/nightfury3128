@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be pushed by your problems; be led by your dreams. – Unknown"*
+### 💡 *"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. – Arnold Schwarzenegger"*
 
-*Last updated: December 06, 2025 at 09:23 PM UTC*
+*Last updated: December 06, 2025 at 09:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
