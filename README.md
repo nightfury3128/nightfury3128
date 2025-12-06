@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If no one ever broke the rules, then we'd never advance. – Simon Sinek"*
+### 💡 *"True wealth is of the heart, not of the purse. – Og Mandino"*
 
-*Last updated: December 06, 2025 at 08:49 PM UTC*
+*Last updated: December 06, 2025 at 08:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
