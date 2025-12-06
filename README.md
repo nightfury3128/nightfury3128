@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The greatest discovery of all time is that a person can change their future by merely changing their attitude. – Oprah Winfrey"*
+### 💡 *"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter. – Celestine Chua"*
 
-*Last updated: December 06, 2025 at 03:44 PM UTC*
+*Last updated: December 06, 2025 at 03:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
