@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Some people are old at 18 and some are young at 90. Time is a concept that humans created. – Yoko Ono"*
+### 💡 *"The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar"*
 
-*Last updated: December 06, 2025 at 02:45 PM UTC*
+*Last updated: December 06, 2025 at 02:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
