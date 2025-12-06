@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Wherever you are, it's the place you need to be. – Maxime Lagace"*
+### 💡 *"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.  – Steve Jobs"*
 
-*Last updated: December 06, 2025 at 10:17 AM UTC*
+*Last updated: December 06, 2025 at 10:37 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
