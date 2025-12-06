@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Associate with people who are likely to improve you.   – Seneca"*
+### 💡 *"It matters not what someone is born, but what they grow to be. – Albus Dumbledore"*
 
-*Last updated: December 06, 2025 at 07:36 AM UTC*
+*Last updated: December 06, 2025 at 07:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
