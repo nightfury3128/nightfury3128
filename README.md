@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Information changes your mind. Action changes your circumstances. – Jack Butcher"*
+### 💡 *"Unless someone truly has the power to say no, they never truly have the power to say yes. – Dan Millman"*
 
-*Last updated: December 06, 2025 at 10:36 PM UTC*
+*Last updated: December 06, 2025 at 10:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
