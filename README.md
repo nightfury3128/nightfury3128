@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar"*
+### 💡 *"Perpetual optimism is a force multiplier. – Colin Powell"*
 
-*Last updated: December 06, 2025 at 02:54 PM UTC*
+*Last updated: December 06, 2025 at 03:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
