@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  – Orison Swett Marden"*
+### 💡 *"Don't wait for the right opportunity: create it. – George Bernard Shaw"*
 
-*Last updated: December 07, 2025 at 10:34 PM UTC*
+*Last updated: December 07, 2025 at 10:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
