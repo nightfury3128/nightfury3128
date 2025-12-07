@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People are not disturbed by things, but by the views they take of them. – Epictetus"*
+### 💡 *"We don't stumble accidentally into an amazing life. It takes decision, a commitment to consistently work on ourselves. – Kamal Ravikant"*
 
-*Last updated: December 07, 2025 at 07:48 PM UTC*
+*Last updated: December 07, 2025 at 07:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
