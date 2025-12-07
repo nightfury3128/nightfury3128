@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It doesn't matter where you are, you are nowhere compared to where you can go. – Bob Proctor"*
+### 💡 *"Would you rather learn to deal with the truth now than be forced to do so later on? – Celestine Chua"*
 
-*Last updated: December 07, 2025 at 10:55 PM UTC*
+*Last updated: December 07, 2025 at 11:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
