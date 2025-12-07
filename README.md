@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence is contagious. So is lack of confidence. – Vince Lombardi"*
+### 💡 *"It is in your moments of decision that your destiny is shaped. – Tony Robbins"*
 
-*Last updated: December 07, 2025 at 08:54 AM UTC*
+*Last updated: December 07, 2025 at 09:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
