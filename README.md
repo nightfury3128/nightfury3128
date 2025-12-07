@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. – Buddha"*
+### 💡 *"I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear. – Nelson Mandela"*
 
-*Last updated: December 07, 2025 at 06:52 AM UTC*
+*Last updated: December 07, 2025 at 07:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
