@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Making your mark on the world is hard. If it were easy, everybody would do it. – Barack Obama"*
+### 💡 *"If you don't have time to do it right, when will you have time to do it over? – John Wooden"*
 
-*Last updated: December 07, 2025 at 10:35 AM UTC*
+*Last updated: December 07, 2025 at 10:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
