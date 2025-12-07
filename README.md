@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a series of choices and all we can do is make them. – Kamal Ravikant"*
+### 💡 *"The busy man is never wise and the wise man is never busy. – Lin Yutang"*
 
-*Last updated: December 07, 2025 at 02:34 PM UTC*
+*Last updated: December 07, 2025 at 02:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
