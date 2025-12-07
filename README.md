@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't wait for the right opportunity: create it. – George Bernard Shaw"*
+### 💡 *"It doesn't matter where you are, you are nowhere compared to where you can go. – Bob Proctor"*
 
-*Last updated: December 07, 2025 at 10:45 PM UTC*
+*Last updated: December 07, 2025 at 10:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
