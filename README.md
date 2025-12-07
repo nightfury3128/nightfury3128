@@ -153,9 +153,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Abundance of knowledge does not teach men to be wise. – Heraclitus"*
+### 💡 *"Would you rather learn to deal with the truth now than be forced to do so later on? – Celestine Chua"*
 
-*Last updated: December 07, 2025 at 04:57 AM UTC*
+*Last updated: December 07, 2025 at 05:21 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
