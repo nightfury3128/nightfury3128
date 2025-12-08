@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before. – Alexander Graham Bell"*
+### 💡 *"Selfishness and greed, individual or national, cause most of our troubles. – Harry S. Truman"*
 
-*Last updated: December 08, 2025 at 03:26 PM UTC*
+*Last updated: December 08, 2025 at 03:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
