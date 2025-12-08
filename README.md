@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man. – Mark Twain"*
+### 💡 *"Motivation gets you going and habit gets you there.   – Zig Ziglar"*
 
-*Last updated: December 08, 2025 at 09:54 PM UTC*
+*Last updated: December 08, 2025 at 10:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
