@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to be successful, you have to jump, there's no way around it. – Steve Harvey"*
+### 💡 *"You can only be afraid of what you think you know. – Jiddu Krishnamurti"*
 
-*Last updated: December 08, 2025 at 01:54 PM UTC*
+*Last updated: December 08, 2025 at 02:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
