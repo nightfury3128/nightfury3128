@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The way of success is the way of continuous pursuit of knowledge. – Napoleon Hill"*
+### 💡 *"Courage is not having the strength to go on; it is going on when you don't have the strength. – Theodore Roosevelt"*
 
-*Last updated: December 08, 2025 at 02:43 PM UTC*
+*Last updated: December 08, 2025 at 02:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
