@@ -109,7 +109,6 @@
 ## 📌 Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [nightfury3128/OcuLens](https://github.com/nightfury3128/OcuLens)
 <!--RECENT_ACTIVITY:end-->
 
 ---
