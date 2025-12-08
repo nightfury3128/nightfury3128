@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Talent is luck. The important thing in life is courage. – Woody Allen"*
+### 💡 *"It's not how much money you make, it's how much money you keep. – Robert Kiyosaki"*
 
-*Last updated: December 08, 2025 at 06:59 AM UTC*
+*Last updated: December 08, 2025 at 07:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
