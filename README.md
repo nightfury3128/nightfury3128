@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He suffers more than necessary, who suffers before it is necessary.   – Seneca"*
+### 💡 *"If you cannot understand something, then you have understood it incorrectly. – Kabir"*
 
-*Last updated: December 08, 2025 at 05:35 AM UTC*
+*Last updated: December 08, 2025 at 05:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
