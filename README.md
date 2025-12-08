@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are now, and you do become, what you think about. – Earl Nightingale"*
+### 💡 *"The real measure of your wealth is how much you'd be worth if you lost all your money. – Unknown"*
 
-*Last updated: December 08, 2025 at 10:21 AM UTC*
+*Last updated: December 08, 2025 at 10:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
