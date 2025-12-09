@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way. – Osho"*
+### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goal. – Henry Ford"*
 
-*Last updated: December 09, 2025 at 07:42 AM UTC*
+*Last updated: December 09, 2025 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
