@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goal. – Henry Ford"*
+### 💡 *"Life is about choice. You can choose to be a victim or anything else you like to be. – Celestine Chua"*
 
-*Last updated: December 09, 2025 at 07:54 AM UTC*
+*Last updated: December 09, 2025 at 08:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
