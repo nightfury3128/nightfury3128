@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't talk about what you have done or what you are going to do. – Thomas Jefferson"*
+### 💡 *"Your home is where your thoughts find peace. – Zen Proverb"*
 
-*Last updated: December 09, 2025 at 08:40 PM UTC*
+*Last updated: December 09, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
