@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We create the world and ourselves; – Ming-Dao Deng"*
+### 💡 *"People tend to complicate their own lives, as if living weren't already complicated enough. – Carlos Ruiz Zafon"*
 
-*Last updated: December 09, 2025 at 11:24 AM UTC*
+*Last updated: December 09, 2025 at 11:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
