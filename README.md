@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? – Sathya Sai Baba"*
+### 💡 *"Don't be afraid to give up the good to go for the great. – John D. Rockefeller"*
 
-*Last updated: December 09, 2025 at 04:50 AM UTC*
+*Last updated: December 09, 2025 at 05:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
