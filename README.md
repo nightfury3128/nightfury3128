@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only way to 'find out if it will work out' is to do it. – Simon Sinek"*
+### 💡 *"The people who succeed are irrationally passionate about something. – Naval Ravikant"*
 
-*Last updated: December 09, 2025 at 09:54 PM UTC*
+*Last updated: December 09, 2025 at 10:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
