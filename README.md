@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Knowing is not enough, we must apply. Willing is not enough, we must do.   – Bruce Lee"*
+### 💡 *"Do what you can, with what you have, where you are. – Theodore Roosevelt"*
 
-*Last updated: December 09, 2025 at 10:23 AM UTC*
+*Last updated: December 09, 2025 at 10:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
