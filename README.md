@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To do two things at once is to do neither. – Publilius Syrus"*
+### 💡 *"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. – Les Brown"*
 
-*Last updated: December 09, 2025 at 03:48 PM UTC*
+*Last updated: December 09, 2025 at 03:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
