@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are three classes of people: those who see. Those who see when they are shown. Those who do not see. – Leonardo da Vinci"*
+### 💡 *"From a certain point onward there is no longer any turning back. That is the point that must be reached. – Franz Kafka"*
 
-*Last updated: December 09, 2025 at 05:39 AM UTC*
+*Last updated: December 09, 2025 at 05:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
