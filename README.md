@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Teachers open the door. You enter by yourself.  – Chinese Proverb"*
+### 💡 *"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  – Orison Swett Marden"*
 
-*Last updated: December 09, 2025 at 11:44 PM UTC*
+*Last updated: December 09, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
