@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am not what happened to me, I am what I choose to become. – Carl Jung"*
+### 💡 *"How many times do you have to get hit over the head until you figure out who's hitting you? – Harry S. Truman"*
 
-*Last updated: December 10, 2025 at 03:35 PM UTC*
+*Last updated: December 10, 2025 at 03:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
