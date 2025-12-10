@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Words without actions are the assassins of idealism. – Herbert Hoover"*
+### 💡 *"Keep away from people who try to belittle your ambitions. – Mark Twain"*
 
-*Last updated: December 10, 2025 at 08:56 AM UTC*
+*Last updated: December 10, 2025 at 09:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
