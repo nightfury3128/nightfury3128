@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To know your Enemy, you must become your Enemy. – Sun Tzu"*
+### 💡 *"Constantly seek criticism. A well thought out critique of whatever you're doing is as valuable as gold. – Elon Musk"*
 
-*Last updated: December 10, 2025 at 11:32 PM UTC*
+*Last updated: December 10, 2025 at 11:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
