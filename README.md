@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The people who are crazy enough to think they can change the world are the ones who do. – Steve Jobs"*
+### 💡 *"I am not what happened to me, I am what I choose to become. – Carl Jung"*
 
-*Last updated: December 10, 2025 at 03:01 PM UTC*
+*Last updated: December 10, 2025 at 03:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
