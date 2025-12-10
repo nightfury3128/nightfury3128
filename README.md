@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The dead receive more flowers than the living because regret is stronger than gratitude. – Anne Frank"*
+### 💡 *"You're always free to change your mind and choose a different future, or a different past. – Richard Bach"*
 
-*Last updated: December 10, 2025 at 05:00 AM UTC*
+*Last updated: December 10, 2025 at 05:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
