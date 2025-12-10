@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You're always free to change your mind and choose a different future, or a different past. – Richard Bach"*
+### 💡 *"Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. – Albus Dumbledore"*
 
-*Last updated: December 10, 2025 at 05:34 AM UTC*
+*Last updated: December 10, 2025 at 05:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
