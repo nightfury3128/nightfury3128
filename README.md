@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes. – Voltaire"*
+### 💡 *"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. – Celestine Chua"*
 
-*Last updated: December 10, 2025 at 09:46 PM UTC*
+*Last updated: December 10, 2025 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
