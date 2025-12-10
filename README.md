@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you judge others, you do not define them, you define yourself. – Earl Nightingale"*
+### 💡 *"How people treat you is their karma; how you react is yours.  – Wayne Dyer"*
 
-*Last updated: December 10, 2025 at 03:07 AM UTC*
+*Last updated: December 10, 2025 at 04:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
