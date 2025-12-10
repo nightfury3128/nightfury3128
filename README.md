@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Sometimes adversity is what you need to face in order to become successful. – Zig Ziglar"*
+### 💡 *"Decide what your truth is. Then live it. – Kamal Ravikant"*
 
-*Last updated: December 10, 2025 at 01:24 PM UTC*
+*Last updated: December 10, 2025 at 01:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
