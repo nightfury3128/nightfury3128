@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Keep away from people who try to belittle your ambitions. – Mark Twain"*
+### 💡 *"Do not follow the ideas of others, but learn to listen to the voice within yourself. – Dogen"*
 
-*Last updated: December 10, 2025 at 09:26 AM UTC*
+*Last updated: December 10, 2025 at 09:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
