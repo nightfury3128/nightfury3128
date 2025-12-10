@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"How many times do you have to get hit over the head until you figure out who's hitting you? – Harry S. Truman"*
+### 💡 *"You do not read a book for the book's sake, but for your own. – Earl Nightingale"*
 
-*Last updated: December 10, 2025 at 03:50 PM UTC*
+*Last updated: December 10, 2025 at 04:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
