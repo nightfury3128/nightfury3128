@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A lie can travel half way around the world while the truth is putting on its shoes. – Mark Twain"*
+### 💡 *"To know your Enemy, you must become your Enemy. – Sun Tzu"*
 
-*Last updated: December 10, 2025 at 11:15 PM UTC*
+*Last updated: December 10, 2025 at 11:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
