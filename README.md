@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. – Lily Tomlin"*
+### 💡 *"Your life does not get better by chance, it gets better by change. – Jim Rohn"*
 
-*Last updated: December 11, 2025 at 11:17 AM UTC*
+*Last updated: December 11, 2025 at 11:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
