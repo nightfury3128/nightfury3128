@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Instead of worrying about what you cannot control, shift your energy to what you can create. – Roy T. Bennett"*
+### 💡 *"Don't try to be young. Just open your mind. Stay interested in stuff. – Betty White"*
 
-*Last updated: December 11, 2025 at 06:27 PM UTC*
+*Last updated: December 11, 2025 at 06:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
