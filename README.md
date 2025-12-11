@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Peace begins with a smile. – Mother Teresa"*
+### 💡 *"First say to yourself what you would be; and then do what you have to do. – Epictetus"*
 
-*Last updated: December 11, 2025 at 05:50 AM UTC*
+*Last updated: December 11, 2025 at 06:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
