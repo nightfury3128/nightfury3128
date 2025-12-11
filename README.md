@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't try to be young. Just open your mind. Stay interested in stuff. – Betty White"*
+### 💡 *"If you try to micromanage yourself all you're going to do is make yourself miserable. – Naval Ravikant"*
 
-*Last updated: December 11, 2025 at 06:55 PM UTC*
+*Last updated: December 11, 2025 at 07:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
