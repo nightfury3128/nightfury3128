@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. – John Lennon"*
+### 💡 *"There are no shortcuts to any place worth going. – Beverly Sills"*
 
-*Last updated: December 11, 2025 at 07:34 PM UTC*
+*Last updated: December 11, 2025 at 07:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
