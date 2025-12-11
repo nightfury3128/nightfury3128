@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Among the things you can give and still keep are your word, a smile, and a grateful heart. – Zig Ziglar"*
+### 💡 *"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. – Yanni"*
 
-*Last updated: December 11, 2025 at 09:40 PM UTC*
+*Last updated: December 11, 2025 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
