@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you try to micromanage yourself all you're going to do is make yourself miserable. – Naval Ravikant"*
+### 💡 *"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. – John Lennon"*
 
-*Last updated: December 11, 2025 at 07:18 PM UTC*
+*Last updated: December 11, 2025 at 07:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
