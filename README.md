@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Believe and you're halfway there. – Harry S. Truman"*
+### 💡 *"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. – Lily Tomlin"*
 
-*Last updated: December 11, 2025 at 10:53 AM UTC*
+*Last updated: December 11, 2025 at 11:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
