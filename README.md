@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. – Yanni"*
+### 💡 *"You cannot always control what goes on outside. But you can always control what goes on inside.  – Wayne Dyer"*
 
-*Last updated: December 11, 2025 at 09:55 PM UTC*
+*Last updated: December 11, 2025 at 10:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
