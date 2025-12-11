@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your life does not get better by chance, it gets better by change. – Jim Rohn"*
+### 💡 *"If the grass is greener on the other side, maybe that's because you're not taking good care of your grass. – Unknown"*
 
-*Last updated: December 11, 2025 at 11:33 AM UTC*
+*Last updated: December 11, 2025 at 11:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
