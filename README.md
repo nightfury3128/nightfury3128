@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A needle is not sharp at both ends.  – Chinese Proverb"*
+### 💡 *"Talk sense to a fool and he calls you foolish. – Euripides"*
 
-*Last updated: December 12, 2025 at 10:50 PM UTC*
+*Last updated: December 12, 2025 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
