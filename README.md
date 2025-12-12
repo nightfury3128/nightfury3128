@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is a big difference between being centered and being self-centered. – Lolly Daskal"*
+### 💡 *"Victims recite problems, leaders provide solutions. – Robin Sharma"*
 
-*Last updated: December 12, 2025 at 07:47 AM UTC*
+*Last updated: December 12, 2025 at 07:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
