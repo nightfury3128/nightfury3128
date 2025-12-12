@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
+### 💡 *"Be approximately right rather than exactly wrong. – John Tukey"*
 
-*Last updated: December 12, 2025 at 11:45 PM UTC*
+*Last updated: December 12, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
