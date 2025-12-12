@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When we have our body and mind in order, everything else will exist in the right place, in the right way. – Shunryu Suzuki"*
+### 💡 *"Perplexity is the beginning of knowledge. – Kahlil Gibran"*
 
-*Last updated: December 12, 2025 at 01:51 PM UTC*
+*Last updated: December 12, 2025 at 02:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
