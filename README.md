@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Fools resist. The wise embrace. – Maxime Lagace"*
+### 💡 *"Educating the mind without educating the heart is no education at all. – Aristotle"*
 
-*Last updated: December 12, 2025 at 07:31 PM UTC*
+*Last updated: December 12, 2025 at 07:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
