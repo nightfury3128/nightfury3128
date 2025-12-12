@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't give up on your dreams, or your dreams will give up on you. – John Wooden"*
+### 💡 *"There is an essence of when you are fearless, you become more creative. – Gurbaksh Chahal"*
 
-*Last updated: December 12, 2025 at 08:20 PM UTC*
+*Last updated: December 12, 2025 at 08:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
