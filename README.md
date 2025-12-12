@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Throughout this life, you can never be certain of living long enough to take another breath. – Zen Proverb"*
+### 💡 *"The future is not a gift. It is an achievement. – Robert F. Kennedy"*
 
-*Last updated: December 12, 2025 at 04:59 AM UTC*
+*Last updated: December 12, 2025 at 05:31 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
