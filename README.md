@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you care about someone enough, you'll always be there for them no matter what. – Roy T. Bennett"*
+### 💡 *"When we have our body and mind in order, everything else will exist in the right place, in the right way. – Shunryu Suzuki"*
 
-*Last updated: December 12, 2025 at 01:22 PM UTC*
+*Last updated: December 12, 2025 at 01:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
