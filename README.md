@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is a difference between giving directions and giving direction. – Simon Sinek"*
+### 💡 *"It doesn't matter where you are coming from. All that matters is where you are going.  – Brian Tracy"*
 
-*Last updated: December 12, 2025 at 02:47 PM UTC*
+*Last updated: December 12, 2025 at 02:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
