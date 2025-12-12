@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is an essence of when you are fearless, you become more creative. – Gurbaksh Chahal"*
+### 💡 *"You are not only responsible for what you say, but also for what you do not say.  – Martin Luther"*
 
-*Last updated: December 12, 2025 at 08:43 PM UTC*
+*Last updated: December 12, 2025 at 08:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
