@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never give up on a dream just because of the time it will take to accomplish it. The time will pass anyway. – Earl Nightingale"*
+### 💡 *"One is never afraid of the unknown; one is afraid of the known coming to an end. – Jiddu Krishnamurti"*
 
-*Last updated: December 12, 2025 at 11:41 AM UTC*
+*Last updated: December 12, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
