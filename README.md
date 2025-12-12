@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to see things just as they are, then you yourself must practice just as you are. – Dogen"*
+### 💡 *"Don't give up the fight, Stand up for your rights. – Bob Marley"*
 
-*Last updated: December 12, 2025 at 04:47 PM UTC*
+*Last updated: December 12, 2025 at 04:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
