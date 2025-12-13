@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no fear for one whose mind is not filled with desires. – Buddha"*
+### 💡 *"If you don't know, the thing to do is not to get scared, but to learn. – Ayn Rand"*
 
-*Last updated: December 13, 2025 at 11:40 AM UTC*
+*Last updated: December 13, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
