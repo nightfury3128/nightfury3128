@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. – Dalai Lama"*
+### 💡 *"Watch what you say, and whatever you say, practice it. – Soyen Shaku"*
 
-*Last updated: December 13, 2025 at 07:18 AM UTC*
+*Last updated: December 13, 2025 at 07:35 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
