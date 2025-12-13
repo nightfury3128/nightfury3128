@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Greatness lies not in being strong, but in the right use of strength. – Henry Ward Beecher"*
+### 💡 *"Live your life as an exclamation rather than an explanation. – Isaac Newton"*
 
-*Last updated: December 13, 2025 at 04:45 PM UTC*
+*Last updated: December 13, 2025 at 04:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
