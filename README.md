@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's necessary to get the losers out of your life if you want to live your dream. – Les Brown"*
+### 💡 *"See what you're doing wrong, laugh at it, change and do better. – Spencer Johnson"*
 
-*Last updated: December 13, 2025 at 08:24 PM UTC*
+*Last updated: December 13, 2025 at 08:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
