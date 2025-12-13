@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
+### 💡 *"Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' – Brian Tracy"*
 
-*Last updated: December 13, 2025 at 01:46 PM UTC*
+*Last updated: December 13, 2025 at 01:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
