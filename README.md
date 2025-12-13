@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you don't know, the thing to do is not to get scared, but to learn. – Ayn Rand"*
+### 💡 *"Growing up is losing some illusions, in order to acquire others. – Virginia Woolf"*
 
-*Last updated: December 13, 2025 at 11:54 AM UTC*
+*Last updated: December 13, 2025 at 12:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
