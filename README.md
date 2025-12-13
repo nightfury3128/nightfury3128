@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't set your own goals by what other people make important. – Lolly Daskal"*
+### 💡 *"For things to change, you have to change. – Jim Rohn"*
 
-*Last updated: December 13, 2025 at 04:56 AM UTC*
+*Last updated: December 13, 2025 at 05:21 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
