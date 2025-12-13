@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The smallest act of kindness is worth more than the greatest intention.   – Kahlil Gibran"*
+### 💡 *"The heart wants what it wants. There's no logic.  – Woody Allen"*
 
-*Last updated: December 13, 2025 at 11:45 PM UTC*
+*Last updated: December 13, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
