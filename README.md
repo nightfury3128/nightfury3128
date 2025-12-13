@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Sometimes you will never know the value of something, until it becomes a memory. – Dr. Seuss"*
+### 💡 *"Go confidently in the direction of your dreams. Live the life you've imagined. – Arnold Schwarzenegger"*
 
-*Last updated: December 13, 2025 at 10:56 PM UTC*
+*Last updated: December 13, 2025 at 11:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
