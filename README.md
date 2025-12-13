@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"See what you're doing wrong, laugh at it, change and do better. – Spencer Johnson"*
+### 💡 *"Your vision will become clear only when you can look into your own heart. – Lolly Daskal"*
 
-*Last updated: December 13, 2025 at 08:40 PM UTC*
+*Last updated: December 13, 2025 at 08:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
