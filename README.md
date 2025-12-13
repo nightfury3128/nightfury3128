@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You will face many defeats in life, but never let yourself be defeated. – Maya Angelou"*
+### 💡 *"It is important to fight and fight again, and keep fighting, for only then can evil be kept at bay though never quite eradicated. – Albus Dumbledore"*
 
-*Last updated: December 13, 2025 at 05:42 AM UTC*
+*Last updated: December 13, 2025 at 05:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
