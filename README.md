@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your vision will become clear only when you can look into your own heart. – Lolly Daskal"*
+### 💡 *"Be royal in your own fashion: act like a king to be treated like one. – Robert Greene"*
 
-*Last updated: December 13, 2025 at 08:54 PM UTC*
+*Last updated: December 13, 2025 at 09:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
