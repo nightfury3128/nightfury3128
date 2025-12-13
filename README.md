@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never do things others can do and will do if there are things others cannot do or will not do. – Amelia Earhart"*
+### 💡 *"If you want peace, accept. If you want suffering, expect. – Maxime Lagace"*
 
-*Last updated: December 13, 2025 at 05:33 PM UTC*
+*Last updated: December 13, 2025 at 05:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
