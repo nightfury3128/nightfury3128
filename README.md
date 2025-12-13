@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No grand idea was ever born in a conference, but a lot of foolish ideas have died there. – F. Scott Fitzgerald"*
+### 💡 *"The ability to observe without evaluating is the highest form of intelligence. – Jiddu Krishnamurti"*
 
-*Last updated: December 13, 2025 at 09:20 AM UTC*
+*Last updated: December 13, 2025 at 09:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
