@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Watch what you say, and whatever you say, practice it. – Soyen Shaku"*
+### 💡 *"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything. – Sydney Smith"*
 
-*Last updated: December 13, 2025 at 07:35 AM UTC*
+*Last updated: December 13, 2025 at 07:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
