@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything starts with a dream. A particle of our imagination that teases us of what the future could be like, as long as we fight for it. – Gurbaksh Chahal"*
+### 💡 *"Life is a traveling to the edge of knowledge, then a leap taken. – D. H. Lawrence"*
 
-*Last updated: December 13, 2025 at 09:48 AM UTC*
+*Last updated: December 13, 2025 at 09:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
