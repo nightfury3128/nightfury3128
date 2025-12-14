@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Presents are made for the pleasure of who gives them, not the merits of who receives them. – Carlos Ruiz Zafon"*
+### 💡 *"I will not walk backward in life. – J.R.R. Tolkien"*
 
-*Last updated: December 14, 2025 at 11:28 AM UTC*
+*Last updated: December 14, 2025 at 11:40 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
