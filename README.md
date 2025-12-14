@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Good, better, best. Never let it rest. 'Til your good is better and your better is best.  – St. Jerome"*
+### 💡 *"Nothing brings down walls as surely as acceptance. – Deepak Chopra"*
 
-*Last updated: December 14, 2025 at 10:19 PM UTC*
+*Last updated: December 14, 2025 at 10:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
