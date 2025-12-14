@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you can see it in your mind, you can hold it in your mind. – Steve Harvey"*
+### 💡 *"Big people don't make people feel small. – Robin Sharma"*
 
-*Last updated: December 14, 2025 at 08:56 AM UTC*
+*Last updated: December 14, 2025 at 09:22 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
