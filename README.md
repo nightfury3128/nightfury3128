@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Words without actions are the assassins of idealism. – Herbert Hoover"*
+### 💡 *"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. – Carl Jung"*
 
-*Last updated: December 14, 2025 at 06:48 PM UTC*
+*Last updated: December 14, 2025 at 06:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
