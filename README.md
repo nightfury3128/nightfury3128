@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you let your head get too big, it'll break your neck. – Elvis Presley"*
+### 💡 *"Stop wasting time looking at someone else's reality while doing nothing about yours. – Steve Harvey"*
 
-*Last updated: December 14, 2025 at 11:19 PM UTC*
+*Last updated: December 14, 2025 at 11:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
