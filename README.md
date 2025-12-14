@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If a man knows not to which port he sails, no wind is favorable.   – Seneca"*
+### 💡 *"Longevity is a fleeting moment that lasts forever. – Vidal Sassoon"*
 
-*Last updated: December 14, 2025 at 12:35 PM UTC*
+*Last updated: December 14, 2025 at 01:07 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
