@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Our deeds determine us, as much as we determine our deeds. – George Eliot"*
+### 💡 *"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. – Barack Obama"*
 
-*Last updated: December 14, 2025 at 07:17 AM UTC*
+*Last updated: December 14, 2025 at 07:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
