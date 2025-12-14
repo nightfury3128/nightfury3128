@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Big people don't make people feel small. – Robin Sharma"*
+### 💡 *"Your very silence shows you agree. – Euripides"*
 
-*Last updated: December 14, 2025 at 09:22 AM UTC*
+*Last updated: December 14, 2025 at 09:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
