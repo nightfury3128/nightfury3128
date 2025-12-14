@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stop wasting time looking at someone else's reality while doing nothing about yours. – Steve Harvey"*
+### 💡 *"What do we live for if not to make life less difficult for each other? – T.S. Eliot"*
 
-*Last updated: December 14, 2025 at 11:33 PM UTC*
+*Last updated: December 14, 2025 at 11:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
