@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A wise man will be master of his mind, a fool will be its slave. – Publilius Syrus"*
+### 💡 *"I must also have a dark side if I am to be whole. – Carl Jung"*
 
-*Last updated: December 14, 2025 at 08:48 PM UTC*
+*Last updated: December 14, 2025 at 08:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
