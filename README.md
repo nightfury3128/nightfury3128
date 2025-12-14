@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every one of us is the sum total of his own thoughts. – Earl Nightingale"*
+### 💡 *"The more you extend kindness to yourself, the more it will become your automatic response to others. – Wayne Dyer"*
 
-*Last updated: December 14, 2025 at 10:47 PM UTC*
+*Last updated: December 14, 2025 at 10:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
