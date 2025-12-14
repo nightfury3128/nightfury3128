@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I will not walk backward in life. – J.R.R. Tolkien"*
+### 💡 *"Do not bite at the bait of pleasure, till you know there is no hook beneath it. – Thomas Jefferson"*
 
-*Last updated: December 14, 2025 at 11:40 AM UTC*
+*Last updated: December 14, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
