@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. – Josh Waitzkin"*
+### 💡 *"Better to light a candle than to curse the darkness.  – Chinese Proverb"*
 
-*Last updated: December 14, 2025 at 05:00 AM UTC*
+*Last updated: December 14, 2025 at 05:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
