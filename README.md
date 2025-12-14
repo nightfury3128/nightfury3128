@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you cannot understand something, then you have understood it incorrectly. – Kabir"*
+### 💡 *"If you love life, don't waste time, for time is what life is made up of.  – Bruce Lee"*
 
-*Last updated: December 14, 2025 at 04:20 PM UTC*
+*Last updated: December 14, 2025 at 04:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
