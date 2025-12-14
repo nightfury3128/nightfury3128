@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The less people know, the more stubbornly they know it. – Osho"*
+### 💡 *"We have no more right to consume happiness without producing it than to consume wealth without producing it. – George Bernard Shaw"*
 
-*Last updated: December 14, 2025 at 05:45 PM UTC*
+*Last updated: December 14, 2025 at 05:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
