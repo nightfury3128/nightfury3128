@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"My mind seems to have become a kind of machine for grinding general laws out of large collections of facts. – Charles Darwin"*
+### 💡 *"Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. – Sun Tzu"*
 
-*Last updated: December 14, 2025 at 05:57 AM UTC*
+*Last updated: December 14, 2025 at 06:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
