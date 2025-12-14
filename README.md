@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you love life, don't waste time, for time is what life is made up of.  – Bruce Lee"*
+### 💡 *"Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. – Thich Nhat Hanh"*
 
-*Last updated: December 14, 2025 at 04:45 PM UTC*
+*Last updated: December 14, 2025 at 04:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
