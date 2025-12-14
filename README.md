@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The heart wants what it wants. There's no logic.  – Woody Allen"*
+### 💡 *"Believe you can and you will be halfway there. – Lolly Daskal"*
 
-*Last updated: December 13, 2025 at 11:54 PM UTC*
+*Last updated: December 14, 2025 at 01:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
