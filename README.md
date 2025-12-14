@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He is not a lover who does not love forever. – Euripides"*
+### 💡 *"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. – William James"*
 
-*Last updated: December 14, 2025 at 07:44 AM UTC*
+*Last updated: December 14, 2025 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
