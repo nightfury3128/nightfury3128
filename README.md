@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Believe you can and you will be halfway there. – Lolly Daskal"*
+### 💡 *"Tension is who you think you should be. Relaxation is who you are. – Chinese Proverb"*
 
-*Last updated: December 14, 2025 at 01:39 AM UTC*
+*Last updated: December 14, 2025 at 03:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
