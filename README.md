@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every one of us is the sum total of his own thoughts. – Earl Nightingale"*
+### 💡 *"If you are ever the smartest person in the room, you are in the wrong room. – C. Sean McGee"*
 
-*Last updated: December 15, 2025 at 12:55 PM UTC*
+*Last updated: December 15, 2025 at 01:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
