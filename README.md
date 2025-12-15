@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Beauty is not in the face; beauty is a light in the heart. – Kahlil Gibran"*
+### 💡 *"Your past does not equal your future. – Tony Robbins"*
 
-*Last updated: December 15, 2025 at 07:34 AM UTC*
+*Last updated: December 15, 2025 at 07:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
