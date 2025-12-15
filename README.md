@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No one can compete with you on being you. Most of life is a search for who and what needs you the most. – Naval Ravikant"*
+### 💡 *"Be fascinated instead of frustrated. – Jim Rohn"*
 
-*Last updated: December 15, 2025 at 05:23 AM UTC*
+*Last updated: December 15, 2025 at 05:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
