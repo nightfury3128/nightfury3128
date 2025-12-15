@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Great ones are willing to get burned time and again as they sharpen their swords in the fire. – Josh Waitzkin"*
+### 💡 *"What loneliness is more lonely than distrust? – George Eliot"*
 
-*Last updated: December 15, 2025 at 07:29 PM UTC*
+*Last updated: December 15, 2025 at 07:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
