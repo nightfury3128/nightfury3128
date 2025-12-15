@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding. – John D. Rockefeller"*
+### 💡 *"The greater the impact you want to make, the greater your influence needs to be. – Lolly Daskal"*
 
-*Last updated: December 15, 2025 at 02:35 PM UTC*
+*Last updated: December 15, 2025 at 02:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
