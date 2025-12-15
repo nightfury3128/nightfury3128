@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. – Eleanor Roosevelt"*
+### 💡 *"Great ones are willing to get burned time and again as they sharpen their swords in the fire. – Josh Waitzkin"*
 
-*Last updated: December 15, 2025 at 07:01 PM UTC*
+*Last updated: December 15, 2025 at 07:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
