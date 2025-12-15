@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Freedom is the open window through which pours the sunlight of the human spirit and human dignity. – Herbert Hoover"*
+### 💡 *"Care about what other people think and you will always be their prisoner. – Lao Tzu"*
 
-*Last updated: December 15, 2025 at 05:28 PM UTC*
+*Last updated: December 15, 2025 at 05:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
