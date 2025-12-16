@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Becoming a great leader doesn't mean being perfect. it means living with your imperfections. – Lolly Daskal"*
+### 💡 *"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. – Nicolas Chamfort"*
 
-*Last updated: December 16, 2025 at 09:40 PM UTC*
+*Last updated: December 16, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
