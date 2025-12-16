@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Only the educated are free. – Epictetus"*
+### 💡 *"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. – Robert Greene"*
 
-*Last updated: December 16, 2025 at 04:38 PM UTC*
+*Last updated: December 16, 2025 at 05:00 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
