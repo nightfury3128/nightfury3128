@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. – Thich Nhat Hanh"*
+### 💡 *"If you're afraid to die, you're afraid to live. You can't have one without the other. – Rita Mae Brown"*
 
-*Last updated: December 16, 2025 at 01:52 AM UTC*
+*Last updated: December 16, 2025 at 03:22 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
