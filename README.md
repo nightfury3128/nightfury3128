@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. – Carl Jung"*
+### 💡 *"Only the educated are free. – Epictetus"*
 
-*Last updated: December 16, 2025 at 03:58 PM UTC*
+*Last updated: December 16, 2025 at 04:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
