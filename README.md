@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Absurdity is the ecstasy of intellectualism. – Criss Jami"*
+### 💡 *"Becoming a great leader doesn't mean being perfect. it means living with your imperfections. – Lolly Daskal"*
 
-*Last updated: December 16, 2025 at 09:22 PM UTC*
+*Last updated: December 16, 2025 at 09:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
