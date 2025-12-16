@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The meaning of life is that it stops. – Franz Kafka"*
+### 💡 *"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. – Thich Nhat Hanh"*
 
-*Last updated: December 15, 2025 at 11:56 PM UTC*
+*Last updated: December 16, 2025 at 01:52 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
