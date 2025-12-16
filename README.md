@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you're afraid to die, you're afraid to live. You can't have one without the other. – Rita Mae Brown"*
+### 💡 *"Progress comes to those who train and train; reliance on secret techniques will get you nowhere. – Morihei Ueshiba"*
 
-*Last updated: December 16, 2025 at 03:22 AM UTC*
+*Last updated: December 16, 2025 at 04:09 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
