@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. – Celestine Chua"*
+### 💡 *"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. – Robert Greene"*
 
-*Last updated: December 17, 2025 at 11:47 PM UTC*
+*Last updated: December 17, 2025 at 11:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
