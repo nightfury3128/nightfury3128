@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Love is the expression of one's values. – Ayn Rand"*
+### 💡 *"Abundance of knowledge does not teach men to be wise. – Heraclitus"*
 
-*Last updated: December 17, 2025 at 07:39 PM UTC*
+*Last updated: December 17, 2025 at 07:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
