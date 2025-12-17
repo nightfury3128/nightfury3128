@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I have not failed. I've just found 10,000 ways that won't work. – Thomas Edison"*
+### 💡 *"Knowing others is wisdom, knowing yourself is enlightenment. – Lao Tzu"*
 
-*Last updated: December 17, 2025 at 09:48 AM UTC*
+*Last updated: December 17, 2025 at 09:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
