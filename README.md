@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your neighbor is the man who needs you. – Elbert Hubbard"*
+### 💡 *"Make failure your teacher, not your undertaker.   – Zig Ziglar"*
 
-*Last updated: December 17, 2025 at 05:35 AM UTC*
+*Last updated: December 17, 2025 at 05:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
