@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want more luck, take more chances. – Brian Tracy"*
+### 💡 *"Most great people have achieved their greatest success just one step beyond their greatest failure. – Napoleon Hill"*
 
-*Last updated: December 17, 2025 at 07:54 AM UTC*
+*Last updated: December 17, 2025 at 08:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
