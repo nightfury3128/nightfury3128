@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If we know how to adapt, we end up being superior. – Ming-Dao Deng"*
+### 💡 *"Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. – Celestine Chua"*
 
-*Last updated: December 17, 2025 at 11:35 PM UTC*
+*Last updated: December 17, 2025 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
