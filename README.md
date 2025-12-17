@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Night is a more quiet time to work. It aids thought. – Alexander Graham Bell"*
+### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
 
-*Last updated: December 17, 2025 at 08:55 AM UTC*
+*Last updated: December 17, 2025 at 09:25 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
