@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The real meditation is how you live your life. – Jon Kabat-Zinn"*
+### 💡 *"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated. – Celestine Chua"*
 
-*Last updated: December 17, 2025 at 11:46 AM UTC*
+*Last updated: December 17, 2025 at 11:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
