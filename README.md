@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
+### 💡 *"I have not failed. I've just found 10,000 ways that won't work. – Thomas Edison"*
 
-*Last updated: December 17, 2025 at 09:25 AM UTC*
+*Last updated: December 17, 2025 at 09:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
