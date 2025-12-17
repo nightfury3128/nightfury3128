@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Great ones are willing to get burned time and again as they sharpen their swords in the fire. – Josh Waitzkin"*
+### 💡 *"Sometimes letting things go is an act of far greater power than defending or hanging on. – Eckhart Tolle"*
 
-*Last updated: December 17, 2025 at 10:23 PM UTC*
+*Last updated: December 17, 2025 at 10:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
