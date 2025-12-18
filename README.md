@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Paths are made by walking. – Franz Kafka"*
+### 💡 *"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. – Marcus Aurelius"*
 
-*Last updated: December 18, 2025 at 11:33 AM UTC*
+*Last updated: December 18, 2025 at 11:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
