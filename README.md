@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not wait for leaders; do it alone, person to person. – Mother Teresa"*
+### 💡 *"He will win who knows when to fight and when not to fight. – Sun Tzu"*
 
-*Last updated: December 18, 2025 at 09:58 AM UTC*
+*Last updated: December 18, 2025 at 10:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
