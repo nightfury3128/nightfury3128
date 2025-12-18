@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Words have no power to impress the mind without the exquisite horror of their reality. – Edgar Allan Poe"*
+### 💡 *"You are the average of the five people you spend most time with. – Jim Rohn"*
 
-*Last updated: December 18, 2025 at 04:04 AM UTC*
+*Last updated: December 18, 2025 at 04:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
