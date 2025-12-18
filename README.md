@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Learn to value yourself, which means: fight for your happiness. – Ayn Rand"*
+### 💡 *"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. – Og Mandino"*
 
-*Last updated: December 18, 2025 at 09:45 PM UTC*
+*Last updated: December 18, 2025 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
