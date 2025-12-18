@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Decide what your truth is. Then live it. – Kamal Ravikant"*
+### 💡 *"Keep your friends close, and your enemies closer. – Sun Tzu"*
 
-*Last updated: December 18, 2025 at 08:55 PM UTC*
+*Last updated: December 18, 2025 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
