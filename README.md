@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Happiness depends upon ourselves. – Aristotle"*
+### 💡 *"You don't get in life what you want; you get in life what you are. – Les Brown"*
 
-*Last updated: December 18, 2025 at 07:42 AM UTC*
+*Last updated: December 18, 2025 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
