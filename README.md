@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"*
+### 💡 *"Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured. – Mark Twain"*
 
-*Last updated: December 18, 2025 at 11:57 AM UTC*
+*Last updated: December 18, 2025 at 12:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
