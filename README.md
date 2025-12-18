@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength. – Criss Jami"*
+### 💡 *"People don't care how much you know until they know how much you care. – Theodore Roosevelt"*
 
-*Last updated: December 18, 2025 at 03:51 PM UTC*
+*Last updated: December 18, 2025 at 04:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
