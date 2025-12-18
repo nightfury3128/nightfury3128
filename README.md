@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The problem happens when we have multiple desires. When we have fuzzy desires. When we want to do ten different things and we're not clear about which is the one we care about. – Naval Ravikant"*
+### 💡 *"Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound. – James Allen"*
 
-*Last updated: December 18, 2025 at 07:46 PM UTC*
+*Last updated: December 18, 2025 at 07:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
