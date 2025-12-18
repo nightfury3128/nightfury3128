@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Let us rather run the risk of wearing out than rusting out. – Theodore Roosevelt"*
+### 💡 *"Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. – Kamal Ravikant"*
 
-*Last updated: December 18, 2025 at 10:38 PM UTC*
+*Last updated: December 18, 2025 at 10:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
