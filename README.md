@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. – Marcus Aurelius"*
+### 💡 *"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"*
 
-*Last updated: December 18, 2025 at 11:47 AM UTC*
+*Last updated: December 18, 2025 at 11:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
