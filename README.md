@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Only in the agony of parting do we look into the depths of love. – George Eliot"*
+### 💡 *"Do not wait for leaders; do it alone, person to person. – Mother Teresa"*
 
-*Last updated: December 18, 2025 at 09:48 AM UTC*
+*Last updated: December 18, 2025 at 09:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
