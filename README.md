@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People don't care how much you know until they know how much you care. – Theodore Roosevelt"*
+### 💡 *"Begin now to be what you will be hereafter. – St. Jerome"*
 
-*Last updated: December 18, 2025 at 04:27 PM UTC*
+*Last updated: December 18, 2025 at 04:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
