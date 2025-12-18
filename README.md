@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Real learning comes about when the competitive spirit has ceased. – Jiddu Krishnamurti"*
+### 💡 *"You are what you believe yourself to be. – Paulo Coelho"*
 
-*Last updated: December 18, 2025 at 05:35 AM UTC*
+*Last updated: December 18, 2025 at 05:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
