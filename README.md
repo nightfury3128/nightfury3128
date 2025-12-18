@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"But better die than live mechanically a life that is a repetition of repetitions. – D. H. Lawrence"*
+### 💡 *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. – Epictetus"*
 
-*Last updated: December 18, 2025 at 07:20 PM UTC*
+*Last updated: December 18, 2025 at 07:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
