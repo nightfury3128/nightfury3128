@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more we have the less we own. – Meister Eckhart"*
+### 💡 *"Don't waste time on excuses. Just get it done. – Ralph Marston"*
 
-*Last updated: December 18, 2025 at 05:46 PM UTC*
+*Last updated: December 18, 2025 at 05:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
