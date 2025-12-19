@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is always risk, so learn to manage risk instead of avoiding it. – Robert Kiyosaki"*
+### 💡 *"Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future. – Earl Nightingale"*
 
-*Last updated: December 19, 2025 at 03:26 PM UTC*
+*Last updated: December 19, 2025 at 03:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
