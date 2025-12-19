@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I was wise enough to never grow up while fooling most people into believing I had.  – Margaret Mead"*
+### 💡 *"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. – Simon Sinek"*
 
-*Last updated: December 19, 2025 at 04:27 PM UTC*
+*Last updated: December 19, 2025 at 04:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
