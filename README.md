@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time. – Og Mandino"*
+### 💡 *"Stop being a prisoner of your past. Become the architect of your future. – Robin Sharma"*
 
-*Last updated: December 19, 2025 at 11:40 AM UTC*
+*Last updated: December 19, 2025 at 11:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
