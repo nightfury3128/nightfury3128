@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never let the fear of striking out keep you from playing the game. – Babe Ruth"*
+### 💡 *"The time is always right to do what is right. – Martin Luther King, Jr."*
 
-*Last updated: December 19, 2025 at 10:56 AM UTC*
+*Last updated: December 19, 2025 at 11:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
