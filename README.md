@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We can change our lives. We can do, have, and be exactly what we wish. – Tony Robbins"*
+### 💡 *"If you don't make things happen then things will happen to you. – Robert Collier"*
 
-*Last updated: December 19, 2025 at 06:52 PM UTC*
+*Last updated: December 19, 2025 at 07:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
