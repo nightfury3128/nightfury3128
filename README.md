@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't seek, don't avoid, don't expect. Take what comes and be happy. – Maxime Lagace"*
+### 💡 *"To injure an opponent is to injure yourself. To control aggression without inflicting injury is the Art of Peace. – Morihei Ueshiba"*
 
-*Last updated: December 19, 2025 at 05:54 PM UTC*
+*Last updated: December 19, 2025 at 06:26 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
