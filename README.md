@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Expect the best of yourself, and then do what is necessary to make it a reality. – Ralph Marston"*
+### 💡 *"We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right. – Sonia Ricotti"*
 
-*Last updated: December 19, 2025 at 08:43 PM UTC*
+*Last updated: December 19, 2025 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
