@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To raise your consciousness, surround yourself with people of higher consciousness. – Celestine Chua"*
+### 💡 *"All cruelty springs from weakness.   – Seneca"*
 
-*Last updated: December 19, 2025 at 01:31 PM UTC*
+*Last updated: December 19, 2025 at 01:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
