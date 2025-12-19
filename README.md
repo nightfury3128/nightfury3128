@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All cruelty springs from weakness.   – Seneca"*
+### 💡 *"Never close your lips to those whom you have already opened your heart. – Charles Dickens"*
 
-*Last updated: December 19, 2025 at 01:52 PM UTC*
+*Last updated: December 19, 2025 at 02:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
