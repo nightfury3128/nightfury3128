@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Work harder on yourself than you do on your job. – Jim Rohn"*
+### 💡 *"Listening well is as powerful as talking well, and is also as essential to true conversation. – Chinese Proverb"*
 
-*Last updated: December 20, 2025 at 02:47 PM UTC*
+*Last updated: December 20, 2025 at 02:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
