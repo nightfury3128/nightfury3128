@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Create each day anew. – Morihei Ueshiba"*
+### 💡 *"A person hears only what they understand. – Johann Wolfgang von Goethe"*
 
-*Last updated: December 20, 2025 at 08:46 AM UTC*
+*Last updated: December 20, 2025 at 08:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
