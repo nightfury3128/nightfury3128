@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your heart is the size of an ocean. Go find yourself in its hidden depths. – Rumi"*
+### 💡 *"Life is about choice. You can choose to be a victim or anything else you like to be. – Celestine Chua"*
 
-*Last updated: December 20, 2025 at 07:29 PM UTC*
+*Last updated: December 20, 2025 at 07:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
