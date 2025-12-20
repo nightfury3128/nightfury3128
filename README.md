@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't let your failures define you. You have to let your failures teach you. – Barack Obama"*
+### 💡 *"A man should never be ashamed to own that he has been in the wrong, which is but saying, that he is wiser today than yesterday. – Jonathan Swift"*
 
-*Last updated: December 20, 2025 at 07:49 PM UTC*
+*Last updated: December 20, 2025 at 07:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
