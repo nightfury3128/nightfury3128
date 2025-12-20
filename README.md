@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no significance in life without struggle. – Lolly Daskal"*
+### 💡 *"Discipline is the mark of intelligent living. – Sathya Sai Baba"*
 
-*Last updated: December 20, 2025 at 05:47 PM UTC*
+*Last updated: December 20, 2025 at 05:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
