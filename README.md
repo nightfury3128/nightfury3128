@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Each problem has a positive side. – Og Mandino"*
+### 💡 *"Just because something isn't a lie does not mean that it isn't deceptive. – Criss Jami"*
 
-*Last updated: December 20, 2025 at 09:44 PM UTC*
+*Last updated: December 20, 2025 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
