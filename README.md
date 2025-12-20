@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you move beyond your fear, you feel free. – Spencer Johnson"*
+### 💡 *"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. – T.S. Eliot"*
 
-*Last updated: December 20, 2025 at 10:55 PM UTC*
+*Last updated: December 20, 2025 at 11:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
