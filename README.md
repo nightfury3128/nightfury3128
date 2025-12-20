@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I have never let my schooling interfere with my education. – Mark Twain"*
+### 💡 *"Do not pray for an easy life, pray for the strength to endure a difficult one.   – Bruce Lee"*
 
-*Last updated: December 20, 2025 at 06:48 PM UTC*
+*Last updated: December 20, 2025 at 06:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
