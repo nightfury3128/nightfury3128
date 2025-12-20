@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"However difficult life may seem, there is always something you can do and succeed at. – Stephen Hawking"*
+### 💡 *"You're always free to change your mind and choose a different future, or a different past. – Richard Bach"*
 
-*Last updated: December 20, 2025 at 11:44 PM UTC*
+*Last updated: December 20, 2025 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
