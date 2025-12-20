@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you don't like something change it; if you can't change it, change the way you think about it. – Mary Engelbreit"*
+### 💡 *"Creative people are often found either disagreeable or intimidating by mediocrities. – Criss Jami"*
 
-*Last updated: December 20, 2025 at 10:16 PM UTC*
+*Last updated: December 20, 2025 at 10:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
