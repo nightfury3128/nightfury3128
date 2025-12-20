@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The greatest mistake you can make in life is to be continually fearing you will make one. – Elbert Hubbard"*
+### 💡 *"Work harder on yourself than you do on your job. – Jim Rohn"*
 
-*Last updated: December 20, 2025 at 02:37 PM UTC*
+*Last updated: December 20, 2025 at 02:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
