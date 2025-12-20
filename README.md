@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't let them drag you down by rumors. Just go with what you believe in. – Michael Jordan"*
+### 💡 *"Words used to attract the dull of wit are not to be relied on. – Huang Po"*
 
-*Last updated: December 20, 2025 at 01:56 PM UTC*
+*Last updated: December 20, 2025 at 02:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
