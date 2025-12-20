@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything is in your own heart. – Thich Nhat Hanh"*
+### 💡 *"However difficult life may seem, there is always something you can do and succeed at. – Stephen Hawking"*
 
-*Last updated: December 20, 2025 at 11:32 PM UTC*
+*Last updated: December 20, 2025 at 11:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
