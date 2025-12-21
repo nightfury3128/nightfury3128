@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A change is brought about because ordinary people do extraordinary things. – Barack Obama"*
+### 💡 *"Rudeness is the weak man's imitation of strength. – Eric Hoffer"*
 
-*Last updated: December 21, 2025 at 09:47 PM UTC*
+*Last updated: December 21, 2025 at 09:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
