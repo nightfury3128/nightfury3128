@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In the End, we will remember not the words of our enemies, but the silence of our friends. – Martin Luther King, Jr."*
+### 💡 *"The greatest test of courage on earth is to bear defeat without losing heart. – Robert Greene"*
 
-*Last updated: December 21, 2025 at 07:44 AM UTC*
+*Last updated: December 21, 2025 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
