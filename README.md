@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win. – Stephen King"*
+### 💡 *"We may not be able to stop evil in the world, but how we treat one another is entirely up to us. – Barack Obama"*
 
-*Last updated: December 21, 2025 at 07:18 AM UTC*
+*Last updated: December 21, 2025 at 07:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
