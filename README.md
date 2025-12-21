@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In all chaos there is a cosmos, in all disorder a secret order. – Carl Jung"*
+### 💡 *"You become stronger with every problem you face and every obstacle you overcome. – Celestine Chua"*
 
-*Last updated: December 21, 2025 at 01:39 AM UTC*
+*Last updated: December 21, 2025 at 03:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
