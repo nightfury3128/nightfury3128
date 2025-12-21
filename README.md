@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can calculate the worth of a man by the number of his enemies. – Gustave Flaubert"*
+### 💡 *"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  – Henry Ford"*
 
-*Last updated: December 21, 2025 at 02:23 PM UTC*
+*Last updated: December 21, 2025 at 02:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
