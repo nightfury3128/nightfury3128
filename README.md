@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. – Sonia Ricotti"*
+### 💡 *"Find something you love and do it better than everyone else. – Gurbaksh Chahal"*
 
-*Last updated: December 21, 2025 at 09:40 AM UTC*
+*Last updated: December 21, 2025 at 09:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
