@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We have to live life with a sense of urgency so not a minute is wasted. – Les Brown"*
+### 💡 *"Words are the clothing of our thoughts. – Jonathan Swift"*
 
-*Last updated: December 21, 2025 at 07:19 PM UTC*
+*Last updated: December 21, 2025 at 07:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
