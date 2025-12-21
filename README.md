@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We are willing to believe anything other than the truth. – Carlos Ruiz Zafon"*
+### 💡 *"The ability to observe without evaluating is the highest form of intelligence. – Jiddu Krishnamurti"*
 
-*Last updated: December 21, 2025 at 10:45 AM UTC*
+*Last updated: December 21, 2025 at 10:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
