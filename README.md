@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nothing can bring you peace but yourself. – Dale Carnegie"*
+### 💡 *"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything. – Sydney Smith"*
 
-*Last updated: December 21, 2025 at 08:38 PM UTC*
+*Last updated: December 21, 2025 at 08:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
