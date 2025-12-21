@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no greater agony than bearing an untold story inside you. – Maya Angelou"*
+### 💡 *"It does not do to dwell on dreams and forget to live, remember that. – Albus Dumbledore"*
 
-*Last updated: December 21, 2025 at 05:33 AM UTC*
+*Last updated: December 21, 2025 at 05:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
