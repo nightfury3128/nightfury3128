@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To create more positive results in your life, replace 'if only' with 'next time'. – Celestine Chua"*
+### 💡 *"Nothing can bring you peace but yourself. – Dale Carnegie"*
 
-*Last updated: December 21, 2025 at 08:19 PM UTC*
+*Last updated: December 21, 2025 at 08:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
