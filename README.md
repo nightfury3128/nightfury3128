@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Sometimes it is harder to deprive oneself of a pain than of a pleasure. – F. Scott Fitzgerald"*
+### 💡 *"To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength. – Criss Jami"*
 
-*Last updated: December 21, 2025 at 04:45 PM UTC*
+*Last updated: December 21, 2025 at 04:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
