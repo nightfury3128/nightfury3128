@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The busy man is never wise and the wise man is never busy. – Lin Yutang"*
+### 💡 *"The traveler sees what he sees. The tourist sees what he has come to see. – Gilbert Chesterton"*
 
-*Last updated: December 21, 2025 at 11:16 PM UTC*
+*Last updated: December 21, 2025 at 11:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
