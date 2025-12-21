@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We may not be able to stop evil in the world, but how we treat one another is entirely up to us. – Barack Obama"*
+### 💡 *"In the End, we will remember not the words of our enemies, but the silence of our friends. – Martin Luther King, Jr."*
 
-*Last updated: December 21, 2025 at 07:34 AM UTC*
+*Last updated: December 21, 2025 at 07:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
