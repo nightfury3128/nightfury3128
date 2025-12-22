@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Courage is resistance to fear, mastery of fear - not absence of fear. – Mark Twain"*
+### 💡 *"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done. – Jack Butcher"*
 
-*Last updated: December 22, 2025 at 06:37 PM UTC*
+*Last updated: December 22, 2025 at 06:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
