@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
+### 💡 *"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. – Confucius"*
 
-*Last updated: December 22, 2025 at 01:21 PM UTC*
+*Last updated: December 22, 2025 at 01:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
