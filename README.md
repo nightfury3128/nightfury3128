@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We will act consistently with our view of who we truly are, whether that view is accurate or not. – Tony Robbins"*
+### 💡 *"The moment you doubt whether you can fly, you cease for ever to be able to do it. – James Matthew Barrie"*
 
-*Last updated: December 22, 2025 at 02:18 PM UTC*
+*Last updated: December 22, 2025 at 02:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
