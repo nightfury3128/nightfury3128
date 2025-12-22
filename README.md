@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found. – Alexander Pope"*
+### 💡 *"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. – Elbert Hubbard"*
 
-*Last updated: December 22, 2025 at 05:26 AM UTC*
+*Last updated: December 22, 2025 at 05:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
