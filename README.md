@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Riches don't make a man rich, they only make him busier. – Christopher Columbus"*
+### 💡 *"If you are far from the enemy, make him believe you are near. – Sun Tzu"*
 
-*Last updated: December 22, 2025 at 10:46 AM UTC*
+*Last updated: December 22, 2025 at 10:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
