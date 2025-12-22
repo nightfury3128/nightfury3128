@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Honor is the foundation of courage. – Amelia Earhart"*
+### 💡 *"Courage is resistance to fear, mastery of fear - not absence of fear. – Mark Twain"*
 
-*Last updated: December 22, 2025 at 05:57 PM UTC*
+*Last updated: December 22, 2025 at 06:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
