@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When it comes to mastering a skill, time is the magic ingredient. – Robert Greene"*
+### 💡 *"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all. – Miguel de Cervantes"*
 
-*Last updated: December 22, 2025 at 06:39 AM UTC*
+*Last updated: December 22, 2025 at 07:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
