@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done. – Jack Butcher"*
+### 💡 *"Instead of worrying about what you cannot control, shift your energy to what you can create. – Roy T. Bennett"*
 
-*Last updated: December 22, 2025 at 06:57 PM UTC*
+*Last updated: December 22, 2025 at 07:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
