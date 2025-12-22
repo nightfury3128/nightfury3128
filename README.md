@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Instead of worrying about what you cannot control, shift your energy to what you can create. – Roy T. Bennett"*
+### 💡 *"If you build the guts to do something, anything, then you better save enough to face the consequences. – Criss Jami"*
 
-*Last updated: December 22, 2025 at 07:19 PM UTC*
+*Last updated: December 22, 2025 at 07:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
