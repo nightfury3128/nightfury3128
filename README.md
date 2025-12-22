@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed. – William Faulkner"*
+### 💡 *"Conscience is a man's compass.  – Vincent van Gogh"*
 
-*Last updated: December 22, 2025 at 02:55 PM UTC*
+*Last updated: December 22, 2025 at 03:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
