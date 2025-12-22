@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The way to change others' minds is with affection, and not anger. – Dalai Lama"*
+### 💡 *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. – Epictetus"*
 
-*Last updated: December 22, 2025 at 03:43 PM UTC*
+*Last updated: December 22, 2025 at 03:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
