@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every second you have on this planet is very precious and it's your responsibility that you're happy. – Naval Ravikant"*
+### 💡 *"Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found. – Alexander Pope"*
 
-*Last updated: December 22, 2025 at 04:56 AM UTC*
+*Last updated: December 22, 2025 at 05:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
