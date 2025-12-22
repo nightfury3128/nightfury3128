@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To raise your consciousness, surround yourself with people of higher consciousness. – Celestine Chua"*
+### 💡 *"The secret of change is to focus all your energy not on fighting the old, but on building the new. – Dan Millman"*
 
-*Last updated: December 22, 2025 at 09:34 PM UTC*
+*Last updated: December 22, 2025 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
