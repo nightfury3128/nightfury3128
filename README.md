@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The moment you doubt whether you can fly, you cease for ever to be able to do it. – James Matthew Barrie"*
+### 💡 *"Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed. – William Faulkner"*
 
-*Last updated: December 22, 2025 at 02:41 PM UTC*
+*Last updated: December 22, 2025 at 02:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
