@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. – Epictetus"*
+### 💡 *"When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. – Stephen King"*
 
-*Last updated: December 22, 2025 at 03:55 PM UTC*
+*Last updated: December 22, 2025 at 04:26 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
