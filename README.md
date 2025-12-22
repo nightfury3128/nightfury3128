@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are far from the enemy, make him believe you are near. – Sun Tzu"*
+### 💡 *"You have the potential for greatness. – Steve Harvey"*
 
-*Last updated: December 22, 2025 at 10:56 AM UTC*
+*Last updated: December 22, 2025 at 11:19 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
