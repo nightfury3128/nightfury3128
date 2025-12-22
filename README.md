@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. – Elbert Hubbard"*
+### 💡 *"Challenge yourself to find the good and beautiful thing inside of everyone. – Mark Manson"*
 
-*Last updated: December 22, 2025 at 05:47 AM UTC*
+*Last updated: December 22, 2025 at 05:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
