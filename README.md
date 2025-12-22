@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. – Confucius"*
+### 💡 *"We will act consistently with our view of who we truly are, whether that view is accurate or not. – Tony Robbins"*
 
-*Last updated: December 22, 2025 at 01:51 PM UTC*
+*Last updated: December 22, 2025 at 02:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
