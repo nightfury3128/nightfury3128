@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. – Og Mandino"*
+### 💡 *"Never stand begging for that which you have the power to earn. – Miguel de Cervantes"*
 
-*Last updated: December 23, 2025 at 08:42 PM UTC*
+*Last updated: December 23, 2025 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
