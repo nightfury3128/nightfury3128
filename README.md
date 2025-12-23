@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there. – Zig Ziglar"*
+### 💡 *"Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. – Og Mandino"*
 
-*Last updated: December 23, 2025 at 08:20 PM UTC*
+*Last updated: December 23, 2025 at 08:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
