@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We suffer more often in imagination than in reality.   – Seneca"*
+### 💡 *"Where there is anger, there is always pain underneath. – Eckhart Tolle"*
 
-*Last updated: December 23, 2025 at 03:27 PM UTC*
+*Last updated: December 23, 2025 at 03:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
