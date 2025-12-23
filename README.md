@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Argue for your limitations and sure enough, they're yours. – Richard Bach"*
+### 💡 *"Who wishes to fight must first count the cost. – Sun Tzu"*
 
-*Last updated: December 23, 2025 at 08:37 AM UTC*
+*Last updated: December 23, 2025 at 08:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
