@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose. – Elbert Hubbard"*
+### 💡 *"Do not allow your inner doubts to keep you from achieving what you can do. – Lolly Daskal"*
 
-*Last updated: December 23, 2025 at 11:46 PM UTC*
+*Last updated: December 23, 2025 at 11:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
