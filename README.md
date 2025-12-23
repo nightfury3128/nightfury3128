@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No man will make a great leader who wants to do it all himself or to get all the credit for doing it. – Andrew Carnegie"*
+### 💡 *"If it entertains you now but will bore you someday, it's a distraction. Keep looking. – Naval Ravikant"*
 
-*Last updated: December 23, 2025 at 02:28 PM UTC*
+*Last updated: December 23, 2025 at 02:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
