@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never let your memories be greater than your dreams. – Doug Ivester"*
+### 💡 *"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. – Simon Sinek"*
 
-*Last updated: December 23, 2025 at 07:31 AM UTC*
+*Last updated: December 23, 2025 at 07:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
