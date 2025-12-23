@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. – Simon Sinek"*
+### 💡 *"Life is about accepting the challenges along the way, choosing to keep moving forward, and savoring the journey. – Roy T. Bennett"*
 
-*Last updated: December 23, 2025 at 07:48 AM UTC*
+*Last updated: December 23, 2025 at 07:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
