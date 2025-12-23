@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Memory is the scribe of the soul. – Aristotle"*
+### 💡 *"Each time we don't say what we wanna say, we're dying. – Yoko Ono"*
 
-*Last updated: December 23, 2025 at 05:56 AM UTC*
+*Last updated: December 23, 2025 at 06:35 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
