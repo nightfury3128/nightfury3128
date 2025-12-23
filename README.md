@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If it entertains you now but will bore you someday, it's a distraction. Keep looking. – Naval Ravikant"*
+### 💡 *"Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. – Helen Keller"*
 
-*Last updated: December 23, 2025 at 02:47 PM UTC*
+*Last updated: December 23, 2025 at 02:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
