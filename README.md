@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is achieved and maintained by those who try and keep trying.  – W. Clement Stone"*
+### 💡 *"No man will make a great leader who wants to do it all himself or to get all the credit for doing it. – Andrew Carnegie"*
 
-*Last updated: December 23, 2025 at 01:58 PM UTC*
+*Last updated: December 23, 2025 at 02:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
