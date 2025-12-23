@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The time is always right to do what is right. – Martin Luther King, Jr."*
+### 💡 *"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. – Dr. Seuss"*
 
-*Last updated: December 23, 2025 at 09:51 AM UTC*
+*Last updated: December 23, 2025 at 10:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
