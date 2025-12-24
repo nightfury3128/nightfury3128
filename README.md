@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rest when you're weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work. – Ralph Marston"*
+### 💡 *"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich. – Carlos Ruiz Zafon"*
 
-*Last updated: December 24, 2025 at 08:37 AM UTC*
+*Last updated: December 24, 2025 at 08:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
