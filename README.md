@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The foolish reject what they see, not what they think; the wise reject what they think, not what they see. – Huang Po"*
+### 💡 *"The greatest test of courage on earth is to bear defeat without losing heart. – Robert Greene"*
 
-*Last updated: December 24, 2025 at 09:32 PM UTC*
+*Last updated: December 24, 2025 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
