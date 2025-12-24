@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not allow your inner doubts to keep you from achieving what you can do. – Lolly Daskal"*
+### 💡 *"If it is not right, do not do it, if it is not true, do not say it. – Marcus Aurelius"*
 
-*Last updated: December 23, 2025 at 11:56 PM UTC*
+*Last updated: December 24, 2025 at 01:43 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
