@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Passion creates, addiction consumes. – Gabor Mate"*
+### 💡 *"True it is, we only hate those whom we do not know. – Andrew Carnegie"*
 
-*Last updated: December 24, 2025 at 07:41 PM UTC*
+*Last updated: December 24, 2025 at 07:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
