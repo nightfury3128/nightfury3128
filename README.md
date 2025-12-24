@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. – James Cameron"*
+### 💡 *"Passion creates, addiction consumes. – Gabor Mate"*
 
-*Last updated: December 24, 2025 at 07:29 PM UTC*
+*Last updated: December 24, 2025 at 07:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
