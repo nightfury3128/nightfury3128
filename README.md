@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am not what happened to me, I am what I choose to become. – Carl Jung"*
+### 💡 *"If light is in your heart, you will find your way home.   – Rumi"*
 
-*Last updated: December 24, 2025 at 10:18 PM UTC*
+*Last updated: December 24, 2025 at 10:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
