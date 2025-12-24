@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. – Thomas Edison"*
+### 💡 *"If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. – James Cameron"*
 
-*Last updated: December 24, 2025 at 07:14 PM UTC*
+*Last updated: December 24, 2025 at 07:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
