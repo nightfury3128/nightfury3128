@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Love never keeps a man from pursuing his destiny. – Paulo Coelho"*
+### 💡 *"Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. – Thomas Edison"*
 
-*Last updated: December 24, 2025 at 06:51 PM UTC*
+*Last updated: December 24, 2025 at 07:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
