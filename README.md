@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I've always tried to go a step past wherever people expected me to end up. – Beverly Sills"*
+### 💡 *"Study logic and math, because once you've mastered them, you won't fear any book. – Naval Ravikant"*
 
-*Last updated: December 24, 2025 at 04:22 PM UTC*
+*Last updated: December 24, 2025 at 04:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
