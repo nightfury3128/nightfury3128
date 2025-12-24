@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you change what you believe, you change what you do. – Spencer Johnson"*
+### 💡 *"A person who does not read is no better than one cannot read. – Earl Nightingale"*
 
-*Last updated: December 24, 2025 at 10:22 AM UTC*
+*Last updated: December 24, 2025 at 10:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
