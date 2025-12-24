@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Study logic and math, because once you've mastered them, you won't fear any book. – Naval Ravikant"*
+### 💡 *"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. – Spencer Johnson"*
 
-*Last updated: December 24, 2025 at 04:48 PM UTC*
+*Last updated: December 24, 2025 at 04:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
