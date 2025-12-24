@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A person who does not read is no better than one cannot read. – Earl Nightingale"*
+### 💡 *"Knowledge has to be improved, challenged, and increased constantly, or it vanishes. – Peter Drucker"*
 
-*Last updated: December 24, 2025 at 10:44 AM UTC*
+*Last updated: December 24, 2025 at 10:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
