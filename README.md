@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are your best thing. – Toni Morrison"*
+### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
 
-*Last updated: December 24, 2025 at 11:55 AM UTC*
+*Last updated: December 24, 2025 at 12:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
