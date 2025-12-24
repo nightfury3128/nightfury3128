@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Action may not always bring happiness, but there is no happiness without action. – William James"*
+### 💡 *"We can spend our whole lives escaping from the monsters of our minds. – Pema Chodron"*
 
-*Last updated: December 24, 2025 at 05:12 AM UTC*
+*Last updated: December 24, 2025 at 05:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
