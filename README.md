@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No matter what happens, always be yourself. – Dale Carnegie"*
+### 💡 *"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. – Buddha"*
 
-*Last updated: December 25, 2025 at 06:29 PM UTC*
+*Last updated: December 25, 2025 at 06:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
