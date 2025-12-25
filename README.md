@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We win by helping each other win. – Jack Butcher"*
+### 💡 *"Listening well is as powerful as talking well, and is also as essential to true conversation. – Chinese Proverb"*
 
-*Last updated: December 25, 2025 at 07:42 AM UTC*
+*Last updated: December 25, 2025 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
