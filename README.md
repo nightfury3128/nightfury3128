@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"One of the most difficult things is not to change society - but to change yourself. – Nelson Mandela"*
+### 💡 *"Successful people do what unsuccessful people are not willing to do. – Jim Rohn"*
 
-*Last updated: December 25, 2025 at 10:51 PM UTC*
+*Last updated: December 25, 2025 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
