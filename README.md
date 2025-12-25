@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Courage is found in unlikely places. – J.R.R. Tolkien"*
+### 💡 *"Confidence is contagious. So is lack of confidence. – Vince Lombardi"*
 
-*Last updated: December 25, 2025 at 08:26 AM UTC*
+*Last updated: December 25, 2025 at 08:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
