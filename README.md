@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. – Buddha"*
+### 💡 *"If you quit once it becomes a habit. – Michael Jordan"*
 
-*Last updated: December 25, 2025 at 06:52 PM UTC*
+*Last updated: December 25, 2025 at 07:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
