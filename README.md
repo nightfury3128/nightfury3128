@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If I persist long enough I will win. – Og Mandino"*
+### 💡 *"The one who praises you is a thief. The one who criticizes you is your true friend. – Seungsahn"*
 
-*Last updated: December 25, 2025 at 10:42 AM UTC*
+*Last updated: December 25, 2025 at 10:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
