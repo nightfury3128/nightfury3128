@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every second you have on this planet is very precious and it's your responsibility that you're happy. – Naval Ravikant"*
+### 💡 *"Be mindful. Be grateful. Be positive. Be true. Be kind. – Roy T. Bennett"*
 
-*Last updated: December 25, 2025 at 02:43 PM UTC*
+*Last updated: December 25, 2025 at 02:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
