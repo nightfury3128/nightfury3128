@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The best way to predict the future is to create it. – Abraham Lincoln"*
+### 💡 *"Formal education will make you a living, self-education will make you a fortune. – Jim Rohn"*
 
-*Last updated: December 25, 2025 at 07:54 PM UTC*
+*Last updated: December 25, 2025 at 08:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
