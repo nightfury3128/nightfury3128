@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The one who praises you is a thief. The one who criticizes you is your true friend. – Seungsahn"*
+### 💡 *"Don't change your mind just because people are offended; change your mind if you're wrong. – Criss Jami"*
 
-*Last updated: December 25, 2025 at 10:55 AM UTC*
+*Last updated: December 25, 2025 at 11:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
