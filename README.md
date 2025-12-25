@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What you become is far more important than what you get. – Jim Rohn"*
+### 💡 *"The price of inaction is far greater than the cost of making a mistake. – Meister Eckhart"*
 
-*Last updated: December 25, 2025 at 10:18 PM UTC*
+*Last updated: December 25, 2025 at 10:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
