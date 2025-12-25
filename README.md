@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never be bored, and you will never be boring. – Eleanor Roosevelt"*
+### 💡 *"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving. – Martin Luther King, Jr."*
 
-*Last updated: December 24, 2025 at 11:56 PM UTC*
+*Last updated: December 25, 2025 at 01:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
