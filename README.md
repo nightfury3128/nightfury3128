@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The way of success is the way of continuous pursuit of knowledge. – Napoleon Hill"*
+### 💡 *"You cannot change your destination overnight but you can change your direction overnight. – Jim Rohn"*
 
-*Last updated: December 25, 2025 at 08:55 PM UTC*
+*Last updated: December 25, 2025 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
