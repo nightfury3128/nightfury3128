@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence is contagious. So is lack of confidence. – Vince Lombardi"*
+### 💡 *"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness. – Steve Maraboli"*
 
-*Last updated: December 25, 2025 at 08:50 AM UTC*
+*Last updated: December 25, 2025 at 09:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
