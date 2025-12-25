@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Friends ask you questions; enemies question you. – Criss Jami"*
+### 💡 *"Do not use life to give life to death. Do not use death to bring death to life. – Zhuangzi"*
 
-*Last updated: December 25, 2025 at 05:35 PM UTC*
+*Last updated: December 25, 2025 at 05:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
