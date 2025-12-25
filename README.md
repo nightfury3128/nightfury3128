@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The price of inaction is far greater than the cost of making a mistake. – Meister Eckhart"*
+### 💡 *"One of the most difficult things is not to change society - but to change yourself. – Nelson Mandela"*
 
-*Last updated: December 25, 2025 at 10:39 PM UTC*
+*Last updated: December 25, 2025 at 10:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
