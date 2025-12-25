@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The meaning of life is to find your gift. The purpose of life is to give it away. – Pablo Picasso"*
+### 💡 *"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. – Martin Luther King, Jr."*
 
-*Last updated: December 25, 2025 at 04:33 PM UTC*
+*Last updated: December 25, 2025 at 04:53 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
