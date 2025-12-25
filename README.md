@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Cry. Forgive. Learn. Move on. Let your tears water the seeds of your future happiness. – Steve Maraboli"*
+### 💡 *"Go for it now. The future is promised to no one. – Wayne Dyer"*
 
-*Last updated: December 25, 2025 at 09:20 AM UTC*
+*Last updated: December 25, 2025 at 09:43 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
