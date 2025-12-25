@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Formal education will make you a living, self-education will make you a fortune. – Jim Rohn"*
+### 💡 *"When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  – Charles Swindoll"*
 
-*Last updated: December 25, 2025 at 08:20 PM UTC*
+*Last updated: December 25, 2025 at 08:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
