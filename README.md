@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If I cannot do great things. I can do small things in a great way. – Martin Luther King, Jr."*
+### 💡 *"There is no significance in life without struggle. – Lolly Daskal"*
 
-*Last updated: December 26, 2025 at 04:06 AM UTC*
+*Last updated: December 26, 2025 at 04:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
