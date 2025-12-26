@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Just do what must be done. This may not be happiness but it is greatness. – George Bernard Shaw"*
+### 💡 *"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny. – Steve Maraboli"*
 
-*Last updated: December 26, 2025 at 06:32 PM UTC*
+*Last updated: December 26, 2025 at 06:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
