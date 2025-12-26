@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life isn't about finding yourself. Life is about creating yourself. – George Bernard Shaw"*
+### 💡 *"It's not the size of the dog in the fight, it's the size of the fight in the dog. – Mark Twain"*
 
-*Last updated: December 26, 2025 at 01:20 PM UTC*
+*Last updated: December 26, 2025 at 01:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
