@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you truly expect something to be difficult, it will be. – Peter A. Cohen"*
+### 💡 *"He who is untrue to his own cause cannot command the respect of others. – Albert Einstein"*
 
-*Last updated: December 26, 2025 at 09:42 AM UTC*
+*Last updated: December 26, 2025 at 09:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
