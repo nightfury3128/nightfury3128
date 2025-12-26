@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"One's best success comes after their greatest disappointments. – Henry Ward Beecher"*
+### 💡 *"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"*
 
-*Last updated: December 26, 2025 at 08:50 PM UTC*
+*Last updated: December 26, 2025 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
