@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Before anything else, preparation is the key to success. – Alexander Graham Bell"*
+### 💡 *"Your vision will become clear only when you can look into your own heart. – Lolly Daskal"*
 
-*Last updated: December 26, 2025 at 11:17 AM UTC*
+*Last updated: December 26, 2025 at 11:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
