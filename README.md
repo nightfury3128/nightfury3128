@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Some of the greater things in life are unseen; that's why you close your eyes when you kiss, cry, or dream. – Unknown"*
+### 💡 *"You are not only responsible for what you say, but also for what you do not say.  – Martin Luther"*
 
-*Last updated: December 26, 2025 at 07:14 PM UTC*
+*Last updated: December 26, 2025 at 07:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
