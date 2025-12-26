@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Someday death will take us to another star. – Vincent van Gogh"*
+### 💡 *"If I cannot do great things. I can do small things in a great way. – Martin Luther King, Jr."*
 
-*Last updated: December 26, 2025 at 03:15 AM UTC*
+*Last updated: December 26, 2025 at 04:06 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
