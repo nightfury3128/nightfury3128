@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all. – Miguel de Cervantes"*
+### 💡 *"The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar"*
 
-*Last updated: December 26, 2025 at 02:23 PM UTC*
+*Last updated: December 26, 2025 at 02:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
