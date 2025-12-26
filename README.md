@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's not the size of the dog in the fight, it's the size of the fight in the dog. – Mark Twain"*
+### 💡 *"There is no sadder sight than a young pessimist. – Mark Twain"*
 
-*Last updated: December 26, 2025 at 01:46 PM UTC*
+*Last updated: December 26, 2025 at 01:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
