@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People tend to complicate their own lives, as if living weren't already complicated enough. – Carlos Ruiz Zafon"*
+### 💡 *"If you truly expect something to be difficult, it will be. – Peter A. Cohen"*
 
-*Last updated: December 26, 2025 at 09:20 AM UTC*
+*Last updated: December 26, 2025 at 09:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
