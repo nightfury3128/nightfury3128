@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The act of taking the first step is what separates the winners from the losers. – Brian Tracy"*
+### 💡 *"If you don't like something, change it. If you can't change it, change your attitude. – Maya Angelou"*
 
-*Last updated: December 26, 2025 at 07:41 PM UTC*
+*Last updated: December 26, 2025 at 07:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
