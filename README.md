@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The first principle of success is desire. – Robert Collier"*
+### 💡 *"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. – Yanni"*
 
-*Last updated: December 26, 2025 at 07:56 AM UTC*
+*Last updated: December 26, 2025 at 08:29 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
