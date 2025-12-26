@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Open your eyes and look within. Are you satisfied with the life you're living? – Bob Marley"*
+### 💡 *"Just do what must be done. This may not be happiness but it is greatness. – George Bernard Shaw"*
 
-*Last updated: December 26, 2025 at 05:56 PM UTC*
+*Last updated: December 26, 2025 at 06:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
