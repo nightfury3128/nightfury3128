@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Hope is a waking dream. – Aristotle"*
+### 💡 *"Never settle for the crumbs of life. – Og Mandino"*
 
-*Last updated: December 27, 2025 at 09:54 PM UTC*
+*Last updated: December 27, 2025 at 10:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
