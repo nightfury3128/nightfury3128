@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. – Norman Vincent Peale"*
+### 💡 *"The worst part of success is trying to find someone who is happy for you. – Bette Midler"*
 
-*Last updated: December 27, 2025 at 08:19 PM UTC*
+*Last updated: December 27, 2025 at 08:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
