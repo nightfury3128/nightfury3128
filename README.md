@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The best fighter is never angry. – Lao Tzu"*
+### 💡 *"Never do to others what you would not like them to do to you.  – Confucius"*
 
-*Last updated: December 27, 2025 at 07:48 AM UTC*
+*Last updated: December 27, 2025 at 07:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
