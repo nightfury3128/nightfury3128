@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The question isn't who is going to let me; it's who is going to stop me. – Ayn Rand"*
+### 💡 *"You can have the mind or you can have the moment. – Naval Ravikant"*
 
-*Last updated: December 27, 2025 at 11:41 AM UTC*
+*Last updated: December 27, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
