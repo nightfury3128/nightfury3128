@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Man's character is his fate. – Heraclitus"*
+### 💡 *"You must find the place inside yourself where nothing is impossible. – Les Brown"*
 
-*Last updated: December 27, 2025 at 02:16 PM UTC*
+*Last updated: December 27, 2025 at 02:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
