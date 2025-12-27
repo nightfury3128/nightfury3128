@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't live the same year 75 times and call it a life. – Robin Sharma"*
+### 💡 *"Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy. – Norman Vincent Peale"*
 
-*Last updated: December 27, 2025 at 07:54 PM UTC*
+*Last updated: December 27, 2025 at 08:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
