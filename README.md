@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"At every moment where language can't go, that's your mind. – Bodhidharma"*
+### 💡 *"Awakening is possible only for those who seek it and want it. – G.I. Gurdjieff"*
 
-*Last updated: December 27, 2025 at 09:55 AM UTC*
+*Last updated: December 27, 2025 at 10:19 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
