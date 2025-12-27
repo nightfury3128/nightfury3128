@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We're responsible for everything that happens to us. – Yanni"*
+### 💡 *"Your business is not to 'get somewhere' - it is to be here. – Dan Millman"*
 
-*Last updated: December 27, 2025 at 04:50 PM UTC*
+*Last updated: December 27, 2025 at 05:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
