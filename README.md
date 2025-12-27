@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Remember, today is the tomorrow you worried about yesterday. – Dale Carnegie"*
+### 💡 *"The question isn't who is going to let me; it's who is going to stop me. – Ayn Rand"*
 
-*Last updated: December 27, 2025 at 11:30 AM UTC*
+*Last updated: December 27, 2025 at 11:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
