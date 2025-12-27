@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The worst part of success is trying to find someone who is happy for you. – Bette Midler"*
+### 💡 *"In the middle of difficulty lies opportunity. – Albert Einstein"*
 
-*Last updated: December 27, 2025 at 08:38 PM UTC*
+*Last updated: December 27, 2025 at 08:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
