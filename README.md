@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Winners never quit and quitters never win. – Vince Lombardi"*
+### 💡 *"Problems remain as problems because people are busy defending them rather than finding solutions. – Celestine Chua"*
 
-*Last updated: December 27, 2025 at 05:32 PM UTC*
+*Last updated: December 27, 2025 at 05:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
