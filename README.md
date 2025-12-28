@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't let anyone define you. You define yourself. – Billie Jean King"*
+### 💡 *"We can spend our whole lives escaping from the monsters of our minds. – Pema Chodron"*
 
-*Last updated: December 28, 2025 at 11:45 AM UTC*
+*Last updated: December 28, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
