@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Outstanding people have one thing in common: an absolute sense of mission.   – Zig Ziglar"*
+### 💡 *"You have power over your mind - not outside events. Realize this, and you will find strength. – Marcus Aurelius"*
 
-*Last updated: December 28, 2025 at 11:15 AM UTC*
+*Last updated: December 28, 2025 at 11:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
