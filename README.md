@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's not how much we give but how much love we put into giving. – Mother Teresa"*
+### 💡 *"What you resist, persists. – Carl Jung"*
 
-*Last updated: December 28, 2025 at 03:27 AM UTC*
+*Last updated: December 28, 2025 at 04:31 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
