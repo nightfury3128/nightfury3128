@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't wait for the right opportunity: create it. – George Bernard Shaw"*
+### 💡 *"Charms strike the sight, but merit wins the soul. – Alexander Pope"*
 
-*Last updated: December 28, 2025 at 03:55 PM UTC*
+*Last updated: December 28, 2025 at 04:24 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
