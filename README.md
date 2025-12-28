@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can avoid reality, but you cannot avoid the consequences of avoiding reality. – Ayn Rand"*
+### 💡 *"We suffer more often in imagination than in reality. – Seneca"*
 
-*Last updated: December 28, 2025 at 08:20 PM UTC*
+*Last updated: December 28, 2025 at 08:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
