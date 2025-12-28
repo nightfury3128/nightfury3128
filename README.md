@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are not stuck where you are unless you decide to be.   – Wayne Dyer"*
+### 💡 *"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power! – Robert Kiyosaki"*
 
-*Last updated: December 28, 2025 at 11:47 PM UTC*
+*Last updated: December 28, 2025 at 11:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
