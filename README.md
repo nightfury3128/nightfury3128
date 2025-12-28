@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We can spend our whole lives escaping from the monsters of our minds. – Pema Chodron"*
+### 💡 *"The less you respond to negative people, the more positive your life will become. – Paulo Coelho"*
 
-*Last updated: December 28, 2025 at 11:54 AM UTC*
+*Last updated: December 28, 2025 at 12:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
