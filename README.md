@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat. – Sun Tzu"*
+### 💡 *"In order to be walked over, you have to be lying down. – Celestine Chua"*
 
-*Last updated: December 28, 2025 at 06:50 PM UTC*
+*Last updated: December 28, 2025 at 07:13 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
