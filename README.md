@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence. – Josh Waitzkin"*
+### 💡 *"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it. – Gurbaksh Chahal"*
 
-*Last updated: December 28, 2025 at 08:55 PM UTC*
+*Last updated: December 28, 2025 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
