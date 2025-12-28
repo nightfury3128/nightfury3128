@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We suffer more often in imagination than in reality. – Seneca"*
+### 💡 *"The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence. – Josh Waitzkin"*
 
-*Last updated: December 28, 2025 at 08:42 PM UTC*
+*Last updated: December 28, 2025 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
