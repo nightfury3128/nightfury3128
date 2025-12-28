@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Unless someone truly has the power to say no, they never truly have the power to say yes. – Dan Millman"*
+### 💡 *"When you are able to employ your will always for constructive purposes, you become the controller of your destiny. – Paramahansa Yogananda"*
 
-*Last updated: December 28, 2025 at 10:51 PM UTC*
+*Last updated: December 28, 2025 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
