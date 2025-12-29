@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Study logic and math, because once you've mastered them, you won't fear any book. – Naval Ravikant"*
+### 💡 *"Forever is composed of now's. – Emily Dickinson"*
 
-*Last updated: December 29, 2025 at 08:44 PM UTC*
+*Last updated: December 29, 2025 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
