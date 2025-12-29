@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. – Kahlil Gibran"*
+### 💡 *"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. – John Lennon"*
 
-*Last updated: December 29, 2025 at 09:18 PM UTC*
+*Last updated: December 29, 2025 at 09:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
