@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Judge a man by his questions rather than his answers. – Voltaire"*
+### 💡 *"Success comes from knowing that you did your best to become the best that you are capable of becoming. – John Wooden"*
 
-*Last updated: December 29, 2025 at 05:36 PM UTC*
+*Last updated: December 29, 2025 at 05:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
