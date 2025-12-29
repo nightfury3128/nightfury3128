@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Judge your success by what you had to give up in order to get it. – Dalai Lama"*
+### 💡 *"Study logic and math, because once you've mastered them, you won't fear any book. – Naval Ravikant"*
 
-*Last updated: December 29, 2025 at 08:21 PM UTC*
+*Last updated: December 29, 2025 at 08:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
