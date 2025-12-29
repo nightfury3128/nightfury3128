@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. – John Lennon"*
+### 💡 *"It is your attitude, not your aptitude, that determines your altitude. – Zig Ziglar"*
 
-*Last updated: December 29, 2025 at 09:34 PM UTC*
+*Last updated: December 29, 2025 at 09:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
