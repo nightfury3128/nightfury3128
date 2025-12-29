@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Go as far as you can see and you will see further.   – Zig Ziglar"*
+### 💡 *"Do not wait for leaders; do it alone, person to person. – Mother Teresa"*
 
-*Last updated: December 29, 2025 at 10:21 AM UTC*
+*Last updated: December 29, 2025 at 10:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
