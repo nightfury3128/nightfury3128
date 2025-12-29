@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If we are not able to smile, then the world will not have peace. – Thich Nhat Hanh"*
+### 💡 *"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. – Andrew Carnegie"*
 
-*Last updated: December 29, 2025 at 07:17 PM UTC*
+*Last updated: December 29, 2025 at 07:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
