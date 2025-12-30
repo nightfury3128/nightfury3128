@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People do not decide their futures, they decide their habits and their habits decide their futures. – Gary Keller"*
+### 💡 *"No man will make a great leader who wants to do it all himself or to get all the credit for doing it. – Andrew Carnegie"*
 
-*Last updated: December 30, 2025 at 10:27 AM UTC*
+*Last updated: December 30, 2025 at 10:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
