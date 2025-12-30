@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We cannot change anything unless we accept it. – Carl Jung"*
+### 💡 *"People do not decide their futures, they decide their habits and their habits decide their futures. – Gary Keller"*
 
-*Last updated: December 30, 2025 at 09:56 AM UTC*
+*Last updated: December 30, 2025 at 10:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
