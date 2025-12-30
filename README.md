@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Shoot for the moon. Even if you miss, you'll land among the stars. – Norman Vincent Peale"*
+### 💡 *"Working hard for something we don't care about is called stress: Working hard for something we love is called passion. – Simon Sinek"*
 
-*Last updated: December 30, 2025 at 07:54 AM UTC*
+*Last updated: December 30, 2025 at 08:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
