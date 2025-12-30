@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean. – Paramahansa Yogananda"*
+### 💡 *"When we allow negative messages to fester in our head, they take on a life of their own. – Lolly Daskal"*
 
-*Last updated: December 30, 2025 at 09:20 PM UTC*
+*Last updated: December 30, 2025 at 09:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
