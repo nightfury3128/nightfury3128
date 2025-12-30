@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No matter how tall the mountain is, it cannot block the sun. – Chinese Proverb"*
+### 💡 *"We have to live life with a sense of urgency so not a minute is wasted. – Les Brown"*
 
-*Last updated: December 30, 2025 at 11:33 PM UTC*
+*Last updated: December 30, 2025 at 11:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
