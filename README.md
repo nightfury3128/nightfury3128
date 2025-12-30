@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perfection is not attainable, but if we chase perfection we can catch excellence. – Vince Lombardi"*
+### 💡 *"No matter how tall the mountain is, it cannot block the sun. – Chinese Proverb"*
 
-*Last updated: December 30, 2025 at 11:17 PM UTC*
+*Last updated: December 30, 2025 at 11:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
