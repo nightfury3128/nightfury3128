@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Paths are made by walking. – Franz Kafka"*
+### 💡 *"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. – Josh Waitzkin"*
 
-*Last updated: December 30, 2025 at 09:23 AM UTC*
+*Last updated: December 30, 2025 at 09:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
