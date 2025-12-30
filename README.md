@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry. – Celestine Chua"*
+### 💡 *"Perfection is not attainable, but if we chase perfection we can catch excellence. – Vince Lombardi"*
 
-*Last updated: December 30, 2025 at 10:51 PM UTC*
+*Last updated: December 30, 2025 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
