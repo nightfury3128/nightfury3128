@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind. – Eckhart Tolle"*
+### 💡 *"Never waste a minute of your precious life thinking about people you don't like. – Celestine Chua"*
 
-*Last updated: December 30, 2025 at 04:53 PM UTC*
+*Last updated: December 30, 2025 at 05:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
