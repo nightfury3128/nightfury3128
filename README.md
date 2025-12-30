@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Those who know, do. Those that understand, teach. – Aristotle"*
+### 💡 *"I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. – Og Mandino"*
 
-*Last updated: December 30, 2025 at 07:54 PM UTC*
+*Last updated: December 30, 2025 at 08:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
