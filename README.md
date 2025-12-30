@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. – Josh Waitzkin"*
+### 💡 *"We cannot change anything unless we accept it. – Carl Jung"*
 
-*Last updated: December 30, 2025 at 09:45 AM UTC*
+*Last updated: December 30, 2025 at 09:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
