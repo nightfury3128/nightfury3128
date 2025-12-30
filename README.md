@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You cannot change your destination overnight but you can change your direction overnight. – Jim Rohn"*
+### 💡 *"The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach. – Benjamin Mays"*
 
-*Last updated: December 30, 2025 at 10:58 AM UTC*
+*Last updated: December 30, 2025 at 11:24 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
