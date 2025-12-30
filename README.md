@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No man will make a great leader who wants to do it all himself or to get all the credit for doing it. – Andrew Carnegie"*
+### 💡 *"You cannot change your destination overnight but you can change your direction overnight. – Jim Rohn"*
 
-*Last updated: December 30, 2025 at 10:48 AM UTC*
+*Last updated: December 30, 2025 at 10:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
