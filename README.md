@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths. – Charles Spurgeon"*
+### 💡 *"Conscience is a dog that does not stop us from passing but that we cannot prevent from barking. – Nicolas Chamfort"*
 
-*Last updated: December 30, 2025 at 05:46 AM UTC*
+*Last updated: December 30, 2025 at 05:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
