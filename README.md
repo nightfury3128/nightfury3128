@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The world only exists in your eyes. You can make it as big or as small as you want. – F. Scott Fitzgerald"*
+### 💡 *"People don't realize that now is all there ever is; there is no past or future except as memory or anticipation in your mind. – Eckhart Tolle"*
 
-*Last updated: December 30, 2025 at 04:28 PM UTC*
+*Last updated: December 30, 2025 at 04:53 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
