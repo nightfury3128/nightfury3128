@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The degree of responsibility you take for your life determines how much change you can create in it. – Celestine Chua"*
+### 💡 *"Those who know, do. Those that understand, teach. – Aristotle"*
 
-*Last updated: December 30, 2025 at 07:42 PM UTC*
+*Last updated: December 30, 2025 at 07:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
