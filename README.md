@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's the unknown we fear when we look upon death and darkness, nothing more. – Albus Dumbledore"*
+### 💡 *"The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for. – Bob Marley"*
 
-*Last updated: December 31, 2025 at 05:22 AM UTC*
+*Last updated: December 31, 2025 at 05:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
