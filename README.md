@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. – Kamal Ravikant"*
+### 💡 *"The truth is simple. If it was complicated, everyone would understand it. – Walt Whitman"*
 
-*Last updated: December 31, 2025 at 09:47 AM UTC*
+*Last updated: December 31, 2025 at 09:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
