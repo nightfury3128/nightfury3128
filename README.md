@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not follow the ideas of others, but learn to listen to the voice within yourself. – Dogen"*
+### 💡 *"To be in harmony with the wholeness of things is not to have anxiety over imperfections. – Dogen"*
 
-*Last updated: December 31, 2025 at 05:25 PM UTC*
+*Last updated: December 31, 2025 at 05:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
