@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. – Yanni"*
+### 💡 *"It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. – Ming-Dao Deng"*
 
-*Last updated: December 31, 2025 at 08:35 AM UTC*
+*Last updated: December 31, 2025 at 08:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
