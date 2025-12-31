@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Go for it now. The future is promised to no one.  – Wayne Dyer"*
+### 💡 *"Nothing makes a man broad-minded like adversity. – Will Rogers"*
 
-*Last updated: December 31, 2025 at 11:45 AM UTC*
+*Last updated: December 31, 2025 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
