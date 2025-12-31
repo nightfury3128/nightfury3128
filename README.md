@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The fastest way to change is to laugh at your own folly. – Spencer Johnson"*
+### 💡 *"You have power over your mind - not outside events. Realize this, and you will find strength. – Marcus Aurelius"*
 
-*Last updated: December 31, 2025 at 11:46 PM UTC*
+*Last updated: December 31, 2025 at 11:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
