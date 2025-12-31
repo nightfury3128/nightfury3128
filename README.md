@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you do what you've always done, you'll get what you've always gotten. – Tony Robbins"*
+### 💡 *"Never give way to laziness. – Bhagavad Gita"*
 
-*Last updated: December 31, 2025 at 06:51 PM UTC*
+*Last updated: December 31, 2025 at 07:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
