@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"While we may not be able to control all that happens to us, we can control what happens inside us. – Benjamin Franklin"*
+### 💡 *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. – Epictetus"*
 
-*Last updated: December 31, 2025 at 02:27 PM UTC*
+*Last updated: December 31, 2025 at 02:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
