@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nothing makes a man broad-minded like adversity. – Will Rogers"*
+### 💡 *"Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. – Maxime Lagace"*
 
-*Last updated: December 31, 2025 at 11:54 AM UTC*
+*Last updated: December 31, 2025 at 12:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
