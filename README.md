@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Inspire yourself to be great. Being good isn't good enough. – Gurbaksh Chahal"*
+### 💡 *"If you do what you've always done, you'll get what you've always gotten. – Tony Robbins"*
 
-*Last updated: December 31, 2025 at 06:27 PM UTC*
+*Last updated: December 31, 2025 at 06:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
