@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no way to happiness - happiness is the way. – Thich Nhat Hanh"*
+### 💡 *"When we allow negative messages to fester in our head, they take on a life of their own. – Lolly Daskal"*
 
-*Last updated: December 31, 2025 at 11:19 AM UTC*
+*Last updated: December 31, 2025 at 11:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
