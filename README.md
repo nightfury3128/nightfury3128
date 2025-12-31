@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you do not change direction, you may end up where you are heading. – Lao Tzu"*
+### 💡 *"Dreams are for dreamers. Goals are for achievers. – Arnold Schwarzenegger"*
 
-*Last updated: December 31, 2025 at 08:39 PM UTC*
+*Last updated: December 31, 2025 at 08:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
