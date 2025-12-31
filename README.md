@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Start the day with love, spend the day with love, fill the day with love and end the day with love. – Sathya Sai Baba"*
+### 💡 *"It's the unknown we fear when we look upon death and darkness, nothing more. – Albus Dumbledore"*
 
-*Last updated: December 31, 2025 at 04:50 AM UTC*
+*Last updated: December 31, 2025 at 05:22 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
