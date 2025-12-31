@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Dreams are for dreamers. Goals are for achievers. – Arnold Schwarzenegger"*
+### 💡 *"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. – Peter Drucker"*
 
-*Last updated: December 31, 2025 at 08:51 PM UTC*
+*Last updated: December 31, 2025 at 09:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
