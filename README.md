@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain. – Kabir"*
+### 💡 *"There are two things a person should never be angry at, what they can help, and what they cannot. – Plato"*
 
-*Last updated: December 31, 2025 at 07:41 PM UTC*
+*Last updated: December 31, 2025 at 07:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
