@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Attitude is a little thing that makes a big difference. – Winston Churchill"*
+### 💡 *"Confidence comes from crossing thresholds. – Kamal Ravikant"*
 
-*Last updated: December 31, 2025 at 03:50 PM UTC*
+*Last updated: December 31, 2025 at 04:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
