@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never give way to laziness. – Bhagavad Gita"*
+### 💡 *"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. – Winston Churchill"*
 
-*Last updated: December 31, 2025 at 07:14 PM UTC*
+*Last updated: December 31, 2025 at 07:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
