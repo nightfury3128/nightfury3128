@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never whine, never complain, never try to justify yourself. – Robert Greene"*
+### 💡 *"Inspire yourself to be great. Being good isn't good enough. – Gurbaksh Chahal"*
 
-*Last updated: December 31, 2025 at 05:54 PM UTC*
+*Last updated: December 31, 2025 at 06:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
