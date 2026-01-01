@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Turn your face to the sun, as flowers know how to do. – Ming-Dao Deng"*
+### 💡 *"As soon as you trust yourself, you will know how to live. – Johann Wolfgang von Goethe"*
 
-*Last updated: January 01, 2026 at 08:44 PM UTC*
+*Last updated: January 01, 2026 at 08:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
