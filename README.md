@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Within every desire is the mechanics of its fulfillment. – Deepak Chopra"*
+### 💡 *"Not how long, but how well you have lived is the main thing. – Seneca"*
 
-*Last updated: January 01, 2026 at 11:35 PM UTC*
+*Last updated: January 01, 2026 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
