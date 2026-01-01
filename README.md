@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who laughs at himself never runs out of things to laugh at. – Epictetus"*
+### 💡 *"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done. – Jack Butcher"*
 
-*Last updated: January 01, 2026 at 10:43 PM UTC*
+*Last updated: January 01, 2026 at 10:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
