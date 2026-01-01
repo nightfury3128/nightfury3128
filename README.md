@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Freedom from desire leads to inner peace. – Lao Tzu"*
+### 💡 *"The purpose of life is the life of purpose. – Robin Sharma"*
 
-*Last updated: January 01, 2026 at 03:18 PM UTC*
+*Last updated: January 01, 2026 at 03:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
