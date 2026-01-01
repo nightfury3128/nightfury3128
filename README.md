@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every great change is preceded by chaos. – Deepak Chopra"*
+### 💡 *"Not how long, but how well you have lived is the main thing. – Seneca"*
 
-*Last updated: January 01, 2026 at 02:39 PM UTC*
+*Last updated: January 01, 2026 at 02:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
