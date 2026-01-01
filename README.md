@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Awakening is possible only for those who seek it and want it. – G.I. Gurdjieff"*
+### 💡 *"Integrity is telling myself the truth. And honesty is telling the truth to other people. – Spencer Johnson"*
 
-*Last updated: January 01, 2026 at 09:23 AM UTC*
+*Last updated: January 01, 2026 at 09:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
