@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done. – Jack Butcher"*
+### 💡 *"Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything. – Sydney Smith"*
 
-*Last updated: January 01, 2026 at 10:55 PM UTC*
+*Last updated: January 01, 2026 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
