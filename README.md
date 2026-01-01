@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who wishes to be obeyed must know how to command. – Niccolo Machiavelli"*
+### 💡 *"No matter what happens, always be yourself. – Dale Carnegie"*
 
-*Last updated: January 01, 2026 at 10:56 AM UTC*
+*Last updated: January 01, 2026 at 11:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
