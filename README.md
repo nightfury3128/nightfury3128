@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People rarely succeed unless they have fun in what they are doing. – Dale Carnegie"*
+### 💡 *"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. – Robert Greene"*
 
-*Last updated: January 01, 2026 at 05:57 PM UTC*
+*Last updated: January 01, 2026 at 06:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
