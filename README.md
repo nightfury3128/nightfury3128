@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Death is as sure for that which is born, as birth is for that which is dead. Therefore grieve not for what is inevitable. – Bhagavad Gita"*
+### 💡 *"It's not what you've got; it's what you do that makes the difference. – Celestine Chua"*
 
-*Last updated: January 02, 2026 at 07:44 AM UTC*
+*Last updated: January 02, 2026 at 07:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
