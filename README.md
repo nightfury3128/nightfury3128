@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.   – Jack Kerouac"*
+### 💡 *"Sometimes it is more important to discover what one cannot do, than what one can do. – Lin Yutang"*
 
-*Last updated: January 02, 2026 at 07:12 PM UTC*
+*Last updated: January 02, 2026 at 07:26 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
