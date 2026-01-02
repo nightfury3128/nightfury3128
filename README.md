@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Throw your heart over the bar and your body will follow. – Norman Vincent Peale"*
+### 💡 *"The future is not a gift. It is an achievement. – Robert F. Kennedy"*
 
-*Last updated: January 02, 2026 at 07:48 PM UTC*
+*Last updated: January 02, 2026 at 07:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
