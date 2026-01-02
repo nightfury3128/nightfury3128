@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life and the simple beauty of it is too good to pass up. – Christopher McCandless"*
+### 💡 *"Your greatest asset is your earning ability. Your greatest resource is your time. – Brian Tracy"*
 
-*Last updated: January 02, 2026 at 01:46 PM UTC*
+*Last updated: January 02, 2026 at 01:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
