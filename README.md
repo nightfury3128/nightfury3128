@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it. – Kamal Ravikant"*
+### 💡 *"Generosity is giving more than you can, and pride is taking less than you need. – Kahlil Gibran"*
 
-*Last updated: January 02, 2026 at 02:45 PM UTC*
+*Last updated: January 02, 2026 at 02:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
