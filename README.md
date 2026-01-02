@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The goal is not to show how great you are to others, but how vulnerable you are to yourself. – Maxime Lagace"*
+### 💡 *"It doesn't matter where you are coming from. All that matters is where you are going.  – Brian Tracy"*
 
-*Last updated: January 02, 2026 at 05:30 PM UTC*
+*Last updated: January 02, 2026 at 05:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
