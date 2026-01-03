@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The nearer a man comes to a calm mind, the closer he is to strength. – Marcus Aurelius"*
+### 💡 *"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there. – Zig Ziglar"*
 
-*Last updated: January 03, 2026 at 04:47 PM UTC*
+*Last updated: January 03, 2026 at 04:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
