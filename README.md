@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. – Sonia Ricotti"*
+### 💡 *"There is no such thing as a great talent without great willpower. – Honore de Balzac"*
 
-*Last updated: January 03, 2026 at 10:50 PM UTC*
+*Last updated: January 03, 2026 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
