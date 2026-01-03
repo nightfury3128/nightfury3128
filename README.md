@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more. – Tony Robbins"*
+### 💡 *"You cannot change your destination overnight but you can change your direction overnight. – Jim Rohn"*
 
-*Last updated: January 03, 2026 at 05:30 AM UTC*
+*Last updated: January 03, 2026 at 05:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
