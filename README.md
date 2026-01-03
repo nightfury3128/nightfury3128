@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is amazing what you can accomplish if you do not care who gets the credit. – Harry S. Truman"*
+### 💡 *"It is your attitude, not your aptitude, that determines your altitude. – Zig Ziglar"*
 
-*Last updated: January 03, 2026 at 12:35 PM UTC*
+*Last updated: January 03, 2026 at 01:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
