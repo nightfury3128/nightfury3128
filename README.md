@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Happiness is pretty simple: someone to love, something to do, something to look forward to. – Rita Mae Brown"*
+### 💡 *"The ego wants comfort and certainty. The soul wants to live fully. – Maxime Lagace"*
 
-*Last updated: January 03, 2026 at 08:34 AM UTC*
+*Last updated: January 03, 2026 at 08:53 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
