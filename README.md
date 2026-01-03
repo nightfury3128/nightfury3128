@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. – Barack Obama"*
+### 💡 *"Your greatest asset is your earning ability. Your greatest resource is your time. – Brian Tracy"*
 
-*Last updated: January 03, 2026 at 07:49 AM UTC*
+*Last updated: January 03, 2026 at 07:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
