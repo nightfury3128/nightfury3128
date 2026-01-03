@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Creativity is the greatest rebellion in existence. – Osho"*
+### 💡 *"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously. – Naval Ravikant"*
 
-*Last updated: January 03, 2026 at 06:38 PM UTC*
+*Last updated: January 03, 2026 at 06:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
