@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The first step toward getting somewhere is to decide that you are not going to stay where you are. – Unknown"*
+### 💡 *"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. – Barack Obama"*
 
-*Last updated: January 03, 2026 at 07:39 AM UTC*
+*Last updated: January 03, 2026 at 07:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
