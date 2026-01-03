@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It does not do to dwell on dreams and forget to live, remember that. – Albus Dumbledore"*
+### 💡 *"You have power over your mind - not outside events. Realize this, and you will find strength. – Marcus Aurelius"*
 
-*Last updated: January 03, 2026 at 04:42 AM UTC*
+*Last updated: January 03, 2026 at 04:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
