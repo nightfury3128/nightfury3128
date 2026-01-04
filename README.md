@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not look for approval except for the consciousness of doing your best. – Andrew Carnegie"*
+### 💡 *"No man will make a great leader who wants to do it all himself or to get all the credit for doing it. – Andrew Carnegie"*
 
-*Last updated: January 04, 2026 at 08:20 PM UTC*
+*Last updated: January 04, 2026 at 08:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
