@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Exceptional thinkers ignore their critics and go about their business making history. – John Eliot"*
+### 💡 *"Don't let the fear of losing be greater than the excitement of winning. – Robert Kiyosaki"*
 
-*Last updated: January 04, 2026 at 10:18 AM UTC*
+*Last updated: January 04, 2026 at 10:40 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
