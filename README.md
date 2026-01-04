@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Just do what must be done. This may not be happiness but it is greatness. – George Bernard Shaw"*
+### 💡 *"In order to be walked over, you have to be lying down. – Celestine Chua"*
 
-*Last updated: January 04, 2026 at 11:34 PM UTC*
+*Last updated: January 04, 2026 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
