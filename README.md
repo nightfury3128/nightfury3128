@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can only lose something that you have, but you cannot lose something that you are. – Eckhart Tolle"*
+### 💡 *"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. – John Wooden"*
 
-*Last updated: January 04, 2026 at 05:15 AM UTC*
+*Last updated: January 04, 2026 at 05:43 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
