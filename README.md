@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are not what you think you are, You are not what others think you are, You are what you think others think you are. – Unknown"*
+### 💡 *"Human behavior flows from three main sources: desire, emotion, and knowledge. – Plato"*
 
-*Last updated: January 04, 2026 at 10:17 PM UTC*
+*Last updated: January 04, 2026 at 10:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
