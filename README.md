@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Older men declare war. But it is youth that must fight and die. – Herbert Hoover"*
+### 💡 *"Life has the name of life, but in reality it is death. – Heraclitus"*
 
-*Last updated: January 04, 2026 at 06:36 AM UTC*
+*Last updated: January 04, 2026 at 06:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
