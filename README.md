@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. – John Wooden"*
+### 💡 *"The fear of death is more to be feared, than death itself. – Publilius Syrus"*
 
-*Last updated: January 04, 2026 at 05:43 AM UTC*
+*Last updated: January 04, 2026 at 05:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
