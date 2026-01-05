@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Where the willingness is great, the difficulties cannot be great. – Niccolo Machiavelli"*
+### 💡 *"The constant assertion of belief is an indication of fear. – Jiddu Krishnamurti"*
 
-*Last updated: January 05, 2026 at 11:37 PM UTC*
+*Last updated: January 05, 2026 at 11:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
