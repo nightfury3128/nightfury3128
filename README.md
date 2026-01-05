@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A fear of weakness only strengthens weakness. – Criss Jami"*
+### 💡 *"Cleverness is not wisdom. – Euripides"*
 
-*Last updated: January 05, 2026 at 09:16 AM UTC*
+*Last updated: January 05, 2026 at 09:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
