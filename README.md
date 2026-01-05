@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Good luck is opportunity meeting preparedness. – Deepak Chopra"*
+### 💡 *"The future will be shaped by those willing to commit their minds and their bodies to the task. – Robert F. Kennedy"*
 
-*Last updated: January 05, 2026 at 04:57 PM UTC*
+*Last updated: January 05, 2026 at 05:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
