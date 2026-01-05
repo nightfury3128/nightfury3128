@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is not uncommon for people to spend their whole life waiting to start living. – Eckhart Tolle"*
+### 💡 *"People tend to complicate their own lives, as if living weren't already complicated enough. – Carlos Ruiz Zafon"*
 
-*Last updated: January 05, 2026 at 05:56 PM UTC*
+*Last updated: January 05, 2026 at 06:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
