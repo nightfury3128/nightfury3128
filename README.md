@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Far more crucial than what we know or do not know is what we do not want to know. – Eric Hoffer"*
+### 💡 *"Our view of the world is truly shaped by what we decide to hear. – William James"*
 
-*Last updated: January 05, 2026 at 03:46 PM UTC*
+*Last updated: January 05, 2026 at 03:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
