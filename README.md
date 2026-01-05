@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Persistence is very important. You should not give up unless you are forced to give up. – Elon Musk"*
+### 💡 *"Your vision will become clear only when you can look into your own heart. – Lolly Daskal"*
 
-*Last updated: January 05, 2026 at 07:49 AM UTC*
+*Last updated: January 05, 2026 at 07:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
