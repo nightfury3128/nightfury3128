@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Forgive yourself for your faults and your mistakes and move on. – Les Brown"*
+### 💡 *"Where the willingness is great, the difficulties cannot be great. – Niccolo Machiavelli"*
 
-*Last updated: January 05, 2026 at 11:19 PM UTC*
+*Last updated: January 05, 2026 at 11:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
