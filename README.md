@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Wit is educated insolence. – Aristotle"*
+### 💡 *"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along. – Celestine Chua"*
 
-*Last updated: January 05, 2026 at 09:25 PM UTC*
+*Last updated: January 05, 2026 at 09:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
