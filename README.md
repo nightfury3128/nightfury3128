@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The constant assertion of belief is an indication of fear. – Jiddu Krishnamurti"*
+### 💡 *"I never dwell on what happened. You can't change it. Move forward. – Joan Rivers"*
 
-*Last updated: January 05, 2026 at 11:48 PM UTC*
+*Last updated: January 05, 2026 at 11:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
