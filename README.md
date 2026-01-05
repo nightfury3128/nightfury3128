@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Our view of the world is truly shaped by what we decide to hear. – William James"*
+### 💡 *"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream. – Arnold Schwarzenegger"*
 
-*Last updated: January 05, 2026 at 03:59 PM UTC*
+*Last updated: January 05, 2026 at 04:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
