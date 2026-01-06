@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You have to keep breaking your heart until it opens. – Rumi"*
+### 💡 *"Be regular and orderly in your life, so that you may be violent and original in your work. – Gustave Flaubert"*
 
-*Last updated: January 06, 2026 at 09:48 AM UTC*
+*Last updated: January 06, 2026 at 09:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
