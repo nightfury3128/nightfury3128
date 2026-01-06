@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Behind every cloud is another cloud. – Judy Garland"*
+### 💡 *"You don't have to be great to start, but you have to start to be great.   – Zig Ziglar"*
 
-*Last updated: January 06, 2026 at 07:35 AM UTC*
+*Last updated: January 06, 2026 at 07:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
