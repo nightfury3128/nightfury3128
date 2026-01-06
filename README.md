@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The best way to not feel hopeless is to get up and do something. – Barack Obama"*
+### 💡 *"The more knowledge you have, the more you're free to rely on your instincts. – Arnold Schwarzenegger"*
 
-*Last updated: January 06, 2026 at 07:46 PM UTC*
+*Last updated: January 06, 2026 at 07:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
