@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can never cross the ocean unless you have the courage to lose sight of the shore. – Christopher Columbus"*
+### 💡 *"Failure is acceptable. Not trying is a whole different ball park. – Michael Jordan"*
 
-*Last updated: January 06, 2026 at 08:45 PM UTC*
+*Last updated: January 06, 2026 at 08:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
