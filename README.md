@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only way round is through. – Robert Frost"*
+### 💡 *"Focused, hard work is the real key to success. – John Carmack"*
 
-*Last updated: January 07, 2026 at 10:59 AM UTC*
+*Last updated: January 07, 2026 at 11:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
