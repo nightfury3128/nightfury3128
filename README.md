@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your work is to discover your work and then, with all your heart, to give yourself to it. – Buddha"*
+### 💡 *"It is our choices that show what we truly are, far more than our abilities. – Albus Dumbledore"*
 
-*Last updated: January 07, 2026 at 05:13 PM UTC*
+*Last updated: January 07, 2026 at 05:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
