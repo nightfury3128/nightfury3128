@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Failure is an option here. If things are not failing, you are not innovating enough. – Elon Musk"*
+### 💡 *"When the root is strong, the fruit is sweet. – Bob Marley"*
 
-*Last updated: January 07, 2026 at 05:58 AM UTC*
+*Last updated: January 07, 2026 at 06:43 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
