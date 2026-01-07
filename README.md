@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is our choices that show what we truly are, far more than our abilities. – Albus Dumbledore"*
+### 💡 *"Do not pray for an easy life, pray for the strength to endure a difficult one.   – Bruce Lee"*
 
-*Last updated: January 07, 2026 at 05:44 PM UTC*
+*Last updated: January 07, 2026 at 05:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
