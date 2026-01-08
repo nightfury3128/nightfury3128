@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am always doing what I cannot do yet, in order to learn how to do it. – Vincent van Gogh"*
+### 💡 *"Sometimes, the only way to evolve is to open ourselves fully. – Kamal Ravikant"*
 
-*Last updated: January 08, 2026 at 11:33 PM UTC*
+*Last updated: January 08, 2026 at 11:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
