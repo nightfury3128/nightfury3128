@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Let us rather run the risk of wearing out than rusting out. – Theodore Roosevelt"*
+### 💡 *"Show me a hero, and I'll write you a tragedy. – F. Scott Fitzgerald"*
 
-*Last updated: January 08, 2026 at 04:53 AM UTC*
+*Last updated: January 08, 2026 at 05:22 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
