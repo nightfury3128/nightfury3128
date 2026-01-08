@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are what you believe in. You become that which you believe you can become. – Bhagavad Gita"*
+### 💡 *"Don't criticize what you can't understand.  – Bob Dylan"*
 
-*Last updated: January 08, 2026 at 04:57 PM UTC*
+*Last updated: January 08, 2026 at 05:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
