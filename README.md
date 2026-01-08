@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In the middle of difficulty lies opportunity. – Albert Einstein"*
+### 💡 *"You are not what you think you are, You are not what others think you are, You are what you think others think you are. – Unknown"*
 
-*Last updated: January 08, 2026 at 07:34 PM UTC*
+*Last updated: January 08, 2026 at 07:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
