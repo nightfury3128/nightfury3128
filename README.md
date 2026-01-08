@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We learn to walk by falling down. If we never fell down, we would never walk. – Robert Kiyosaki"*
+### 💡 *"The only lost cause is one we give up on before we enter the struggle. – Vaclav Havel"*
 
-*Last updated: January 08, 2026 at 06:41 AM UTC*
+*Last updated: January 08, 2026 at 07:02 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
