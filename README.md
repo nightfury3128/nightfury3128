@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Whatever your heart clings to and confides in, that is really your God. – Martin Luther"*
+### 💡 *"Work as though you would live forever, and live as though you would die today. Go another mile. – Og Mandino"*
 
-*Last updated: January 08, 2026 at 02:39 PM UTC*
+*Last updated: January 08, 2026 at 02:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
