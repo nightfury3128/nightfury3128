@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are patient in one moment of anger, you will escape a hundred days of sorrow.  – Chinese Proverb"*
+### 💡 *"If you don't know, the thing to do is not to get scared, but to learn. – Ayn Rand"*
 
-*Last updated: January 09, 2026 at 07:25 PM UTC*
+*Last updated: January 09, 2026 at 07:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
