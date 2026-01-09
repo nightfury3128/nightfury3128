@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over. – Joan Rivers"*
+### 💡 *"Before you embark on a journey of revenge, dig two graves.  – Confucius"*
 
-*Last updated: January 09, 2026 at 09:49 PM UTC*
+*Last updated: January 09, 2026 at 09:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
