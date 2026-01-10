@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stop being a prisoner of your past. Become the architect of your future. – Robin Sharma"*
+### 💡 *"The successful warrior is the average man, with laser-like focus. – Bruce Lee"*
 
-*Last updated: January 10, 2026 at 09:32 PM UTC*
+*Last updated: January 10, 2026 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
