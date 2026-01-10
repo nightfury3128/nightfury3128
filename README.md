@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Passion creates, addiction consumes. – Gabor Mate"*
+### 💡 *"Winners never quit and quitters never win. – Vince Lombardi"*
 
-*Last updated: January 10, 2026 at 08:52 AM UTC*
+*Last updated: January 10, 2026 at 09:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
