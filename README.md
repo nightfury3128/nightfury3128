@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A good teacher opens the door for you, but you must enter the room by yourself. – Zen Proverb"*
+### 💡 *"It is impossible for a man to learn what he thinks he already knows. – Epictetus"*
 
-*Last updated: January 10, 2026 at 12:35 PM UTC*
+*Last updated: January 10, 2026 at 01:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
