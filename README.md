@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. – Kamal Ravikant"*
+### 💡 *"If you run you stand a chance of losing, but if you don't run you've already lost. – Barack Obama"*
 
-*Last updated: January 10, 2026 at 06:55 PM UTC*
+*Last updated: January 10, 2026 at 07:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
