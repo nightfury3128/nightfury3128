@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Who wishes to fight must first count the cost. – Sun Tzu"*
+### 💡 *"Excellence is not an exception, it is a prevailing attitude. – Colin Powell"*
 
-*Last updated: January 10, 2026 at 09:36 AM UTC*
+*Last updated: January 10, 2026 at 09:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
