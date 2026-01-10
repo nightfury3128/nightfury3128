@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. – John Wooden"*
+### 💡 *"Tragedy is a tool for the living to gain wisdom, not a guide by which to live. – Robert F. Kennedy"*
 
-*Last updated: January 10, 2026 at 05:58 PM UTC*
+*Last updated: January 10, 2026 at 06:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
