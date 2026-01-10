@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Some people find fault like there is a reward for it.   – Zig Ziglar"*
+### 💡 *"Passion creates, addiction consumes. – Gabor Mate"*
 
-*Last updated: January 10, 2026 at 08:33 AM UTC*
+*Last updated: January 10, 2026 at 08:52 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
