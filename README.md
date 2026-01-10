@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We all give up great expectations along the way. – Carlos Ruiz Zafon"*
+### 💡 *"Just try to be the best you can be; never cease trying to be the best you can be. That's in your power. – John Wooden"*
 
-*Last updated: January 10, 2026 at 05:49 PM UTC*
+*Last updated: January 10, 2026 at 05:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
