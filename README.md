@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Happiness is only real when shared. – Christopher McCandless"*
+### 💡 *"It's not what happens to you, but how you react to it that matters. – Epictetus"*
 
-*Last updated: January 11, 2026 at 08:47 AM UTC*
+*Last updated: January 11, 2026 at 08:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
