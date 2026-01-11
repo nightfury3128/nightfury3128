@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Forgive those who have hurt you. – Les Brown"*
+### 💡 *"Don't let someone elses. opinion become your reality. – Les Brown"*
 
-*Last updated: January 11, 2026 at 10:54 AM UTC*
+*Last updated: January 11, 2026 at 11:15 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
