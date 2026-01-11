@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win. – Zig Ziglar"*
+### 💡 *"Insanity: doing the same thing over and over again and expecting different results. – Albert Einstein"*
 
-*Last updated: January 11, 2026 at 09:16 PM UTC*
+*Last updated: January 11, 2026 at 09:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
