@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You miss 100% of the shots you don't take. – Wayne Gretzky"*
+### 💡 *"Open your mind before your mouth. – Aristophanes"*
 
-*Last updated: January 11, 2026 at 01:55 PM UTC*
+*Last updated: January 11, 2026 at 02:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
