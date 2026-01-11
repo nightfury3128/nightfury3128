@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Insanity: doing the same thing over and over again and expecting different results. – Albert Einstein"*
+### 💡 *"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. – Les Brown"*
 
-*Last updated: January 11, 2026 at 09:32 PM UTC*
+*Last updated: January 11, 2026 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
