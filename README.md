@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. – Les Brown"*
+### 💡 *"The ladder of success is best climbed by stepping on the rungs of opportunity. – Ayn Rand"*
 
-*Last updated: January 11, 2026 at 09:45 PM UTC*
+*Last updated: January 11, 2026 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
