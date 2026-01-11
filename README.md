@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT. – Deepak Chopra"*
+### 💡 *"We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. – Gabor Mate"*
 
-*Last updated: January 11, 2026 at 03:35 PM UTC*
+*Last updated: January 11, 2026 at 03:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
