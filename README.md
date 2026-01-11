@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more you know, the more you know you don't know. – Aristotle"*
+### 💡 *"When you move beyond your fear, you feel free. – Spencer Johnson"*
 
-*Last updated: January 11, 2026 at 11:45 AM UTC*
+*Last updated: January 11, 2026 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
