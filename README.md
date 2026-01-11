@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The first man gets the oyster, the second man gets the shell. – Andrew Carnegie"*
+### 💡 *"In order to control myself I must first accept myself by going with and not against my nature. – Bruce Lee"*
 
-*Last updated: January 11, 2026 at 08:20 PM UTC*
+*Last updated: January 11, 2026 at 08:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
