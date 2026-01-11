@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live your life and forget your age. – Norman Vincent Peale"*
+### 💡 *"Fear not the path of Truth for the lack of People walking on it. – Robert F. Kennedy"*
 
-*Last updated: January 11, 2026 at 05:23 PM UTC*
+*Last updated: January 11, 2026 at 05:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
