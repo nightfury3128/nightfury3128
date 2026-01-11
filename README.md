@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not stop thinking of life as an adventure. – Eleanor Roosevelt"*
+### 💡 *"If you don't like something, change it. If you can't change it, change your attitude. – Maya Angelou"*
 
-*Last updated: January 11, 2026 at 10:39 PM UTC*
+*Last updated: January 11, 2026 at 10:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
