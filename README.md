@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  – George Washington"*
+### 💡 *"For every effect there is a root cause. Find and address the root cause rather than try to fix the effect, as there is no end to the latter. – Celestine Chua"*
 
-*Last updated: January 11, 2026 at 01:17 PM UTC*
+*Last updated: January 11, 2026 at 01:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
