@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Open your mind before your mouth. – Aristophanes"*
+### 💡 *"Have a vision. Be demanding. – Colin Powell"*
 
-*Last updated: January 11, 2026 at 02:18 PM UTC*
+*Last updated: January 11, 2026 at 02:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
