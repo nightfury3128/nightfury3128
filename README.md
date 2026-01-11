@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The best dreams happen when you're awake. – Cherie Gilderbloom"*
+### 💡 *"You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win. – Zig Ziglar"*
 
-*Last updated: January 11, 2026 at 08:54 PM UTC*
+*Last updated: January 11, 2026 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
