@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You do not read a book for the book's sake, but for your own. – Earl Nightingale"*
+### 💡 *"There is nothing like looking if you want to find something. – J.R.R. Tolkien"*
 
-*Last updated: January 12, 2026 at 09:43 PM UTC*
+*Last updated: January 12, 2026 at 09:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
