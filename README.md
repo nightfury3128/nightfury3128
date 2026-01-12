@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"For changes to be of any true value, they've got to be lasting and consistent. – Tony Robbins"*
+### 💡 *"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. – Dr. Seuss"*
 
-*Last updated: January 12, 2026 at 07:25 AM UTC*
+*Last updated: January 12, 2026 at 07:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
