@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life has the name of life, but in reality it is death. – Heraclitus"*
+### 💡 *"You can't make someone feel good about themselves until you feel good about yourself. – Robin Sharma"*
 
-*Last updated: January 12, 2026 at 05:47 AM UTC*
+*Last updated: January 12, 2026 at 06:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
