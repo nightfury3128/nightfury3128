@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Productize your perspective. – Jack Butcher"*
+### 💡 *"The way out is in. – Thich Nhat Hanh"*
 
-*Last updated: January 12, 2026 at 08:36 AM UTC*
+*Last updated: January 12, 2026 at 09:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
