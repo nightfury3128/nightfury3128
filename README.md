@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything will be ok in the end. If it's not ok, it's not the end. – John Lennon"*
+### 💡 *"Investing in yourself is the best investment you will ever make. – Robin Sharma"*
 
-*Last updated: January 12, 2026 at 03:47 AM UTC*
+*Last updated: January 12, 2026 at 04:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
