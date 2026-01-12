@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No matter how much preparation we do, in the real tests of our lives, we'll be in unfamiliar terrain. – Josh Waitzkin"*
+### 💡 *"Life has the name of life, but in reality it is death. – Heraclitus"*
 
-*Last updated: January 12, 2026 at 05:17 AM UTC*
+*Last updated: January 12, 2026 at 05:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
