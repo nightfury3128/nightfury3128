@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't make someone feel good about themselves until you feel good about yourself. – Robin Sharma"*
+### 💡 *"A man's worth is no greater than his ambitions. – Marcus Aurelius"*
 
-*Last updated: January 12, 2026 at 06:00 AM UTC*
+*Last updated: January 12, 2026 at 06:53 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
