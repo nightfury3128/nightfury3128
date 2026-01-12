@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"One reason so few of us achieve what we truly want is that we never direct our focus; we never concentrate our power. – Tony Robbins"*
+### 💡 *"Work harder on yourself than you do on your job. – Jim Rohn"*
 
-*Last updated: January 12, 2026 at 07:26 PM UTC*
+*Last updated: January 12, 2026 at 07:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
