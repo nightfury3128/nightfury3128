@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"For fast-acting relief try slowing down. – Lily Tomlin"*
+### 💡 *"We are all different. Don't judge, understand instead. – Roy T. Bennett"*
 
-*Last updated: January 12, 2026 at 10:40 AM UTC*
+*Last updated: January 12, 2026 at 10:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
