@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to. – Carlos Ruiz Zafon"*
+### 💡 *"The way of success is the way of continuous pursuit of knowledge. – Napoleon Hill"*
 
-*Last updated: January 12, 2026 at 11:44 AM UTC*
+*Last updated: January 12, 2026 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
