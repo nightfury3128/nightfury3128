@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Even if you're sure you can win, be careful that you can live with what you lose. – Gary Keller"*
+### 💡 *"You can't tell big dreams to small minded people. – Steve Harvey"*
 
-*Last updated: January 12, 2026 at 11:33 PM UTC*
+*Last updated: January 12, 2026 at 11:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
