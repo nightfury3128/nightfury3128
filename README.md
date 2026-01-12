@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your home is where your thoughts find peace. – Zen Proverb"*
+### 💡 *"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. – Simon Sinek"*
 
-*Last updated: January 12, 2026 at 02:00 PM UTC*
+*Last updated: January 12, 2026 at 02:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
