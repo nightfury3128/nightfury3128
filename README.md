@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. – Albus Dumbledore"*
+### 💡 *"The future is the worst thing about the present. – Gustave Flaubert"*
 
-*Last updated: January 12, 2026 at 08:22 PM UTC*
+*Last updated: January 12, 2026 at 08:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
