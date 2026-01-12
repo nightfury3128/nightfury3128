@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The wisdom of life consists in the elimination of the nonessentials. – Lin Yutang"*
+### 💡 *"Everything will be ok in the end. If it's not ok, it's not the end. – John Lennon"*
 
-*Last updated: January 12, 2026 at 01:53 AM UTC*
+*Last updated: January 12, 2026 at 03:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
