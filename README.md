@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't tell big dreams to small minded people. – Steve Harvey"*
+### 💡 *"Deliberately seek the company of people who influence you to think and act on building the life you desire. – Napoleon Hill"*
 
-*Last updated: January 12, 2026 at 11:46 PM UTC*
+*Last updated: January 12, 2026 at 11:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
