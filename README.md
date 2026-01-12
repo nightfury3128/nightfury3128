@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The destiny of man is in his own soul.  – Herodotus"*
+### 💡 *"Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. – Thich Nhat Hanh"*
 
-*Last updated: January 12, 2026 at 10:55 PM UTC*
+*Last updated: January 12, 2026 at 11:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
