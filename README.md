@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's OK to have your eggs in one basket as long as you control what happens to that basket. – Elon Musk"*
+### 💡 *"Making money isn't hard in itself... What's hard is to earn it doing something worth devoting one's life to. – Carlos Ruiz Zafon"*
 
-*Last updated: January 12, 2026 at 11:28 AM UTC*
+*Last updated: January 12, 2026 at 11:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
