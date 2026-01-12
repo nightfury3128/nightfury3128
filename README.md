@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Dream big and dare to fail. – Norman Vaughan"*
+### 💡 *"You do not read a book for the book's sake, but for your own. – Earl Nightingale"*
 
-*Last updated: January 12, 2026 at 09:26 PM UTC*
+*Last updated: January 12, 2026 at 09:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
