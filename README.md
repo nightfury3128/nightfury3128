@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. – Buddha"*
+### 💡 *"Life belongs to the living, and he who lives must be prepared for changes. – Johann Wolfgang von Goethe"*
 
-*Last updated: January 13, 2026 at 04:54 AM UTC*
+*Last updated: January 13, 2026 at 05:23 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
