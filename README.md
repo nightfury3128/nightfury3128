@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Even if you're sure you can win, be careful that you can live with what you lose. – Gary Keller"*
+### 💡 *"It's the little things done consistently over time, straight from your heart, that have the greatest impact. – Unknown"*
 
-*Last updated: January 13, 2026 at 07:49 AM UTC*
+*Last updated: January 13, 2026 at 07:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
