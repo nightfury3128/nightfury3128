@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Time and health are two precious assets that we don't recognize and appreciate until they have been depleted.  – Denis Waitley"*
+### 💡 *"Better a diamond with a flaw than a pebble without one. – Chinese Proverb"*
 
-*Last updated: January 13, 2026 at 10:21 AM UTC*
+*Last updated: January 13, 2026 at 10:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
