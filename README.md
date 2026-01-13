@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The world doesn't always give you want, but it often gives you what you need. – Naval Ravikant"*
+### 💡 *"The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be. – Yanni"*
 
-*Last updated: January 13, 2026 at 07:49 PM UTC*
+*Last updated: January 13, 2026 at 07:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
