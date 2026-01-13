@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Blessed is he who expects nothing, for he shall never be disappointed. – Alexander Pope"*
+### 💡 *"Don't listen to the person who has the answers; listen to the person who has the questions. – Albert Einstein"*
 
-*Last updated: January 13, 2026 at 11:48 AM UTC*
+*Last updated: January 13, 2026 at 11:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
