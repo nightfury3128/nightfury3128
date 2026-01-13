@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't listen to the person who has the answers; listen to the person who has the questions. – Albert Einstein"*
+### 💡 *"It still holds true that man is most uniquely human when he turns obstacles into opportunities. – Eric Hoffer"*
 
-*Last updated: January 13, 2026 at 11:58 AM UTC*
+*Last updated: January 13, 2026 at 12:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
