@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You may be disappointed if you fail, but you are doomed if you don't try. – Beverly Sills"*
+### 💡 *"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. – Robert Kiyosaki"*
 
-*Last updated: January 13, 2026 at 03:19 AM UTC*
+*Last updated: January 13, 2026 at 04:12 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
