@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A lot of people have gone further than they thought they could because someone else thought they could. – Zig Ziglar"*
+### 💡 *"To know your Enemy, you must become your Enemy. – Sun Tzu"*
 
-*Last updated: January 13, 2026 at 08:52 PM UTC*
+*Last updated: January 13, 2026 at 09:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
