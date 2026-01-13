@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Deliberately seek the company of people who influence you to think and act on building the life you desire. – Napoleon Hill"*
+### 💡 *"You may think I'm small, but I have a universe inside my mind. – Yoko Ono"*
 
-*Last updated: January 12, 2026 at 11:55 PM UTC*
+*Last updated: January 13, 2026 at 01:40 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
