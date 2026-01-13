@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rivers know this: there is no hurry. We shall get there some day. – A.A. Milne"*
+### 💡 *"Would you rather learn to deal with the truth now than be forced to do so later on? – Celestine Chua"*
 
-*Last updated: January 13, 2026 at 01:47 PM UTC*
+*Last updated: January 13, 2026 at 02:12 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
