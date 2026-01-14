@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. – Ming-Dao Deng"*
+### 💡 *"I would rather die on my feet than live on my knees. – Euripides"*
 
-*Last updated: January 13, 2026 at 11:50 PM UTC*
+*Last updated: January 14, 2026 at 01:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
