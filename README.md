@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is little success where there is little laughter. – Andrew Carnegie"*
+### 💡 *"If you can't imagine it, you can't have it. – Toni Morrison"*
 
-*Last updated: January 14, 2026 at 05:57 PM UTC*
+*Last updated: January 14, 2026 at 06:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
