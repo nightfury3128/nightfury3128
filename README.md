@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Respect is earned by effort not age, all things age without effort. – C. Sean McGee"*
+### 💡 *"The secret of life isn't what happens to you, but what you do with what happens to you. – Norman Vincent Peale"*
 
-*Last updated: January 14, 2026 at 10:46 PM UTC*
+*Last updated: January 14, 2026 at 10:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
