@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We create the world and ourselves; – Ming-Dao Deng"*
+### 💡 *"The significance of life is living. – Jiddu Krishnamurti"*
 
-*Last updated: January 14, 2026 at 08:19 PM UTC*
+*Last updated: January 14, 2026 at 08:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
