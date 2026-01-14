@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life must be a constant education; one must learn everything, from speaking to dying. – Gustave Flaubert"*
+### 💡 *"To create more positive results in your life, replace 'if only' with 'next time'. – Celestine Chua"*
 
-*Last updated: January 14, 2026 at 09:43 PM UTC*
+*Last updated: January 14, 2026 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
