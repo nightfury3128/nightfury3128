@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The secret of life isn't what happens to you, but what you do with what happens to you. – Norman Vincent Peale"*
+### 💡 *"Throughout this life, you can never be certain of living long enough to take another breath. – Huang Po"*
 
-*Last updated: January 14, 2026 at 10:57 PM UTC*
+*Last updated: January 14, 2026 at 11:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
