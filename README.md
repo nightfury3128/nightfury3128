@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are few reasons for telling the truth, but for lying the number is infinite. – Carlos Ruiz Zafon"*
+### 💡 *"Do not take life too seriously. You will never get out of it alive. – Elbert Hubbard"*
 
-*Last updated: January 14, 2026 at 10:22 AM UTC*
+*Last updated: January 14, 2026 at 10:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
