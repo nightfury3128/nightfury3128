@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Hold yourself responsible for a higher standard than anybody else expects of you. – Henry Ward Beecher"*
+### 💡 *"There is little success where there is little laughter. – Andrew Carnegie"*
 
-*Last updated: January 14, 2026 at 05:44 PM UTC*
+*Last updated: January 14, 2026 at 05:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
