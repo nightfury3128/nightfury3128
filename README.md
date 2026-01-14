@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity. – Charles Spurgeon"*
+### 💡 *"The truth is not for all men, but for those who seek it. – Ayn Rand"*
 
-*Last updated: January 14, 2026 at 07:33 AM UTC*
+*Last updated: January 14, 2026 at 07:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
