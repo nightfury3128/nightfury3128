@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Successful people do what unsuccessful people are not willing to do. – Jim Rohn"*
+### 💡 *"I find the best way to love someone is not to change them, but instead, help them reveal the greatest version of themselves. – Steve Maraboli"*
 
-*Last updated: January 14, 2026 at 11:39 AM UTC*
+*Last updated: January 14, 2026 at 11:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
