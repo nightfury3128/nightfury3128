@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Throughout this life, you can never be certain of living long enough to take another breath. – Huang Po"*
+### 💡 *"A Quitter never wins - and - a Winner never quits. – Napoleon Hill"*
 
-*Last updated: January 14, 2026 at 11:21 PM UTC*
+*Last updated: January 14, 2026 at 11:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
