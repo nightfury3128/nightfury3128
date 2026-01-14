@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is not how high you have climbed, but how you make a positive difference to the world. – Roy T. Bennett"*
+### 💡 *"Hold yourself responsible for a higher standard than anybody else expects of you. – Henry Ward Beecher"*
 
-*Last updated: January 14, 2026 at 05:14 PM UTC*
+*Last updated: January 14, 2026 at 05:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
