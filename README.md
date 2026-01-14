@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are no uninteresting things, only uninterested people. – Gilbert Chesterton"*
+### 💡 *"Successful people do what unsuccessful people are not willing to do. – Jim Rohn"*
 
-*Last updated: January 14, 2026 at 11:19 AM UTC*
+*Last updated: January 14, 2026 at 11:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
