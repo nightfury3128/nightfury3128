@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perseverance and spirit have done wonders in all ages.  – George Washington"*
+### 💡 *"The golden opportunity you are seeking is in yourself. It is not in your environment; it is not in luck or chance, or the help of others; it is in yourself alone.  – Orison Swett Marden"*
 
-*Last updated: January 14, 2026 at 08:27 AM UTC*
+*Last updated: January 14, 2026 at 08:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
