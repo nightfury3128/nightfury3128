@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"How much pain they have cost us, the evils which have never happened. – Thomas Jefferson"*
+### 💡 *"Respect is earned by effort not age, all things age without effort. – C. Sean McGee"*
 
-*Last updated: January 14, 2026 at 10:21 PM UTC*
+*Last updated: January 14, 2026 at 10:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
