@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way. – Osho"*
+### 💡 *"In peace, sons bury their fathers. In war, fathers bury their sons.  – Herodotus"*
 
-*Last updated: January 15, 2026 at 06:57 PM UTC*
+*Last updated: January 15, 2026 at 07:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
