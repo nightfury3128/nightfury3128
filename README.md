@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. – Winston Churchill"*
+### 💡 *"You have within you right now, everything you need to deal with whatever the world can throw at you. – Brian Tracy"*
 
-*Last updated: January 15, 2026 at 11:00 AM UTC*
+*Last updated: January 15, 2026 at 11:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
