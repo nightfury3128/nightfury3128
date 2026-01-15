@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Have a vision. Be demanding. – Colin Powell"*
+### 💡 *"The price of inaction is far greater than the cost of making a mistake. – Meister Eckhart"*
 
-*Last updated: January 15, 2026 at 08:55 AM UTC*
+*Last updated: January 15, 2026 at 09:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
