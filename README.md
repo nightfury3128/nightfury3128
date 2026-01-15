@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In peace, sons bury their fathers. In war, fathers bury their sons.  – Herodotus"*
+### 💡 *"All you need is passion. If you have a passion for something, you'll create the talent. – Yanni"*
 
-*Last updated: January 15, 2026 at 07:27 PM UTC*
+*Last updated: January 15, 2026 at 07:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
