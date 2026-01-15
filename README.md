@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The greatest miracle is to be alive. – Thich Nhat Hanh"*
+### 💡 *"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it. – Gurbaksh Chahal"*
 
-*Last updated: January 15, 2026 at 09:39 PM UTC*
+*Last updated: January 15, 2026 at 09:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
