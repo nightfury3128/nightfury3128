@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A crisis is an opportunity riding the dangerous wind. – Chinese Proverb"*
+### 💡 *"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. – Winston Churchill"*
 
-*Last updated: January 15, 2026 at 10:49 AM UTC*
+*Last updated: January 15, 2026 at 11:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
