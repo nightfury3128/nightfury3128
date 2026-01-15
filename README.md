@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can live a whole life time never being awake. – Dan Millman"*
+### 💡 *"Have a vision. Be demanding. – Colin Powell"*
 
-*Last updated: January 15, 2026 at 08:28 AM UTC*
+*Last updated: January 15, 2026 at 08:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
