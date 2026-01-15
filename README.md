@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I alone cannot change the world, but I can cast a stone across the waters to create many ripples. – Mother Teresa"*
+### 💡 *"The ego wants comfort and certainty. The soul wants to live fully. – Maxime Lagace"*
 
-*Last updated: January 15, 2026 at 05:53 AM UTC*
+*Last updated: January 15, 2026 at 06:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
