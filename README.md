@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You may forget with whom you laughed, but you will never forget with whom you wept.   – Kahlil Gibran"*
+### 💡 *"How many times do you have to get hit over the head until you figure out who's hitting you? – Harry S. Truman"*
 
-*Last updated: January 16, 2026 at 11:43 AM UTC*
+*Last updated: January 16, 2026 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
