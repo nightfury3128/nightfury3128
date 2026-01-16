@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are your best thing. – Toni Morrison"*
+### 💡 *"If you chase two rabbits, you catch none. – Confucius"*
 
-*Last updated: January 16, 2026 at 05:47 AM UTC*
+*Last updated: January 16, 2026 at 05:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
