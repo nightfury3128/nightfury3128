@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A successful man is one who can lay a firm foundation with the bricks others have thrown at him.   – David Brinkley"*
+### 💡 *"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. – Thich Nhat Hanh"*
 
-*Last updated: January 16, 2026 at 03:19 AM UTC*
+*Last updated: January 16, 2026 at 04:12 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
