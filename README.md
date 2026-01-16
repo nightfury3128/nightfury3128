@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you chase two rabbits, you catch none. – Confucius"*
+### 💡 *"Being wrong opens us up to the possibility of change. – Mark Manson"*
 
-*Last updated: January 16, 2026 at 05:57 AM UTC*
+*Last updated: January 16, 2026 at 06:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
