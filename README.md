@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want peace, you won't get it with violence. – John Lennon"*
+### 💡 *"Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. – Harry S. Truman"*
 
-*Last updated: January 16, 2026 at 07:48 PM UTC*
+*Last updated: January 16, 2026 at 07:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
