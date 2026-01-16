@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Doubt is an uncomfortable condition, but certainty is a ridiculous one. – Voltaire"*
+### 💡 *"Man's character is his fate. – Heraclitus"*
 
-*Last updated: January 15, 2026 at 11:54 PM UTC*
+*Last updated: January 16, 2026 at 01:38 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
