@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The worst part of success is trying to find someone who is happy for you. – Bette Midler"*
+### 💡 *"The way out is in. – Thich Nhat Hanh"*
 
-*Last updated: January 16, 2026 at 07:49 AM UTC*
+*Last updated: January 16, 2026 at 07:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
