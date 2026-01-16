@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Ability is a poor man's wealth. – John Wooden"*
+### 💡 *"The only lost cause is one we give up on before we enter the struggle. – Vaclav Havel"*
 
-*Last updated: January 16, 2026 at 10:55 PM UTC*
+*Last updated: January 16, 2026 at 11:19 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
