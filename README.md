@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are today where your thoughts have brought you. – James Allen"*
+### 💡 *"The question isn't who is going to let me; it's who is going to stop me. – Ayn Rand"*
 
-*Last updated: January 17, 2026 at 05:46 PM UTC*
+*Last updated: January 17, 2026 at 05:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
