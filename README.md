@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is literally true that you can succeed best and quickest by helping others succeed. – Napoleon Hill"*
+### 💡 *"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. – Steve Maraboli"*
 
-*Last updated: January 17, 2026 at 06:37 AM UTC*
+*Last updated: January 17, 2026 at 06:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
