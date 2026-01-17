@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It takes a very long time to become young. – Pablo Picasso"*
+### 💡 *"Fear is stupid. So are regrets. – Marilyn Monroe"*
 
-*Last updated: January 17, 2026 at 10:54 PM UTC*
+*Last updated: January 17, 2026 at 11:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
