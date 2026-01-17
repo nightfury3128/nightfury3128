@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. – Dr. Seuss"*
+### 💡 *"Poverty and hardship are created by false thinking. – Bodhidharma"*
 
-*Last updated: January 17, 2026 at 09:48 PM UTC*
+*Last updated: January 17, 2026 at 09:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
