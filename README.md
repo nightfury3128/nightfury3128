@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't try to steer the river. – Deepak Chopra"*
+### 💡 *"It ain't where you start in life, it's where you end up, and what you did along the way. – Colin Powell"*
 
-*Last updated: January 17, 2026 at 11:30 AM UTC*
+*Last updated: January 17, 2026 at 11:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
