@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Good things aren't supposed to just fall into your lap. – Audrey Hepburn"*
+### 💡 *"Debt is the slavery of the free. – Publilius Syrus"*
 
-*Last updated: January 17, 2026 at 10:23 PM UTC*
+*Last updated: January 17, 2026 at 10:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
