@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"They say love is the best investment; the more you give, the more you get in return. – Audrey Hepburn"*
+### 💡 *"Never regret your past. Rather, embrace it as the teacher that it is. – Robin Sharma"*
 
-*Last updated: January 17, 2026 at 07:28 PM UTC*
+*Last updated: January 17, 2026 at 07:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
