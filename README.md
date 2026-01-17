@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more you praise and celebrate your life, the more there is in life to celebrate.  – Oprah Winfrey"*
+### 💡 *"We have to walk in a way that we only print peace and serenity on the Earth. Walk as if you are kissing the Earth with your feet. – Thich Nhat Hanh"*
 
-*Last updated: January 17, 2026 at 07:49 PM UTC*
+*Last updated: January 17, 2026 at 07:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
