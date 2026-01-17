@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be - don't try to become  – Osho"*
+### 💡 *"Those who seek the easy way do not seek the true way. – Dogen"*
 
-*Last updated: January 17, 2026 at 10:39 AM UTC*
+*Last updated: January 17, 2026 at 10:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
