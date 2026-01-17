@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong. – Elon Musk"*
+### 💡 *"If you want to see things just as they are, then you yourself must practice just as you are. – Dogen"*
 
-*Last updated: January 17, 2026 at 07:45 AM UTC*
+*Last updated: January 17, 2026 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
