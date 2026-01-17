@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The wisdom of life consists in the elimination of the nonessentials. – Lin Yutang"*
+### 💡 *"Judge your success by what you had to give up in order to get it. – Dalai Lama"*
 
-*Last updated: January 17, 2026 at 02:49 PM UTC*
+*Last updated: January 17, 2026 at 02:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
