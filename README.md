@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances. – Thomas Jefferson"*
+### 💡 *"A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. – Criss Jami"*
 
-*Last updated: January 17, 2026 at 01:41 PM UTC*
+*Last updated: January 17, 2026 at 01:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
