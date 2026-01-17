@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A wise man can learn more from a foolish question than a fool can learn from a wise answer.   – Bruce Lee"*
+### 💡 *"It's wise to tell the truth. It's even wiser to tell it kindly. – Maxime Lagace"*
 
-*Last updated: January 17, 2026 at 09:54 AM UTC*
+*Last updated: January 17, 2026 at 10:18 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
