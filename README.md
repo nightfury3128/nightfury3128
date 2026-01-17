@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Those who seek the easy way do not seek the true way. – Dogen"*
+### 💡 *"Discipline is the bridge between goals and accomplishment. – Jim Rohn"*
 
-*Last updated: January 17, 2026 at 10:51 AM UTC*
+*Last updated: January 17, 2026 at 11:15 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
