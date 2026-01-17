@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't tell big dreams to small minded people. – Steve Harvey"*
+### 💡 *"Those who know, do. Those that understand, teach. – Aristotle"*
 
-*Last updated: January 17, 2026 at 03:41 PM UTC*
+*Last updated: January 17, 2026 at 03:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
