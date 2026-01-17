@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who knows best knows how little he knows. – Thomas Jefferson"*
+### 💡 *"Before you can see the Light, you have to deal with the darkness. – Dan Millman"*
 
-*Last updated: January 16, 2026 at 11:58 PM UTC*
+*Last updated: January 17, 2026 at 02:08 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
