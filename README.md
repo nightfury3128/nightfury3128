@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them. – Epictetus"*
+### 💡 *"If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. – Kahlil Gibran"*
 
-*Last updated: January 17, 2026 at 12:35 PM UTC*
+*Last updated: January 17, 2026 at 01:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
