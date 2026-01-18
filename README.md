@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things. – Celestine Chua"*
+### 💡 *"Focus on how far you have come in life rather than looking at the accomplishments of others. – Lolly Daskal"*
 
-*Last updated: January 18, 2026 at 06:58 PM UTC*
+*Last updated: January 18, 2026 at 07:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
