@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's better to dance than to march through life. – Yoko Ono"*
+### 💡 *"No one can hurt you without your consent. – Eleanor Roosevelt"*
 
-*Last updated: January 18, 2026 at 11:34 PM UTC*
+*Last updated: January 18, 2026 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
