@@ -19,8 +19,6 @@
 
 🎓 **Fourth-year Computer Science Student** passionate about crafting innovative solutions through code
 
-💡 **Mission**: Transforming ideas into reality with clean, efficient, and impactful software
-
 🌱 **Currently Learning**: Advanced algorithms, system design, and cloud technologies
 
 💬 **Ask me about**: Python, JavaScript, React, Node.js, or any tech-related topics
