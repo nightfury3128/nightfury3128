@@ -6,9 +6,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=nightfury3128&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/nightfury3128?label=Followers&style=social" alt="GitHub Followers" />
-<img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/activity.yaml/badge.svg" alt="Recent Activity Status" />
-<img src="https://github.com/nightfury3128/nightfury3128/actions/workflows/wakatime.yaml/badge.svg" alt="WakaTime Stats Status" />
-
 </div>
 
 ---
