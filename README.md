@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When we have our body and mind in order, everything else will exist in the right place, in the right way. – Shunryu Suzuki"*
+### 💡 *"The present moment dies every moment to become the past , is reborn every moment into the future. All experience is now. Now never ends. – Deepak Chopra"*
 
-*Last updated: January 18, 2026 at 08:48 AM UTC*
+*Last updated: January 18, 2026 at 08:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
