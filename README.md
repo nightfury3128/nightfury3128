@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The secret of life isn't what happens to you, but what you do with what happens to you. – Norman Vincent Peale"*
+### 💡 *"If light is in your heart, you will find your way home.   – Rumi"*
 
-*Last updated: January 18, 2026 at 05:21 PM UTC*
+*Last updated: January 18, 2026 at 05:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
