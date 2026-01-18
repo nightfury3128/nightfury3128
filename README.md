@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The eye with which I see God is the same eye with which God sees me. – Meister Eckhart"*
+### 💡 *"Without struggle, no progress and no result. Every breaking of habit produces a change in the machine. – G.I. Gurdjieff"*
 
-*Last updated: January 18, 2026 at 10:40 AM UTC*
+*Last updated: January 18, 2026 at 10:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
