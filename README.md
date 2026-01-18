@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be as fluid as water, do not give your enemies anything solid to attack. – Robert Greene"*
+### 💡 *"You're on earth. There's no cure for that. – Samuel Beckett"*
 
-*Last updated: January 18, 2026 at 11:15 AM UTC*
+*Last updated: January 18, 2026 at 11:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
