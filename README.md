@@ -90,7 +90,7 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't worry about being successful, but work toward being significant and the success will naturally follow. – Oprah Winfrey"*
+### 💡 *"The only reason to be alive is to enjoy it. – Rita Mae Brown"*
 
 *Last updated: January 18, 2026 at 06:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
