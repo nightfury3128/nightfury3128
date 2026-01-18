@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's not whether you get knocked down, its whether you get back up. – Vince Lombardi"*
+### 💡 *"The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. – Brian Tracy"*
 
-*Last updated: January 18, 2026 at 07:54 PM UTC*
+*Last updated: January 18, 2026 at 08:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
