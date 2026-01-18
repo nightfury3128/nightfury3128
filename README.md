@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Watch what you say, and whatever you say, practice it. – Soyen Shaku"*
+### 💡 *"When we have our body and mind in order, everything else will exist in the right place, in the right way. – Shunryu Suzuki"*
 
-*Last updated: January 18, 2026 at 08:25 AM UTC*
+*Last updated: January 18, 2026 at 08:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
