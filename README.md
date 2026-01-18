@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you judge others, you do not define them, you define yourself. – Earl Nightingale"*
+### 💡 *"Confidence breeds beauty.   – Estee Lauder"*
 
-*Last updated: January 18, 2026 at 09:16 PM UTC*
+*Last updated: January 18, 2026 at 09:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
