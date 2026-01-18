@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence breeds beauty.   – Estee Lauder"*
+### 💡 *"If you try to micromanage yourself all you're going to do is make yourself miserable. – Naval Ravikant"*
 
-*Last updated: January 18, 2026 at 09:32 PM UTC*
+*Last updated: January 18, 2026 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
