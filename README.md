@@ -53,48 +53,6 @@
 
 </div>
 
----
-
-### 🔧 Repository Statistics
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/search/commits?q=author:nightfury3128+merge&label=Total%20Merges&query=$.total_count&style=for-the-badge&color=9945ff&logo=git" alt="Total Merges" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Public%20Repos&query=$.public_repos&style=for-the-badge&color=58a6ff&logo=github" alt="Public Repos" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/nightfury3128&label=Total%20Gists&query=$.public_gists&style=for-the-badge&color=79ff97&logo=github" alt="Total Gists" />
-    </td>
-  </tr>
-</table>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/nightfury3128/nightfury3128?style=for-the-badge&color=ff6b6b)
-![GitHub repo size](https://img.shields.io/github/repo-size/nightfury3128/nightfury3128?style=for-the-badge&color=58a6ff)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/nightfury3128/nightfury3128?style=for-the-badge&color=79ff97)
-
-### 📈 Detailed Contribution Analytics
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nightfury3128&theme=radical" width="100%"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nightfury3128&theme=radical"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nightfury3128&theme=radical"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nightfury3128&theme=radical" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nightfury3128&theme=radical" width="49%" />
-
-</details>
-
-</div>
-
----
-
-## 📌 Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
----
 
 ## 🎮 Currently Playing
 
