@@ -20,7 +20,7 @@
 
 💬 **Ask me about**: Python, JavaScript, React, Node.js, or any tech-related topics
 
-⚡ **Fun fact**: I debug code faster when listening to lo-fi music 🎵
+⚡ **Fun fact**: I love cooking and repairing the laptops to the point of bare functionality 
 
 <br clear="right"/>
 
