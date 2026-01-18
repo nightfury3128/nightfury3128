@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your worth consists in what you are and not in what you have. – Thomas Edison"*
+### 💡 *"Be strong. Be confident. Be the star of your own life. – Estee Lauder"*
 
-*Last updated: January 18, 2026 at 09:43 AM UTC*
+*Last updated: January 18, 2026 at 09:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
