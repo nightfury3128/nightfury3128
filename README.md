@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All our knowledge has its origins in our perceptions. – Leonardo da Vinci"*
+### 💡 *"It's better to dance than to march through life. – Yoko Ono"*
 
-*Last updated: January 18, 2026 at 11:17 PM UTC*
+*Last updated: January 18, 2026 at 11:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
