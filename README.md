@@ -93,9 +93,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Intelligent men are cruel. Stupid men are monstrously cruel. – Jack London"*
+### 💡 *"Don't worry about being successful, but work toward being significant and the success will naturally follow. – Oprah Winfrey"*
 
-*Last updated: January 18, 2026 at 06:13 PM UTC*
+*Last updated: January 18, 2026 at 06:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
