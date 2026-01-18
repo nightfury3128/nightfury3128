@@ -55,21 +55,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nightfury3128&show_icons=true&theme=radical&count_private=true&include_all_commits=true&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nightfury3128&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nightfury3128&layout=compact&theme=radical&hide=html,css,tex&count_private=true&langs_count=10&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nightfury3128&theme=redical&area=true&hide_border=true&border_radius=10&bg_color=0d1117&line=ff6b6b&point=58a6ff&title_color=58a6ff&color=79ff97" width="100%"/>
-
-<details>
-<summary>📈 Advanced Analytics & Metrics</summary>
-<br>
-
 ### 🔧 Repository Statistics
 <table>
   <tr>
