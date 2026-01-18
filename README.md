@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  – Herodotus"*
+### 💡 *"Courage is not having the strength to go on; it is going on when you don't have the strength. – Theodore Roosevelt"*
 
-*Last updated: January 18, 2026 at 11:41 AM UTC*
+*Last updated: January 18, 2026 at 11:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
