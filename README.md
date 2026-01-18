@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only reason to be alive is to enjoy it. – Rita Mae Brown"*
+### 💡 *"The quality of your life is determined by the quality of questions you ask. – Tony Robbins"*
 
-*Last updated: January 18, 2026 at 06:14 PM UTC*
+*Last updated: January 18, 2026 at 06:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
