@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The quality of your life is determined by the quality of questions you ask. – Tony Robbins"*
+### 💡 *"Strive for excellence, not perfection, because we don't live in a perfect world. – Joyce Meyer"*
 
-*Last updated: January 18, 2026 at 06:16 PM UTC*
+*Last updated: January 18, 2026 at 06:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
