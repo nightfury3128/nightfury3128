@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is really simple, but men insist on making it complicated.  – Confucius"*
+### 💡 *"The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar"*
 
-*Last updated: January 18, 2026 at 05:32 AM UTC*
+*Last updated: January 18, 2026 at 05:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
