@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Too many of us are not living our dreams because we are living our fears. – Les Brown"*
+### 💡 *"The biggest challenge after success is shutting up about it. – Criss Jami"*
 
-*Last updated: January 18, 2026 at 02:48 PM UTC*
+*Last updated: January 18, 2026 at 02:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
