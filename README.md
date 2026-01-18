@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only limits in our life are those we impose on ourselves. – Bob Proctor"*
+### 💡 *"Life is what you make it. Always has been, always will be. – Eleanor Roosevelt"*
 
-*Last updated: January 18, 2026 at 02:16 PM UTC*
+*Last updated: January 18, 2026 at 02:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
