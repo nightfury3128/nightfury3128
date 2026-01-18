@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Information changes your mind. Action changes your circumstances. – Jack Butcher"*
+### 💡 *"When you judge others, you do not define them, you define yourself. – Earl Nightingale"*
 
-*Last updated: January 18, 2026 at 08:55 PM UTC*
+*Last updated: January 18, 2026 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
