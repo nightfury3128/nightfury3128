@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You're on earth. There's no cure for that. – Samuel Beckett"*
+### 💡 *"Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  – Herodotus"*
 
-*Last updated: January 18, 2026 at 11:30 AM UTC*
+*Last updated: January 18, 2026 at 11:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
