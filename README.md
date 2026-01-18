@@ -152,9 +152,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If light is in your heart, you will find your way home.   – Rumi"*
+### 💡 *"The question isn't who is going to let me; it's who is going to stop me. – Ayn Rand"*
 
-*Last updated: January 18, 2026 at 05:41 PM UTC*
+*Last updated: January 18, 2026 at 05:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
