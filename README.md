@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. – Sonia Ricotti"*
+### 💡 *"It's not whether you get knocked down, its whether you get back up. – Vince Lombardi"*
 
-*Last updated: January 18, 2026 at 07:45 PM UTC*
+*Last updated: January 18, 2026 at 07:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
