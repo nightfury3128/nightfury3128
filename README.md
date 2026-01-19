@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The wise speak only of what they know. – J.R.R. Tolkien"*
+### 💡 *"Turn off your mind, relax, and float downstream. – John Lennon"*
 
-*Last updated: January 19, 2026 at 03:23 PM UTC*
+*Last updated: January 19, 2026 at 03:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
