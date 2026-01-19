@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No man ever steps in the same river twice, for it's not the same river and he's not the same man. – Heraclitus"*
+### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
 
-*Last updated: January 19, 2026 at 09:57 PM UTC*
+*Last updated: January 19, 2026 at 10:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
