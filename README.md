@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your success and happiness lie in you. – Helen Keller"*
+### 💡 *"Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. – Les Brown"*
 
-*Last updated: January 19, 2026 at 11:41 PM UTC*
+*Last updated: January 19, 2026 at 11:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
