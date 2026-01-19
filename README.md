@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are no secrets to success. It is the result of preparation, hard work, and learning from failure. – Colin Powell"*
+### 💡 *"Most of us will do anything to avoid facing ourselves. – Lolly Daskal"*
 
-*Last updated: January 19, 2026 at 05:35 PM UTC*
+*Last updated: January 19, 2026 at 05:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
