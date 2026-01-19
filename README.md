@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I believe that potential is unlimited - success depends on daring to act on dreams.    – Estee Lauder"*
+### 💡 *"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else. – Simon Sinek"*
 
-*Last updated: January 19, 2026 at 07:39 AM UTC*
+*Last updated: January 19, 2026 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
