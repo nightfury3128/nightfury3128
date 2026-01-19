@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Most of us will do anything to avoid facing ourselves. – Lolly Daskal"*
+### 💡 *"The world only exists in your eyes. You can make it as big or as small as you want. – F. Scott Fitzgerald"*
 
-*Last updated: January 19, 2026 at 05:52 PM UTC*
+*Last updated: January 19, 2026 at 06:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
