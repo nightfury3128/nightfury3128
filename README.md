@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today. – Steve Maraboli"*
+### 💡 *"I believe that potential is unlimited - success depends on daring to act on dreams.    – Estee Lauder"*
 
-*Last updated: January 19, 2026 at 07:05 AM UTC*
+*Last updated: January 19, 2026 at 07:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
