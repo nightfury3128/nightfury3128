@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I never said it would be easy, I only said it would be worth it. – Mae West"*
+### 💡 *"It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy. – Sun Tzu"*
 
-*Last updated: January 19, 2026 at 08:33 PM UTC*
+*Last updated: January 19, 2026 at 08:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
