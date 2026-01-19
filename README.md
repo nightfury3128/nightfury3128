@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero. – Kabir"*
+### 💡 *"The cost of leadership is self-interest. – Simon Sinek"*
 
-*Last updated: January 19, 2026 at 10:56 PM UTC*
+*Last updated: January 19, 2026 at 11:21 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
