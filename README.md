@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Identify your problems, but give your power and energy to solutions. – Tony Robbins"*
+### 💡 *"There are no secrets to success. It is the result of preparation, hard work, and learning from failure. – Colin Powell"*
 
-*Last updated: January 19, 2026 at 05:03 PM UTC*
+*Last updated: January 19, 2026 at 05:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
