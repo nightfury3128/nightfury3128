@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to feel happy, do something for yourself. If you want to feel fulfilled, do something for someone else. – Simon Sinek"*
+### 💡 *"Perfectionism is simply putting a limit on your future. – John Eliot"*
 
-*Last updated: January 19, 2026 at 07:54 AM UTC*
+*Last updated: January 19, 2026 at 08:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
