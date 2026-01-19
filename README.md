@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Difficult roads often lead to beautiful destinations. – Unknown"*
+### 💡 *"Appear weak when you are strong, and strong when you are weak. – Sun Tzu"*
 
-*Last updated: January 19, 2026 at 11:01 AM UTC*
+*Last updated: January 19, 2026 at 11:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
