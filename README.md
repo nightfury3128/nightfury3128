@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The cost of leadership is self-interest. – Simon Sinek"*
+### 💡 *"Your success and happiness lie in you. – Helen Keller"*
 
-*Last updated: January 19, 2026 at 11:21 PM UTC*
+*Last updated: January 19, 2026 at 11:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
