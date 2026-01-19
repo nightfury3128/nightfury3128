@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is nothing more truly artistic than to love people. – Vincent van Gogh"*
+### 💡 *"I am not what happened to me, I am what I choose to become. – Carl Jung"*
 
-*Last updated: January 19, 2026 at 05:56 AM UTC*
+*Last updated: January 19, 2026 at 06:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
