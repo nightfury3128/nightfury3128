@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Care about what other people think and you will always be their prisoner. – Lao Tzu"*
+### 💡 *"A man sees in the world what he carries in his heart. – Johann Wolfgang von Goethe"*
 
-*Last updated: January 19, 2026 at 04:54 AM UTC*
+*Last updated: January 19, 2026 at 05:30 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
