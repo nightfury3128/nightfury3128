@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There's no coming to consciousness without pain – Carl Jung"*
+### 💡 *"The world doesn't owe you anything. It was here first. – Mark Twain"*
 
-*Last updated: January 19, 2026 at 09:17 PM UTC*
+*Last updated: January 19, 2026 at 09:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
