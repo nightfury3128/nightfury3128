@@ -1,8 +1,6 @@
 name: Live Recent Activity
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"   # Runs every 30 minutes for live updates
   workflow_dispatch:        # Allow manual trigger
 
 permissions:
