@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Appear weak when you are strong, and strong when you are weak. – Sun Tzu"*
+### 💡 *"Fear can hold you prisoner. Hope can set you free. – Stephen King"*
 
-*Last updated: January 19, 2026 at 11:32 AM UTC*
+*Last updated: January 19, 2026 at 11:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
