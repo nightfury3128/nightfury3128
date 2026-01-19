@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Optimism, when applied to your life, develops strength and peace within you. – Norman Vincent Peale"*
+### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
 
-*Last updated: January 18, 2026 at 11:56 PM UTC*
+*Last updated: January 19, 2026 at 02:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
