@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To be great is to be misunderstood. – Ralph Waldo Emerson"*
+### 💡 *"Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. – Sathya Sai Baba"*
 
-*Last updated: January 20, 2026 at 09:49 AM UTC*
+*Last updated: January 20, 2026 at 10:13 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
