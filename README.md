@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. – Simon Sinek"*
+### 💡 *"There are no shortcuts to any place worth going. – Beverly Sills"*
 
-*Last updated: January 20, 2026 at 07:48 AM UTC*
+*Last updated: January 20, 2026 at 07:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
