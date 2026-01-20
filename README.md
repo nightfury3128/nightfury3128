@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You drown not by falling into a river, but by staying submerged in it. – Paulo Coelho"*
+### 💡 *"If you want something you've never had you must be willing to do something you've never done. – Thomas Jefferson"*
 
-*Last updated: January 20, 2026 at 08:36 PM UTC*
+*Last updated: January 20, 2026 at 08:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
