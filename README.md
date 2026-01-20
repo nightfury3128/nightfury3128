@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you're afraid - don't do it, - if you're doing it - don't be afraid!  – Genghis Khan"*
+### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goal. – Henry Ford"*
 
-*Last updated: January 20, 2026 at 06:50 AM UTC*
+*Last updated: January 20, 2026 at 07:25 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
