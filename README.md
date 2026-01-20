@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't let your failures define you. You have to let your failures teach you. – Barack Obama"*
+### 💡 *"Do not take life too seriously. You will never get out of it alive. – Elbert Hubbard"*
 
-*Last updated: January 20, 2026 at 09:54 PM UTC*
+*Last updated: January 20, 2026 at 10:20 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
