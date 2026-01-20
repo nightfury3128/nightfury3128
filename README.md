@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are no shortcuts to any place worth going. – Beverly Sills"*
+### 💡 *"We suffer more often in imagination than in reality.   – Seneca"*
 
-*Last updated: January 20, 2026 at 07:58 AM UTC*
+*Last updated: January 20, 2026 at 08:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
