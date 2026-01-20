@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goal. – Henry Ford"*
+### 💡 *"If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. – Simon Sinek"*
 
-*Last updated: January 20, 2026 at 07:25 AM UTC*
+*Last updated: January 20, 2026 at 07:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
