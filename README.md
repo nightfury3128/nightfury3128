@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you need inspiration, don't do it. – Elon Musk"*
+### 💡 *"Would you rather learn to deal with the truth now than be forced to do so later on? – Celestine Chua"*
 
-*Last updated: January 20, 2026 at 11:39 AM UTC*
+*Last updated: January 20, 2026 at 11:53 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
