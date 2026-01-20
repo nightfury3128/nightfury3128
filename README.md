@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Help others and give something back. – Arnold Schwarzenegger"*
+### 💡 *"If a thing is worth doing, it is worth doing badly. – Gilbert Chesterton"*
 
-*Last updated: January 20, 2026 at 06:33 PM UTC*
+*Last updated: January 20, 2026 at 07:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
