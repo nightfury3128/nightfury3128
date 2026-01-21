@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Cease striving. Then there will be transformation. – Zhuangzi"*
+### 💡 *"What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people. – Jack Butcher"*
 
-*Last updated: January 21, 2026 at 05:41 AM UTC*
+*Last updated: January 21, 2026 at 05:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
