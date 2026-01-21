@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Embody what you teach, and teach only what you have embodied. – Dan Millman"*
+### 💡 *"Whatever you think the world is withholding from you, you are withholding from the world. – Eckhart Tolle"*
 
-*Last updated: January 21, 2026 at 07:30 PM UTC*
+*Last updated: January 21, 2026 at 07:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
