@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"True prayer has no set form. – Morihei Ueshiba"*
+### 💡 *"A Quitter never wins - and - a Winner never quits. – Napoleon Hill"*
 
-*Last updated: January 21, 2026 at 10:51 PM UTC*
+*Last updated: January 21, 2026 at 11:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
