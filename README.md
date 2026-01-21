@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You get in life what you have the courage to ask for. – Oprah Winfrey"*
+### 💡 *"Debt is the slavery of the free. – Publilius Syrus"*
 
-*Last updated: January 21, 2026 at 08:34 PM UTC*
+*Last updated: January 21, 2026 at 08:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
