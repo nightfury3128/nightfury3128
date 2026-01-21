@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The ladder of success is best climbed by stepping on the rungs of opportunity. – Ayn Rand"*
+### 💡 *"What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. – Robert Greene"*
 
-*Last updated: January 21, 2026 at 11:40 AM UTC*
+*Last updated: January 21, 2026 at 11:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
