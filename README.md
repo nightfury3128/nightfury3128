@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Creative people are often found either disagreeable or intimidating by mediocrities. – Criss Jami"*
+### 💡 *"Difficulties strengthen the mind, as labor does the body.   – Seneca"*
 
-*Last updated: January 21, 2026 at 10:49 AM UTC*
+*Last updated: January 21, 2026 at 11:12 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
