@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If I persist long enough I will win. – Og Mandino"*
+### 💡 *"Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit. – Robin Sharma"*
 
-*Last updated: January 21, 2026 at 07:59 AM UTC*
+*Last updated: January 21, 2026 at 08:43 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
