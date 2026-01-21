@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Love is the absence of judgment. – Dalai Lama"*
+### 💡 *"Embody what you teach, and teach only what you have embodied. – Dan Millman"*
 
-*Last updated: January 21, 2026 at 06:57 PM UTC*
+*Last updated: January 21, 2026 at 07:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
