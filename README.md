@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The time is always right to do what is right. – Martin Luther King, Jr."*
+### 💡 *"True prayer has no set form. – Morihei Ueshiba"*
 
-*Last updated: January 21, 2026 at 10:23 PM UTC*
+*Last updated: January 21, 2026 at 10:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
