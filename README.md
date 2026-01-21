@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Evil is whatever distracts.  – Franz Kafka"*
+### 💡 *"Creative people are often found either disagreeable or intimidating by mediocrities. – Criss Jami"*
 
-*Last updated: January 21, 2026 at 10:13 AM UTC*
+*Last updated: January 21, 2026 at 10:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
