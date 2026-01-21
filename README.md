@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Debt is the slavery of the free. – Publilius Syrus"*
+### 💡 *"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die. – Gilbert Chesterton"*
 
-*Last updated: January 21, 2026 at 08:59 PM UTC*
+*Last updated: January 21, 2026 at 09:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
