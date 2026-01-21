@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I skate to where the puck is going to be, not where it has been. – Wayne Gretzky"*
+### 💡 *"If I persist long enough I will win. – Og Mandino"*
 
-*Last updated: January 21, 2026 at 07:49 AM UTC*
+*Last updated: January 21, 2026 at 07:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
