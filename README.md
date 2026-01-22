@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge. – Stephen Hawking"*
+### 💡 *"If I cannot do great things. I can do small things in a great way. – Martin Luther King, Jr."*
 
-*Last updated: January 22, 2026 at 10:00 AM UTC*
+*Last updated: January 22, 2026 at 10:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
