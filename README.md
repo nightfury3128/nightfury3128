@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The danger of an adventure is worth a thousand days of ease and comfort. – Paulo Coelho"*
+### 💡 *"Perseverance and spirit have done wonders in all ages.  – George Washington"*
 
-*Last updated: January 22, 2026 at 08:37 PM UTC*
+*Last updated: January 22, 2026 at 08:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
