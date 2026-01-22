@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The mind can calculate, but the spirit yearns, and the heart wants what the heart wants. – Stephen King"*
+### 💡 *"Never feel shame for trying and failing, for he who has never failed is he who has never tried. – Og Mandino"*
 
-*Last updated: January 22, 2026 at 09:57 PM UTC*
+*Last updated: January 22, 2026 at 10:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
