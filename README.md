@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can put lipstick on a pig. It's still a pig. – Barack Obama"*
+### 💡 *"Thought is so cunning, so clever, that it distorts everything for its own convenience. – Jiddu Krishnamurti"*
 
-*Last updated: January 22, 2026 at 04:54 PM UTC*
+*Last updated: January 22, 2026 at 05:26 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
