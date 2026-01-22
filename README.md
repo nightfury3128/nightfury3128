@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Many a man has failed because he had his wishbone where his backbone should have been. – Ronald Reagan"*
+### 💡 *"The way to change others' minds is with affection, and not anger. – Dalai Lama"*
 
-*Last updated: January 22, 2026 at 08:29 AM UTC*
+*Last updated: January 22, 2026 at 09:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
