@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There is no sadder sight than a young pessimist. – Mark Twain"*
+### 💡 *"The older you get, the better you get. Unless you're a banana. – Betty White"*
 
-*Last updated: January 22, 2026 at 05:53 PM UTC*
+*Last updated: January 22, 2026 at 06:29 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
