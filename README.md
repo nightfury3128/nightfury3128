@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. – Ayn Rand"*
+### 💡 *"The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. – Amelia Earhart"*
 
-*Last updated: January 22, 2026 at 11:33 AM UTC*
+*Last updated: January 22, 2026 at 11:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
