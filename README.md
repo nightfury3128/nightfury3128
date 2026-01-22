@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Death and life have their determined appointments; riches and honors depend upon heaven.  – Confucius"*
+### 💡 *"Supreme excellence consists of breaking the enemy's resistance without fighting. – Sun Tzu"*
 
-*Last updated: January 22, 2026 at 03:15 PM UTC*
+*Last updated: January 22, 2026 at 03:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
