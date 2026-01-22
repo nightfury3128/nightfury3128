@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. – John Eliot"*
+### 💡 *"It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it. – Gurbaksh Chahal"*
 
-*Last updated: January 22, 2026 at 10:49 PM UTC*
+*Last updated: January 22, 2026 at 10:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
