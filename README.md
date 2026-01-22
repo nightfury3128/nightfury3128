@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never feel shame for trying and failing, for he who has never failed is he who has never tried. – Og Mandino"*
+### 💡 *"Thinking is a habit, and like any other habit, it can be changed; it just takes effort and repetition. – John Eliot"*
 
-*Last updated: January 22, 2026 at 10:28 PM UTC*
+*Last updated: January 22, 2026 at 10:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
