@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are ever the smartest person in the room, you are in the wrong room. – C. Sean McGee"*
+### 💡 *"Problems remain as problems because people are busy defending them rather than finding solutions. – Celestine Chua"*
 
-*Last updated: January 22, 2026 at 04:54 AM UTC*
+*Last updated: January 22, 2026 at 05:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
