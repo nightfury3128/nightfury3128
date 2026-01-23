@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Imagination is more important than knowledge. – Albert Einstein"*
+### 💡 *"The world doesn't owe you anything. It was here first. – Mark Twain"*
 
-*Last updated: January 23, 2026 at 02:38 PM UTC*
+*Last updated: January 23, 2026 at 02:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
