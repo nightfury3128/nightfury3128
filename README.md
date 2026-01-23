@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is better to disappoint people with the truth than to appease them with a lie. – Simon Sinek"*
+### 💡 *"Success is not to be pursued, it is to be attracted by the person you become. – Jim Rohn"*
 
-*Last updated: January 23, 2026 at 09:55 PM UTC*
+*Last updated: January 23, 2026 at 10:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
