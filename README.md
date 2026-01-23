@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. – Steve Maraboli"*
+### 💡 *"Wherever you are, and whatever you do, be in love. – Rumi"*
 
-*Last updated: January 23, 2026 at 07:41 AM UTC*
+*Last updated: January 23, 2026 at 07:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
