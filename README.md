@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Pursue what catches your heart, not what catches your eyes. – Roy T. Bennett"*
+### 💡 *"Many of life's failures are people who did not realize how close they were to success when they gave up. – Thomas Edison"*
 
-*Last updated: January 23, 2026 at 11:38 PM UTC*
+*Last updated: January 23, 2026 at 11:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
