@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Unless a man is master of his soul, all other kinds of mastery amount to little. – Theodore Roosevelt"*
+### 💡 *"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny. – Steve Maraboli"*
 
-*Last updated: January 23, 2026 at 03:23 AM UTC*
+*Last updated: January 23, 2026 at 04:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
