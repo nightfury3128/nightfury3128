@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your chances of success in any undertaking can always be measured by your belief in yourself. – Robert Collier"*
+### 💡 *"The fastest way to change is to laugh at your own folly. – Spencer Johnson"*
 
-*Last updated: January 23, 2026 at 07:35 PM UTC*
+*Last updated: January 23, 2026 at 07:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
