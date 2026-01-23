@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What is planted in each person's soul will sprout.   – Rumi"*
+### 💡 *"The more perfect a person is on the outside, the more demons they have on the inside. – Sigmund Freud"*
 
-*Last updated: January 23, 2026 at 09:54 AM UTC*
+*Last updated: January 23, 2026 at 10:22 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
