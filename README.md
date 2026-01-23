@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
+### 💡 *"Most people achieved their greatest success one step beyond what looked like their greatest failure. – Brian Tracy"*
 
-*Last updated: January 23, 2026 at 08:49 PM UTC*
+*Last updated: January 23, 2026 at 08:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
