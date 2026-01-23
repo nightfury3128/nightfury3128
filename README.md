@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Bloom where you are planted! – Mary Engelbreit"*
+### 💡 *"Your chances of success in any undertaking can always be measured by your belief in yourself. – Robert Collier"*
 
-*Last updated: January 23, 2026 at 07:12 PM UTC*
+*Last updated: January 23, 2026 at 07:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
