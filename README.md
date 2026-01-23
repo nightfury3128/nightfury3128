@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more perfect a person is on the outside, the more demons they have on the inside. – Sigmund Freud"*
+### 💡 *"If you are ever the smartest person in the room, you are in the wrong room. – C. Sean McGee"*
 
-*Last updated: January 23, 2026 at 10:22 AM UTC*
+*Last updated: January 23, 2026 at 10:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
