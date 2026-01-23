@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The pen is the tongue of the mind.  – Miguel de Cervantes"*
+### 💡 *"Imagination is more important than knowledge. – Albert Einstein"*
 
-*Last updated: January 23, 2026 at 02:00 PM UTC*
+*Last updated: January 23, 2026 at 02:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
