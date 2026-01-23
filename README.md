@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die. – Gilbert Chesterton"*
+### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
 
-*Last updated: January 23, 2026 at 08:27 PM UTC*
+*Last updated: January 23, 2026 at 08:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
