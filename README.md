@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your work is to discover your work and then, with all your heart, to give yourself to it. – Buddha"*
+### 💡 *"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.   – Jack Kerouac"*
 
-*Last updated: January 23, 2026 at 05:28 PM UTC*
+*Last updated: January 23, 2026 at 05:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
