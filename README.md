@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only place where success comes before work is in the dictionary. – Vidal Sassoon"*
+### 💡 *"Never allow a person to tell you no who doesn't have the power to say yes. – Eleanor Roosevelt"*
 
-*Last updated: January 24, 2026 at 07:54 AM UTC*
+*Last updated: January 24, 2026 at 08:24 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
