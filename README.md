@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The world only exists in your eyes. You can make it as big or as small as you want. – F. Scott Fitzgerald"*
+### 💡 *"We must create our own world or we will die from inaction. – Robert Greene"*
 
-*Last updated: January 24, 2026 at 10:19 AM UTC*
+*Last updated: January 24, 2026 at 10:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
