@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your imagination is your preview of life's coming attractions. – Albert Einstein"*
+### 💡 *"The only place where success comes before work is in the dictionary. – Vidal Sassoon"*
 
-*Last updated: January 24, 2026 at 07:42 AM UTC*
+*Last updated: January 24, 2026 at 07:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
