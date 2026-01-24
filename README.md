@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. – Barack Obama"*
+### 💡 *"If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream. – Arnold Schwarzenegger"*
 
-*Last updated: January 24, 2026 at 04:46 AM UTC*
+*Last updated: January 24, 2026 at 05:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
