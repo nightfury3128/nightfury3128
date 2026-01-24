@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Many of life's failures are people who did not realize how close they were to success when they gave up. – Thomas Edison"*
+### 💡 *"Fool me once, shame on you; fool me twice, shame on me.  – Chinese Proverb"*
 
-*Last updated: January 23, 2026 at 11:51 PM UTC*
+*Last updated: January 24, 2026 at 01:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
