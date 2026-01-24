@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. – Andrew Carnegie"*
+### 💡 *"You can often change your circumstances by changing your attitude. – Eleanor Roosevelt"*
 
-*Last updated: January 24, 2026 at 09:32 PM UTC*
+*Last updated: January 24, 2026 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
