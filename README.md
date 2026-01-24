@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man. – Mark Twain"*
+### 💡 *"All leaders are readers. – Jim Rohn"*
 
-*Last updated: January 24, 2026 at 10:39 PM UTC*
+*Last updated: January 24, 2026 at 10:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
