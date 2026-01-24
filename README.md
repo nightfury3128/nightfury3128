@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is the sum of small efforts, repeated day in and day out. – Robert Collier"*
+### 💡 *"Don't let what you cannot do interfere with what you can do. – John Wooden"*
 
-*Last updated: January 24, 2026 at 06:55 PM UTC*
+*Last updated: January 24, 2026 at 07:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
