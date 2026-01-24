@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The first principle of success is desire. – Robert Collier"*
+### 💡 *"People with clear, written goals, accomplish far more in a shorter period of time than people without them could ever imagine. – Brian Tracy"*
 
-*Last updated: January 24, 2026 at 03:58 PM UTC*
+*Last updated: January 24, 2026 at 04:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
