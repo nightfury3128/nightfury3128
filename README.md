@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Goals are the fuel in the furnace of achievement. – Brian Tracy"*
+### 💡 *"Success is the sum of small efforts, repeated day in and day out. – Robert Collier"*
 
-*Last updated: January 24, 2026 at 06:33 PM UTC*
+*Last updated: January 24, 2026 at 06:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
