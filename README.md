@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He is not a lover who does not love forever. – Euripides"*
+### 💡 *"If it entertains you now but will bore you someday, it's a distraction. Keep looking. – Naval Ravikant"*
 
-*Last updated: January 24, 2026 at 08:51 PM UTC*
+*Last updated: January 24, 2026 at 09:16 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
