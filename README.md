@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Silence is a source of great strength. – Lao Tzu"*
+### 💡 *"Believe in one thing too much and you have no room for new ideas.   – Ray Bradbury"*
 
-*Last updated: January 25, 2026 at 09:48 AM UTC*
+*Last updated: January 25, 2026 at 09:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
