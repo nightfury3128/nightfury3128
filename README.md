@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Keep away from people who try to belittle your ambitions. – Mark Twain"*
+### 💡 *"Avoiding failure is to avoid progress. – Unknown"*
 
-*Last updated: January 25, 2026 at 03:49 PM UTC*
+*Last updated: January 25, 2026 at 03:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
