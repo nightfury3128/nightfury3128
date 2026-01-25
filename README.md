@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live your life as an exclamation rather than an explanation. – Isaac Newton"*
+### 💡 *"A person who does not read is no better than one cannot read. – Earl Nightingale"*
 
-*Last updated: January 25, 2026 at 12:53 PM UTC*
+*Last updated: January 25, 2026 at 01:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
