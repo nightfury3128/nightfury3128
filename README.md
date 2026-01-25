@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To the world you may be one person; but to one person you may be the world. – Dr. Seuss"*
+### 💡 *"The most tragic thing in the world is a man of genius who is not a man of honor. – George Bernard Shaw"*
 
-*Last updated: January 25, 2026 at 07:17 PM UTC*
+*Last updated: January 25, 2026 at 07:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
