@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Where we fall are the stepping-stones for our journey. – Lolly Daskal"*
+### 💡 *"There are two things a person should never be angry at, what they can help, and what they cannot. – Plato"*
 
-*Last updated: January 25, 2026 at 11:19 PM UTC*
+*Last updated: January 25, 2026 at 11:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
