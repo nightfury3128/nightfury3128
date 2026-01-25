@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Not all of us can do great things. But we can do small things with great love. – Mother Teresa"*
+### 💡 *"Perfection is not attainable, but if we chase perfection we can catch excellence. – Vince Lombardi"*
 
-*Last updated: January 25, 2026 at 08:49 AM UTC*
+*Last updated: January 25, 2026 at 09:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
