@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The greatest weariness comes from work not done. – Eric Hoffer"*
+### 💡 *"When you're at the end of your rope, tie a knot and hold on. – Theodore Roosevelt"*
 
-*Last updated: January 25, 2026 at 11:20 AM UTC*
+*Last updated: January 25, 2026 at 11:38 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
