@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be the change that you want to see in the world. – Mahatma Gandhi"*
+### 💡 *"No problem can be solved from the same level of consciousness that created it. – Albert Einstein"*
 
-*Last updated: January 25, 2026 at 06:36 PM UTC*
+*Last updated: January 25, 2026 at 06:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
