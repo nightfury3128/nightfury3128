@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life and the simple beauty of it is too good to pass up. – Christopher McCandless"*
+### 💡 *"The best mind-altering drug is the truth. – Lily Tomlin"*
 
-*Last updated: January 25, 2026 at 09:47 PM UTC*
+*Last updated: January 25, 2026 at 09:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
