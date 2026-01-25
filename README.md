@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Comedy = tragedy + time. – Carol Burnett"*
+### 💡 *"If you want to see things just as they are, then you yourself must practice just as you are. – Dogen"*
 
-*Last updated: January 25, 2026 at 04:35 PM UTC*
+*Last updated: January 25, 2026 at 04:53 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
