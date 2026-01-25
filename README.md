@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All wealth is the product of labor. – John Locke"*
+### 💡 *"Being wrong brings the opportunity for growth. – Mark Manson"*
 
-*Last updated: January 25, 2026 at 10:28 AM UTC*
+*Last updated: January 25, 2026 at 10:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
