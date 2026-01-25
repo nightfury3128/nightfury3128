@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We're kept from our goal not by obstacles, but by a clear path to a lesser goal. – Bhagavad Gita"*
+### 💡 *"Not engaging in ignorance is wisdom.  – Bodhidharma"*
 
-*Last updated: January 25, 2026 at 01:51 PM UTC*
+*Last updated: January 25, 2026 at 02:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
