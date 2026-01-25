@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You cannot find peace by avoiding life. – Virginia Woolf"*
+### 💡 *"Life and the simple beauty of it is too good to pass up. – Christopher McCandless"*
 
-*Last updated: January 25, 2026 at 09:36 PM UTC*
+*Last updated: January 25, 2026 at 09:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
