@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Being wrong brings the opportunity for growth. – Mark Manson"*
+### 💡 *"Do you want to know who you are? Don't ask. Act! Action will delineate and define you. – Thomas Jefferson"*
 
-*Last updated: January 25, 2026 at 10:47 AM UTC*
+*Last updated: January 25, 2026 at 10:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
