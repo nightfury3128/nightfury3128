@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously. – Naval Ravikant"*
+### 💡 *"You cannot find peace by avoiding life. – Virginia Woolf"*
 
-*Last updated: January 25, 2026 at 09:19 PM UTC*
+*Last updated: January 25, 2026 at 09:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
