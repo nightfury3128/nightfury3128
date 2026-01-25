@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stop wasting time looking at someone else's reality while doing nothing about yours. – Steve Harvey"*
+### 💡 *"Be the change that you want to see in the world. – Mahatma Gandhi"*
 
-*Last updated: January 25, 2026 at 05:57 PM UTC*
+*Last updated: January 25, 2026 at 06:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
