@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts. – Charles Dickens"*
+### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
 
-*Last updated: January 26, 2026 at 07:53 AM UTC*
+*Last updated: January 26, 2026 at 08:29 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
