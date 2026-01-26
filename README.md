@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Judge a man by his questions rather than his answers. – Voltaire"*
+### 💡 *"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life. – Eleanor Roosevelt"*
 
-*Last updated: January 26, 2026 at 02:16 PM UTC*
+*Last updated: January 26, 2026 at 02:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
