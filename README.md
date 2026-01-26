@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life. – Eleanor Roosevelt"*
+### 💡 *"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"*
 
-*Last updated: January 26, 2026 at 02:49 PM UTC*
+*Last updated: January 26, 2026 at 03:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
