@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live as if you were to die tomorrow. Learn as if you were to live forever. – Mahatma Gandhi"*
+### 💡 *"Nothing makes a man broad-minded like adversity. – Will Rogers"*
 
-*Last updated: January 26, 2026 at 03:15 PM UTC*
+*Last updated: January 26, 2026 at 03:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
