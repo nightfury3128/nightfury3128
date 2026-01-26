@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are unable to find the truth right where you are, where else do you expect to find it? – Dogen"*
+### 💡 *"Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. – Alfred Adler"*
 
-*Last updated: January 26, 2026 at 01:46 AM UTC*
+*Last updated: January 26, 2026 at 03:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
