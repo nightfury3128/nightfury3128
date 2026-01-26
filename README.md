@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I pay attention to every minute of the day. – Steve Harvey"*
+### 💡 *"You must either modify your dreams or magnify your skills. – Jim Rohn"*
 
-*Last updated: January 26, 2026 at 09:45 PM UTC*
+*Last updated: January 26, 2026 at 09:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
