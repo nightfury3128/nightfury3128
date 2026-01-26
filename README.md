@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
+### 💡 *"You just can't beat the person who never gives up.  – Babe Ruth"*
 
-*Last updated: January 26, 2026 at 08:29 AM UTC*
+*Last updated: January 26, 2026 at 09:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
