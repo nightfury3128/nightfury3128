@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Decide what your truth is. Then live it. – Kamal Ravikant"*
+### 💡 *"A warrior does not give up what he loves, he finds the love in what he does. – Dan Millman"*
 
-*Last updated: January 26, 2026 at 10:59 PM UTC*
+*Last updated: January 26, 2026 at 11:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
