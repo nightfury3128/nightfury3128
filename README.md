@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable. – Earl Nightingale"*
+### 💡 *"It is hard to fail, but it is worse never to have tried to succeed. – Theodore Roosevelt"*
 
-*Last updated: January 26, 2026 at 10:28 PM UTC*
+*Last updated: January 26, 2026 at 10:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
