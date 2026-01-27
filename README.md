@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In youth we run into difficulties. In old age difficulties run into us.  – Beverly Sills"*
+### 💡 *"One is never afraid of the unknown; one is afraid of the known coming to an end. – Jiddu Krishnamurti"*
 
-*Last updated: January 27, 2026 at 11:46 PM UTC*
+*Last updated: January 27, 2026 at 11:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
