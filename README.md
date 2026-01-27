@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"One beam, no matter how big, cannot support an entire house on its own. – Chinese Proverb"*
+### 💡 *"Life is too short to waste your time on people who don't respect, appreciate, and value you. – Roy T. Bennett"*
 
-*Last updated: January 27, 2026 at 09:34 PM UTC*
+*Last updated: January 27, 2026 at 09:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
