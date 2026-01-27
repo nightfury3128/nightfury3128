@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is like reaching an important birthday and finding you're exactly the same. – Audrey Hepburn"*
+### 💡 *"As soon as you trust yourself, you will know how to live. – Johann Wolfgang von Goethe"*
 
-*Last updated: January 27, 2026 at 01:43 AM UTC*
+*Last updated: January 27, 2026 at 03:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
