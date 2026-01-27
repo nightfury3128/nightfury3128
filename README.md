@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We are always complaining that our days are few, and acting as though there would be no end of them.   – Seneca"*
+### 💡 *"The present moment is filled with joy and happiness. If you are attentive, you will see it. – Thich Nhat Hanh"*
 
-*Last updated: January 27, 2026 at 04:46 PM UTC*
+*Last updated: January 27, 2026 at 05:15 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
