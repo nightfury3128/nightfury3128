@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Comedy = tragedy + time. – Carol Burnett"*
+### 💡 *"It's not the men in your life that matters, it's the life in your men. – Mae West"*
 
-*Last updated: January 27, 2026 at 09:02 AM UTC*
+*Last updated: January 27, 2026 at 09:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
