@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is too short to waste your time on people who don't respect, appreciate, and value you. – Roy T. Bennett"*
+### 💡 *"Be mindful. Be grateful. Be positive. Be true. Be kind. – Roy T. Bennett"*
 
-*Last updated: January 27, 2026 at 09:49 PM UTC*
+*Last updated: January 27, 2026 at 09:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
