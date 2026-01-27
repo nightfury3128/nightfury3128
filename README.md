@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. – Seungsahn"*
+### 💡 *"Give more than you think you can, trusting that you are richer than you think. – Jon Kabat-Zinn"*
 
-*Last updated: January 27, 2026 at 10:00 AM UTC*
+*Last updated: January 27, 2026 at 10:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
