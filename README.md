@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Failure is the highway to success. – Og Mandino"*
+### 💡 *"He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.  – Albert Einstein"*
 
-*Last updated: January 27, 2026 at 02:04 PM UTC*
+*Last updated: January 27, 2026 at 02:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
