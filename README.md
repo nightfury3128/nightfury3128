@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't give up the fight, Stand up for your rights. – Bob Marley"*
+### 💡 *"Find something you love and do it better than everyone else. – Gurbaksh Chahal"*
 
-*Last updated: January 28, 2026 at 06:18 PM UTC*
+*Last updated: January 28, 2026 at 06:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
