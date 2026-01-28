@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined. – Deepak Chopra"*
+### 💡 *"Knowledge isn't power until it is applied. – Dale Carnegie"*
 
-*Last updated: January 28, 2026 at 10:01 AM UTC*
+*Last updated: January 28, 2026 at 10:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
