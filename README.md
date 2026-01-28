@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Knowledge isn't power until it is applied. – Dale Carnegie"*
+### 💡 *"You change the world by being yourself. – Yoko Ono"*
 
-*Last updated: January 28, 2026 at 10:46 AM UTC*
+*Last updated: January 28, 2026 at 11:02 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
