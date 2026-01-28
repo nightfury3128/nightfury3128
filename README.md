@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Not how long, but how well you have lived is the main thing. – Seneca"*
+### 💡 *"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. – John Wooden"*
 
-*Last updated: January 28, 2026 at 03:47 AM UTC*
+*Last updated: January 28, 2026 at 04:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
