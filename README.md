@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live your life as an exclamation rather than an explanation. – Isaac Newton"*
+### 💡 *"Live the moment for the moment. – Michael Jordan"*
 
-*Last updated: January 28, 2026 at 11:24 PM UTC*
+*Last updated: January 28, 2026 at 11:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
