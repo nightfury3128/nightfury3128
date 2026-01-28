@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Most people fail in life not because they aim too high and miss, but because they aim too low and hit. – Les Brown"*
+### 💡 *"Sometimes adversity is what you need to face in order to become successful. – Zig Ziglar"*
 
-*Last updated: January 28, 2026 at 02:05 PM UTC*
+*Last updated: January 28, 2026 at 02:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
