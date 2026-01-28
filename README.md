@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive. – Maxime Lagace"*
+### 💡 *"Be brave to stand for what you believe in even if you stand alone. – Roy T. Bennett"*
 
-*Last updated: January 28, 2026 at 05:08 PM UTC*
+*Last updated: January 28, 2026 at 05:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
