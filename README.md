@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Be brave to stand for what you believe in even if you stand alone. – Roy T. Bennett"*
+### 💡 *"Don't give up the fight, Stand up for your rights. – Bob Marley"*
 
-*Last updated: January 28, 2026 at 05:48 PM UTC*
+*Last updated: January 28, 2026 at 06:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
