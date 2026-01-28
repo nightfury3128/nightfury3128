@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"One is never afraid of the unknown; one is afraid of the known coming to an end. – Jiddu Krishnamurti"*
+### 💡 *"Receive without pride, let go without attachment. – Marcus Aurelius"*
 
-*Last updated: January 27, 2026 at 11:56 PM UTC*
+*Last updated: January 28, 2026 at 01:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
