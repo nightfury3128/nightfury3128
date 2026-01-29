@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Our attitude toward life determines life's attitude towards us. – Earl Nightingale"*
+### 💡 *"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. – Kahlil Gibran"*
 
-*Last updated: January 29, 2026 at 03:59 PM UTC*
+*Last updated: January 29, 2026 at 04:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
