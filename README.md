@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one. – Mark Twain"*
+### 💡 *"You must either modify your dreams or magnify your skills. – Jim Rohn"*
 
-*Last updated: January 29, 2026 at 07:58 PM UTC*
+*Last updated: January 29, 2026 at 08:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
