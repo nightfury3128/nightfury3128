@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You must either modify your dreams or magnify your skills. – Jim Rohn"*
+### 💡 *"Life is a question and how we live it is our answer. – Gary Keller"*
 
-*Last updated: January 29, 2026 at 08:38 PM UTC*
+*Last updated: January 29, 2026 at 08:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
