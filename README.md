@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live the moment for the moment. – Michael Jordan"*
+### 💡 *"People who have goals succeed because they know where they're going. It's that simple. – Earl Nightingale"*
 
-*Last updated: January 28, 2026 at 11:48 PM UTC*
+*Last updated: January 29, 2026 at 12:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
