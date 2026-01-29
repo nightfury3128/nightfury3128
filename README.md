@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Forget safety. Live where you fear to live. – Rumi"*
+### 💡 *"Don't criticize what you can't understand.  – Bob Dylan"*
 
-*Last updated: January 29, 2026 at 09:34 PM UTC*
+*Last updated: January 29, 2026 at 09:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
