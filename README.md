@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can easily judge the character of a man by how he treats those who can do nothing for him. – Johann Wolfgang von Goethe"*
+### 💡 *"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. – Lao Tzu"*
 
-*Last updated: January 29, 2026 at 07:50 AM UTC*
+*Last updated: January 29, 2026 at 08:36 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
