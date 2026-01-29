@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a question and how we live it is our answer. – Gary Keller"*
+### 💡 *"Forget safety. Live where you fear to live. – Rumi"*
 
-*Last updated: January 29, 2026 at 08:58 PM UTC*
+*Last updated: January 29, 2026 at 09:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
