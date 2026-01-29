@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In a world of change, the learners shall inherit the earth, while the learned shall find themselves perfectly suited for a world that no longer exists. – Eric Hoffer"*
+### 💡 *"No matter how tall the mountain is, it cannot block the sun. – Chinese Proverb"*
 
-*Last updated: January 29, 2026 at 12:54 PM UTC*
+*Last updated: January 29, 2026 at 01:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
