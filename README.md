@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The outer conditions of a person's life will always be found to reflect their inner beliefs. – James Allen"*
+### 💡 *"Pleasure is always derived from something outside you, whereas joy arises from within.  – Eckhart Tolle"*
 
-*Last updated: January 30, 2026 at 05:30 AM UTC*
+*Last updated: January 30, 2026 at 06:08 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
