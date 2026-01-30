@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. – Lily Tomlin"*
+### 💡 *"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you. – Jeffrey Gitomer"*
 
-*Last updated: January 30, 2026 at 03:31 PM UTC*
+*Last updated: January 30, 2026 at 04:02 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
