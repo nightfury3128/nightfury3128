@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. – Peter Drucker"*
+### 💡 *"A gentleman accepts the responsibility of his actions and bears the burden of their consequences. – William Faulkner"*
 
-*Last updated: January 30, 2026 at 02:49 AM UTC*
+*Last updated: January 30, 2026 at 04:24 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
