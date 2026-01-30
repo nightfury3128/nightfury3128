@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you. – Jeffrey Gitomer"*
+### 💡 *"The more something threatens your identity, the more you will avoid it. – Mark Manson"*
 
-*Last updated: January 30, 2026 at 04:02 PM UTC*
+*Last updated: January 30, 2026 at 04:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
