@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The number one cause of failure is the fear of failure. – Steve Harvey"*
+### 💡 *"Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. – Robert Greene"*
 
-*Last updated: January 30, 2026 at 09:52 PM UTC*
+*Last updated: January 30, 2026 at 10:22 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
