@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
+### 💡 *"We can know only that we know nothing. And that is the highest degree of human wisdom. – Leo Tolstoy"*
 
-*Last updated: January 30, 2026 at 07:57 PM UTC*
+*Last updated: January 30, 2026 at 08:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
