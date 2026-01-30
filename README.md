@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Decide what your truth is. Then live it. – Kamal Ravikant"*
+### 💡 *"Success and failure come and go, but don't let them define you. It's who you are that matters. – Kamal Ravikant"*
 
-*Last updated: January 30, 2026 at 11:22 PM UTC*
+*Last updated: January 30, 2026 at 11:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
