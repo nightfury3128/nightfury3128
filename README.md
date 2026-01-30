@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more something threatens your identity, the more you will avoid it. – Mark Manson"*
+### 💡 *"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. – George Bernard Shaw"*
 
-*Last updated: January 30, 2026 at 04:55 PM UTC*
+*Last updated: January 30, 2026 at 05:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
