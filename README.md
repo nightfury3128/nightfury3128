@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All that we see or seem is but a dream within a dream. – Edgar Allan Poe"*
+### 💡 *"Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. – Peter Drucker"*
 
-*Last updated: January 30, 2026 at 12:00 AM UTC*
+*Last updated: January 30, 2026 at 02:49 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
