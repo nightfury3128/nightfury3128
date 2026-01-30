@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Over time, loneliness gets inside you and doesn't go away. – Carlos Ruiz Zafon"*
+### 💡 *"Don't be afraid of missing opportunities. Behind every failure is an opportunity somebody wishes they had missed. – Lily Tomlin"*
 
-*Last updated: January 30, 2026 at 02:51 PM UTC*
+*Last updated: January 30, 2026 at 03:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
