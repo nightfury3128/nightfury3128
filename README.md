@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. – Andrew Carnegie"*
+### 💡 *"The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. – Albus Dumbledore"*
 
-*Last updated: January 31, 2026 at 02:33 PM UTC*
+*Last updated: January 31, 2026 at 02:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
