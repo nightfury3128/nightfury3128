@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The way of success is the way of continuous pursuit of knowledge. – Napoleon Hill"*
+### 💡 *"Talk to someone about themselves and they'll listen for hours. – Dale Carnegie"*
 
-*Last updated: January 31, 2026 at 08:22 PM UTC*
+*Last updated: January 31, 2026 at 08:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
