@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen. – Winston Churchill"*
+### 💡 *"Don't explain your philosophy. Embody it. – Epictetus"*
 
-*Last updated: January 31, 2026 at 10:59 PM UTC*
+*Last updated: January 31, 2026 at 11:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
