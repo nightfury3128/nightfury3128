@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. – Robert Kiyosaki"*
+### 💡 *"Showing off is the fool's idea of glory.  – Bruce Lee"*
 
-*Last updated: January 31, 2026 at 07:54 AM UTC*
+*Last updated: January 31, 2026 at 08:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
