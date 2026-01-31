@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Anxiety is the dizziness of freedom. – Soren Kierkegaard"*
+### 💡 *"There is no sadder sight than a young pessimist. – Mark Twain"*
 
-*Last updated: January 31, 2026 at 09:30 PM UTC*
+*Last updated: January 31, 2026 at 09:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
