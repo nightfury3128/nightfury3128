@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime. – Steve Maraboli"*
+### 💡 *"Anxiety is the dizziness of freedom. – Soren Kierkegaard"*
 
-*Last updated: January 31, 2026 at 09:27 AM UTC*
+*Last updated: January 31, 2026 at 09:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
