@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live, travel, adventure, bless, and don't be sorry.   – Jack Kerouac"*
+### 💡 *"Expect the best of yourself, and then do what is necessary to make it a reality. – Ralph Marston"*
 
-*Last updated: January 31, 2026 at 06:28 PM UTC*
+*Last updated: January 31, 2026 at 06:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
