@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perfection is not attainable, but if we chase perfection we can catch excellence. – Vince Lombardi"*
+### 💡 *"Anxiety is the dizziness of freedom. – Soren Kierkegaard"*
 
-*Last updated: January 31, 2026 at 08:59 PM UTC*
+*Last updated: January 31, 2026 at 09:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
