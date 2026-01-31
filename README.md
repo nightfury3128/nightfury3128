@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every adversity, every failure, every heartbreak, carries with it the seed of an equal or greater benefit. – Napoleon Hill"*
+### 💡 *"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents. – Andrew Carnegie"*
 
-*Last updated: January 31, 2026 at 01:59 PM UTC*
+*Last updated: January 31, 2026 at 02:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
