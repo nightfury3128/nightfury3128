@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Talk to someone about themselves and they'll listen for hours. – Dale Carnegie"*
+### 💡 *"Perfection is not attainable, but if we chase perfection we can catch excellence. – Vince Lombardi"*
 
-*Last updated: January 31, 2026 at 08:47 PM UTC*
+*Last updated: January 31, 2026 at 08:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
