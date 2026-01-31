@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A day without laughter is a day wasted. – Charlie Chaplin"*
+### 💡 *"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. – John Lennon"*
 
-*Last updated: January 31, 2026 at 03:45 PM UTC*
+*Last updated: January 31, 2026 at 03:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
