@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
+### 💡 *"You don't need anybody to tell you who you are or what you are. You are what you are! – John Lennon"*
 
-*Last updated: January 31, 2026 at 07:05 AM UTC*
+*Last updated: January 31, 2026 at 07:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
