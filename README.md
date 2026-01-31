@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If I can pay the bills, I'm happy. – Morgan Wootten"*
+### 💡 *"Older men declare war. But it is youth that must fight and die. – Herbert Hoover"*
 
-*Last updated: January 31, 2026 at 04:59 PM UTC*
+*Last updated: January 31, 2026 at 05:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
