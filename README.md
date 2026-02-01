@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your only limitations are those you set up in your mind or permit others to set up for you. – Og Mandino"*
+### 💡 *"If the plan doesn't work, change the plan, but never the goal. – Unknown"*
 
-*Last updated: February 01, 2026 at 10:31 PM UTC*
+*Last updated: February 01, 2026 at 10:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
