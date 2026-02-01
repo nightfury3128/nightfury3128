@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Tis not too late to seek a newer world. – Heraclitus"*
+### 💡 *"Confidence comes not from always being right but not fearing to be wrong. – Unknown"*
 
-*Last updated: February 01, 2026 at 09:20 PM UTC*
+*Last updated: February 01, 2026 at 09:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
