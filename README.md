@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The man who does not value himself, cannot value anything or anyone. – Ayn Rand"*
+### 💡 *"There is only one thing that makes a dream impossible to achieve: the fear of failure. – Paulo Coelho"*
 
-*Last updated: February 01, 2026 at 07:54 AM UTC*
+*Last updated: February 01, 2026 at 08:29 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
