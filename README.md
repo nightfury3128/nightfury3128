@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune.  – Charles Swindoll"*
+### 💡 *"It is not fair to ask of others what you are not willing to do yourself. – Eleanor Roosevelt"*
 
-*Last updated: February 03, 2026 at 04:27 PM UTC*
+*Last updated: February 03, 2026 at 05:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
