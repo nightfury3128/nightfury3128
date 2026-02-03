@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People have the illusion that all over the world, all the time, all kinds of fantastic things are happening. – David Brinkley"*
+### 💡 *"If you want to see things just as they are, then you yourself must practice just as you are. – Dogen"*
 
-*Last updated: February 03, 2026 at 08:01 AM UTC*
+*Last updated: February 03, 2026 at 08:54 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
