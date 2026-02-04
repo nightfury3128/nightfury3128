@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In youth we run into difficulties. In old age difficulties run into us.  – Beverly Sills"*
+### 💡 *"Fear is your worst enemy. Risk is your best friend. – Gurbaksh Chahal"*
 
-*Last updated: February 03, 2026 at 11:56 PM UTC*
+*Last updated: February 04, 2026 at 02:08 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
