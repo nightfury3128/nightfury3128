@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you can't fly, run. If you can't run, walk. If you can't walk, crawl, but by all means, keep moving. – Martin Luther King, Jr."*
+### 💡 *"Your problem isn't the problem. Your reaction is the problem. – Unknown"*
 
-*Last updated: February 04, 2026 at 04:17 AM UTC*
+*Last updated: February 04, 2026 at 05:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
