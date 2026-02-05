@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Love and compassion are necessities, not luxuries. Without them, humanity cannot survive. – Dalai Lama"*
+### 💡 *"If you don't find the time, if you don't do the work, you don't get the results. – Arnold Schwarzenegger"*
 
-*Last updated: February 05, 2026 at 09:56 AM UTC*
+*Last updated: February 05, 2026 at 10:41 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
