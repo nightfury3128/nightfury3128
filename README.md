@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's not the men in your life that matters, it's the life in your men. – Mae West"*
+### 💡 *"The more you take responsibility for your past and present, the more you are able to create the future you seek. – Celestine Chua"*
 
-*Last updated: February 05, 2026 at 02:09 PM UTC*
+*Last updated: February 05, 2026 at 03:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
