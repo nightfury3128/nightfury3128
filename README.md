@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No duty is more urgent than that of returning thanks. – James Allen"*
+### 💡 *"Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy. – Roy T. Bennett"*
 
-*Last updated: February 05, 2026 at 09:02 PM UTC*
+*Last updated: February 05, 2026 at 09:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
