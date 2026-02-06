@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am thankful to all who said no to me. It is because of them that I'm doing it myself. – Albert Einstein"*
+### 💡 *"There is an essence of when you are fearless, you become more creative. – Gurbaksh Chahal"*
 
-*Last updated: February 06, 2026 at 08:05 AM UTC*
+*Last updated: February 06, 2026 at 08:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
