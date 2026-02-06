@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Even when you think you have your life all mapped out, things happen that shape your destiny in ways you might never have imagined. – Deepak Chopra"*
+### 💡 *"If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success. – Mark Manson"*
 
-*Last updated: February 06, 2026 at 06:00 PM UTC*
+*Last updated: February 06, 2026 at 07:04 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
