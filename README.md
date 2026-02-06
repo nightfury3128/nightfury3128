@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain. – Kabir"*
+### 💡 *"It matters not what someone is born, but what they grow to be. – Albus Dumbledore"*
 
-*Last updated: February 06, 2026 at 04:45 AM UTC*
+*Last updated: February 06, 2026 at 05:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
