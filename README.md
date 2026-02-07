@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. – Lao Tzu"*
+### 💡 *"Only the educated are free. – Epictetus"*
 
-*Last updated: February 07, 2026 at 08:51 PM UTC*
+*Last updated: February 07, 2026 at 09:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
