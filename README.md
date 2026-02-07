@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you want something in life, you just gotta reach out and grab it. – Christopher McCandless"*
+### 💡 *"Life is not meant to be easy my child, but take courage: it can be delightful. – George Bernard Shaw"*
 
-*Last updated: February 07, 2026 at 07:37 AM UTC*
+*Last updated: February 07, 2026 at 07:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
