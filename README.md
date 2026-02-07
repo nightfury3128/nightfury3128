@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. – Andrew Carnegie"*
+### 💡 *"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"*
 
-*Last updated: February 07, 2026 at 10:43 PM UTC*
+*Last updated: February 07, 2026 at 11:03 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
