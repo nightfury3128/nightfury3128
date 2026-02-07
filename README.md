@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way. – Osho"*
+### 💡 *"It's not what we do once in a while that shapes our lives, but what we do consistently. – Tony Robbins"*
 
-*Last updated: February 07, 2026 at 11:24 AM UTC*
+*Last updated: February 07, 2026 at 11:43 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
