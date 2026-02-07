@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart. – Roy T. Bennett"*
+### 💡 *"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. – Bob Proctor"*
 
-*Last updated: February 07, 2026 at 11:03 PM UTC*
+*Last updated: February 07, 2026 at 11:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
