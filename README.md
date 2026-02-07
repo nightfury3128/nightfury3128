@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The truth is simple. If it was complicated, everyone would understand it. – Walt Whitman"*
+### 💡 *"Do not look for a sanctuary in anyone except your self. – Buddha"*
 
-*Last updated: February 07, 2026 at 07:33 PM UTC*
+*Last updated: February 07, 2026 at 07:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
