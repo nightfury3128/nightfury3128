@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more reasons you have for achieving your goal, the more determined you will become. – Brian Tracy"*
+### 💡 *"Success and failure come and go, but don't let them define you. It's who you are that matters. – Kamal Ravikant"*
 
-*Last updated: February 06, 2026 at 11:59 PM UTC*
+*Last updated: February 07, 2026 at 02:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
