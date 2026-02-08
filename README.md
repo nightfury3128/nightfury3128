@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Why live an ordinary life, when you can live an extraordinary one. – Tony Robbins"*
+### 💡 *"The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. – Dan Millman"*
 
-*Last updated: February 08, 2026 at 02:44 PM UTC*
+*Last updated: February 08, 2026 at 03:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
