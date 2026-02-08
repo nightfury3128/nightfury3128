@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Art is the signature of civilizations.  – Beverly Sills"*
+### 💡 *"Success is the sum of small efforts, repeated day in and day out. – Robert Collier"*
 
-*Last updated: February 08, 2026 at 09:24 PM UTC*
+*Last updated: February 08, 2026 at 09:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
