@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. – Bob Proctor"*
+### 💡 *"As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others. – Audrey Hepburn"*
 
-*Last updated: February 07, 2026 at 11:43 PM UTC*
+*Last updated: February 08, 2026 at 01:08 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
