@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What keeps life fascinating is the constant creativity of the soul. – Deepak Chopra"*
+### 💡 *"When you know what you want, and you want it bad enough, you will find a way to get it. – Jim Rohn"*
 
-*Last updated: February 08, 2026 at 06:39 PM UTC*
+*Last updated: February 08, 2026 at 07:05 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
