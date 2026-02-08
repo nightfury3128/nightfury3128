@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. – Nicolas Chamfort"*
+### 💡 *"It isn't what you do, but how you do it. – John Wooden"*
 
-*Last updated: February 08, 2026 at 11:31 AM UTC*
+*Last updated: February 08, 2026 at 11:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
