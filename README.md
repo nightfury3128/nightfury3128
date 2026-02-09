@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The thing about smart people is that they seem like crazy people to dumb people. – Stephen Hawking"*
+### 💡 *"Failure is a great teacher. If you're open to it every mistake has a lesson to offer. – Oprah Winfrey"*
 
-*Last updated: February 08, 2026 at 11:48 PM UTC*
+*Last updated: February 09, 2026 at 12:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
