@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We suffer more often in imagination than in reality. – Seneca"*
+### 💡 *"The size of your success is measured by the strength of your desire; the size of your dream; and how you handle disappointment along the way. – Robert Kiyosaki"*
 
-*Last updated: February 09, 2026 at 03:39 PM UTC*
+*Last updated: February 09, 2026 at 05:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
