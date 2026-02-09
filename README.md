@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along. – Celestine Chua"*
+### 💡 *"A man sooner or later discovers that he is the master-gardener of his soul, the director of his life. – James Allen"*
 
-*Last updated: February 09, 2026 at 12:06 PM UTC*
+*Last updated: February 09, 2026 at 01:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
