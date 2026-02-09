@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are always your own best guru, your own best teacher, the answers are always inside you. – Sathya Sai Baba"*
+### 💡 *"A man with outward courage dares to die: a man with inner courage dares to live. – Lao Tzu"*
 
-*Last updated: February 09, 2026 at 03:44 AM UTC*
+*Last updated: February 09, 2026 at 05:20 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
