@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can't have anything worthwhile without difficulties. – Harry S. Truman"*
+### 💡 *"We suffer more often in imagination than in reality. – Seneca"*
 
-*Last updated: February 09, 2026 at 02:41 PM UTC*
+*Last updated: February 09, 2026 at 03:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
