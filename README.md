@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Art is to console those who are broken by life. – Vincent van Gogh"*
+### 💡 *"Try not to become a man of success, but rather try to become a man of value. – Albert Einstein"*
 
-*Last updated: February 10, 2026 at 07:33 PM UTC*
+*Last updated: February 10, 2026 at 08:22 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
