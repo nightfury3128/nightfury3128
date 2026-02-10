@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Darkness is the absence of light. – Kamal Ravikant"*
+### 💡 *"If fear is too strong, the genius is suppressed. – Robert Kiyosaki"*
 
-*Last updated: February 10, 2026 at 01:49 PM UTC*
+*Last updated: February 10, 2026 at 02:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
