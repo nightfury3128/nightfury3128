@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Who you are is defined by what you're willing to struggle for. – Mark Manson"*
+### 💡 *"Whatever your heart clings to and confides in, that is really your God. – Martin Luther"*
 
-*Last updated: February 11, 2026 at 07:31 AM UTC*
+*Last updated: February 11, 2026 at 08:08 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
