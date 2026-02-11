@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Ask no questions, and you'll be told no lies. – Charles Dickens"*
+### 💡 *"Quality means doing it right when no one is looking. – Henry Ford"*
 
-*Last updated: February 11, 2026 at 11:17 PM UTC*
+*Last updated: February 11, 2026 at 11:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
