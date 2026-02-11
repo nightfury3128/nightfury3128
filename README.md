@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Someday death will take us to another star. – Vincent van Gogh"*
+### 💡 *"You have within you right now, everything you need to deal with whatever the world can throw at you. – Brian Tracy"*
 
-*Last updated: February 10, 2026 at 11:26 PM UTC*
+*Last updated: February 11, 2026 at 12:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
