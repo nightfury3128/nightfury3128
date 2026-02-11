@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What gets measured gets improved. – Robin Sharma"*
+### 💡 *"A good character is the best tombstone. Carve your name on hearts, not on marble. – Charles Spurgeon"*
 
-*Last updated: February 11, 2026 at 10:06 AM UTC*
+*Last updated: February 11, 2026 at 11:06 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
