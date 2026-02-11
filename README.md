@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! – Tony Robbins"*
+### 💡 *"Integrity is the ability to stand by an idea. – Ayn Rand"*
 
-*Last updated: February 11, 2026 at 07:38 PM UTC*
+*Last updated: February 11, 2026 at 08:05 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
