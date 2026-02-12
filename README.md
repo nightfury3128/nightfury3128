@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now. – Spencer Johnson"*
+### 💡 *"Life is about choice. You can choose to be a victim or anything else you like to be. – Celestine Chua"*
 
-*Last updated: February 12, 2026 at 07:19 PM UTC*
+*Last updated: February 12, 2026 at 07:54 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
