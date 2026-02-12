@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you think adventure is dangerous, try routine; it is lethal. – Paulo Coelho"*
+### 💡 *"Don't bother people for help without first trying to solve the problem yourself. – Colin Powell"*
 
-*Last updated: February 12, 2026 at 11:03 AM UTC*
+*Last updated: February 12, 2026 at 11:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
