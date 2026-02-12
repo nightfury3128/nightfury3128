@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A creative man is motivated by the desire to achieve, not by the desire to beat others. – Ayn Rand"*
+### 💡 *"Investing in yourself is the best investment you will ever make. – Robin Sharma"*
 
-*Last updated: February 12, 2026 at 05:17 AM UTC*
+*Last updated: February 12, 2026 at 06:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
