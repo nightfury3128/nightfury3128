@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Care about what other people think and you will always be their prisoner. – Lao Tzu"*
+### 💡 *"It doesn't matter how much you want. What really matters is how much you want it. – Ralph Marston"*
 
-*Last updated: February 12, 2026 at 09:02 PM UTC*
+*Last updated: February 12, 2026 at 09:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
