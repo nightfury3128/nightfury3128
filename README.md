@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We can see through others only when we can see through ourselves. – Bruce Lee"*
+### 💡 *"Care about what other people think and you will always be their prisoner. – Lao Tzu"*
 
-*Last updated: February 12, 2026 at 08:32 PM UTC*
+*Last updated: February 12, 2026 at 09:02 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
