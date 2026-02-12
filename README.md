@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is about choice. You can choose to be a victim or anything else you like to be. – Celestine Chua"*
+### 💡 *"We can see through others only when we can see through ourselves. – Bruce Lee"*
 
-*Last updated: February 12, 2026 at 07:54 PM UTC*
+*Last updated: February 12, 2026 at 08:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
