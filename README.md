@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you find you are not valued and appreciated, then shift your attention to places where you will be valued and appreciated. – Celestine Chua"*
+### 💡 *"Your purpose will be clear only when you listen to your heart. – Lolly Daskal"*
 
-*Last updated: February 12, 2026 at 05:14 PM UTC*
+*Last updated: February 12, 2026 at 06:09 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
