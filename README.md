@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar"*
+### 💡 *"From a certain point onward there is no longer any turning back. That is the point that must be reached. – Franz Kafka"*
 
-*Last updated: February 13, 2026 at 08:35 PM UTC*
+*Last updated: February 13, 2026 at 09:07 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
