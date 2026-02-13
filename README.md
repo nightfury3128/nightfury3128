@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. – Steve Maraboli"*
+### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
 
-*Last updated: February 13, 2026 at 10:57 AM UTC*
+*Last updated: February 13, 2026 at 11:35 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
