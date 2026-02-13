@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this. – Henry David Thoreau"*
+### 💡 *"It is often safer to be in chains than to be free.  – Franz Kafka"*
 
-*Last updated: February 13, 2026 at 11:29 PM UTC*
+*Last updated: February 13, 2026 at 11:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
