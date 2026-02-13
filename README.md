@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that. – Eckhart Tolle"*
+### 💡 *"Be brave enough to suck at something new. – Unknown"*
 
-*Last updated: February 13, 2026 at 06:05 PM UTC*
+*Last updated: February 13, 2026 at 07:06 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
