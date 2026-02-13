@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The man who moved the mountain was the one who began carrying away the smallest stones. – Zen Proverb"*
+### 💡 *"Too many of us are not living our dreams because we are living our fears. – Les Brown"*
 
-*Last updated: February 13, 2026 at 10:18 PM UTC*
+*Last updated: February 13, 2026 at 10:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
