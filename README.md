@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I don't pretend to know everything; I just only speak on matters I know I'll win. – Criss Jami"*
+### 💡 *"Everyone sees what you appear to be, few experience what you really are. – Niccolo Machiavelli"*
 
-*Last updated: February 14, 2026 at 05:49 PM UTC*
+*Last updated: February 14, 2026 at 06:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
