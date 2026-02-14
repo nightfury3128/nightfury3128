@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Receive without pride, let go without attachment. – Marcus Aurelius"*
+### 💡 *"Changing minds is harder than finding people who already agree. – Jack Butcher"*
 
-*Last updated: February 14, 2026 at 11:23 PM UTC*
+*Last updated: February 14, 2026 at 11:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
