@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rich people have small TVs and big libraries, and poor people have small libraries and big TVs. – Zig Ziglar"*
+### 💡 *"Don't stop when you're tired. Stop when you're done. – Marilyn Monroe"*
 
-*Last updated: February 14, 2026 at 11:51 AM UTC*
+*Last updated: February 14, 2026 at 12:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
