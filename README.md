@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"She who loves roses must be patient and not cry out when she is pierced by thorns. – Kenji Miyazawa"*
+### 💡 *"Love the life you live, live the life you love. – Bob Marley"*
 
-*Last updated: February 14, 2026 at 02:40 PM UTC*
+*Last updated: February 14, 2026 at 03:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
