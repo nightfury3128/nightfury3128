@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't stop when you're tired. Stop when you're done. – Marilyn Monroe"*
+### 💡 *"When angry count to ten before you speak. If very angry, count to one hundred. – Thomas Jefferson"*
 
-*Last updated: February 14, 2026 at 12:42 PM UTC*
+*Last updated: February 14, 2026 at 01:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
