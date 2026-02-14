@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more you take responsibility for your past and present, the more you are able to create the future you seek. – Celestine Chua"*
+### 💡 *"You have within you right now, everything you need to deal with whatever the world can throw at you. – Brian Tracy"*
 
-*Last updated: February 14, 2026 at 08:48 AM UTC*
+*Last updated: February 14, 2026 at 09:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
