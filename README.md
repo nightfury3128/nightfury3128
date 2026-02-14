@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Conscience is a man's compass.  – Vincent van Gogh"*
+### 💡 *"In order to control myself I must first accept myself by going with and not against my nature. – Bruce Lee"*
 
-*Last updated: February 14, 2026 at 10:44 AM UTC*
+*Last updated: February 14, 2026 at 11:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
