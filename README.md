@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Doing what you love is the cornerstone of having abundance in your life.  – Wayne Dyer"*
+### 💡 *"The more you take responsibility for your past and present, the more you are able to create the future you seek. – Celestine Chua"*
 
-*Last updated: February 14, 2026 at 08:00 AM UTC*
+*Last updated: February 14, 2026 at 08:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
