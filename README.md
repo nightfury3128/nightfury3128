@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"In order to control myself I must first accept myself by going with and not against my nature. – Bruce Lee"*
+### 💡 *"Those who cannot change their minds cannot change anything. – George Bernard Shaw"*
 
-*Last updated: February 14, 2026 at 11:01 AM UTC*
+*Last updated: February 14, 2026 at 11:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
