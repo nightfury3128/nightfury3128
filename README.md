@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is often safer to be in chains than to be free.  – Franz Kafka"*
+### 💡 *"Anyone who reads a book with a sense of obligation does not understand the art of reading. – Lin Yutang"*
 
-*Last updated: February 13, 2026 at 11:55 PM UTC*
+*Last updated: February 14, 2026 at 01:55 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
