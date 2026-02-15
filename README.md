@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You cannot push anyone up a ladder unless he is willing to climb a little himself. – Andrew Carnegie"*
+### 💡 *"There is only one thing that makes a dream impossible to achieve: the fear of failure. – Paulo Coelho"*
 
-*Last updated: February 15, 2026 at 10:12 AM UTC*
+*Last updated: February 15, 2026 at 10:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
