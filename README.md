@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Take responsibility of your own happiness, never put it in other people's hands. – Roy T. Bennett"*
+### 💡 *"Be who you are and say what you feel because those who mind don't matter and those who matter don't mind. – Dr. Seuss"*
 
-*Last updated: February 15, 2026 at 07:51 PM UTC*
+*Last updated: February 15, 2026 at 08:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
