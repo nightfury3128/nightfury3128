@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not regret the past. Look to the future. – Soyen Shaku"*
+### 💡 *"Do not wait for leaders; do it alone, person to person. – Mother Teresa"*
 
-*Last updated: February 15, 2026 at 11:11 AM UTC*
+*Last updated: February 15, 2026 at 11:38 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
