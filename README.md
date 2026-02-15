@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To arrive at the simplest truth requires years of contemplation. – Isaac Newton"*
+### 💡 *"Never waste a minute of your precious life thinking about people you don't like. – Celestine Chua"*
 
-*Last updated: February 15, 2026 at 02:42 PM UTC*
+*Last updated: February 15, 2026 at 03:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
