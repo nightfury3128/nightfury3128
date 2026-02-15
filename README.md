@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't seek, don't search, don't ask, don't knock, don't demand - relax. – Osho"*
+### 💡 *"We suffer more often in imagination than in reality.   – Seneca"*
 
-*Last updated: February 15, 2026 at 10:34 PM UTC*
+*Last updated: February 15, 2026 at 10:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
