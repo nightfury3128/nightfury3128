@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Not all those who wander are lost. – J.R.R. Tolkien"*
+### 💡 *"You cannot push anyone up a ladder unless he is willing to climb a little himself. – Andrew Carnegie"*
 
-*Last updated: February 15, 2026 at 09:49 AM UTC*
+*Last updated: February 15, 2026 at 10:12 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
