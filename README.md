@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We suffer more often in imagination than in reality.   – Seneca"*
+### 💡 *"The wise speak only of what they know. – J.R.R. Tolkien"*
 
-*Last updated: February 15, 2026 at 10:57 PM UTC*
+*Last updated: February 15, 2026 at 11:30 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
