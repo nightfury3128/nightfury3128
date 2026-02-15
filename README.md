@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Out of suffering have emerged the strongest souls; the most massive characters are seared with scars. – Kahlil Gibran"*
+### 💡 *"Take responsibility of your own happiness, never put it in other people's hands. – Roy T. Bennett"*
 
-*Last updated: February 15, 2026 at 07:35 PM UTC*
+*Last updated: February 15, 2026 at 07:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
