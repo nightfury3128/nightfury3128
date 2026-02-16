@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What we dwell on is who we become. – Oprah Winfrey"*
+### 💡 *"You can't get to a place that you don't believe exists. – Unknown"*
 
-*Last updated: February 16, 2026 at 07:59 AM UTC*
+*Last updated: February 16, 2026 at 09:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
