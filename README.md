@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The big thing is to make a winning effort. I'm not obsessed with wins. – Morgan Wootten"*
+### 💡 *"Do not allow your inner doubts to keep you from achieving what you can do. – Lolly Daskal"*
 
-*Last updated: February 16, 2026 at 02:06 AM UTC*
+*Last updated: February 16, 2026 at 04:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
