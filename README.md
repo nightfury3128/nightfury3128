@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Why do you stay in prison when the door is so wide open? – Rumi"*
+### 💡 *"Rest in reason; move in passion. – Kahlil Gibran"*
 
-*Last updated: February 16, 2026 at 11:50 AM UTC*
+*Last updated: February 16, 2026 at 12:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
