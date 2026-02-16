@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Rest in reason; move in passion. – Kahlil Gibran"*
+### 💡 *"The only lost cause is one we give up on before we enter the struggle. – Vaclav Havel"*
 
-*Last updated: February 16, 2026 at 12:58 PM UTC*
+*Last updated: February 16, 2026 at 02:06 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
