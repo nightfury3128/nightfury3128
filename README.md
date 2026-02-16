@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Leave the beaten track behind occasionally and dive into the woods. Every time you do you will be certain to find something you have never seen before. – Alexander Graham Bell"*
+### 💡 *"The big thing is to make a winning effort. I'm not obsessed with wins. – Morgan Wootten"*
 
-*Last updated: February 15, 2026 at 11:55 PM UTC*
+*Last updated: February 16, 2026 at 02:06 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
