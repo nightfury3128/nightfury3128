@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To belittle, you have to be little. – Kahlil Gibran"*
+### 💡 *"I hear and I forget. I see and I remember. I do and I understand.  – Confucius"*
 
-*Last updated: February 16, 2026 at 10:57 PM UTC*
+*Last updated: February 16, 2026 at 11:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
