@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Peaceful is the one who expects nothing. – Maxime Lagace"*
+### 💡 *"Why do you stay in prison when the door is so wide open? – Rumi"*
 
-*Last updated: February 16, 2026 at 11:05 AM UTC*
+*Last updated: February 16, 2026 at 11:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
