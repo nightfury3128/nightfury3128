@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The person who never made a mistake never tried anything new. – Albert Einstein"*
+### 💡 *"This is the most simple and basic component of life: our struggles determine our successes. – Mark Manson"*
 
-*Last updated: February 17, 2026 at 07:37 AM UTC*
+*Last updated: February 17, 2026 at 08:25 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
