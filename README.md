@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Who you are is defined by what you're willing to struggle for. – Mark Manson"*
+### 💡 *"Those who cannot change their minds cannot change anything. – George Bernard Shaw"*
 
-*Last updated: February 17, 2026 at 05:45 AM UTC*
+*Last updated: February 17, 2026 at 06:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
