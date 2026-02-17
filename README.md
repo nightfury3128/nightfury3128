@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness. – Unknown"*
+### 💡 *"Who you are is defined by what you're willing to struggle for. – Mark Manson"*
 
-*Last updated: February 17, 2026 at 04:30 AM UTC*
+*Last updated: February 17, 2026 at 05:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
