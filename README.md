@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"From morning till night, we should never rely on a single thing. – Huang Po"*
+### 💡 *"Act the way you want to be and soon you'll be the way you act. – Les Brown"*
 
-*Last updated: February 17, 2026 at 07:13 PM UTC*
+*Last updated: February 17, 2026 at 07:53 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
