@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you don't have time to do it right, when will you have time to do it over? – John Wooden"*
+### 💡 *"Do not think you will necessarily be aware of your own enlightenment. – Dogen"*
 
-*Last updated: February 17, 2026 at 09:46 PM UTC*
+*Last updated: February 17, 2026 at 10:14 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
