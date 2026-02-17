@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you put water into a cup, it becomes the cup. – Bruce Lee"*
+### 💡 *"The scariest monsters are the ones that lurk within our souls. – Edgar Allan Poe"*
 
-*Last updated: February 17, 2026 at 04:04 PM UTC*
+*Last updated: February 17, 2026 at 05:13 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
