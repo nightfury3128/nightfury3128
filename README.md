@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not think you will necessarily be aware of your own enlightenment. – Dogen"*
+### 💡 *"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. – Ming-Dao Deng"*
 
-*Last updated: February 17, 2026 at 10:14 PM UTC*
+*Last updated: February 17, 2026 at 10:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
