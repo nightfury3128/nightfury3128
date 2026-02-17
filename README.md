@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nothing can dim the light which shines from within. – Maya Angelou"*
+### 💡 *"Who you are is defined by what you're willing to struggle for. – Mark Manson"*
 
-*Last updated: February 17, 2026 at 12:59 PM UTC*
+*Last updated: February 17, 2026 at 02:09 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
