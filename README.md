@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work. – John Eliot"*
+### 💡 *"You can often change your circumstances by changing your attitude. – Eleanor Roosevelt"*
 
-*Last updated: February 17, 2026 at 08:34 PM UTC*
+*Last updated: February 17, 2026 at 09:06 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
