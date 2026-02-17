@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. – Ming-Dao Deng"*
+### 💡 *"Failure is just information and an opportunity to change your course. – Oprah Winfrey"*
 
-*Last updated: February 17, 2026 at 10:52 PM UTC*
+*Last updated: February 17, 2026 at 11:26 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
