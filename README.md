@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can often change your circumstances by changing your attitude. – Eleanor Roosevelt"*
+### 💡 *"If you don't have time to do it right, when will you have time to do it over? – John Wooden"*
 
-*Last updated: February 17, 2026 at 09:06 PM UTC*
+*Last updated: February 17, 2026 at 09:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
