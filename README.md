@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What you resist, persists. – Carl Jung"*
+### 💡 *"To some degree, you control your life by controlling your time. – Conrad Hilton"*
 
-*Last updated: February 18, 2026 at 07:57 PM UTC*
+*Last updated: February 18, 2026 at 08:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
