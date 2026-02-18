@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only way to make sense out of change is to plunge into it, move with it, and join the dance. – Alan Watts"*
+### 💡 *"What you resist, persists. – Carl Jung"*
 
-*Last updated: February 18, 2026 at 07:11 PM UTC*
+*Last updated: February 18, 2026 at 07:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
