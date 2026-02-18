@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"From a certain point onward there is no longer any turning back. That is the point that must be reached. – Franz Kafka"*
+### 💡 *"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. – Criss Jami"*
 
-*Last updated: February 18, 2026 at 02:00 AM UTC*
+*Last updated: February 18, 2026 at 04:27 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
