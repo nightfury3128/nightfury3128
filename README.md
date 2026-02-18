@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To some degree, you control your life by controlling your time. – Conrad Hilton"*
+### 💡 *"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. – Eleanor Roosevelt"*
 
-*Last updated: February 18, 2026 at 08:43 PM UTC*
+*Last updated: February 18, 2026 at 09:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
