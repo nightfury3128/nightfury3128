@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give. – Eleanor Roosevelt"*
+### 💡 *"The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. – George Bernard Shaw"*
 
-*Last updated: February 18, 2026 at 09:23 PM UTC*
+*Last updated: February 18, 2026 at 09:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
