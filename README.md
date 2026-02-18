@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Any game becomes important when you know and love the players. – W.P. Kinsella"*
+### 💡 *"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive. – Maxime Lagace"*
 
-*Last updated: February 18, 2026 at 03:03 PM UTC*
+*Last updated: February 18, 2026 at 04:04 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
