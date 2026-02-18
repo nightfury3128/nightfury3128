@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. – Criss Jami"*
+### 💡 *"Today will never happen again. Don't waste it with a false start or no start at all. – Og Mandino"*
 
-*Last updated: February 18, 2026 at 04:27 AM UTC*
+*Last updated: February 18, 2026 at 05:44 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
