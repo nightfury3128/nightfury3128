@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. – Dan Millman"*
+### 💡 *"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? – Sathya Sai Baba"*
 
-*Last updated: February 19, 2026 at 07:17 AM UTC*
+*Last updated: February 19, 2026 at 08:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
