@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You do not read a book for the book's sake, but for your own. – Earl Nightingale"*
+### 💡 *"Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. – Dan Millman"*
 
-*Last updated: February 19, 2026 at 06:11 AM UTC*
+*Last updated: February 19, 2026 at 07:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
