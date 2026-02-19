@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? – Sathya Sai Baba"*
+### 💡 *"You are your best thing. – Toni Morrison"*
 
-*Last updated: February 19, 2026 at 08:00 AM UTC*
+*Last updated: February 19, 2026 at 09:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
