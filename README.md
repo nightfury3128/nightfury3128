@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's better to dance than to march through life. – Yoko Ono"*
+### 💡 *"There is no significance in life without struggle. – Lolly Daskal"*
 
-*Last updated: February 19, 2026 at 10:01 AM UTC*
+*Last updated: February 19, 2026 at 11:02 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
