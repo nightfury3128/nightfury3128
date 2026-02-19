@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Create each day anew. – Morihei Ueshiba"*
+### 💡 *"When something comes from within, when it is a part of you, you have no choice but to live it, to express it. – Kamal Ravikant"*
 
-*Last updated: February 19, 2026 at 11:03 PM UTC*
+*Last updated: February 19, 2026 at 11:42 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
