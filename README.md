@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"All cruelty springs from weakness.   – Seneca"*
+### 💡 *"Life is like riding a bicycle. To keep your balance you must keep moving. – Albert Einstein"*
 
-*Last updated: February 20, 2026 at 11:39 PM UTC*
+*Last updated: February 20, 2026 at 11:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
