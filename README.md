@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stop wasting time defending your problems and work on addressing them instead. – Celestine Chua"*
+### 💡 *"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand. – Thich Nhat Hanh"*
 
-*Last updated: February 20, 2026 at 09:42 AM UTC*
+*Last updated: February 20, 2026 at 10:21 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
