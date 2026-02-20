@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You're never too old for anything. – Betty White"*
+### 💡 *"If a man knows not to which port he sails, no wind is favorable.   – Seneca"*
 
-*Last updated: February 20, 2026 at 10:37 PM UTC*
+*Last updated: February 20, 2026 at 11:00 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
