@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"My actions are my only true belongings. I cannot escape the consequences of my actions. My actions are the ground upon which I stand. – Thich Nhat Hanh"*
+### 💡 *"Your business is not to 'get somewhere' - it is to be here. – Dan Millman"*
 
-*Last updated: February 20, 2026 at 10:21 AM UTC*
+*Last updated: February 20, 2026 at 11:03 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
