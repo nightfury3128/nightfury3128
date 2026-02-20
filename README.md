@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is ignorance that causes most mistakes. – Harry S. Truman"*
+### 💡 *"Motivation is what gets you started. Habit is what keeps you going. – Jim Rohn"*
 
-*Last updated: February 20, 2026 at 04:44 AM UTC*
+*Last updated: February 20, 2026 at 05:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
