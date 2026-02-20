@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. – Richard Bach"*
+### 💡 *"Stop wasting time defending your problems and work on addressing them instead. – Celestine Chua"*
 
-*Last updated: February 20, 2026 at 08:56 AM UTC*
+*Last updated: February 20, 2026 at 09:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
