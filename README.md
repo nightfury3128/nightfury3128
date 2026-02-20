@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is easier to fight for one's principles than to live up to them.  – Alfred Adler"*
+### 💡 *"You can have the mind or you can have the moment. – Naval Ravikant"*
 
-*Last updated: February 20, 2026 at 02:10 PM UTC*
+*Last updated: February 20, 2026 at 02:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
