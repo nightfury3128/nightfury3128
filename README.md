@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can have the mind or you can have the moment. – Naval Ravikant"*
+### 💡 *"Words have no power to impress the mind without the exquisite horror of their reality. – Edgar Allan Poe"*
 
-*Last updated: February 20, 2026 at 02:59 PM UTC*
+*Last updated: February 20, 2026 at 03:44 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
