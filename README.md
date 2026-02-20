@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Ponder and deliberate before you make a move. – Sun Tzu"*
+### 💡 *"You have to give up some of the old so that you can make room for the new. – Yanni"*
 
-*Last updated: February 20, 2026 at 07:27 PM UTC*
+*Last updated: February 20, 2026 at 07:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
