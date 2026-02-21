@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Trying to define yourself is like trying to bite your own teeth. – Zen Proverb"*
+### 💡 *"Fools talk, cowards are silent, wise men listen. – Carlos Ruiz Zafon"*
 
-*Last updated: February 21, 2026 at 04:18 AM UTC*
+*Last updated: February 21, 2026 at 05:13 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
