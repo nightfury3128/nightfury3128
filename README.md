@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Attitude is a little thing that makes a big difference. – Winston Churchill"*
+### 💡 *"If you don't know, the thing to do is not to get scared, but to learn. – Ayn Rand"*
 
-*Last updated: February 21, 2026 at 10:20 PM UTC*
+*Last updated: February 21, 2026 at 10:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
