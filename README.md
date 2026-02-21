@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To be fully alive is to feel that everything is possible. – Eric Hoffer"*
+### 💡 *"Be brave. Take risks. Nothing can substitute experience. – Paulo Coelho"*
 
-*Last updated: February 21, 2026 at 04:26 PM UTC*
+*Last updated: February 21, 2026 at 04:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
