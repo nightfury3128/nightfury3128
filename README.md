@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero. – Kabir"*
+### 💡 *"Life is about not knowing and then doing something anyway. – Mark Manson"*
 
-*Last updated: February 21, 2026 at 02:02 PM UTC*
+*Last updated: February 21, 2026 at 02:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
