@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The best revenge is to be unlike him who performed the injury. – Marcus Aurelius"*
+### 💡 *"You can only be afraid of what you think you know. – Jiddu Krishnamurti"*
 
-*Last updated: February 21, 2026 at 03:31 PM UTC*
+*Last updated: February 21, 2026 at 03:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
