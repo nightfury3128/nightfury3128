@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Faults are yours to fix, not to curse. – Colin Powell"*
+### 💡 *"Nothing is easier than fault finding. – Og Mandino"*
 
-*Last updated: February 21, 2026 at 10:23 AM UTC*
+*Last updated: February 21, 2026 at 10:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
