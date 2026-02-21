@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Persistence is very important. You should not give up unless you are forced to give up. – Elon Musk"*
+### 💡 *"The soul is neither born, and nor does it die. – Bhagavad Gita"*
 
-*Last updated: February 21, 2026 at 11:01 PM UTC*
+*Last updated: February 21, 2026 at 11:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
