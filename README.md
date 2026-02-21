@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Humans and prosperity never endure side by side for long. – Herodotus"*
+### 💡 *"Faults are yours to fix, not to curse. – Colin Powell"*
 
-*Last updated: February 21, 2026 at 09:54 AM UTC*
+*Last updated: February 21, 2026 at 10:23 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
