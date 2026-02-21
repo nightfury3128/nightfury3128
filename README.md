@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I put my heart and soul into my work, and I have lost my mind in the process. – Vincent van Gogh"*
+### 💡 *"If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. – Dogen"*
 
-*Last updated: February 21, 2026 at 05:50 PM UTC*
+*Last updated: February 21, 2026 at 06:31 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
