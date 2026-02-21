@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you don't know, the thing to do is not to get scared, but to learn. – Ayn Rand"*
+### 💡 *"Persistence is very important. You should not give up unless you are forced to give up. – Elon Musk"*
 
-*Last updated: February 21, 2026 at 10:49 PM UTC*
+*Last updated: February 21, 2026 at 11:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
