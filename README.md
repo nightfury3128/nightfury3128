@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's not about what it is, it's about what it can become. – Dr. Seuss"*
+### 💡 *"Do not regret the past. Look to the future. – Soyen Shaku"*
 
-*Last updated: February 21, 2026 at 08:27 AM UTC*
+*Last updated: February 21, 2026 at 08:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
