@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy. – Norman Vincent Peale"*
+### 💡 *"Obstacles don't block the path, they are the path. – Zen Proverb"*
 
-*Last updated: February 21, 2026 at 12:52 PM UTC*
+*Last updated: February 21, 2026 at 01:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
