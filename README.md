@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The key to success is failure. – Michael Jordan"*
+### 💡 *"It's the unknown we fear when we look upon death and darkness, nothing more. – Albus Dumbledore"*
 
-*Last updated: February 22, 2026 at 04:23 AM UTC*
+*Last updated: February 22, 2026 at 05:33 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
