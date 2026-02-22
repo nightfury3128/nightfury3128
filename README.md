@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Failure is just information and an opportunity to change your course. – Oprah Winfrey"*
+### 💡 *"Instead of worrying about what you cannot control, shift your energy to what you can create. – Roy T. Bennett"*
 
-*Last updated: February 22, 2026 at 11:39 AM UTC*
+*Last updated: February 22, 2026 at 11:53 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
