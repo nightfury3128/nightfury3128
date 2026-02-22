@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Confidence is what you have before you understand the problem. – Woody Allen"*
+### 💡 *"Feelings come and go like clouds in a windy sky. Conscious breathing is my anchor. – Thich Nhat Hanh"*
 
-*Last updated: February 22, 2026 at 05:27 PM UTC*
+*Last updated: February 22, 2026 at 05:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
