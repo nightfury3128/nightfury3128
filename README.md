@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There are more people who wish to be loved than there are who are willing to love.  – Nicolas Chamfort"*
+### 💡 *"Arise, slay thy enemies, enjoy a prosperous kingdom. – Bhagavad Gita"*
 
-*Last updated: February 22, 2026 at 10:56 PM UTC*
+*Last updated: February 22, 2026 at 11:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
