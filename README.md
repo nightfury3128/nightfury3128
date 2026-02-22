@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The deeper the truth in a creative work, the longer it will live.   – Charlie Chaplin"*
+### 💡 *"Failure is just information and an opportunity to change your course. – Oprah Winfrey"*
 
-*Last updated: February 22, 2026 at 11:19 AM UTC*
+*Last updated: February 22, 2026 at 11:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
