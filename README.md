@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can discover what your enemy fears most by observing the means he uses to frighten you. – Eric Hoffer"*
+### 💡 *"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties. – Harry S. Truman"*
 
-*Last updated: February 22, 2026 at 07:50 AM UTC*
+*Last updated: February 22, 2026 at 08:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
