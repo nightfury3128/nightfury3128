@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No one can hurt you without your consent. – Eleanor Roosevelt"*
+### 💡 *"Absorb what is useful, discard what is useless and add what is specifically your own.   – Bruce Lee"*
 
-*Last updated: February 22, 2026 at 09:11 PM UTC*
+*Last updated: February 22, 2026 at 09:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
