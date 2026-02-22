@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Only those who dare to fail greatly can ever achieve greatly. – Robert F. Kennedy"*
+### 💡 *"The key to success is failure. – Michael Jordan"*
 
-*Last updated: February 22, 2026 at 01:59 AM UTC*
+*Last updated: February 22, 2026 at 04:23 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
