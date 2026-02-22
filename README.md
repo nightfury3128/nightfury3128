@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The wise speak only of what they know. – J.R.R. Tolkien"*
+### 💡 *"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. – Robert Kiyosaki"*
 
-*Last updated: February 22, 2026 at 08:24 PM UTC*
+*Last updated: February 22, 2026 at 08:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
