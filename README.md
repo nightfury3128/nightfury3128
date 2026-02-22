@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you can handle rejection, you'll learn to get everything you want. – Tony Robbins"*
+### 💡 *"Unhappiness enters through a door that has been left open. – Zen Proverb"*
 
-*Last updated: February 22, 2026 at 03:00 PM UTC*
+*Last updated: February 22, 2026 at 03:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
