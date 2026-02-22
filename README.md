@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Open your mind before your mouth. – Aristophanes"*
+### 💡 *"There can be no deep disappointment where there is not deep love. – Martin Luther King, Jr."*
 
-*Last updated: February 22, 2026 at 09:58 PM UTC*
+*Last updated: February 22, 2026 at 10:33 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
