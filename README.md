@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The destiny of man is in his own soul.  – Herodotus"*
+### 💡 *"Only those who dare to fail greatly can ever achieve greatly. – Robert F. Kennedy"*
 
-*Last updated: February 21, 2026 at 11:52 PM UTC*
+*Last updated: February 22, 2026 at 01:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
