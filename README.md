@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's the unknown we fear when we look upon death and darkness, nothing more. – Albus Dumbledore"*
+### 💡 *"Success is getting what you want. Happiness is wanting what you get. – Andrew Carnegie"*
 
-*Last updated: February 22, 2026 at 05:33 AM UTC*
+*Last updated: February 22, 2026 at 06:26 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
