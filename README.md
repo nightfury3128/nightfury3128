@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again. – Og Mandino"*
+### 💡 *"Learn the rules like a pro, so you can break them like an artist. – Pablo Picasso"*
 
-*Last updated: February 23, 2026 at 09:00 PM UTC*
+*Last updated: February 23, 2026 at 09:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
