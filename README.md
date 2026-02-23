@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Often we pass beside happiness without seeing it, without looking at it, or even if we have seen and looked at it, without recognizing it. – Alexandre Dumas"*
+### 💡 *"Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. – William James"*
 
-*Last updated: February 22, 2026 at 11:49 PM UTC*
+*Last updated: February 23, 2026 at 12:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
