@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The only way it gets better for you is when you get better. Better is not something you wish, it's something you become. – Jim Rohn"*
+### 💡 *"She who loves roses must be patient and not cry out when she is pierced by thorns. – Kenji Miyazawa"*
 
-*Last updated: February 23, 2026 at 12:59 PM UTC*
+*Last updated: February 23, 2026 at 02:10 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
