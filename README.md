@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"I am thankful to all those who said no. It's because of them, I did it myself.   – Wayne Dyer"*
+### 💡 *"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. – John Wooden"*
 
-*Last updated: February 24, 2026 at 02:16 PM UTC*
+*Last updated: February 24, 2026 at 03:12 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
