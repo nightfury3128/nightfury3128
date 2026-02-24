@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Associate yourself with men of good quality, if you esteem your own reputation; for 'tis better to be alone than in bad company.  – George Washington"*
+### 💡 *"Falling down is not failure. Failure comes when you stay where you have fallen. – Socrates"*
 
-*Last updated: February 23, 2026 at 11:52 PM UTC*
+*Last updated: February 24, 2026 at 01:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
