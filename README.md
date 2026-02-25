@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone wants to go to Heaven, but no one wants to die. – Robert Kiyosaki"*
+### 💡 *"Sometimes it is more important to discover what one cannot do, than what one can do. – Lin Yutang"*
 
-*Last updated: February 25, 2026 at 10:07 AM UTC*
+*Last updated: February 25, 2026 at 11:07 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
