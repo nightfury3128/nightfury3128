@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who possesses most must be most afraid of loss. – Leonardo da Vinci"*
+### 💡 *"Don't explain your philosophy. Embody it. – Epictetus"*
 
-*Last updated: February 24, 2026 at 11:49 PM UTC*
+*Last updated: February 25, 2026 at 12:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
