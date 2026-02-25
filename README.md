@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People who avoid failure also avoid success. – Robert Kiyosaki"*
+### 💡 *"It is not fair to ask of others what you are not willing to do yourself. – Eleanor Roosevelt"*
 
-*Last updated: February 25, 2026 at 05:39 PM UTC*
+*Last updated: February 25, 2026 at 06:40 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
