@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more you extend kindness to yourself, the more it will become your automatic response to others. – Wayne Dyer"*
+### 💡 *"Don't give up on your dreams, or your dreams will give up on you. – John Wooden"*
 
-*Last updated: February 25, 2026 at 05:15 AM UTC*
+*Last updated: February 25, 2026 at 06:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
