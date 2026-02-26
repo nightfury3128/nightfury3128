@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Behind every beautiful thing, there's some kind of pain. – Bob Dylan"*
+### 💡 *"The purpose of life is to contribute in some way to making things better. – Robert F. Kennedy"*
 
-*Last updated: February 26, 2026 at 11:27 PM UTC*
+*Last updated: February 26, 2026 at 11:53 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
