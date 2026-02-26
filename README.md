@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We cannot expect to be happy always... by experiencing evil as well as good we become wise. – Hans Christian Andersen"*
+### 💡 *"Become the kind of leader that people would follow voluntarily, even if you had no title or position. – Brian Tracy"*
 
-*Last updated: February 26, 2026 at 10:03 PM UTC*
+*Last updated: February 26, 2026 at 10:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
