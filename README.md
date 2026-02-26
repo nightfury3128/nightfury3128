@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Whether you think you can or think you can't – you are right. – Henry Ford"*
+### 💡 *"Learn only how to avoid seeking for and attaching yourselves to anything. – Huang Po"*
 
-*Last updated: February 26, 2026 at 07:07 PM UTC*
+*Last updated: February 26, 2026 at 07:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
