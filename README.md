@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Good things aren't supposed to just fall into your lap. – Audrey Hepburn"*
+### 💡 *"Never waste a minute of your precious life thinking about people you don't like. – Celestine Chua"*
 
-*Last updated: February 26, 2026 at 07:40 AM UTC*
+*Last updated: February 26, 2026 at 08:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
