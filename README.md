@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The purpose of life is to contribute in some way to making things better. – Robert F. Kennedy"*
+### 💡 *"Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. – Robert Kiyosaki"*
 
-*Last updated: February 26, 2026 at 11:53 PM UTC*
+*Last updated: February 27, 2026 at 01:53 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
