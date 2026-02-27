@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
+### 💡 *"Death is not sad; the sad thing is that most people don't really live at all. – Dan Millman"*
 
-*Last updated: February 27, 2026 at 11:46 PM UTC*
+*Last updated: February 27, 2026 at 11:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
