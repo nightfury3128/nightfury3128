@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Great leaders are almost always great simplifiers, who can cut through argument, debate and doubt, to offer a solution everybody can understand. – Colin Powell"*
+### 💡 *"It matters not what someone is born, but what they grow to be. – Albus Dumbledore"*
 
-*Last updated: February 27, 2026 at 02:56 PM UTC*
+*Last updated: February 27, 2026 at 03:38 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
