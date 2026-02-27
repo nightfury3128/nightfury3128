@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nothing external to you has any power over you. – Ralph Waldo Emerson"*
+### 💡 *"You're on earth. There's no cure for that. – Samuel Beckett"*
 
-*Last updated: February 27, 2026 at 07:43 PM UTC*
+*Last updated: February 27, 2026 at 08:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
