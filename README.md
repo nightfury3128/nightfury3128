@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. – Robert Kiyosaki"*
+### 💡 *"You can have results or excuses, but not both. – Arnold Schwarzenegger"*
 
-*Last updated: February 27, 2026 at 11:21 PM UTC*
+*Last updated: February 27, 2026 at 11:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
