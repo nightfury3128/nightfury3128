@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Each time we don't say what we wanna say, we're dying. – Yoko Ono"*
+### 💡 *"For your life to be great, your faith must be bigger than your fear. – Robin Sharma"*
 
-*Last updated: February 28, 2026 at 05:01 AM UTC*
+*Last updated: February 28, 2026 at 05:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
