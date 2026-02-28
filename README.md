@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"My definition of success is control. – Kenneth Branagh"*
+### 💡 *"The quality of your life is determined by the quality of your thoughts. – Unknown"*
 
-*Last updated: February 28, 2026 at 10:52 AM UTC*
+*Last updated: February 28, 2026 at 11:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
