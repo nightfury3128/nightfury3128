@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Conscience is a man's compass.  – Vincent van Gogh"*
+### 💡 *"Winners don't Quit. That's why they Win. – Unknown"*
 
-*Last updated: February 28, 2026 at 09:29 AM UTC*
+*Last updated: February 28, 2026 at 09:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
