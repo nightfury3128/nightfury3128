@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"On the other side of the clouds is a bright blue sky. – Unknown"*
+### 💡 *"There are no second chances in life, except to feel remorse. – Carlos Ruiz Zafon"*
 
-*Last updated: February 28, 2026 at 10:21 PM UTC*
+*Last updated: February 28, 2026 at 10:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
