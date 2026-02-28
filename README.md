@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Only put off until tomorrow what you are willing to die having left undone. – Pablo Picasso"*
+### 💡 *"Just throw away all thoughts of imaginary things, and stand firm in that which you are. – Kabir"*
 
-*Last updated: February 28, 2026 at 08:46 PM UTC*
+*Last updated: February 28, 2026 at 08:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
