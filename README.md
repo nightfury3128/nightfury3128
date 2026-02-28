@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A needle is not sharp at both ends.  – Chinese Proverb"*
+### 💡 *"Each time we don't say what we wanna say, we're dying. – Yoko Ono"*
 
-*Last updated: February 28, 2026 at 04:07 AM UTC*
+*Last updated: February 28, 2026 at 05:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
