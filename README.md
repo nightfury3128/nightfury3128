@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live life as though nobody is watching, and express yourself as though everyone is listening. – Nelson Mandela"*
+### 💡 *"Rewards and punishment is the lowest form of education. – Zhuangzi"*
 
-*Last updated: February 28, 2026 at 06:55 AM UTC*
+*Last updated: February 28, 2026 at 07:25 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
