@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"For your life to be great, your faith must be bigger than your fear. – Robin Sharma"*
+### 💡 *"The question is not what you look at, but what you see. – Henry David Thoreau"*
 
-*Last updated: February 28, 2026 at 05:46 AM UTC*
+*Last updated: February 28, 2026 at 06:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
