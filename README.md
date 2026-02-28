@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you do not change direction, you may end up where you are heading. – Lao Tzu"*
+### 💡 *"My definition of success is control. – Kenneth Branagh"*
 
-*Last updated: February 28, 2026 at 10:33 AM UTC*
+*Last updated: February 28, 2026 at 10:52 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
