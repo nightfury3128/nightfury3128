@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Surround yourself with people who take their work seriously, but not themselves, those who work hard and play hard. – Colin Powell"*
+### 💡 *"Being ignorant is not so much a shame, as being unwilling to learn. – Benjamin Franklin"*
 
-*Last updated: February 28, 2026 at 08:36 AM UTC*
+*Last updated: February 28, 2026 at 08:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
