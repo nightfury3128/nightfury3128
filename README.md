@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Most of us will do anything to avoid facing ourselves. – Lolly Daskal"*
+### 💡 *"Listen to the secret sound, the real sound, which is inside you. – Kabir"*
 
-*Last updated: February 28, 2026 at 07:25 PM UTC*
+*Last updated: February 28, 2026 at 07:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
