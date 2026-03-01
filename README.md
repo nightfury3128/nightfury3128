@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Believe in your infinite potential. Your only limitations are those you set upon yourself. – Roy T. Bennett"*
+### 💡 *"Peace is not the absence of conflict, but the ability to cope with it. – Unknown"*
 
-*Last updated: March 01, 2026 at 08:28 AM UTC*
+*Last updated: March 01, 2026 at 08:56 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
