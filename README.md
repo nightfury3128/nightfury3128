@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Expect the best of yourself, and then do what is necessary to make it a reality. – Ralph Marston"*
+### 💡 *"Life is about choice. You can choose to be a victim or anything else you like to be. – Celestine Chua"*
 
-*Last updated: March 01, 2026 at 05:46 PM UTC*
+*Last updated: March 01, 2026 at 05:58 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
