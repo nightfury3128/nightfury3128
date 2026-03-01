@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who fails to plan, plans to fail. – Unknown"*
+### 💡 *"What you become is far more important than what you get. – Jim Rohn"*
 
-*Last updated: March 01, 2026 at 11:01 PM UTC*
+*Last updated: March 01, 2026 at 11:34 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
