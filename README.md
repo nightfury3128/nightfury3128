@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You are today where your thoughts have brought you. – James Allen"*
+### 💡 *"He who fails to plan, plans to fail. – Unknown"*
 
-*Last updated: March 01, 2026 at 10:49 PM UTC*
+*Last updated: March 01, 2026 at 11:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
