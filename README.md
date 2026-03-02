@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Wishing to be friends is quick work, but friendship is a slow ripening fruit. – Aristotle"*
+### 💡 *"Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. – John Lennon"*
 
-*Last updated: March 02, 2026 at 04:23 PM UTC*
+*Last updated: March 02, 2026 at 05:10 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
