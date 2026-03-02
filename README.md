@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you don't like something, change it. If you can't change it, change your attitude. – Maya Angelou"*
+### 💡 *"One is never afraid of the unknown; one is afraid of the known coming to an end. – Jiddu Krishnamurti"*
 
-*Last updated: March 02, 2026 at 11:30 PM UTC*
+*Last updated: March 02, 2026 at 11:55 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
