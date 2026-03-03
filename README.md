@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Happiness depends upon ourselves. – Aristotle"*
+### 💡 *"The degree of responsibility you take for your life determines how much change you can create in it. – Celestine Chua"*
 
-*Last updated: March 03, 2026 at 02:09 PM UTC*
+*Last updated: March 03, 2026 at 03:04 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
