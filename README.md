@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now. – Ralph Marston"*
+### 💡 *"Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny. – Steve Maraboli"*
 
-*Last updated: March 03, 2026 at 10:45 PM UTC*
+*Last updated: March 03, 2026 at 11:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
