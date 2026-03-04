@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Where violence reigns, reason is weak. – Nicolas Chamfort"*
+### 💡 *"The weak can never forgive. Forgiveness is the attribute of the strong. – Mahatma Gandhi"*
 
-*Last updated: March 04, 2026 at 06:00 AM UTC*
+*Last updated: March 04, 2026 at 07:03 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
