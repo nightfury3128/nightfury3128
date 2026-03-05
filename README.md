@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"No matter what happens, always be yourself. – Dale Carnegie"*
+### 💡 *"Integrity is telling myself the truth. And honesty is telling the truth to other people. – Spencer Johnson"*
 
-*Last updated: March 05, 2026 at 08:55 AM UTC*
+*Last updated: March 05, 2026 at 09:42 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
