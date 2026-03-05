@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The real meditation is how you live your life. – Jon Kabat-Zinn"*
+### 💡 *"The only person you should try to be better than is the person you were yesterday. – Brian Tracy"*
 
-*Last updated: March 05, 2026 at 11:05 AM UTC*
+*Last updated: March 05, 2026 at 11:46 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
