@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Most people fail in life because they major in minor things. – Tony Robbins"*
+### 💡 *"Success is a poor teacher. – Robert Kiyosaki"*
 
-*Last updated: March 06, 2026 at 01:09 PM UTC*
+*Last updated: March 06, 2026 at 02:00 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
