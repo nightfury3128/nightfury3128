@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Those who look for the bad in people will surely find it. – Abraham Lincoln"*
+### 💡 *"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. – John Wooden"*
 
-*Last updated: March 07, 2026 at 10:47 AM UTC*
+*Last updated: March 07, 2026 at 10:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
