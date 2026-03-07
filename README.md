@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The soul should always stand ajar, ready to welcome the ecstatic experience. – Emily Dickinson"*
+### 💡 *"In peace, sons bury their fathers. In war, fathers bury their sons.  – Herodotus"*
 
-*Last updated: March 07, 2026 at 03:58 PM UTC*
+*Last updated: March 07, 2026 at 04:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
