@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The river that flows in you also flows in me. – Kabir"*
+### 💡 *"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. – Martin Luther King, Jr."*
 
-*Last updated: March 07, 2026 at 01:54 AM UTC*
+*Last updated: March 07, 2026 at 03:58 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
