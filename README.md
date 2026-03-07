@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. – John Wooden"*
+### 💡 *"A good teacher opens the door for you, but you must enter the room by yourself. – Zen Proverb"*
 
-*Last updated: March 07, 2026 at 10:59 AM UTC*
+*Last updated: March 07, 2026 at 11:28 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
