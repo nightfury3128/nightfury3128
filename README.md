@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Real learning comes about when the competitive spirit has ceased. – Jiddu Krishnamurti"*
+### 💡 *"Awaken. Take heed, do not squander your life. – Dogen"*
 
-*Last updated: March 07, 2026 at 02:29 PM UTC*
+*Last updated: March 07, 2026 at 02:50 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
