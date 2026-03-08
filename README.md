@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you correct your mind, the rest of your life will fall into place. – Lao Tzu"*
+### 💡 *"A man is not called wise because he talks and talks again; but if he is peaceful, loving and fearless then he is in truth called wise.  – Buddha"*
 
-*Last updated: March 08, 2026 at 11:34 PM UTC*
+*Last updated: March 08, 2026 at 11:53 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
