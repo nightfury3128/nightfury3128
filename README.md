@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Never trust he who trusts everyone. – Carlos Ruiz Zafon"*
+### 💡 *"If you're waiting until you feel talented enough to make it, you'll never make it. – Criss Jami"*
 
-*Last updated: March 08, 2026 at 05:29 PM UTC*
+*Last updated: March 08, 2026 at 05:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
