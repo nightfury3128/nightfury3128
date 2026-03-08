@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Obstacles are those frightful things you see when you take your eyes off your goals. – Sydney Smith"*
+### 💡 *"Nothing has more strength than dire necessity. – Euripides"*
 
-*Last updated: March 08, 2026 at 07:38 PM UTC*
+*Last updated: March 08, 2026 at 07:52 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
