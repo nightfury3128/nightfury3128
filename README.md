@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Success is about doing the right thing, not about doing everything right. – Gary Keller"*
+### 💡 *"The chief cause of failure and unhappiness is trading what you want most for what you want right now. – Zig Ziglar"*
 
-*Last updated: March 10, 2026 at 07:05 AM UTC*
+*Last updated: March 10, 2026 at 07:51 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
