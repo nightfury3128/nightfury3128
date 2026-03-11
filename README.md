@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life must be a constant education; one must learn everything, from speaking to dying. – Gustave Flaubert"*
+### 💡 *"Only by attracting the best people will you accomplish great deeds. – Colin Powell"*
 
-*Last updated: March 11, 2026 at 11:23 PM UTC*
+*Last updated: March 11, 2026 at 11:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
