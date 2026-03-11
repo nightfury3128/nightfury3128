@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We are willing to believe anything other than the truth. – Carlos Ruiz Zafon"*
+### 💡 *"The majority of what you want will come from the minority of what you do. – Gary Keller"*
 
-*Last updated: March 11, 2026 at 08:57 AM UTC*
+*Last updated: March 11, 2026 at 09:48 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
