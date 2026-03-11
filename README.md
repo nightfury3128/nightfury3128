@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"You don't have to control your thoughts; you just have to stop letting them control you. – Dan Millman"*
+### 💡 *"Live life as though nobody is watching, and express yourself as though everyone is listening. – Nelson Mandela"*
 
-*Last updated: March 11, 2026 at 11:05 AM UTC*
+*Last updated: March 11, 2026 at 11:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
