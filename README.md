@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Live life as though nobody is watching, and express yourself as though everyone is listening. – Nelson Mandela"*
+### 💡 *"Open your mind before your mouth. – Aristophanes"*
 
-*Last updated: March 11, 2026 at 11:45 AM UTC*
+*Last updated: March 11, 2026 at 12:03 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
