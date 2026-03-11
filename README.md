@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Open your mind before your mouth. – Aristophanes"*
+### 💡 *"Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. – Simon Sinek"*
 
-*Last updated: March 11, 2026 at 12:03 PM UTC*
+*Last updated: March 11, 2026 at 01:35 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
