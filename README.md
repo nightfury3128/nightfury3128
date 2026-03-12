@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Faults are yours to fix, not to curse. – Colin Powell"*
+### 💡 *"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down. – Socrates"*
 
-*Last updated: March 12, 2026 at 06:28 PM UTC*
+*Last updated: March 12, 2026 at 07:25 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
