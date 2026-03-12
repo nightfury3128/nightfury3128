@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Dream big and dare to fail. – Norman Vaughan"*
+### 💡 *"Faults are yours to fix, not to curse. – Colin Powell"*
 
-*Last updated: March 12, 2026 at 05:31 PM UTC*
+*Last updated: March 12, 2026 at 06:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
