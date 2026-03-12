@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Nourish the mind like you would your body. The mind cannot survive on junk food. – Brian Tracy"*
+### 💡 *"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. – Kamal Ravikant"*
 
-*Last updated: March 12, 2026 at 08:40 PM UTC*
+*Last updated: March 12, 2026 at 09:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
