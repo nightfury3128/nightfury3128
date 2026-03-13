@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Go confidently in the direction of your dreams. Live the life you've imagined. – Arnold Schwarzenegger"*
+### 💡 *"Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life.  – Eckhart Tolle"*
 
-*Last updated: March 13, 2026 at 08:36 AM UTC*
+*Last updated: March 13, 2026 at 09:22 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
