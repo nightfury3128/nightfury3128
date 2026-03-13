@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stay away from people who makes you feel like you are wasting their time. – Paulo Coelho"*
+### 💡 *"The most difficult times for many of us are the ones we give ourselves. – Pema Chodron"*
 
-*Last updated: March 13, 2026 at 10:02 PM UTC*
+*Last updated: March 13, 2026 at 10:41 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
