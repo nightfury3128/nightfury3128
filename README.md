@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Stop comparing yourself to others and focus on your own improvement. – Lolly Daskal"*
+### 💡 *"Insanity: doing the same thing over and over again and expecting different results. – Albert Einstein"*
 
-*Last updated: March 15, 2026 at 09:04 AM UTC*
+*Last updated: March 15, 2026 at 09:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
