@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving. – Yanni"*
+### 💡 *"A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties. – Harry S. Truman"*
 
-*Last updated: March 15, 2026 at 09:57 PM UTC*
+*Last updated: March 15, 2026 at 10:32 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
