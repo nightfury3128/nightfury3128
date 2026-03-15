@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Perpetual optimism is a force multiplier. – Colin Powell"*
+### 💡 *"Life isn't about finding yourself. Life is about creating yourself. – George Bernard Shaw"*
 
-*Last updated: March 15, 2026 at 10:14 AM UTC*
+*Last updated: March 15, 2026 at 10:50 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
