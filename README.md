@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Insanity: doing the same thing over and over again and expecting different results. – Albert Einstein"*
+### 💡 *"Perpetual optimism is a force multiplier. – Colin Powell"*
 
-*Last updated: March 15, 2026 at 09:47 AM UTC*
+*Last updated: March 15, 2026 at 10:14 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
