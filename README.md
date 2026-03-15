@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If they wrote it to make money, don't read it. – Naval Ravikant"*
+### 💡 *"Great ones are willing to get burned time and again as they sharpen their swords in the fire. – Josh Waitzkin"*
 
-*Last updated: March 15, 2026 at 06:48 PM UTC*
+*Last updated: March 15, 2026 at 07:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
