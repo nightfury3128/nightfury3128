@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Have the courage to follow your heart and intuition. They somehow know what you truly want to become. – Steve Jobs"*
+### 💡 *"Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving. – Yanni"*
 
-*Last updated: March 15, 2026 at 09:38 PM UTC*
+*Last updated: March 15, 2026 at 09:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
