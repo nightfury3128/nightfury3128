@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't let someone elses. opinion become your reality. – Les Brown"*
+### 💡 *"Everything is in your own heart. – Thich Nhat Hanh"*
 
-*Last updated: March 16, 2026 at 02:47 AM UTC*
+*Last updated: March 16, 2026 at 05:06 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
