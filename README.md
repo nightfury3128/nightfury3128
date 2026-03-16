@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Some people want it to happen, some wish it would happen, others make it happen. – Michael Jordan"*
+### 💡 *"People tend to complicate their own lives, as if living weren't already complicated enough. – Carlos Ruiz Zafon"*
 
-*Last updated: March 16, 2026 at 02:48 PM UTC*
+*Last updated: March 16, 2026 at 03:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
