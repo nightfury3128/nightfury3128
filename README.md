@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everything is in your own heart. – Thich Nhat Hanh"*
+### 💡 *"Nothing like a health problem to turn up the contrast dial for the rest of life. – Naval Ravikant"*
 
-*Last updated: March 16, 2026 at 05:06 AM UTC*
+*Last updated: March 16, 2026 at 06:47 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
