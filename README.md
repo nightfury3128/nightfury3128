@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"People tend to complicate their own lives, as if living weren't already complicated enough. – Carlos Ruiz Zafon"*
+### 💡 *"It is not fair to ask of others what you are not willing to do yourself. – Eleanor Roosevelt"*
 
-*Last updated: March 16, 2026 at 03:49 PM UTC*
+*Last updated: March 16, 2026 at 04:45 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
