@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It is better to light a single candle than to curse the darkness. – Eleanor Roosevelt"*
+### 💡 *"There is no excuse for not trying. – Barack Obama"*
 
-*Last updated: March 18, 2026 at 09:48 PM UTC*
+*Last updated: March 18, 2026 at 10:18 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
