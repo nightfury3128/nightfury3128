@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"We create the world and ourselves; – Ming-Dao Deng"*
+### 💡 *"Every man desires to live long, but no man wishes to be old. – Jonathan Swift"*
 
-*Last updated: March 18, 2026 at 10:50 PM UTC*
+*Last updated: March 18, 2026 at 11:28 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
