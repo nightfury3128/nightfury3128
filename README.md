@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"When you win, say nothing, when you lose say less. – Wayne Gretzky"*
+### 💡 *"Work as though you would live forever, and live as though you would die today. Go another mile. – Og Mandino"*
 
-*Last updated: March 18, 2026 at 05:18 AM UTC*
+*Last updated: March 18, 2026 at 06:16 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
