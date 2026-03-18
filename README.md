@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Work as though you would live forever, and live as though you would die today. Go another mile. – Og Mandino"*
+### 💡 *"It is better to disappoint people with the truth than to appease them with a lie. – Simon Sinek"*
 
-*Last updated: March 18, 2026 at 06:16 AM UTC*
+*Last updated: March 18, 2026 at 07:32 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
