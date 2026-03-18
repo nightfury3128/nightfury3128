@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Those who know, do. Those that understand, teach. – Aristotle"*
+### 💡 *"Do not pray for an easy life, pray for the strength to endure a difficult one.   – Bruce Lee"*
 
-*Last updated: March 18, 2026 at 11:08 AM UTC*
+*Last updated: March 18, 2026 at 11:57 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
