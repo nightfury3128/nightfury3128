@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. – John Lennon"*
+### 💡 *"You have power over your mind - not outside events. Realize this, and you will find strength. – Marcus Aurelius"*
 
-*Last updated: March 19, 2026 at 05:42 AM UTC*
+*Last updated: March 19, 2026 at 06:39 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
