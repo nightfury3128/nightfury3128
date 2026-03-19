@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Luck is what happens when preparation meets opportunity.   – Seneca"*
+### 💡 *"Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. – Celestine Chua"*
 
-*Last updated: March 19, 2026 at 02:11 PM UTC*
+*Last updated: March 19, 2026 at 03:07 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
