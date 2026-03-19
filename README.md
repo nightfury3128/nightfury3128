@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"He who cannot be a good follower cannot be a good leader. – Aristotle"*
+### 💡 *"Knowing is not enough, we must apply. Willing is not enough, we must do.   – Bruce Lee"*
 
-*Last updated: March 19, 2026 at 09:06 PM UTC*
+*Last updated: March 19, 2026 at 09:47 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
