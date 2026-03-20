@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The fact of the matter is that there will be nothing learned from any challenge in which we don't try our hardest. – Josh Waitzkin"*
+### 💡 *"Inspire yourself to be great. Being good isn't good enough. – Gurbaksh Chahal"*
 
-*Last updated: March 20, 2026 at 08:51 PM UTC*
+*Last updated: March 20, 2026 at 09:27 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
