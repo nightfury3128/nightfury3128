@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you look for perfection, you'll never be content. – Leo Tolstoy"*
+### 💡 *"Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.   – Jack Kerouac"*
 
-*Last updated: March 20, 2026 at 02:10 PM UTC*
+*Last updated: March 20, 2026 at 03:07 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
