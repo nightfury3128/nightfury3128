@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Your purpose will be clear only when you listen to your heart. – Lolly Daskal"*
+### 💡 *"People should pursue what they're passionate about. That will make them happier than pretty much anything else. – Elon Musk"*
 
-*Last updated: March 20, 2026 at 10:22 AM UTC*
+*Last updated: March 20, 2026 at 11:03 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
