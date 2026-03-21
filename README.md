@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. – T.S. Eliot"*
+### 💡 *"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. – George Bernard Shaw"*
 
-*Last updated: March 21, 2026 at 05:23 PM UTC*
+*Last updated: March 21, 2026 at 05:49 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
