@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"There's no coming to consciousness without pain – Carl Jung"*
+### 💡 *"Giving is living. If you stop wanting to give, there's nothing more to live for. – Audrey Hepburn"*
 
-*Last updated: March 21, 2026 at 10:42 AM UTC*
+*Last updated: March 21, 2026 at 11:01 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
