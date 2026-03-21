@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. – George Bernard Shaw"*
+### 💡 *"You cannot change your destination overnight but you can change your direction overnight. – Jim Rohn"*
 
-*Last updated: March 21, 2026 at 05:49 PM UTC*
+*Last updated: March 21, 2026 at 06:17 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
