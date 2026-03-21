@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The few who do are the envy of the many who only watch. – Jim Rohn"*
+### 💡 *"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you. – T.S. Eliot"*
 
-*Last updated: March 21, 2026 at 04:54 PM UTC*
+*Last updated: March 21, 2026 at 05:23 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
