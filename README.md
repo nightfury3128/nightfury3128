@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"A hut full of laughter is richer than a palace full of sadness. – Zen Proverb"*
+### 💡 *"It is truth that liberates, not your effort to be free. – Jiddu Krishnamurti"*
 
-*Last updated: March 21, 2026 at 11:51 AM UTC*
+*Last updated: March 21, 2026 at 12:43 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
