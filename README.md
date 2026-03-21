@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given. – Steve Harvey"*
+### 💡 *"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success. – Dale Carnegie"*
 
-*Last updated: March 21, 2026 at 08:30 AM UTC*
+*Last updated: March 21, 2026 at 09:00 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
