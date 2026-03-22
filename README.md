@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Do not follow the ideas of others, but learn to listen to the voice within yourself. – Dogen"*
+### 💡 *"This is the most simple and basic component of life: our struggles determine our successes. – Mark Manson"*
 
-*Last updated: March 22, 2026 at 10:41 PM UTC*
+*Last updated: March 22, 2026 at 11:02 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
