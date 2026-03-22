@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't be afraid to go slowly. Be afraid of stopping. – Zen Proverb"*
+### 💡 *"A person who does not read is no better than one cannot read. – Earl Nightingale"*
 
-*Last updated: March 22, 2026 at 09:23 PM UTC*
+*Last updated: March 22, 2026 at 09:48 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
