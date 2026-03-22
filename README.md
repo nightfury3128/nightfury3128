@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"This is the most simple and basic component of life: our struggles determine our successes. – Mark Manson"*
+### 💡 *"Success is like reaching an important birthday and finding you're exactly the same. – Audrey Hepburn"*
 
-*Last updated: March 22, 2026 at 11:02 PM UTC*
+*Last updated: March 22, 2026 at 11:39 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
