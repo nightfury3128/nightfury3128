@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Don't give up the fight, Stand up for your rights. – Bob Marley"*
+### 💡 *"Freedom is the only worthy goal in life. It is won by disregarding things that lie beyond our control. – Epictetus"*
 
-*Last updated: March 22, 2026 at 05:37 PM UTC*
+*Last updated: March 22, 2026 at 05:56 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
