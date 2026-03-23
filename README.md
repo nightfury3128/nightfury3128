@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Get busy living, or get busy dying. – Stephen King"*
+### 💡 *"Your heart is the size of an ocean. Go find yourself in its hidden depths. – Rumi"*
 
-*Last updated: March 23, 2026 at 08:03 PM UTC*
+*Last updated: March 23, 2026 at 08:51 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
