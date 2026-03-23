@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"To belittle, you have to be little. – Kahlil Gibran"*
+### 💡 *"Do not pray for an easy life, pray for the strength to endure a difficult one.   – Bruce Lee"*
 
-*Last updated: March 23, 2026 at 05:16 AM UTC*
+*Last updated: March 23, 2026 at 06:17 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
