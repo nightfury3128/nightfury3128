@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Everyone you meet is fighting a battle you know nothing about. Be kind. Always. – Robin Williams"*
+### 💡 *"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened. – Kamal Ravikant"*
 
-*Last updated: March 23, 2026 at 11:49 PM UTC*
+*Last updated: March 24, 2026 at 12:52 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
