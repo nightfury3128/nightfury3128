@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Sometimes, the only way to evolve is to open ourselves fully. – Kamal Ravikant"*
+### 💡 *"One must be deeply aware of the impermanence of the world. – Dogen"*
 
-*Last updated: March 25, 2026 at 09:27 AM UTC*
+*Last updated: March 25, 2026 at 10:25 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
