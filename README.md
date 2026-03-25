@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"One must be deeply aware of the impermanence of the world. – Dogen"*
+### 💡 *"Most of the evil in this world is done by people with good intentions. – T.S. Eliot"*
 
-*Last updated: March 25, 2026 at 10:25 AM UTC*
+*Last updated: March 25, 2026 at 11:11 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
