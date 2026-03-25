@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The price of inaction is far greater than the cost of making a mistake. – Meister Eckhart"*
+### 💡 *"You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. – Steve Maraboli"*
 
-*Last updated: March 25, 2026 at 03:51 PM UTC*
+*Last updated: March 25, 2026 at 04:59 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
