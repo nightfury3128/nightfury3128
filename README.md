@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Man is affected not by events but by the view he takes of them.   – Seneca"*
+### 💡 *"Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. – Billie Jean King"*
 
-*Last updated: March 25, 2026 at 05:05 AM UTC*
+*Last updated: March 25, 2026 at 06:11 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
