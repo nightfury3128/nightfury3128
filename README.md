@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Money poisons you when you've got it, and starves you when you haven't. – D. H. Lawrence"*
+### 💡 *"Better to have, and not need, than to need, and not have. – Franz Kafka"*
 
-*Last updated: March 26, 2026 at 08:57 PM UTC*
+*Last updated: March 26, 2026 at 09:36 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
