@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Who you are is always right. – Ming-Dao Deng"*
+### 💡 *"The future belongs to those who learn more skills and combine them in creative ways. – Robert Greene"*
 
-*Last updated: March 26, 2026 at 11:12 AM UTC*
+*Last updated: March 26, 2026 at 12:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
