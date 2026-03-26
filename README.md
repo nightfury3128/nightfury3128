@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Routine life is unbearable, and most people only think about how to escape into the world of fantasy and dreams. – Robert Greene"*
+### 💡 *"A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. – Confucius"*
 
-*Last updated: March 26, 2026 at 05:31 PM UTC*
+*Last updated: March 26, 2026 at 06:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
