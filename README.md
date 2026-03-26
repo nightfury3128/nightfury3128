@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Man should fear never beginning to live. – Marcus Aurelius"*
+### 💡 *"Who you are is always right. – Ming-Dao Deng"*
 
-*Last updated: March 26, 2026 at 10:13 AM UTC*
+*Last updated: March 26, 2026 at 11:12 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
