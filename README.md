@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What would life be if we had no courage to attempt anything?  – Vincent van Gogh"*
+### 💡 *"The successful warrior is the average man, with laser-like focus. – Bruce Lee"*
 
-*Last updated: March 27, 2026 at 08:33 AM UTC*
+*Last updated: March 27, 2026 at 09:34 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
