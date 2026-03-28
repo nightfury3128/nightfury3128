@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"What the mind can conceive and believe, and the heart desire, you can achieve. – Norman Vincent Peale"*
+### 💡 *"The power to make and break habits and learning how to do that is really important. – Naval Ravikant"*
 
-*Last updated: March 28, 2026 at 09:46 PM UTC*
+*Last updated: March 28, 2026 at 10:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
