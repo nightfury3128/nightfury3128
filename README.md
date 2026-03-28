@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The power to make and break habits and learning how to do that is really important. – Naval Ravikant"*
+### 💡 *"The purpose of life is the life of purpose. – Robin Sharma"*
 
-*Last updated: March 28, 2026 at 10:01 PM UTC*
+*Last updated: March 28, 2026 at 10:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
