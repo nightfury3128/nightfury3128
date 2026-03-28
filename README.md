@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The less you open your heart to others, the more your heart suffers. – Deepak Chopra"*
+### 💡 *"Do what you feel in your heart to be right - for you'll be criticized anyway. – Eleanor Roosevelt"*
 
-*Last updated: March 28, 2026 at 07:16 PM UTC*
+*Last updated: March 28, 2026 at 07:46 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
