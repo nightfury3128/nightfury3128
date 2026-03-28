@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Desire is suffering. – Naval Ravikant"*
+### 💡 *"Sometimes it is more important to discover what one cannot do, than what one can do. – Lin Yutang"*
 
-*Last updated: March 28, 2026 at 10:48 AM UTC*
+*Last updated: March 28, 2026 at 11:15 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
