@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Much learning does not teach understanding. – Heraclitus"*
+### 💡 *"Do not regret the past. Look to the future. – Soyen Shaku"*
 
-*Last updated: March 29, 2026 at 05:59 PM UTC*
+*Last updated: March 29, 2026 at 06:57 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
