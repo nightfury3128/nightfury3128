@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Not all of us can do great things. But we can do small things with great love. – Mother Teresa"*
+### 💡 *"If you are going to achieve excellence in big things, you develop the habit in little matters. – Colin Powell"*
 
-*Last updated: March 29, 2026 at 07:57 PM UTC*
+*Last updated: March 29, 2026 at 08:37 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
