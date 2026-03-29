@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Comedy = tragedy + time. – Carol Burnett"*
+### 💡 *"Always focus on the front windshield and not the rear view mirror. – Colin Powell"*
 
-*Last updated: March 29, 2026 at 11:15 AM UTC*
+*Last updated: March 29, 2026 at 11:45 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
