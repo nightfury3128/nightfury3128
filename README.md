@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"If you are going to achieve excellence in big things, you develop the habit in little matters. – Colin Powell"*
+### 💡 *"Have a vision. Be demanding. – Colin Powell"*
 
-*Last updated: March 29, 2026 at 08:37 PM UTC*
+*Last updated: March 29, 2026 at 09:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
