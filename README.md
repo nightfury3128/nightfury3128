@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"The more you lose yourself in something bigger than yourself, the more energy you will have. – Norman Vincent Peale"*
+### 💡 *"Each time we don't say what we wanna say, we're dying. – Yoko Ono"*
 
-*Last updated: March 29, 2026 at 01:18 PM UTC*
+*Last updated: March 29, 2026 at 02:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
