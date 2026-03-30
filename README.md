@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"It's not the size of the dog in the fight, it's the size of the fight in the dog. – Mark Twain"*
+### 💡 *"As long as a human being worries about when he will die, and what he has that is his, all of his works are zero. – Kabir"*
 
-*Last updated: March 30, 2026 at 10:32 PM UTC*
+*Last updated: March 30, 2026 at 11:06 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
