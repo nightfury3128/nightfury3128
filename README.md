@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"Life is a gift. Never forget to enjoy and bask in every moment you are in. – Celestine Chua"*
+### 💡 *"If you are depressed, you are living in the past. If you are anxious, you are living in the future. if you are at peace, you are living in the present. – Lao Tzu"*
 
-*Last updated: March 30, 2026 at 09:54 AM UTC*
+*Last updated: March 30, 2026 at 10:59 AM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
