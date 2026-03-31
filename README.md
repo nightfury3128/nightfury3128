@@ -90,9 +90,9 @@
 <div align="center">
   
 <!--DYNAMIC_QUOTE:start-->
-### 💡 *"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   – Estee Lauder"*
+### 💡 *"If you think you can do a thing or think you can't do a thing, you're right. – Henry Ford"*
 
-*Last updated: March 31, 2026 at 08:22 PM UTC*
+*Last updated: March 31, 2026 at 09:01 PM UTC*
 <!--DYNAMIC_QUOTE:end-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
