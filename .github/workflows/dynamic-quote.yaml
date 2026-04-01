@@ -2,7 +2,6 @@ name: Dynamic Quote Update
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 2 minutes
   workflow_dispatch:
   push:
     branches: [ main ]
