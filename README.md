@@ -58,7 +58,9 @@
 <div align="center">
 
 <!--SPOTIFY:start-->
-*Spotify listening cards will appear here after the first workflow run. See [`docs/SPOTIFY_SETUP.md`](docs/SPOTIFY_SETUP.md).*
+<a href="https://open.spotify.com/"><img alt="Recently played on Spotify" src="./spotify-recent.svg" /></a>
+<a href="https://open.spotify.com/"><img alt="Top artists — last 24 hours" src="./spotify-top-artists-24h.svg" /></a>
+<a href="https://open.spotify.com/"><img alt="Top artists — last 7 days" src="./spotify-top-artists-7d.svg" /></a>
 <!--SPOTIFY:end-->
 
 </div>
