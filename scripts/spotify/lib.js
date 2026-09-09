@@ -153,7 +153,7 @@ async function fetchArtistImages({ accessToken, ids, fetchImpl = fetch }) {
   const out = new Map();
   for (let i = 0; i < unique.length; i += 50) {
     const chunk = unique.slice(i, i + 50);
-    const url = `https://api.spotify.com/v1/artists?ids=${encodeURIComponent(chunk.join(','))}`;
+    const url = `https://api.spotify.com/v1/artists?ids=${chunk.join(',')}`;
     const res = await fetchImpl(url, { headers: { Authorization: `Bearer ${accessToken}` } });
     if (res.status === 429) {
       const retryAfter = Number(res.headers.get('retry-after') || '1');
@@ -170,9 +170,20 @@ async function fetchArtistImages({ accessToken, ids, fetchImpl = fetch }) {
   return out;
 }
 
-const PLACEHOLDER_DATA_URI = 'data:image/svg+xml;base64,' + Buffer.from(
-  '<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80"><rect width="80" height="80" fill="#888"/><text x="50%" y="55%" font-family="sans-serif" font-size="12" fill="#fff" text-anchor="middle">♪</text></svg>'
-).toString('base64');
+const PLACEHOLDER_PALETTE = ['#1DB954', '#F97583', '#79B8FF', '#B392F0', '#FFAB70', '#F0C674'];
+
+function initialsFor(name) {
+  const parts = String(name || '?').trim().split(/\s+/).slice(0, 2);
+  return parts.map((p) => p[0] || '').join('').toUpperCase() || '?';
+}
+
+function placeholderTile(name) {
+  const initials = escapeXml(initialsFor(name));
+  const hash = [...String(name || '')].reduce((h, c) => (h * 31 + c.charCodeAt(0)) | 0, 0);
+  const bg = PLACEHOLDER_PALETTE[Math.abs(hash) % PLACEHOLDER_PALETTE.length];
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80"><rect width="80" height="80" rx="8" fill="${bg}"/><text x="50%" y="54%" font-family="-apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#0d1117" text-anchor="middle" dominant-baseline="middle">${initials}</text></svg>`;
+  return 'data:image/svg+xml;base64,' + Buffer.from(svg).toString('base64');
+}
 
 function buildRecentSvg({ plays, updatedIso }) {
   const rows = plays.slice(0, 5);
@@ -184,7 +195,7 @@ function buildRecentSvg({ plays, updatedIso }) {
 
   const rowSvg = rows.map((p, i) => {
     const y = headerH + i * rowH;
-    const img = p._albumDataUri || PLACEHOLDER_DATA_URI;
+    const img = p._albumDataUri || placeholderTile(p.name);
     const title = escapeXml(truncate(p.name, 42));
     const artist = escapeXml(truncate((p.artists || []).map((a) => a.name).join(', '), 46));
     const href = escapeXml(p.url || 'https://open.spotify.com/');
@@ -221,7 +232,7 @@ function buildTopArtistsSvg({ artists, updatedIso, title, imagesById }) {
 
   const rowSvg = rows.map((a, i) => {
     const y = headerH + i * rowH;
-    const img = (a.id && imagesById.get(a.id)) || PLACEHOLDER_DATA_URI;
+    const img = (a.id && imagesById.get(a.id)) || placeholderTile(a.name);
     const name = escapeXml(truncate(a.name, 38));
     const plays = `${a.plays} play${a.plays === 1 ? '' : 's'}`;
     const href = escapeXml(a.url || 'https://open.spotify.com/');

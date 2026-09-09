@@ -110,9 +110,21 @@ async function main() {
   try {
     const readme = fs.readFileSync(README_PATH, 'utf8');
     const block = [
-      '<a href="https://open.spotify.com/"><img alt="Recently played on Spotify" src="./spotify-recent.svg" /></a>',
-      '<a href="https://open.spotify.com/"><img alt="Top artists — last 24 hours" src="./spotify-top-artists-24h.svg" /></a>',
-      '<a href="https://open.spotify.com/"><img alt="Top artists — last 7 days" src="./spotify-top-artists-7d.svg" /></a>',
+      '<table>',
+      '  <tr>',
+      '    <td colspan="2" align="center">',
+      '      <a href="https://open.spotify.com/"><img alt="Recently played on Spotify" src="./spotify-recent.svg" /></a>',
+      '    </td>',
+      '  </tr>',
+      '  <tr>',
+      '    <td align="center">',
+      '      <a href="https://open.spotify.com/"><img alt="Top artists — last 24 hours" src="./spotify-top-artists-24h.svg" /></a>',
+      '    </td>',
+      '    <td align="center">',
+      '      <a href="https://open.spotify.com/"><img alt="Top artists — last 7 days" src="./spotify-top-artists-7d.svg" /></a>',
+      '    </td>',
+      '  </tr>',
+      '</table>',
     ].join('\n');
     const updated = replaceReadmeBlock(readme, 'SPOTIFY', block);
     if (updated !== readme) {
