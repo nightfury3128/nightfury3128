@@ -147,25 +147,46 @@ async function fetchImageAsDataUri(url, fetchImpl = fetch) {
   }
 }
 
-async function fetchArtistImages({ accessToken, ids, fetchImpl = fetch }) {
+async function fetchArtistImages({ accessToken, ids, fetchImpl = fetch, logger = console }) {
   const unique = [...new Set(ids.filter(Boolean))];
-  if (!unique.length) return new Map();
+  if (!unique.length) {
+    logger.warn('fetchArtistImages: no artist ids to look up');
+    return new Map();
+  }
   const out = new Map();
   for (let i = 0; i < unique.length; i += 50) {
     const chunk = unique.slice(i, i + 50);
     const url = `https://api.spotify.com/v1/artists?ids=${chunk.join(',')}`;
-    const res = await fetchImpl(url, { headers: { Authorization: `Bearer ${accessToken}` } });
+    let res;
+    try {
+      res = await fetchImpl(url, { headers: { Authorization: `Bearer ${accessToken}` } });
+    } catch (err) {
+      logger.warn(`fetchArtistImages: network error for chunk starting at ${i}: ${err.message}`);
+      continue;
+    }
     if (res.status === 429) {
       const retryAfter = Number(res.headers.get('retry-after') || '1');
+      logger.warn(`fetchArtistImages: 429 rate limited, waiting ${retryAfter}s`);
       await sleep(Math.min(retryAfter, 60) * 1000);
       i -= 50;
       continue;
     }
-    if (!res.ok) continue;
-    const json = await res.json();
-    for (const a of json.artists || []) {
-      if (a && a.id) out.set(a.id, pickImage(a.images || [], 80));
+    if (!res.ok) {
+      const body = await res.text().catch(() => '<unreadable>');
+      logger.warn(`fetchArtistImages: HTTP ${res.status} for ids=${chunk.slice(0, 3).join(',')}… body=${body.slice(0, 300)}`);
+      continue;
     }
+    const json = await res.json();
+    const arr = Array.isArray(json.artists) ? json.artists : [];
+    let withImage = 0;
+    for (const a of arr) {
+      if (a && a.id) {
+        const img = pickImage(a.images || [], 80);
+        if (img) withImage += 1;
+        out.set(a.id, img);
+      }
+    }
+    logger.log(`fetchArtistImages: chunk ${i}-${i + chunk.length}: ${arr.length} artists, ${withImage} with images`);
   }
   return out;
 }
