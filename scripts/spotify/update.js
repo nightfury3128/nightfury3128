@@ -10,6 +10,7 @@ const {
   topArtists,
   fetchImageAsDataUri,
   fetchArtistImages,
+  artistImagesFromPlays,
   buildRecentSvg,
   buildTopArtistsSvg,
   WINDOW_24H_MS,
@@ -79,10 +80,21 @@ async function main() {
 
   const artistIds = [...new Set([...top24h, ...top7d].map((a) => a.id).filter(Boolean))];
   const artistImageUrls = await fetchArtistImages({ accessToken, ids: artistIds });
+  const fallbackByKey = artistImagesFromPlays(plays);
   const artistImageDataUris = new Map();
-  for (const [id, url] of artistImageUrls.entries()) {
+  const cache = new Map();
+  const resolveUri = async (url) => {
+    if (!url) return null;
+    if (cache.has(url)) return cache.get(url);
     const uri = await fetchImageAsDataUri(url);
-    if (uri) artistImageDataUris.set(id, uri);
+    cache.set(url, uri);
+    return uri;
+  };
+  for (const a of [...top24h, ...top7d]) {
+    if (!a.id || artistImageDataUris.has(a.id)) continue;
+    const url = artistImageUrls.get(a.id) || fallbackByKey.get(a.id) || fallbackByKey.get(a.name);
+    const uri = await resolveUri(url);
+    if (uri) artistImageDataUris.set(a.id, uri);
   }
 
   const svgRecent = buildRecentSvg({ plays: recentWithImages, updatedIso });

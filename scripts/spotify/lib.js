@@ -297,6 +297,19 @@ function svgShell({ width, height, title, body, updatedIso }) {
 </svg>`;
 }
 
+function artistImagesFromPlays(plays) {
+  const byKey = new Map();
+  for (const p of plays) {
+    if (!p.album_image) continue;
+    for (const a of p.artists || []) {
+      const key = a.id || a.name;
+      if (!key || byKey.has(key)) continue;
+      byKey.set(key, p.album_image);
+    }
+  }
+  return byKey;
+}
+
 module.exports = {
   refreshAccessToken,
   fetchRecentlyPlayed,
@@ -307,6 +320,7 @@ module.exports = {
   truncate,
   fetchImageAsDataUri,
   fetchArtistImages,
+  artistImagesFromPlays,
   buildRecentSvg,
   buildTopArtistsSvg,
   RETENTION_MS,
