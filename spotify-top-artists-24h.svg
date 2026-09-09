@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="384" viewBox="0 0 480 384" role="img" aria-label="🔥 Top Artists — Last 24 Hours">
+  <style><![CDATA[
+    .card { fill: #ffffff; stroke: #d0d7de; }
+    .title { font: 600 14px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .artist { font: 400 12px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; fill: #656d76; }
+    .header { font: 700 15px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; fill: #1f2328; }
+    .footer { font: 400 10px -apple-system, Segoe UI, Helvetica, Arial, sans-serif; fill: #656d76; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #0d1117; stroke: #30363d; }
+      .title, .header { fill: #e6edf3; }
+      .artist, .footer { fill: #8b949e; }
+    }
+  ]]></style>
+  <rect class="card" x="0.5" y="0.5" width="479" height="383" rx="10"/>
+  <text class="header" x="16" y="28">🔥 Top Artists — Last 24 Hours</text>
+  
+    <a href="https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG" target="_blank">
+      <g transform="translate(16 46)">
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iIzc5QjhGRiIvPjx0ZXh0IHg9IjUwJSIgeT0iNTQlIiBmb250LWZhbWlseT0iLWFwcGxlLXN5c3RlbSwgU2Vnb2UgVUksIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwZDExMTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiPk9SPC90ZXh0Pjwvc3ZnPg==" width="46" height="46" preserveAspectRatio="xMidYMid slice"/>
+        <text class="title" x="60" y="20">Olivia Rodrigo</text>
+        <text class="artist" x="60" y="38">10 plays</text>
+      </g>
+    </a>
+    <a href="https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5" target="_blank">
+      <g transform="translate(16 108)">
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iI0IzOTJGMCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTQlIiBmb250LWZhbWlseT0iLWFwcGxlLXN5c3RlbSwgU2Vnb2UgVUksIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwZDExMTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiPkdBPC90ZXh0Pjwvc3ZnPg==" width="46" height="46" preserveAspectRatio="xMidYMid slice"/>
+        <text class="title" x="60" y="20">Gracie Abrams</text>
+        <text class="artist" x="60" y="38">4 plays</text>
+      </g>
+    </a>
+    <a href="https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb" target="_blank">
+      <g transform="translate(16 170)">
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iI0Y5NzU4MyIvPjx0ZXh0IHg9IjUwJSIgeT0iNTQlIiBmb250LWZhbWlseT0iLWFwcGxlLXN5c3RlbSwgU2Vnb2UgVUksIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwZDExMTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiPlRJPC90ZXh0Pjwvc3ZnPg==" width="46" height="46" preserveAspectRatio="xMidYMid slice"/>
+        <text class="title" x="60" y="20">Tame Impala</text>
+        <text class="artist" x="60" y="38">3 plays</text>
+      </g>
+    </a>
+    <a href="https://open.spotify.com/artist/6iW8bv3aUP8Dte1KnMBH8c" target="_blank">
+      <g transform="translate(16 232)">
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iI0IzOTJGMCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTQlIiBmb250LWZhbWlseT0iLWFwcGxlLXN5c3RlbSwgU2Vnb2UgVUksIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwZDExMTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiPkI8L3RleHQ+PC9zdmc+" width="46" height="46" preserveAspectRatio="xMidYMid slice"/>
+        <text class="title" x="60" y="20">Bershy</text>
+        <text class="artist" x="60" y="38">2 plays</text>
+      </g>
+    </a>
+    <a href="https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy" target="_blank">
+      <g transform="translate(16 294)">
+        <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MCIgaGVpZ2h0PSI4MCI+PHJlY3Qgd2lkdGg9IjgwIiBoZWlnaHQ9IjgwIiByeD0iOCIgZmlsbD0iIzFEQjk1NCIvPjx0ZXh0IHg9IjUwJSIgeT0iNTQlIiBmb250LWZhbWlseT0iLWFwcGxlLXN5c3RlbSwgU2Vnb2UgVUksIEhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiMwZDExMTciIHRleHQtYW5jaG9yPSJtaWRkbGUiIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiPjVTPC90ZXh0Pjwvc3ZnPg==" width="46" height="46" preserveAspectRatio="xMidYMid slice"/>
+        <text class="title" x="60" y="20">5 Seconds of Summer</text>
+        <text class="artist" x="60" y="38">1 play</text>
+      </g>
+    </a>
+  <text class="footer" x="464" y="374" text-anchor="end">Updated Wed, 09 Sep 2026 15:47:30 GMT</text>
+</svg>
