@@ -1,0 +1,58 @@
+name: Spotify Listening Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Approximately every 15 minutes.
+    - cron: '*/15 * * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spotify-activity
+  cancel-in-progress: false
+
+jobs:
+  update-spotify:
+    runs-on: ubuntu-latest
+    name: Update Spotify cards
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run unit tests
+        run: node --test scripts/spotify/lib.test.js
+
+      - name: Fetch Spotify data and regenerate cards
+        env:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+        run: node scripts/spotify/update.js
+
+      - name: Commit changes if any
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Spotify Bot"
+          git add README.md data/spotify-plays.json spotify-recent.svg spotify-top-artists-24h.svg spotify-top-artists-7d.svg 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No Spotify changes to commit"
+          else
+            git commit -m "🎧 Update Spotify listening activity [skip ci]"
+            for i in 1 2 3; do
+              if git push; then
+                echo "Pushed"
+                break
+              fi
+              echo "Push failed (attempt $i), pulling with rebase..."
+              git pull --rebase origin main || true
+              sleep 5
+            done
+          fi

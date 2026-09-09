@@ -51,25 +51,15 @@
 </div>
 
 
-## 🎮 Currently Playing
+---
+
+## 🎧 On Repeat
 
 <div align="center">
 
-<!--PSN_ACTIVITY:start-->
-🎮 **Currently Playing:**
-- Ghost of Yōtei 🎮 | Last Played: 2 days ago
-- Fall Guys 🎮 | Last Played: 4 days ago
-- Hollow Knight 🎮 | Last Played: 9 days ago
-- Dispatch 🎮 | Last Played: 18 days ago
-- The Last of Us™ Part II Remastered 🧟 | Last Played: 20 days ago
-
-*Last updated: December 1, 2025 at 12:20 PM UTC*
-<!--PSN_ACTIVITY:end-->
-
-<img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="PlayStation" />
-<img src="https://img.shields.io/badge/PSN%20Level-1-blue?style=for-the-badge&logo=playstation" alt="PSN Level" />
-<img src="https://img.shields.io/badge/Trophies-0-gold?style=for-the-badge&logo=playstation" alt="Total Trophies" />
-<img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=epic-games&logoColor=white" alt="Epic Games" />
+<!--SPOTIFY:start-->
+*Spotify listening cards will appear here after the first workflow run. See [`docs/SPOTIFY_SETUP.md`](docs/SPOTIFY_SETUP.md).*
+<!--SPOTIFY:end-->
 
 </div>
 
