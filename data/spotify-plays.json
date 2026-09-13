@@ -2329,52 +2329,5 @@
         "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       }
     ]
-  },
-  {
-    "id": "4ZaELPTGSaJo2lueR8fUpD",
-    "played_at": "2026-09-06T09:41:36.154Z",
-    "name": "my way",
-    "url": "https://open.spotify.com/track/4ZaELPTGSaJo2lueR8fUpD",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "51rfRCiUSvxXlCSCfIztBy",
-    "played_at": "2026-09-06T09:38:34.312Z",
-    "name": "I Love You, I'm Sorry",
-    "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
-    "played_at": "2026-09-06T09:35:56.217Z",
-    "name": "what’s wrong with me",
-    "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      },
-      {
-        "id": "6G7P2EzH5A36ujN9VPm4B0",
-        "name": "Robert Smith",
-        "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
-      }
-    ]
   }
 ]
