@@ -2390,47 +2390,5 @@
         "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
-  },
-  {
-    "id": "4nyF5lmSziBAt7ESAUjpbx",
-    "played_at": "2026-09-06T18:40:12.837Z",
-    "name": "I miss you, I’m sorry",
-    "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "4m0q0xQ2BNl9SCAGKyfiGZ",
-    "played_at": "2026-09-06T18:37:24.272Z",
-    "name": "Somebody Else",
-    "url": "https://open.spotify.com/track/4m0q0xQ2BNl9SCAGKyfiGZ",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02206517a3f7e4c34bf0bfc531",
-    "artists": [
-      {
-        "id": "3mIj9lX2MWuHmhNCA7LSCW",
-        "name": "The 1975",
-        "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-      }
-    ]
-  },
-  {
-    "id": "3hEfpBHxgieRLz4t3kLNEg",
-    "played_at": "2026-09-06T18:31:18.396Z",
-    "name": "About You",
-    "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-    "artists": [
-      {
-        "id": "3mIj9lX2MWuHmhNCA7LSCW",
-        "name": "The 1975",
-        "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-      }
-    ]
   }
 ]
