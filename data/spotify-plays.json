@@ -2409,19 +2409,5 @@
         "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
-  },
-  {
-    "id": "5JiU3gLHz9AvUnrhXgOmos",
-    "played_at": "2026-09-07T05:46:00.910Z",
-    "name": "Risk",
-    "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e024ba1c73e08db2c003a78e148",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
   }
 ]
