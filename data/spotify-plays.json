@@ -2386,33 +2386,5 @@
         "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
       }
     ]
-  },
-  {
-    "id": "51v7yO07BdGgP6hv0OaDe2",
-    "played_at": "2026-09-07T19:19:44.791Z",
-    "name": "Romantic Flight - From How To Train Your Dragon Music From The Motion Picture",
-    "url": "https://open.spotify.com/track/51v7yO07BdGgP6hv0OaDe2",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02164edf20ddc765dff82d95cd",
-    "artists": [
-      {
-        "id": "3EAHF3jdnHHdko5DBrhRUP",
-        "name": "John Powell",
-        "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-      }
-    ]
-  },
-  {
-    "id": "6qqrTXSdwiJaq8SO0X2lSe",
-    "played_at": "2026-09-07T19:17:42.517Z",
-    "name": "Ordinary",
-    "url": "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02457cfd5a54720ab3b0820064",
-    "artists": [
-      {
-        "id": "0fTSzq9jAh4c36UVb4V7CB",
-        "name": "Alex Warren",
-        "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-      }
-    ]
   }
 ]
