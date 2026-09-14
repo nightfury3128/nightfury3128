@@ -1,5 +1,71 @@
 [
   {
+    "id": "4R2kfaDFhslZEMJqAFNpdd",
+    "played_at": "2026-09-14T03:39:48.992Z",
+    "name": "cardigan",
+    "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+    "artists": [
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "0hhzNPE68LWLfgZwdpxVdR",
+    "played_at": "2026-09-14T02:23:14.002Z",
+    "name": "us. (feat. Taylor Swift)",
+    "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "0hhzNPE68LWLfgZwdpxVdR",
+    "played_at": "2026-09-13T18:07:49.966Z",
+    "name": "us. (feat. Taylor Swift)",
+    "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "1jEBSDN5vYViJQr78W7jr2",
+    "played_at": "2026-09-13T18:07:49.964Z",
+    "name": "Light Switch",
+    "url": "https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02043168fd87de1ce066b4afa3",
+    "artists": [
+      {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      }
+    ]
+  },
+  {
     "id": "3567eNX2L3RkkMkwspncMH",
     "played_at": "2026-09-13T16:47:06.750Z",
     "name": "Lie To Me",
@@ -300,6 +366,20 @@
         "id": "00FQb4jTyendYWaN8pK0wa",
         "name": "Lana Del Rey",
         "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      }
+    ]
+  },
+  {
+    "id": "11GUkH18CKNFLKCHORkceJ",
+    "played_at": "2026-09-12T05:30:27.030Z",
+    "name": "Good Reason",
+    "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0299bc33b47a0a67fd50783055",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
   },
@@ -2341,53 +2421,6 @@
         "id": "4tuJ0bMpJh08umKkEXKUI5",
         "name": "Gracie Abrams",
         "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
-    "played_at": "2026-09-07T03:07:39.152Z",
-    "name": "what’s wrong with me",
-    "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      },
-      {
-        "id": "6G7P2EzH5A36ujN9VPm4B0",
-        "name": "Robert Smith",
-        "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
-      }
-    ]
-  },
-  {
-    "id": "49j6SvuvWfbEKZKzsHCdLJ",
-    "played_at": "2026-09-07T03:03:53.610Z",
-    "name": "stupid song",
-    "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "49j6SvuvWfbEKZKzsHCdLJ",
-    "played_at": "2026-09-07T03:00:19.249Z",
-    "name": "stupid song",
-    "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
   }
