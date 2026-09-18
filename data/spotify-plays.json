@@ -2072,19 +2072,5 @@
         "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
       }
     ]
-  },
-  {
-    "id": "4WFgvKVfEhb3IUAFGrutTR",
-    "played_at": "2026-09-11T22:07:33.420Z",
-    "name": "Love Me Not",
-    "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e020e62daaea2c7b94053e1c142",
-    "artists": [
-      {
-        "id": "5RTLRtXjbXI2lSXc6jxlAz",
-        "name": "Ravyn Lenae",
-        "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-      }
-    ]
   }
 ]
