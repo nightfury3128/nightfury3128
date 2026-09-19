@@ -1464,47 +1464,5 @@
         "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
-  },
-  {
-    "id": "5hM5arv9KDbCHS0k9uqwjr",
-    "played_at": "2026-09-12T21:12:57.111Z",
-    "name": "Borderline",
-    "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
-    "artists": [
-      {
-        "id": "5INjqkS1o8h1imAzPqGZBb",
-        "name": "Tame Impala",
-        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      }
-    ]
-  },
-  {
-    "id": "77JxSDvDcZVXNptwJOTX3m",
-    "played_at": "2026-09-12T19:08:39.179Z",
-    "name": "the cure",
-    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "77JxSDvDcZVXNptwJOTX3m",
-    "played_at": "2026-09-12T19:04:20.722Z",
-    "name": "the cure",
-    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
   }
 ]
