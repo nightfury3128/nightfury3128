@@ -1,5 +1,19 @@
 [
   {
+    "id": "72jbDTw1piOOj770jWNeaG",
+    "played_at": "2026-09-19T05:22:02.064Z",
+    "name": "Paris",
+    "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e020c13d3d5a503c84fcc60ae94",
+    "artists": [
+      {
+        "id": "69GGBxA162lTqCwzJG5jLp",
+        "name": "The Chainsmokers",
+        "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+      }
+    ]
+  },
+  {
     "id": "5iTaLzgPI5jRMVAxITcZwT",
     "played_at": "2026-09-18T15:15:17.929Z",
     "name": "Easier – Remix (with Charlie Puth)",
@@ -1546,160 +1560,6 @@
         "id": "00FQb4jTyendYWaN8pK0wa",
         "name": "Lana Del Rey",
         "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-      }
-    ]
-  },
-  {
-    "id": "11GUkH18CKNFLKCHORkceJ",
-    "played_at": "2026-09-12T05:30:27.030Z",
-    "name": "Good Reason",
-    "url": "https://open.spotify.com/track/11GUkH18CKNFLKCHORkceJ",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0299bc33b47a0a67fd50783055",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "3AWDeHLc88XogCaCnZQLVI",
-    "played_at": "2026-09-12T05:27:14.800Z",
-    "name": "Cry For Me",
-    "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02de79f330bc297af3fae736da",
-    "artists": [
-      {
-        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-        "name": "The Weeknd",
-        "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-      }
-    ]
-  },
-  {
-    "id": "3nsfB1vus2qaloUdcBZvDu",
-    "played_at": "2026-09-12T05:23:41.944Z",
-    "name": "All Too Well (Taylor's Version)",
-    "url": "https://open.spotify.com/track/3nsfB1vus2qaloUdcBZvDu",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02318443aab3531a0558e79a4d",
-    "artists": [
-      {
-        "id": "06HL4z0CvFAxyc27GXpf02",
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ]
-  },
-  {
-    "id": "3Nl5OkkmS5DaBZvuYofpAt",
-    "played_at": "2026-09-12T05:18:38.414Z",
-    "name": "the grudge",
-    "url": "https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "6I3mqTwhRpn34SLVafSH7G",
-    "played_at": "2026-09-12T05:15:43.414Z",
-    "name": "Ghost",
-    "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431",
-    "artists": [
-      {
-        "id": "1uNFoZAHBGtllmzznpCI3s",
-        "name": "Justin Bieber",
-        "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-      }
-    ]
-  },
-  {
-    "id": "5JiU3gLHz9AvUnrhXgOmos",
-    "played_at": "2026-09-12T05:13:19.656Z",
-    "name": "Risk",
-    "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e024ba1c73e08db2c003a78e148",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "5hM5arv9KDbCHS0k9uqwjr",
-    "played_at": "2026-09-12T05:10:06.366Z",
-    "name": "Borderline",
-    "url": "https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0258267bd34420a00d5cf83a49",
-    "artists": [
-      {
-        "id": "5INjqkS1o8h1imAzPqGZBb",
-        "name": "Tame Impala",
-        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      }
-    ]
-  },
-  {
-    "id": "2xGjfbXZnI8uQDhukoQURQ",
-    "played_at": "2026-09-12T05:06:10.444Z",
-    "name": "K.",
-    "url": "https://open.spotify.com/track/2xGjfbXZnI8uQDhukoQURQ",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
-    "artists": [
-      {
-        "id": "1QAJqy2dA3ihHBFIHRphZj",
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-      }
-    ]
-  },
-  {
-    "id": "77JxSDvDcZVXNptwJOTX3m",
-    "played_at": "2026-09-12T05:00:50.545Z",
-    "name": "the cure",
-    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "3NxWJWftvkstyxvb1pZlFo",
-    "played_at": "2026-09-12T04:55:52.906Z",
-    "name": "Teeth",
-    "url": "https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02726005f0f81903e157d9dbc7",
-    "artists": [
-      {
-        "id": "5Rl15oVamLq7FbSb0NNBNy",
-        "name": "5 Seconds of Summer",
-        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      }
-    ]
-  },
-  {
-    "id": "593knnQN4REEshx8th9zgK",
-    "played_at": "2026-09-12T04:52:34.204Z",
-    "name": "Strangers",
-    "url": "https://open.spotify.com/track/593knnQN4REEshx8th9zgK",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0224f7e27b268c2777fc367e36",
-    "artists": [
-      {
-        "id": "7uMDnSZyUYNBPLhPMNuaM2",
-        "name": "Kenya Grace",
-        "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
       }
     ]
   }
