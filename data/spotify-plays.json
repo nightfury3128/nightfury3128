@@ -1,5 +1,19 @@
 [
   {
+    "id": "3NxWJWftvkstyxvb1pZlFo",
+    "played_at": "2026-09-21T05:21:20.921Z",
+    "name": "Teeth",
+    "url": "https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02726005f0f81903e157d9dbc7",
+    "artists": [
+      {
+        "id": "5Rl15oVamLq7FbSb0NNBNy",
+        "name": "5 Seconds of Summer",
+        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+      }
+    ]
+  },
+  {
     "id": "47oXF9VHCqabVcjd2gZBpa",
     "played_at": "2026-09-20T23:00:51.214Z",
     "name": "Where do we go now?",
@@ -1675,39 +1689,6 @@
         "id": "5Rl15oVamLq7FbSb0NNBNy",
         "name": "5 Seconds of Summer",
         "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      }
-    ]
-  },
-  {
-    "id": "4R2kfaDFhslZEMJqAFNpdd",
-    "played_at": "2026-09-14T03:39:48.992Z",
-    "name": "cardigan",
-    "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
-    "artists": [
-      {
-        "id": "06HL4z0CvFAxyc27GXpf02",
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ]
-  },
-  {
-    "id": "0hhzNPE68LWLfgZwdpxVdR",
-    "played_at": "2026-09-14T02:23:14.002Z",
-    "name": "us. (feat. Taylor Swift)",
-    "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      },
-      {
-        "id": "06HL4z0CvFAxyc27GXpf02",
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
       }
     ]
   }
