@@ -1760,19 +1760,5 @@
         "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
-  },
-  {
-    "id": "5meVa5klVlJalupZTvv5XX",
-    "played_at": "2026-09-16T03:50:20.779Z",
-    "name": "21",
-    "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
   }
 ]
