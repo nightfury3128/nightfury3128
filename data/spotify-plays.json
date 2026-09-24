@@ -1699,19 +1699,5 @@
         "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
       }
     ]
-  },
-  {
-    "id": "4HwDCXsMBC7SUdp2WT4MZP",
-    "played_at": "2026-09-17T00:13:43.802Z",
-    "name": "Into It",
-    "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e025a0c2870f4f309e382d1fad6",
-    "artists": [
-      {
-        "id": "7cYEt1pqMgXJdq00hAwVpT",
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-      }
-    ]
   }
 ]
