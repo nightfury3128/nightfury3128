@@ -1,5 +1,19 @@
 [
   {
+    "id": "3fRCAPMMZ8l8P9YKI6OCzD",
+    "played_at": "2026-09-25T17:54:20.647Z",
+    "name": "drop dead",
+    "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
     "id": "3AWDeHLc88XogCaCnZQLVI",
     "played_at": "2026-09-25T15:01:06.619Z",
     "name": "Cry For Me",
@@ -1812,39 +1826,6 @@
         "id": "69GGBxA162lTqCwzJG5jLp",
         "name": "The Chainsmokers",
         "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-      }
-    ]
-  },
-  {
-    "id": "5iTaLzgPI5jRMVAxITcZwT",
-    "played_at": "2026-09-18T15:15:17.929Z",
-    "name": "Easier – Remix (with Charlie Puth)",
-    "url": "https://open.spotify.com/track/5iTaLzgPI5jRMVAxITcZwT",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0276825cf85397c0dbd32c6c34",
-    "artists": [
-      {
-        "id": "5Rl15oVamLq7FbSb0NNBNy",
-        "name": "5 Seconds of Summer",
-        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      },
-      {
-        "id": "6VuMaDnrHyPL1p4EHjYLi7",
-        "name": "Charlie Puth",
-        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-      }
-    ]
-  },
-  {
-    "id": "5wANPM4fQCJwkGd4rN57mH",
-    "played_at": "2026-09-18T15:11:12.035Z",
-    "name": "drivers license",
-    "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
   }
