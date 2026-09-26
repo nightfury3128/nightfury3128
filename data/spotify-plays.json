@@ -1814,19 +1814,5 @@
         "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
-  },
-  {
-    "id": "72jbDTw1piOOj770jWNeaG",
-    "played_at": "2026-09-19T05:22:02.064Z",
-    "name": "Paris",
-    "url": "https://open.spotify.com/track/72jbDTw1piOOj770jWNeaG",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e020c13d3d5a503c84fcc60ae94",
-    "artists": [
-      {
-        "id": "69GGBxA162lTqCwzJG5jLp",
-        "name": "The Chainsmokers",
-        "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-      }
-    ]
   }
 ]
