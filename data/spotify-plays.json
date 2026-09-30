@@ -1,5 +1,19 @@
 [
   {
+    "id": "5yJaXWIErrrsjQ3J0eR5aK",
+    "played_at": "2026-09-30T14:46:29.980Z",
+    "name": "The Night We Met",
+    "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02b4916183f769aca218acb85f",
+    "artists": [
+      {
+        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+        "name": "Lord Huron",
+        "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+      }
+    ]
+  },
+  {
     "id": "1kuGVB7EU95pJObxwvfwKS",
     "played_at": "2026-09-30T14:27:48.449Z",
     "name": "vampire",
@@ -2717,132 +2731,6 @@
         "id": "74KM79TiuVKeVCqs8QtB0B",
         "name": "Sabrina Carpenter",
         "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-      }
-    ]
-  },
-  {
-    "id": "2bjUEg4jBtKBlPdNrTAppI",
-    "played_at": "2026-09-23T18:49:35.234Z",
-    "name": "Easier",
-    "url": "https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02726005f0f81903e157d9dbc7",
-    "artists": [
-      {
-        "id": "5Rl15oVamLq7FbSb0NNBNy",
-        "name": "5 Seconds of Summer",
-        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      }
-    ]
-  },
-  {
-    "id": "7ne4VBA60CxGM75vw0EYad",
-    "played_at": "2026-09-23T18:47:06.285Z",
-    "name": "That’s So True",
-    "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "3hUxzQpSfdDqwM3ZTFQY0K",
-    "played_at": "2026-09-23T18:44:10.061Z",
-    "name": "august",
-    "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
-    "artists": [
-      {
-        "id": "06HL4z0CvFAxyc27GXpf02",
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ]
-  },
-  {
-    "id": "0t1fdMrn7JOg9DDsT95bxt",
-    "played_at": "2026-09-23T16:11:18.666Z",
-    "name": "we never dated",
-    "url": "https://open.spotify.com/track/0t1fdMrn7JOg9DDsT95bxt",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e024229702de91cb3d3a4383302",
-    "artists": [
-      {
-        "id": "4G9NDjRyZFDlJKMRL8hx3S",
-        "name": "sombr",
-        "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-      }
-    ]
-  },
-  {
-    "id": "2p8IUWQDrpjuFltbdgLOag",
-    "played_at": "2026-09-23T16:08:14.130Z",
-    "name": "After Hours",
-    "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
-    "artists": [
-      {
-        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-        "name": "The Weeknd",
-        "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-      }
-    ]
-  },
-  {
-    "id": "3hEfpBHxgieRLz4t3kLNEg",
-    "played_at": "2026-09-23T16:02:16.024Z",
-    "name": "About You",
-    "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-    "artists": [
-      {
-        "id": "3mIj9lX2MWuHmhNCA7LSCW",
-        "name": "The 1975",
-        "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-      }
-    ]
-  },
-  {
-    "id": "47oXF9VHCqabVcjd2gZBpa",
-    "played_at": "2026-09-23T15:57:14.733Z",
-    "name": "Where do we go now?",
-    "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e020500294bb235c45c0a964d69",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "0eAuGrXyGFYwur9ARUe7LJ",
-    "played_at": "2026-09-23T15:53:25.891Z",
-    "name": "Earrings",
-    "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e022c1f34ecc1929fb59908aad1",
-    "artists": [
-      {
-        "id": "7eKkW1zo5uzW8kUntiiBvz",
-        "name": "Malcolm Todd",
-        "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-      }
-    ]
-  },
-  {
-    "id": "6G9YlbU3ByPJQvOFDRdwyM",
-    "played_at": "2026-09-23T15:50:58.901Z",
-    "name": "her",
-    "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02a0934c15232680a3afc9da6e",
-    "artists": [
-      {
-        "id": "164Uj4eKjl6zTBKfJLFKKK",
-        "name": "JVKE",
-        "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
       }
     ]
   }
