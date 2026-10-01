@@ -2691,19 +2691,5 @@
         "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
       }
     ]
-  },
-  {
-    "id": "5iFwAOB2TFkPJk8sMlxP8g",
-    "played_at": "2026-09-24T00:52:12.406Z",
-    "name": "Make You Mine",
-    "url": "https://open.spotify.com/track/5iFwAOB2TFkPJk8sMlxP8g",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e020d0621554b1c6c9dbf3556be",
-    "artists": [
-      {
-        "id": "4vxaQs6vK54nK89J1VtLex",
-        "name": "PUBLIC",
-        "url": "https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex"
-      }
-    ]
   }
 ]
