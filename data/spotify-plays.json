@@ -1,5 +1,19 @@
 [
   {
+    "id": "7k7JKDjCd9zuL0iF7iWaNs",
+    "played_at": "2026-10-01T21:13:32.165Z",
+    "name": "Empty Cups",
+    "url": "https://open.spotify.com/track/7k7JKDjCd9zuL0iF7iWaNs",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02897f73256b9128a9d70eaf66",
+    "artists": [
+      {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      }
+    ]
+  },
+  {
     "id": "1cR29lpK5mJIlajSpRqfNF",
     "played_at": "2026-10-01T17:23:18.230Z",
     "name": "For Real This Time",
@@ -2306,81 +2320,6 @@
         "id": "6G7P2EzH5A36ujN9VPm4B0",
         "name": "Robert Smith",
         "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
-      }
-    ]
-  },
-  {
-    "id": "3fRCAPMMZ8l8P9YKI6OCzD",
-    "played_at": "2026-09-25T17:54:20.647Z",
-    "name": "drop dead",
-    "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "3AWDeHLc88XogCaCnZQLVI",
-    "played_at": "2026-09-25T15:01:06.619Z",
-    "name": "Cry For Me",
-    "url": "https://open.spotify.com/track/3AWDeHLc88XogCaCnZQLVI",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02de79f330bc297af3fae736da",
-    "artists": [
-      {
-        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-        "name": "The Weeknd",
-        "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-      }
-    ]
-  },
-  {
-    "id": "7mykoq6R3BArsSpNDjFQTm",
-    "played_at": "2026-09-25T14:57:20.232Z",
-    "name": "I Really Want to Stay at Your House",
-    "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02a91a5b301baac1f46e6f30eb",
-    "artists": [
-      {
-        "id": "1X0HaTcdkHW7LviblBiEeq",
-        "name": "Rosa Walton",
-        "url": "https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq"
-      },
-      {
-        "id": "5JNkPX6dYGLeEm4cUjHNGc",
-        "name": "Hallie Coggins",
-        "url": "https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc"
-      }
-    ]
-  },
-  {
-    "id": "3NxWJWftvkstyxvb1pZlFo",
-    "played_at": "2026-09-25T14:53:13.613Z",
-    "name": "Teeth",
-    "url": "https://open.spotify.com/track/3NxWJWftvkstyxvb1pZlFo",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02726005f0f81903e157d9dbc7",
-    "artists": [
-      {
-        "id": "5Rl15oVamLq7FbSb0NNBNy",
-        "name": "5 Seconds of Summer",
-        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      }
-    ]
-  },
-  {
-    "id": "5meVa5klVlJalupZTvv5XX",
-    "played_at": "2026-09-25T14:50:00.224Z",
-    "name": "21",
-    "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
   }
