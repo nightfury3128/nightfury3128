@@ -1,5 +1,33 @@
 [
   {
+    "id": "3567eNX2L3RkkMkwspncMH",
+    "played_at": "2026-10-04T17:31:27.649Z",
+    "name": "Lie To Me",
+    "url": "https://open.spotify.com/track/3567eNX2L3RkkMkwspncMH",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0241aa6776dc15fbd71a2b4557",
+    "artists": [
+      {
+        "id": "5Rl15oVamLq7FbSb0NNBNy",
+        "name": "5 Seconds of Summer",
+        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+      }
+    ]
+  },
+  {
+    "id": "77JxSDvDcZVXNptwJOTX3m",
+    "played_at": "2026-10-04T17:29:06.736Z",
+    "name": "the cure",
+    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
     "id": "1sYC1fG7s4p0pTykrJqmgW",
     "played_at": "2026-10-03T23:57:00.985Z",
     "name": "Kyon",
@@ -1763,198 +1791,6 @@
         "id": "4G9NDjRyZFDlJKMRL8hx3S",
         "name": "sombr",
         "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-      }
-    ]
-  },
-  {
-    "id": "35IcAVSMsU9qzHfpPbvC8A",
-    "played_at": "2026-09-27T16:43:30.396Z",
-    "name": "Feels Like",
-    "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026d63fd3e1afa17b0d5563131",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "3rUGC1vUpkDG9CZFHMur1t",
-    "played_at": "2026-09-27T16:41:18.052Z",
-    "name": "greedy",
-    "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e025f677b5d3b81f08badd0775b",
-    "artists": [
-      {
-        "id": "45dkTj5sMRSjrmBSBeiHym",
-        "name": "Tate McRae",
-        "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-      }
-    ]
-  },
-  {
-    "id": "21IYMdzTrzSe191Cy5eMap",
-    "played_at": "2026-09-27T16:39:13.499Z",
-    "name": "Sailor Song",
-    "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0249c26270052e1671add569c1",
-    "artists": [
-      {
-        "id": "1iCnM8foFssWlPRLfAbIwo",
-        "name": "Gigi Perez",
-        "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-      }
-    ]
-  },
-  {
-    "id": "3567eNX2L3RkkMkwspncMH",
-    "played_at": "2026-09-27T16:36:05.136Z",
-    "name": "Lie To Me",
-    "url": "https://open.spotify.com/track/3567eNX2L3RkkMkwspncMH",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0241aa6776dc15fbd71a2b4557",
-    "artists": [
-      {
-        "id": "5Rl15oVamLq7FbSb0NNBNy",
-        "name": "5 Seconds of Summer",
-        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      }
-    ]
-  },
-  {
-    "id": "1lsBTdE6MGsKeZCD6llNu7",
-    "played_at": "2026-09-27T16:06:26.070Z",
-    "name": "Done for Me (feat. Kehlani)",
-    "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02897f73256b9128a9d70eaf66",
-    "artists": [
-      {
-        "id": "6VuMaDnrHyPL1p4EHjYLi7",
-        "name": "Charlie Puth",
-        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-      },
-      {
-        "id": "0cGUm45nv7Z6M6qdXYQGTX",
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-      }
-    ]
-  },
-  {
-    "id": "3hEfpBHxgieRLz4t3kLNEg",
-    "played_at": "2026-09-27T16:06:05.189Z",
-    "name": "About You",
-    "url": "https://open.spotify.com/track/3hEfpBHxgieRLz4t3kLNEg",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0200702474f8e0e2b6155d48e3",
-    "artists": [
-      {
-        "id": "3mIj9lX2MWuHmhNCA7LSCW",
-        "name": "The 1975",
-        "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-      }
-    ]
-  },
-  {
-    "id": "4nyF5lmSziBAt7ESAUjpbx",
-    "played_at": "2026-09-27T16:03:51.699Z",
-    "name": "I miss you, I’m sorry",
-    "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "77JxSDvDcZVXNptwJOTX3m",
-    "played_at": "2026-09-27T16:01:05.530Z",
-    "name": "the cure",
-    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "4nyF5lmSziBAt7ESAUjpbx",
-    "played_at": "2026-09-27T15:56:06.412Z",
-    "name": "I miss you, I’m sorry",
-    "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "5XeFesFbtLpXzIVDNQP22n",
-    "played_at": "2026-09-27T15:56:06.263Z",
-    "name": "I Wanna Be Yours",
-    "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
-    "artists": [
-      {
-        "id": "7Ln80lUS6He07XvHI8qqHH",
-        "name": "Arctic Monkeys",
-        "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-      }
-    ]
-  },
-  {
-    "id": "1lsBTdE6MGsKeZCD6llNu7",
-    "played_at": "2026-09-27T15:45:53.509Z",
-    "name": "Done for Me (feat. Kehlani)",
-    "url": "https://open.spotify.com/track/1lsBTdE6MGsKeZCD6llNu7",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02897f73256b9128a9d70eaf66",
-    "artists": [
-      {
-        "id": "6VuMaDnrHyPL1p4EHjYLi7",
-        "name": "Charlie Puth",
-        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-      },
-      {
-        "id": "0cGUm45nv7Z6M6qdXYQGTX",
-        "name": "Kehlani",
-        "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-      }
-    ]
-  },
-  {
-    "id": "4nyF5lmSziBAt7ESAUjpbx",
-    "played_at": "2026-09-27T15:43:19.213Z",
-    "name": "I miss you, I’m sorry",
-    "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "77JxSDvDcZVXNptwJOTX3m",
-    "played_at": "2026-09-27T15:40:32.915Z",
-    "name": "the cure",
-    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
   }
