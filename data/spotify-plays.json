@@ -1,5 +1,47 @@
 [
   {
+    "id": "3kN2Z8e8QbBjnjc46h07Pu",
+    "played_at": "2026-10-08T21:46:19.086Z",
+    "name": "cigarette smoke",
+    "url": "https://open.spotify.com/track/3kN2Z8e8QbBjnjc46h07Pu",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "1cR29lpK5mJIlajSpRqfNF",
+    "played_at": "2026-10-08T21:40:36.880Z",
+    "name": "For Real This Time",
+    "url": "https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026d63fd3e1afa17b0d5563131",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "19XpFsce28aByvCC4g89tJ",
+    "played_at": "2026-10-08T19:23:42.491Z",
+    "name": "Too Sweet",
+    "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02b07bd43d1bec442c7fcc4d1e",
+    "artists": [
+      {
+        "id": "2FXC3k01G6Gw61bmprjgqS",
+        "name": "Hozier",
+        "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+      }
+    ]
+  },
+  {
     "id": "6dgUya35uo964z7GZXM07g",
     "played_at": "2026-10-08T16:41:28.287Z",
     "name": "Nonsense",
@@ -2423,137 +2465,6 @@
         "id": "7Ln80lUS6He07XvHI8qqHH",
         "name": "Arctic Monkeys",
         "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-      }
-    ]
-  },
-  {
-    "id": "7k7JKDjCd9zuL0iF7iWaNs",
-    "played_at": "2026-10-01T21:13:32.165Z",
-    "name": "Empty Cups",
-    "url": "https://open.spotify.com/track/7k7JKDjCd9zuL0iF7iWaNs",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02897f73256b9128a9d70eaf66",
-    "artists": [
-      {
-        "id": "6VuMaDnrHyPL1p4EHjYLi7",
-        "name": "Charlie Puth",
-        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-      }
-    ]
-  },
-  {
-    "id": "1cR29lpK5mJIlajSpRqfNF",
-    "played_at": "2026-10-01T17:23:18.230Z",
-    "name": "For Real This Time",
-    "url": "https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026d63fd3e1afa17b0d5563131",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "76FZM38RC8XaAjJ77CVTNe",
-    "played_at": "2026-10-01T17:15:16.729Z",
-    "name": "Into You",
-    "url": "https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0233342c57a9b2c4e04c97b3f5",
-    "artists": [
-      {
-        "id": "66CXWjxzNUsdJxJ2JdwvnR",
-        "name": "Ariana Grande",
-        "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-      }
-    ]
-  },
-  {
-    "id": "3fVnlF4pGqWI9flVENcT28",
-    "played_at": "2026-10-01T17:11:31.741Z",
-    "name": "Wildest Dreams",
-    "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02b7e976d2b35c767f9012cb72",
-    "artists": [
-      {
-        "id": "06HL4z0CvFAxyc27GXpf02",
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      }
-    ]
-  },
-  {
-    "id": "1oAwsWBovWRIp7qLMGPIet",
-    "played_at": "2026-10-01T17:08:11.232Z",
-    "name": "Apocalypse",
-    "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02dfed999f959177dfc4f33cdc",
-    "artists": [
-      {
-        "id": "1QAJqy2dA3ihHBFIHRphZj",
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-      }
-    ]
-  },
-  {
-    "id": "5FVd6KXrgO9B3JPmC8OPst",
-    "played_at": "2026-10-01T17:03:47.243Z",
-    "name": "Do I Wanna Know?",
-    "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163",
-    "artists": [
-      {
-        "id": "7Ln80lUS6He07XvHI8qqHH",
-        "name": "Arctic Monkeys",
-        "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-      }
-    ]
-  },
-  {
-    "id": "6K4t31amVTZDgR3sKmwUJJ",
-    "played_at": "2026-10-01T16:55:05.969Z",
-    "name": "The Less I Know The Better",
-    "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
-    "artists": [
-      {
-        "id": "5INjqkS1o8h1imAzPqGZBb",
-        "name": "Tame Impala",
-        "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      }
-    ]
-  },
-  {
-    "id": "2yWlGEgEfPot0lv3OAjuG3",
-    "played_at": "2026-10-01T16:51:29.214Z",
-    "name": "Just Keep Watching (From F1® The Movie)",
-    "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02a23d1b3449fb415346735a08",
-    "artists": [
-      {
-        "id": "45dkTj5sMRSjrmBSBeiHym",
-        "name": "Tate McRae",
-        "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-      },
-      {
-        "id": "3aly4xJOy3LVznzvRIvFYC",
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
-      }
-    ]
-  },
-  {
-    "id": "3fRCAPMMZ8l8P9YKI6OCzD",
-    "played_at": "2026-10-01T16:48:40.832Z",
-    "name": "drop dead",
-    "url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
   }
