@@ -1,5 +1,19 @@
 [
   {
+    "id": "6qNALlmZa1ESnCxJmXE1K9",
+    "played_at": "2026-10-09T18:46:36.439Z",
+    "name": "The Way I Am",
+    "url": "https://open.spotify.com/track/6qNALlmZa1ESnCxJmXE1K9",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02897f73256b9128a9d70eaf66",
+    "artists": [
+      {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      }
+    ]
+  },
+  {
     "id": "0t1fdMrn7JOg9DDsT95bxt",
     "played_at": "2026-10-09T13:08:01.445Z",
     "name": "we never dated",
