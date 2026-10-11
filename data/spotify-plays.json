@@ -1,5 +1,19 @@
 [
   {
+    "id": "7ciLq0Cip0yxiz6KANrOUq",
+    "played_at": "2026-10-11T08:19:21.311Z",
+    "name": "Toothbrush",
+    "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e028d0a75346badc30c8b845be9",
+    "artists": [
+      {
+        "id": "6T5tfhQCknKG4UnH90qGnz",
+        "name": "DNCE",
+        "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+      }
+    ]
+  },
+  {
     "id": "5a6p56me3eFdKXcWnsPtLE",
     "played_at": "2026-10-10T23:25:10.276Z",
     "name": "The Knife",
@@ -3011,34 +3025,6 @@
         "id": "0cGUm45nv7Z6M6qdXYQGTX",
         "name": "Kehlani",
         "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-      }
-    ]
-  },
-  {
-    "id": "3567eNX2L3RkkMkwspncMH",
-    "played_at": "2026-10-04T17:31:27.649Z",
-    "name": "Lie To Me",
-    "url": "https://open.spotify.com/track/3567eNX2L3RkkMkwspncMH",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0241aa6776dc15fbd71a2b4557",
-    "artists": [
-      {
-        "id": "5Rl15oVamLq7FbSb0NNBNy",
-        "name": "5 Seconds of Summer",
-        "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      }
-    ]
-  },
-  {
-    "id": "77JxSDvDcZVXNptwJOTX3m",
-    "played_at": "2026-10-04T17:29:06.736Z",
-    "name": "the cure",
-    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
   }
