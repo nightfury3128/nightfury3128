@@ -3041,29 +3041,5 @@
         "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
-  },
-  {
-    "id": "1sYC1fG7s4p0pTykrJqmgW",
-    "played_at": "2026-10-03T23:57:00.985Z",
-    "name": "Kyon",
-    "url": "https://open.spotify.com/track/1sYC1fG7s4p0pTykrJqmgW",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02352f44aed6f226c6ea28b961",
-    "artists": [
-      {
-        "id": "1wRPtKGflJrBx9BmLsSwlU",
-        "name": "Pritam",
-        "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-      },
-      {
-        "id": "2FPwX3Gh0w4Qr1v3zSTtcT",
-        "name": "Papon",
-        "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-      },
-      {
-        "id": "3eDT9fwXKuHWFvgZaaYC5v",
-        "name": "Sunidhi Chauhan",
-        "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-      }
-    ]
   }
 ]
