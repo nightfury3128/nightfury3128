@@ -1,5 +1,19 @@
 [
   {
+    "id": "40HnWYsdWwsLX1mTBVIoDk",
+    "played_at": "2026-10-15T00:52:26.573Z",
+    "name": "I should hate you",
+    "url": "https://open.spotify.com/track/40HnWYsdWwsLX1mTBVIoDk",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e024e506d9ff028ede51e358341",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
     "id": "25FTMokYEbEWHEdss5JLZS",
     "played_at": "2026-10-14T18:44:26.449Z",
     "name": "Teenage Dirtbag",
