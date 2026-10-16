@@ -2580,19 +2580,5 @@
         "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
-  },
-  {
-    "id": "2009X8GyWTqyxIdzAEYW6N",
-    "played_at": "2026-10-09T03:32:37.305Z",
-    "name": "The One That Got Away",
-    "url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e021d955011a3ed477dc77865ad",
-    "artists": [
-      {
-        "id": "6jJ0s89eD6GaHleKKya26X",
-        "name": "Katy Perry",
-        "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-      }
-    ]
   }
 ]
