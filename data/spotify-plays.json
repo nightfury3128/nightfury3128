@@ -2311,19 +2311,5 @@
         "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       }
     ]
-  },
-  {
-    "id": "7ciLq0Cip0yxiz6KANrOUq",
-    "played_at": "2026-10-11T08:19:21.311Z",
-    "name": "Toothbrush",
-    "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e028d0a75346badc30c8b845be9",
-    "artists": [
-      {
-        "id": "6T5tfhQCknKG4UnH90qGnz",
-        "name": "DNCE",
-        "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
-      }
-    ]
   }
 ]
