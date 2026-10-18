@@ -2325,19 +2325,5 @@
         "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
-  },
-  {
-    "id": "3kN2Z8e8QbBjnjc46h07Pu",
-    "played_at": "2026-10-11T21:23:02.726Z",
-    "name": "cigarette smoke",
-    "url": "https://open.spotify.com/track/3kN2Z8e8QbBjnjc46h07Pu",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
   }
 ]
