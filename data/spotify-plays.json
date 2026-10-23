@@ -1453,53 +1453,5 @@
         "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
       }
     ]
-  },
-  {
-    "id": "22kRCQPyNXWZSQEcDvCmGD",
-    "played_at": "2026-10-16T18:17:31.638Z",
-    "name": "Gulabi",
-    "url": "https://open.spotify.com/track/22kRCQPyNXWZSQEcDvCmGD",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02b142294d7adcc8e4f599fe87",
-    "artists": [
-      {
-        "id": "1mBydYMVBECdDmMfE2sEUO",
-        "name": "Sachin-Jigar",
-        "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-      },
-      {
-        "id": "48RCl7AbbfhC60EN8a80Op",
-        "name": "Jigar Saraiya",
-        "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
-      },
-      {
-        "id": "6q29t5RuXxlBuqIZsOMQss",
-        "name": "Priya Saraiya",
-        "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-      },
-      {
-        "id": "5kPOMQZvgkAEnRZqwn9SYQ",
-        "name": "Jaideep Sahni",
-        "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
-      }
-    ]
-  },
-  {
-    "id": "0og9wKFGgFFNQnrBe7eisG",
-    "played_at": "2026-10-16T18:14:04.509Z",
-    "name": "Uff Teri Adaa",
-    "url": "https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e020e0eae488b99b7c7b901f659",
-    "artists": [
-      {
-        "id": "1SJOL9HJ08YOn92lFcYf8a",
-        "name": "Shankar Mahadevan",
-        "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-      },
-      {
-        "id": "279ZItWl3nzCaO4SJJdzAN",
-        "name": "Alyssa Mendonsa",
-        "url": "https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN"
-      }
-    ]
   }
 ]
