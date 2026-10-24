@@ -1448,24 +1448,5 @@
         "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
       }
     ]
-  },
-  {
-    "id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
-    "played_at": "2026-10-17T03:15:39.842Z",
-    "name": "what’s wrong with me",
-    "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      },
-      {
-        "id": "6G7P2EzH5A36ujN9VPm4B0",
-        "name": "Robert Smith",
-        "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
-      }
-    ]
   }
 ]
