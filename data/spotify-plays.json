@@ -1685,19 +1685,5 @@
         "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
       }
     ]
-  },
-  {
-    "id": "3WSOUb3U7tqURbBSgZTrZX",
-    "played_at": "2026-10-19T22:20:48.043Z",
-    "name": "Casual",
-    "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0296fa88fb1789be437d5cb4b6",
-    "artists": [
-      {
-        "id": "7GlBOeep6PqTfFi59PTUUN",
-        "name": "Chappell Roan",
-        "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-      }
-    ]
   }
 ]
