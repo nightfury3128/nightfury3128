@@ -1,5 +1,38 @@
 [
   {
+    "id": "5WcsxoURbNjQPQvzKpHUMn",
+    "played_at": "2026-10-29T13:49:41.021Z",
+    "name": "us. (feat. Taylor Swift)",
+    "url": "https://open.spotify.com/track/5WcsxoURbNjQPQvzKpHUMn",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "5meVa5klVlJalupZTvv5XX",
+    "played_at": "2026-10-29T13:45:25.279Z",
+    "name": "21",
+    "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
     "id": "3siwsiaEoU4Kuuc9WKMUy5",
     "played_at": "2026-10-28T20:03:08.124Z",
     "name": "No One Noticed",
@@ -1264,104 +1297,6 @@
         "id": "0fTSzq9jAh4c36UVb4V7CB",
         "name": "Alex Warren",
         "url": "https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB"
-      }
-    ]
-  },
-  {
-    "id": "1kuGVB7EU95pJObxwvfwKS",
-    "played_at": "2026-10-22T17:44:38.836Z",
-    "name": "vampire",
-    "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "3rUGC1vUpkDG9CZFHMur1t",
-    "played_at": "2026-10-22T17:40:58.644Z",
-    "name": "greedy",
-    "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e025f677b5d3b81f08badd0775b",
-    "artists": [
-      {
-        "id": "45dkTj5sMRSjrmBSBeiHym",
-        "name": "Tate McRae",
-        "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-      }
-    ]
-  },
-  {
-    "id": "5JCoSi02qi3jJeHdZXMmR8",
-    "played_at": "2026-10-22T17:38:46.246Z",
-    "name": "favorite crime",
-    "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "5JCoSi02qi3jJeHdZXMmR8",
-    "played_at": "2026-10-22T17:36:56.674Z",
-    "name": "favorite crime",
-    "url": "https://open.spotify.com/track/5JCoSi02qi3jJeHdZXMmR8",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02a91c10fe9472d9bd89802e5a",
-    "artists": [
-      {
-        "id": "1McMsnEElThX1knmY4oliG",
-        "name": "Olivia Rodrigo",
-        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      }
-    ]
-  },
-  {
-    "id": "5meVa5klVlJalupZTvv5XX",
-    "played_at": "2026-10-22T14:59:34.121Z",
-    "name": "21",
-    "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
-  },
-  {
-    "id": "4WFgvKVfEhb3IUAFGrutTR",
-    "played_at": "2026-10-22T14:56:28.429Z",
-    "name": "Love Me Not",
-    "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e020e62daaea2c7b94053e1c142",
-    "artists": [
-      {
-        "id": "5RTLRtXjbXI2lSXc6jxlAz",
-        "name": "Ravyn Lenae",
-        "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
-      }
-    ]
-  },
-  {
-    "id": "2L9N0zZnd37dwF0clgxMGI",
-    "played_at": "2026-10-22T14:52:54.430Z",
-    "name": "ceilings",
-    "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02d370fdc4dbc47778b9b667c3",
-    "artists": [
-      {
-        "id": "1GmsPCcpKgF9OhlNXjOsbS",
-        "name": "Lizzy McAlpine",
-        "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
       }
     ]
   }
