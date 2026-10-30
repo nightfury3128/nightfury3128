@@ -980,19 +980,5 @@
         "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
       }
     ]
-  },
-  {
-    "id": "5K0YvE3MIoKkKrdeH5nH0H",
-    "played_at": "2026-10-23T21:09:23.504Z",
-    "name": "Kim Jung Goon",
-    "url": "https://open.spotify.com/track/5K0YvE3MIoKkKrdeH5nH0H",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02d61828e6bc684e6d7fefcd32",
-    "artists": [
-      {
-        "id": "32RaA7TgQ8WDXFG7xYBxXE",
-        "name": "Hyperbaiter",
-        "url": "https://open.spotify.com/artist/32RaA7TgQ8WDXFG7xYBxXE"
-      }
-    ]
   }
 ]
