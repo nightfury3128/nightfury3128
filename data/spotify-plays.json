@@ -1202,47 +1202,5 @@
         "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
       }
     ]
-  },
-  {
-    "id": "3SAga35lAPYdjj3qyfEsCF",
-    "played_at": "2026-10-27T19:55:18.083Z",
-    "name": "Feel It (From “Invincible”)",
-    "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02a9da992c2ef398245027d654",
-    "artists": [
-      {
-        "id": "5y8tKLUfMvliMe8IKamR32",
-        "name": "d4vd",
-        "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-      }
-    ]
-  },
-  {
-    "id": "5yJaXWIErrrsjQ3J0eR5aK",
-    "played_at": "2026-10-27T19:52:29.883Z",
-    "name": "The Night We Met",
-    "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02b4916183f769aca218acb85f",
-    "artists": [
-      {
-        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
-        "name": "Lord Huron",
-        "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-      }
-    ]
-  },
-  {
-    "id": "5yJaXWIErrrsjQ3J0eR5aK",
-    "played_at": "2026-10-27T19:50:50.247Z",
-    "name": "The Night We Met",
-    "url": "https://open.spotify.com/track/5yJaXWIErrrsjQ3J0eR5aK",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e02b4916183f769aca218acb85f",
-    "artists": [
-      {
-        "id": "6ltzsmQQbmdoHHbLZ4ZN25",
-        "name": "Lord Huron",
-        "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-      }
-    ]
   }
 ]
