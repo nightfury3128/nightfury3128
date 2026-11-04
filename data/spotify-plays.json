@@ -1,5 +1,19 @@
 [
   {
+    "id": "0wPKDeY4fZXT6k9bzV0kx0",
+    "played_at": "2026-11-04T03:24:20.862Z",
+    "name": "That's Hilarious",
+    "url": "https://open.spotify.com/track/0wPKDeY4fZXT6k9bzV0kx0",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02ab7a47f18916a10046212857",
+    "artists": [
+      {
+        "id": "6VuMaDnrHyPL1p4EHjYLi7",
+        "name": "Charlie Puth",
+        "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      }
+    ]
+  },
+  {
     "id": "7ne4VBA60CxGM75vw0EYad",
     "played_at": "2026-11-03T16:11:27.266Z",
     "name": "That’s So True",
@@ -1186,20 +1200,6 @@
         "id": "3mIj9lX2MWuHmhNCA7LSCW",
         "name": "The 1975",
         "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-      }
-    ]
-  },
-  {
-    "id": "593knnQN4REEshx8th9zgK",
-    "played_at": "2026-10-28T05:12:28.811Z",
-    "name": "Strangers",
-    "url": "https://open.spotify.com/track/593knnQN4REEshx8th9zgK",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0224f7e27b268c2777fc367e36",
-    "artists": [
-      {
-        "id": "7uMDnSZyUYNBPLhPMNuaM2",
-        "name": "Kenya Grace",
-        "url": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
       }
     ]
   }
