@@ -1645,19 +1645,5 @@
         "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
-  },
-  {
-    "id": "4nyF5lmSziBAt7ESAUjpbx",
-    "played_at": "2026-10-30T03:03:07.415Z",
-    "name": "I miss you, I’m sorry",
-    "url": "https://open.spotify.com/track/4nyF5lmSziBAt7ESAUjpbx",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
   }
 ]
