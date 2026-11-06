@@ -1,5 +1,24 @@
 [
   {
+    "id": "0AAMnNeIc6CdnfNU85GwCH",
+    "played_at": "2026-11-06T06:21:29.116Z",
+    "name": "Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray)",
+    "url": "https://open.spotify.com/track/0AAMnNeIc6CdnfNU85GwCH",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026ed9aef791159496b286179f",
+    "artists": [
+      {
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
+        "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+      },
+      {
+        "id": "6AMd49uBDJfhf30Ak2QR5s",
+        "name": "Coi Leray",
+        "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+      }
+    ]
+  },
+  {
     "id": "2MvvoeRt8NcOXWESkxWn3g",
     "played_at": "2026-11-05T20:39:59.330Z",
     "name": "Ribs",
