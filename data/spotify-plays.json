@@ -1,5 +1,482 @@
 [
   {
+    "id": "2uIX8YMNjGMD7441kqyyNU",
+    "played_at": "2026-11-08T20:34:41.994Z",
+    "name": "ocean eyes",
+    "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e022cafcdd985630d72594ecc49",
+    "artists": [
+      {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ]
+  },
+  {
+    "id": "1kuGVB7EU95pJObxwvfwKS",
+    "played_at": "2026-11-08T20:31:20.998Z",
+    "name": "vampire",
+    "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "5meVa5klVlJalupZTvv5XX",
+    "played_at": "2026-11-08T20:27:40.715Z",
+    "name": "21",
+    "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "5WcsxoURbNjQPQvzKpHUMn",
+    "played_at": "2026-11-08T20:24:35.025Z",
+    "name": "us. (feat. Taylor Swift)",
+    "url": "https://open.spotify.com/track/5WcsxoURbNjQPQvzKpHUMn",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "4kX7xkopoXZCfE1D6fNwl2",
+    "played_at": "2026-11-08T20:20:31.866Z",
+    "name": "honeybee",
+    "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "51rfRCiUSvxXlCSCfIztBy",
+    "played_at": "2026-11-08T20:16:48.360Z",
+    "name": "I Love You, I'm Sorry",
+    "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "40HnWYsdWwsLX1mTBVIoDk",
+    "played_at": "2026-11-08T20:14:10.733Z",
+    "name": "I should hate you",
+    "url": "https://open.spotify.com/track/40HnWYsdWwsLX1mTBVIoDk",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e024e506d9ff028ede51e358341",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "2uIX8YMNjGMD7441kqyyNU",
+    "played_at": "2026-11-08T20:05:49.384Z",
+    "name": "ocean eyes",
+    "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e022cafcdd985630d72594ecc49",
+    "artists": [
+      {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ]
+  },
+  {
+    "id": "1kuGVB7EU95pJObxwvfwKS",
+    "played_at": "2026-11-08T20:02:28.360Z",
+    "name": "vampire",
+    "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "2L9N0zZnd37dwF0clgxMGI",
+    "played_at": "2026-11-08T19:58:48.214Z",
+    "name": "ceilings",
+    "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02d370fdc4dbc47778b9b667c3",
+    "artists": [
+      {
+        "id": "1GmsPCcpKgF9OhlNXjOsbS",
+        "name": "Lizzy McAlpine",
+        "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+      }
+    ]
+  },
+  {
+    "id": "2L9N0zZnd37dwF0clgxMGI",
+    "played_at": "2026-11-08T19:55:44.741Z",
+    "name": "ceilings",
+    "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02d370fdc4dbc47778b9b667c3",
+    "artists": [
+      {
+        "id": "1GmsPCcpKgF9OhlNXjOsbS",
+        "name": "Lizzy McAlpine",
+        "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+      }
+    ]
+  },
+  {
+    "id": "2L9N0zZnd37dwF0clgxMGI",
+    "played_at": "2026-11-08T19:52:06.313Z",
+    "name": "ceilings",
+    "url": "https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02d370fdc4dbc47778b9b667c3",
+    "artists": [
+      {
+        "id": "1GmsPCcpKgF9OhlNXjOsbS",
+        "name": "Lizzy McAlpine",
+        "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+      }
+    ]
+  },
+  {
+    "id": "3fVnlF4pGqWI9flVENcT28",
+    "played_at": "2026-11-08T19:46:36.829Z",
+    "name": "Wildest Dreams",
+    "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02b7e976d2b35c767f9012cb72",
+    "artists": [
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "4R2kfaDFhslZEMJqAFNpdd",
+    "played_at": "2026-11-08T19:42:56.016Z",
+    "name": "cardigan",
+    "url": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+    "artists": [
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "2uIX8YMNjGMD7441kqyyNU",
+    "played_at": "2026-11-08T19:38:55.948Z",
+    "name": "ocean eyes",
+    "url": "https://open.spotify.com/track/2uIX8YMNjGMD7441kqyyNU",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e022cafcdd985630d72594ecc49",
+    "artists": [
+      {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ]
+  },
+  {
+    "id": "1kuGVB7EU95pJObxwvfwKS",
+    "played_at": "2026-11-08T19:35:34.951Z",
+    "name": "vampire",
+    "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02e85259a1cae29a8d91f2093d",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "5meVa5klVlJalupZTvv5XX",
+    "played_at": "2026-11-08T19:31:54.722Z",
+    "name": "21",
+    "url": "https://open.spotify.com/track/5meVa5klVlJalupZTvv5XX",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e0255c38bc34d1fe852f2657c2e",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "5WcsxoURbNjQPQvzKpHUMn",
+    "played_at": "2026-11-08T19:28:48.947Z",
+    "name": "us. (feat. Taylor Swift)",
+    "url": "https://open.spotify.com/track/5WcsxoURbNjQPQvzKpHUMn",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e021dac3694b3289cd903cb3acf",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      },
+      {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      }
+    ]
+  },
+  {
+    "id": "4kX7xkopoXZCfE1D6fNwl2",
+    "played_at": "2026-11-08T19:24:45.916Z",
+    "name": "honeybee",
+    "url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "51rfRCiUSvxXlCSCfIztBy",
+    "played_at": "2026-11-08T19:21:02.253Z",
+    "name": "I Love You, I'm Sorry",
+    "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026e2101520787791370f4a96b",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "40HnWYsdWwsLX1mTBVIoDk",
+    "played_at": "2026-11-08T19:18:24.770Z",
+    "name": "I should hate you",
+    "url": "https://open.spotify.com/track/40HnWYsdWwsLX1mTBVIoDk",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e024e506d9ff028ede51e358341",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "77JxSDvDcZVXNptwJOTX3m",
+    "played_at": "2026-11-08T19:07:28.092Z",
+    "name": "the cure",
+    "url": "https://open.spotify.com/track/77JxSDvDcZVXNptwJOTX3m",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "35IcAVSMsU9qzHfpPbvC8A",
+    "played_at": "2026-11-08T19:02:30.383Z",
+    "name": "Feels Like",
+    "url": "https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026d63fd3e1afa17b0d5563131",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "2e3YJ6Hm8tR5L5Zy8HzOtv",
+    "played_at": "2026-11-08T18:59:57.422Z",
+    "name": "what’s wrong with me",
+    "url": "https://open.spotify.com/track/2e3YJ6Hm8tR5L5Zy8HzOtv",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      {
+        "id": "6G7P2EzH5A36ujN9VPm4B0",
+        "name": "Robert Smith",
+        "url": "https://open.spotify.com/artist/6G7P2EzH5A36ujN9VPm4B0"
+      }
+    ]
+  },
+  {
+    "id": "49j6SvuvWfbEKZKzsHCdLJ",
+    "played_at": "2026-11-08T18:56:12.167Z",
+    "name": "stupid song",
+    "url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "5JiU3gLHz9AvUnrhXgOmos",
+    "played_at": "2026-11-08T18:53:50.442Z",
+    "name": "Risk",
+    "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e024ba1c73e08db2c003a78e148",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "5wbg8kepMFoMzHOEuxiI0q",
+    "played_at": "2026-11-08T18:52:41.883Z",
+    "name": "Close To You",
+    "url": "https://open.spotify.com/track/5wbg8kepMFoMzHOEuxiI0q",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e024ba1c73e08db2c003a78e148",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "5JiU3gLHz9AvUnrhXgOmos",
+    "played_at": "2026-11-08T18:48:55.364Z",
+    "name": "Risk",
+    "url": "https://open.spotify.com/track/5JiU3gLHz9AvUnrhXgOmos",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e024ba1c73e08db2c003a78e148",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "0PLhwCmQ7cC3ThRGPn3HxF",
+    "played_at": "2026-11-08T18:32:17.153Z",
+    "name": "Mess It Up",
+    "url": "https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e021e209fb0ebc9de8c859bd25f",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "6IPwKM3fUUzlElbvKw2sKl",
+    "played_at": "2026-11-08T18:29:25.378Z",
+    "name": "we fell in love in october",
+    "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e02deade9f354749841f09feca2",
+    "artists": [
+      {
+        "id": "3uwAm6vQy7kWPS2bciKWx9",
+        "name": "girl in red",
+        "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+      }
+    ]
+  },
+  {
+    "id": "4bkClAuofJULiaIZsuL3gT",
+    "played_at": "2026-11-08T18:26:20.698Z",
+    "name": "expectations",
+    "url": "https://open.spotify.com/track/4bkClAuofJULiaIZsuL3gT",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e026949b83f85d782b21ce70583",
+    "artists": [
+      {
+        "id": "1McMsnEElThX1knmY4oliG",
+        "name": "Olivia Rodrigo",
+        "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      }
+    ]
+  },
+  {
+    "id": "5HO2RD12vZ5NcIdAULo43M",
+    "played_at": "2026-11-08T18:22:38.278Z",
+    "name": "Best",
+    "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e020500294bb235c45c0a964d69",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
+    "id": "5HO2RD12vZ5NcIdAULo43M",
+    "played_at": "2026-11-07T22:12:27.704Z",
+    "name": "Best",
+    "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M",
+    "album_image": "https://i.scdn.co/image/ab67616d00001e020500294bb235c45c0a964d69",
+    "artists": [
+      {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+      }
+    ]
+  },
+  {
     "id": "0Uon5NsSAkBDx69XYOaQ5P",
     "played_at": "2026-11-07T19:23:50.099Z",
     "name": "Stay",
