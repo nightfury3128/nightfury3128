@@ -1901,24 +1901,5 @@
         "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       }
     ]
-  },
-  {
-    "id": "3FWPoYBDserKdzcattMFGa",
-    "played_at": "2026-11-03T05:00:37.331Z",
-    "name": "Roses (feat. ROZES)",
-    "url": "https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e0242dc3783e8e2de8b4643c598",
-    "artists": [
-      {
-        "id": "69GGBxA162lTqCwzJG5jLp",
-        "name": "The Chainsmokers",
-        "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-      },
-      {
-        "id": "6jsjhAEteAlY0vCiLvMLBA",
-        "name": "ROZES",
-        "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
-      }
-    ]
   }
 ]
