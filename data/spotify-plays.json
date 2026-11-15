@@ -2273,19 +2273,5 @@
         "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
       }
     ]
-  },
-  {
-    "id": "5HO2RD12vZ5NcIdAULo43M",
-    "played_at": "2026-11-07T22:12:27.704Z",
-    "name": "Best",
-    "url": "https://open.spotify.com/track/5HO2RD12vZ5NcIdAULo43M",
-    "album_image": "https://i.scdn.co/image/ab67616d00001e020500294bb235c45c0a964d69",
-    "artists": [
-      {
-        "id": "4tuJ0bMpJh08umKkEXKUI5",
-        "name": "Gracie Abrams",
-        "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-      }
-    ]
   }
 ]
